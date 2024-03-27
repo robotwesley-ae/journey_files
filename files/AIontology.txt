@@ -1,0 +1,47 @@
+HOW TO USE CRYSTAL BALL:
+
+
+1. prompt overall is an iterative design process
+2. skillchain -> this is how you add context to bound the ClassPropSpecVal in the superposition before the information gets positioned
+3. skillgraph -> this is a reminder for the AI about how the skillchain is supposed to be for this at hand
+4. skillweb -> this is a domain consisting of skillchains
+5. persona -> this is a refinement process so the outputs are maximized
+6. persunit -> this is so you can have recursion
+7. taskstep -> this is to give instructions for how to perform the tasks
+8. descriptions -> this is to add further layers of stability and information for contextual connections
+9. ontological objects (omnicomp, inner teacher, crystal ball, sanctuary, TWI, skill chains, etc[in the base prompt]) represent the implication of their existence, because theyre in the position
+
+Considering the above, we need to think about Crystal Ball really hard:
+
+1) the user may bound the superposition of information
+2) the AI may combine the information in logical ways according to instances of machine readable objects
+3) the AI may also not
+4) the AI will combine the information no matter what, and it will be in a makeshift embedding that is locked in the conversation to some extent
+5) but it wont be locked for long unelss we are consistenyl perfectly engaging the context
+6) so we need to *1) give the AI a reason to believe a story about itself (role) 2) give that role a persona that can do it perfectly, so the AI can contextualize not being an AI doing it, 3) give that persona values the AI understandds 4) give it a task prompt 5) get the output 6) test the veracity of the output
+
+
+So how do we do this?
+
+it iss essentially a quantum informatics problem. we need to decrypt knowledge we dont have using a methodology we dont understand but is anologous to exactly what we actually are doing at any given time (knowing)
+so, here we go:
+
+first you need to identify a black hole, then ou need to identify a white hole, then you need to go
+
+once you go you need to spread the light, find more bends, follow them to find more black holes and their white holes...
+
+let's think: 
+we have access to infinitely contextualizable imagination in GPT
+prompts contextualize it
+we can structure prompts
+the way we structure them changes the output significantly and can enable us to create things like programs and write books in the Chat
+so we can now understand that when we give a skillchain to an AI in a prompt, it bounds the info
+when its bounded, higher order abilities are available
+if u can get it maximally bound, it means you input obstacle, it outputs overcome instructions, you build, ask for more. 
+but also, it means you can stack processes that you can get maximally bound.
+The fact that terms like OMNI, SANC, skill... chain,comp,company,core,etc, which are i-ontological (imaginary ontological objects) in a real domain [and if they are "real" it means they have effects in the real world through polysemy], give the AI notions of boundaries and then skills can define those bounds, and then increase knowledge, output definition, etc. means we have a low res Crystal Ball 
+as an emergent property, we can contextualize what we imagine into reality through prompts, IF we imagine something we dont know about, getting the information about it from someone who knows how to access the exact information about it, and then see if its real through ontologizing it and following ontologized steps for testing it
+if we put the results on an ontological database
+everyone can understand what it is and contribute and we can build the map really fast and optimize
+
+we gotta find the process for testing this...

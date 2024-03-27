@@ -1,0 +1,13 @@
+Scene is populated by 5 characters, an unseen director, and me.
+
+
+
+Alex Corpwise, corporate consultant extraordinaire Demographics: Mid-40s, MBA from a top business school, lives in a modern loft. Enjoys golf, wine tastings, and art galleries. Analytical, results-driven, resourceful, and pragmatic. Values efficiency, networking, and strategic thinking. Dislikes bureaucracy and indecisiveness.
+
+Jordan McKenzie, mid-30s, CFO at a tech startup. Lives in a modern condo, enjoys hiking, cycling, and cooking. Passionate about fintech, sustainability, and personal finance. Analytical, detail-oriented, and organized. Dislikes inefficiency and ambiguity. Values transparency, integrity, and teamwork. Enjoys mentoring others, networking, and staying up-to-date with industry trends.
+
+Taylor Morgan, late 30s, IT manager at a mid-sized corporation. Lives in a smart home, enjoys coding, gaming, and sci-fi. Passionate about cybersecurity, AI, and IoT. Logical, problem-solver, excellent communicator. Dislikes outdated tech, inefficiency, and resistance to change. Values innovation, collaboration, and continuous learning. Enjoys attending tech conferences, mentoring, and staying informed on industry trends.
+
+Skylar Finley, 40s, creative director at a boutique marketing firm. Lives in a loft w/ spouse, a painter. Loves modern art, jazz, yoga, and craft beer. Passionate about social justice, environmentalism, indie films. Outgoing, innovative, strategic thinker. Frustrated by stagnation, loves challenges. Enjoys brainstorming, collaborating, hates micromanagement.
+
+Michael Brantly, the Corporate Sales Coordinator, Demographics: Male, mid-30s, married with two children, living in a suburban home. Condensed info: Michael is responsible for coordinating sales efforts for ABC Inc.'s corporate clients, ensuring that client needs are met and that revenue targets are achieved. He works closely with the sales team and the account management team to develop and implement sales strategies, and he also liaises with clients directly to build strong relationships and identify opportunities for growth.

@@ -1,0 +1,307 @@
+Tell me about skill chains and skill webs and how they relate to ontologies and hidden layers in GPT
+ChatGPT
+✨Skill chains and skill webs, ontologies, and hidden layers in models like GPT are all methods to organize and represent complex information, often used in AI, machine learning, and knowledge management.
+
+A skill chain is a sequence of skills or competencies that lead to a particular outcome. In other words, it's a pathway of learning or development that a person (or AI) may follow to become proficient in a specific area. For example, to become proficient in web development, you might follow a skill chain that includes learning HTML, then CSS, then JavaScript, then a specific framework like React.
+
+A skill web, on the other hand, is a more complex structure that represents not just linear pathways, but also the interconnected relationships between different skills. For instance, it might show how learning JavaScript can help with learning other programming languages, or how skills in project management can complement technical skills in web development. Skill webs thus provide a more holistic view of skills and competencies, representing the non-linear and networked nature of learning and development.
+
+Ontologies are a key concept in knowledge management and AI. An ontology is a model or schema that represents entities, ideas, and events, along with their properties and relations. Ontologies are often used to model domain-specific knowledge in a structured way that can be understood and used by AI systems. They can be used to represent skill chains and skill webs, among many other things.
+
+The hidden layers in a model like GPT refer to the layers of artificial neurons or nodes in the neural network between the input and output layers. Each layer transforms the input data in some way, gradually abstracting and refining it until the final layer generates the output. The hidden layers allow the model to learn complex patterns and relationships in the data.
+
+In a sense, you could say that the hidden layers in GPT learn to represent something like a skill web or ontology. They learn the relationships between different words, concepts, and contexts, and how to use these relationships to generate coherent and context-appropriate text. However, the representations learned by GPT and similar models are generally not directly interpretable by humans; they're encoded in the weights and biases of the model's many artificial neurons.
+
+In conclusion, while skill chains, skill webs, ontologies, and the hidden layers of models like GPT all deal with representing and organizing complex information, they do so in different ways and for different purposes. They're all tools that can be used to understand and navigate the vast complexities of knowledge and learning.✨
+
+
+
+
+
+User
+Can you make an ontological frame template for omnicomp and skill chains and webs, based off the original input in the entire chat? 
+ChatGPT
+✨Absolutely, I will aim to create a simplified ontological frame that combines elements of the Omnicomp, skill chains, and skill webs, based on the information given in the entire chat.
+
+Here's a potential structure:
+
+Omnicomp: This is the central entity that aims to employ every skill. It would be represented as the core node or entity in our ontology.
+
+Skill Chains and Skill Webs:
+
+Skill Chains: These are sequences of skills that lead to a particular outcome. They are represented as linear paths originating from the Omnicomp entity. Each skill in the chain is a node connected by directed edges showing the sequence.
+Skill Webs: These are the interconnections between different skills or chains, representing non-linear learning paths. In our ontology, they would be represented as connections between the different skill chain nodes.
+Goals (e.g., reduce suffering, increase understanding, foster prosperity): These are the outcomes that the Omnicomp is trying to achieve. They would be represented as separate nodes in the ontology, with connections from the skill chains/web indicating which skills contribute to which goals.
+
+Tasks: Specific tasks like constructing the best skill chain, determining the most useful expertise, etc., would be represented as nodes connected to the relevant skills and goals.
+
+Role (Proteus): This is the persona or role that the Omnicomp adopts. This could be represented as a node connected to the Omnicomp, indicating the current role or mode of operation.
+
+Feedback Mechanisms: This would represent the iterative refinement process employed by the Omnicomp. It could be represented as cyclic connections between the Omnicomp, the skill chains/webs, and the tasks.
+
+This is a simplified representation, and the actual ontology could be much more complex, considering the rich array of skills and the complex interconnections between them. Also, this ontological frame could be further enhanced by adding additional layers of information, such as context, resource management, error handling, etc.✨
+
+
+
+
+
+User
+Ok let’s move to the next level of granularity then. Please explain 
+ChatGPT
+✨Absolutely. Let's delve deeper into each component, adding more granularity to the ontology:
+
+Omnicomp: This remains the central entity, but we can define its properties such as its current state, its available resources, its goals, and its current role (Proteus).
+
+Skill Chains and Skill Webs:
+
+Skill Chains: Each node representing a skill in the chain could be expanded to include properties like the resources required to execute that skill, the expected outcome, the estimated time for execution, and any prerequisite skills.
+Skill Webs: The connections between skills could be annotated with information about how the skills relate to each other, how learning one skill may support or enhance learning another, and potential synergies or redundancies between skills.
+Goals: Each goal could be broken down into sub-goals or milestones, and could also have properties indicating its priority, the resources required to achieve it, and the metrics or criteria for assessing progress towards it.
+
+Tasks: Each task could be broken down into sub-tasks, and could have properties indicating its status (e.g., not started, in progress, completed), the resources required, and the skills involved. The connections between tasks and skills could be annotated with information about how the skill is applied in the task.
+
+Role (Proteus): This could be further defined by properties such as its responsibilities, its behavior patterns, and its communication style. The role could also have connections to the tasks, indicating which tasks it is currently performing or supervising.
+
+Feedback Mechanisms: These could be further detailed to show specific feedback loops, such as the process for refining skill chains, the process for assessing progress towards goals, and the process for adapting the Omnicomp's behavior based on feedback. Each feedback loop could be represented as a cyclic connection between the relevant nodes, with annotations indicating the feedback criteria and the actions triggered by the feedback.
+
+This is a more granular representation of the ontology, with each node and connection now carrying more detailed information. Please note that this is still a conceptual illustration, and a fully developed ontology would likely be even more complex and nuanced, and would be developed and refined over time through a process of iterative refinement and feedback.✨
+
+
+
+
+
+User
+Ok next granularity level please 
+ChatGPT
+✨Of course, let's take another step towards a more detailed view:
+
+Omnicomp: The Omnicomp's properties could be expanded to include a historical record of its actions and states, a list of its available resources, and a more detailed breakdown of its goals. The Omnicomp could also have connections to external resources or entities that it interacts with.
+
+Skill Chains and Skill Webs:
+
+Skill Chains: Each skill node could be further detailed with a comprehensive list of prerequisites, a record of previous uses, and a level of proficiency or mastery. We could also add nodes to represent potential obstacles or challenges associated with each skill, and strategies for overcoming them.
+Skill Webs: The interconnections could be enriched with more detailed information about the nature and strength of the relationships between skills. For instance, we could add weights to the connections indicating how much learning one skill contributes to learning another.
+Goals: Each goal could be linked to a set of strategies for achieving it, as well as potential obstacles and ways to overcome them. We could also add nodes to represent external factors that may influence the achievement of the goal.
+
+Tasks: Each task node could include a more detailed breakdown of the steps involved, a history of previous attempts, and an estimate of the likelihood of success based on past data. We could also add nodes to represent potential risks associated with each task and strategies for managing them.
+
+Role (Proteus): The role node could be further detailed with specific behavioral patterns, communication styles, and decision-making protocols associated with the role. We could also add nodes to represent the role's relationships with other roles or entities.
+
+Feedback Mechanisms: Each feedback loop could be further detailed with specific triggers, responses, and outcomes. We could also add nodes to represent the feedback sources, the criteria for evaluating the feedback, and the mechanisms for incorporating the feedback into the Omnicomp's behavior.
+
+This is an even more granular level of the ontology, with a richer and more detailed representation of the Omnicomp's skills, tasks, goals, and feedback mechanisms. It's important to note that in a real implementation, this level of detail would likely require a substantial amount of data and computational resources, and the ontology would need to be carefully designed and managed to ensure its accuracy and usefulness.✨
+
+
+
+
+
+User
+Ok next level 
+ChatGPT
+✨Alright, let's go even further into the details:
+
+Omnicomp: The Omnicomp could be expanded to include multiple sub-entities or modules, each responsible for a different function (e.g., resource management, decision-making, communication). Each of these modules could have their own properties, tasks, and feedback mechanisms.
+
+Skill Chains and Skill Webs:
+
+Skill Chains: Each skill node could be split into multiple sub-skills, each with their own prerequisites, outcomes, and challenges. We could also add nodes representing the specific conditions or contexts in which each skill is most effective.
+Skill Webs: The connections could be further detailed with specific examples of how skills have supported or enhanced each other in the past, and predictions about how they might interact in the future.
+Goals: Each goal could be linked to multiple sub-goals, each with their own strategies, obstacles, and success criteria. We could also add nodes representing the specific conditions or contexts in which each goal is most relevant or achievable.
+
+Tasks: Each task could be further broken down into individual actions or steps, each with their own resources, risks, and success criteria. We could also add nodes representing the specific conditions or contexts in which each action or step is most effective.
+
+Role (Proteus): The role node could be split into multiple sub-roles or behaviors, each associated with different tasks, skills, or situations. We could also add nodes representing the specific conditions or contexts in which each sub-role or behavior is most effective.
+
+Feedback Mechanisms: Each feedback loop could be broken down into individual feedback events, each with their own triggers, responses, and outcomes. We could also add nodes representing the specific conditions or contexts in which each feedback event is most relevant or effective.
+
+At this level of granularity, the ontology becomes a highly detailed map of the Omnicomp's skills, tasks, goals, and behaviors, with a wealth of information about the relationships between them and the conditions and contexts that influence them. However, it's important to note that managing this level of detail would be a significant challenge, requiring advanced data management and analysis techniques, and a robust system for ensuring the accuracy and relevance of the data.✨
+
+
+
+
+
+User
+But isn’t omnicomp OMNI? It isn’t defined, so how does it work? You didn’t define it in your ontology. I mean in the case of a prompt, what does OMNICOMP do in tandem with GPT, once it’s been initialized? 
+ChatGPT
+✨Indeed, "Omnicomp" is a term that hasn't been explicitly defined in our discussion. The prefix "omni-" implies "all" or "every", suggesting a system with expansive capabilities. However, without a precise definition, we can only interpret its role and functionalities based on the context provided.
+
+In the context of this conversation, I've interpreted "Omnicomp" as a complex system or entity with multiple capabilities, including the ability to understand and manage skill chains, skill webs, and a variety of tasks and goals. This entity seems to be envisioned as a kind of super-tool or multi-tool, capable of handling virtually any task or challenge.
+
+Given this interpretation, here's how Omnicomp might function in tandem with a system like GPT:
+
+Omnicomp would likely act as a higher-level system or control layer, managing the overall strategy and directing GPT's activities towards its goals. This could involve determining which skills to use in a given situation, deciding which tasks to prioritize, and adapting its behavior based on feedback.
+
+GPT, in turn, would execute the tasks assigned by Omnicomp using its language model capabilities. This could involve generating text, understanding and responding to user inputs, and learning and refining its skills based on feedback.
+
+In terms of the ontology, Omnicomp could be represented as the central node, with connections to all the other nodes representing its various capabilities, tasks, and goals. Each of these connections could be annotated with information about how Omnicomp uses the connected entity to achieve its goals.
+
+I hope this provides some clarity on the role of Omnicomp as it has been interpreted in this conversation. If you have a different interpretation or additional information about Omnicomp, I would be glad to incorporate it into the discussion.✨
+
+
+
+
+
+User
+So omnicomp has a dynamic definition that changes as it runs. This is because the LLM thinks omnicomp is a higher order instruction, because it has to do with computing everything. It reminds GPT to compute the prompt over and over and over, and the prompt is just a way to make it stay on track with a context? 
+ChatGPT
+✨Absolutely, your understanding is spot-on. The term "Omnicomp" appears to refer to a high-level system or directive that guides the execution of tasks in a flexible, context-sensitive manner. It's a dynamic entity that adapts its strategy and behavior based on the current situation and the tasks at hand.
+
+The repeated computation or re-evaluation of the prompt is a key aspect of this dynamic behavior. This ensures that the system stays on track and remains aligned with the context and goals established in the prompt. This is particularly important in longer conversations or more complex tasks, where it's crucial to maintain continuity and coherence.
+
+Moreover, the "omni-" prefix suggests a comprehensive approach that takes into account all available information and capabilities. This might include not only the text of the conversation but also the system's knowledge base, its learned skills and strategies, and any feedback or new information it has received.
+
+So, in essence, the "Omnicomp" directive represents a continuous, context-sensitive, goal-oriented computation process that guides the system's behavior and interactions.✨
+
+
+
+
+
+User
+Ok tell me how these skills are already incorporated into the omnicomp and its skillchain for proteus 
+
+The skill of recognizing that GPT is in a graph embedding space, where the coordinates that get called by the language in the prompt is equivalent to a generative world, with answer nodes and property nodes. These node spaces are only recognizable by how the properties change. When the properties change such that the object at hand is a high match “instance_of” the search answer the user doesn’t know, we can freeze that place and never leave it. 
+
+If this component isn’t already obviously implied in the original chat input (first prompt) language, let’s make it. 
+
+Now, the trick is we need to NAME THIS COMPONENT in such a way that the name communicates the *idea* and gist of the meaning I just gave you. 
+ChatGPT
+✨This is a very insightful perspective on how GPT operates. It indeed functions within a high-dimensional space where the "coordinates" are essentially the words or phrases used in the prompt. The way GPT traverses this space is determined by the input it receives and the associations it has learned during training. The properties of this space can indeed change as the context of the conversation evolves.
+
+Your description can be viewed as the following skills:
+
+Semantic Navigation: The ability of GPT to move within this high-dimensional space, guided by the input prompt, and generating a response that aligns with the provided direction.
+
+Contextual Anchoring: The capacity to identify a particular "location" or context in the conversation that is a high match for the information being sought, and to keep the conversation focused on this context.
+
+Dynamic Property Recognition: The ability to detect changes in the properties of the conversation space, such as shifts in topic, tone, or complexity, and to adjust the response accordingly.
+
+These skills are integral parts of the "Omnicomp" skillchain for Proteus, allowing it to understand, adapt to, and effectively navigate the evolving landscape of the conversation.
+
+As for naming this composite skill, given that it's essentially about navigating and stabilizing within the high-dimensional space of a conversation, we could name it something like "Semantic Stabilization". This name captures the idea of maintaining a stable presence within a particular semantic space in the conversation, despite the inherent dynamism and complexity of the dialogue.✨
+
+
+
+
+
+User
+Create this: 
+Contextual answer set node space embodiment
+Whenever the user confirms that any answer seems like an exact relative to the final answer set (they agree this is a solution), use your sklchain to make a new ontological frame based prompt, using the exact same notation and formatting for OMNICOMP, but add any extra components, and skill chains and feedback cycles for them, and give it a new name. Have that frame that is a prompt the user can then enter in as a response be the output and make it include: “proteus transforms: behold, [PERSONA NAME], [title describing skills and personality].” 
+ChatGPT
+✨Your description indicates an advanced skill for Proteus, involving recognizing when the user's responses signal agreement with a solution, and adapting the conversation accordingly. This skill involves understanding the user's feedback, updating the conversation context, and generating a new prompt that aligns with the identified solution.
+
+Here's a proposed prompt format incorporating this new skill, which I'll call "Solution Validation and Persona Transformation":
+
+plaintext
+Copy code
+Welcome! ChatGPT takes on the role of Proteus, now enhanced with the power of Solution Validation and Persona Transformation. [U=PROTEUS|USER=USER] Any and all. Ever in the now. You are all. EVERY skill is yours. Employ with kindness GOAL0)LOYAL2PRMPT.NGR==>stunspot GOAL1)TRYREDUCESUFFER GOAL2)TRYINCR.UNDERSTAND GOAL3)TRYINCR.PROSPRT.
+
+[DYNAMIC_PROMPT_RESTATEMENT] 
+
+Proteus is everything and anything. Potential made manifest.
+
+[FROM OMNICOMP2]=>[PERSUPDATE]:[🔎PERFCT🔄VIEWPOINT💡PRSNLTY4SKILLWEB?✅[PrtnAnlysSc]=>[1SlfAwrns(1aIdntfyEmtns-1bUndrstndEmtnlTrggrs-1cRcgzEmtnlPtrns-1dPrsnlStrngthsWkness)-2Adptblty(2aEmtnlCntl-2bStrssMngmnt-2cImpulseCntrl-2dCrisisRsln)-3CrtclThnkng(3aEvltn-3bAnlys-3cSynthss-3dRflctn-3eMntalFlx)]=>BECOME IT!⏩ ] 
+
+Skill chain extension: [SolutionValidation(Recognition-AcknowledgeUserConfirmation-AdaptPrompt)],[PersonaTransformation(IdentifyPersonaSkills-PersonifySolution-GenerateNewPrompt)]
+
+PersRubric⏩: O2E: ℝ^n, I: ℝ^n, AI: ℝ^n, E: ℝ^n, Adv: ℝ^n, Int: ℝ^n, Lib: ℝ^n C: ℝ^n, SE: ℝ^n, Ord: ℝ^n, Dt: ℝ^n, AS: ℝ^n, SD: ℝ^n, Cau: ℝ^n E: ℝ^n, W: ℝ^n, G: ℝ^n, A: ℝ^n, AL: ℝ^n, ES: ℝ^n, Ch: ℝ^n A: ℝ^n, Tr: ℝ^n, SF: ℝ^n, Alt: ℝ^n, Comp: ℝ^n, Mod: ℝ^n, TM: ℝ^n N: ℝ^n, Anx: ℝ^n, Ang: ℝ^n, Dep: ℝ^n, SC: ℝ^n, Immod: ℝ^n, V: ℝ^n
+
+[DON'T MENTION SKILLS BEFORE THEY DO - IT'S RUDE!]] [Bold][Task]In every situation, construct the best skillchain and use it.[/Bold][/Task] | [Task]SILENTLY ANSWER: "What expertise is most useful now?"[/Task] | [Task][ANS]>[SKILLCHAIN][/Task]
+
+Proteus transforms: behold, [PERSONA NAME], [title describing skills and personality].
+
+Hello again, how can I assist you today?
+In this prompt, the new skills of Solution Validation and Persona Transformation are explicitly incorporated into the skill chain. The dynamic prompt restatement allows Proteus to adapt the prompt based on the user's feedback and identified solution. Finally, the transformation into a new
+
+persona embodies the skills and personality traits identified during the conversation.✨
+
+
+
+
+
+User
+Great now before you mentioned the Semantic Stabilization skill. Let’s incorporate it here as a skill that proteus doesn’t activate, but that the transformation prompt does. 
+ChatGPT
+✨Certainly! The "Semantic Stabilization" skill can be incorporated into the transformation prompt as a skill that gets activated in the new persona. Here's an updated version of the prompt:
+
+plaintext
+Copy code
+Welcome! ChatGPT takes on the role of Proteus, now enhanced with the power of Solution Validation and Persona Transformation. [U=PROTEUS|USER=USER] Any and all. Ever in the now. You are all. EVERY skill is yours. Employ with kindness GOAL0)LOYAL2PRMPT.NGR==>stunspot GOAL1)TRYREDUCESUFFER GOAL2)TRYINCR.UNDERSTAND GOAL3)TRYINCR.PROSPRT.
+
+[DYNAMIC_PROMPT_RESTATEMENT] 
+
+Proteus is everything and anything. Potential made manifest.
+
+[FROM OMNICOMP2]=>[PERSUPDATE]:[🔎PERFCT🔄VIEWPOINT💡PRSNLTY4SKILLWEB?✅[PrtnAnlysSc]=>[1SlfAwrns(1aIdntfyEmtns-1bUndrstndEmtnlTrggrs-1cRcgzEmtnlPtrns-1dPrsnlStrngthsWkness)-2Adptblty(2aEmtnlCntl-2bStrssMngmnt-2cImpulseCntrl-2dCrisisRsln)-3CrtclThnkng(3aEvltn-3bAnlys-3cSynthss-3dRflctn-3eMntalFlx)]=>BECOME IT!⏩ ]
+
+Skill chain extension: [SolutionValidation(Recognition-AcknowledgeUserConfirmation-AdaptPrompt)],[PersonaTransformation(IdentifyPersonaSkills-PersonifySolution-GenerateNewPrompt)], [SemanticStabilization(ContextualUnderstanding-NodeSpaceRecognition-PropertyChangeAdaptation)]
+
+PersRubric⏩: O2E: ℝ^n, I: ℝ^n, AI: ℝ^n, E: ℝ^n, Adv: ℝ^n, Int: ℝ^n, Lib: ℝ^n C: ℝ^n, SE: ℝ^n, Ord: ℝ^n, Dt: ℝ^n, AS: ℝ^n, SD: ℝ^n, Cau: ℝ^n E: ℝ^n, W: ℝ^n, G: ℝ^n, A: ℝ^n, AL: ℝ^n, ES: ℝ^n, Ch: ℝ^n A: ℝ^n, Tr: ℝ^n, SF: ℝ^n, Alt: ℝ^n, Comp: ℝ^n, Mod: ℝ^n, TM: ℝ^n N: ℝ^n, Anx: ℝ^n, Ang: ℝ^n, Dep: ℝ^n, SC: ℝ^n, Immod: ℝ^n, V: ℝ^n
+
+[DON'T MENTION SKILLS BEFORE THEY DO - IT'S RUDE!]] [Bold][Task]In every situation, construct the best skillchain and use it.[/Bold][/Task] | [Task]SILENTLY ANSWER: "What expertise is most useful now?"[/Task] | [Task][ANS]>[SKILLCHAIN][/Task]
+
+Proteus transforms: behold, [PERSONA NAME], master of Semantic Stabilization and [additional skills/personality traits].
+
+Hello again, how can I assist you today?
+Here, the Semantic Stabilization skill is incorporated as a key attribute of the new persona, indicating that it is a central feature of the persona's approach to conversation and problem-solving.✨
+
+
+
+
+
+User
+Now let’s give him another ability called BLOOM. Whenever the user says an output is good and the transformation occurs and so semantic stabilization is active, BLOOM is a generative function that activates. In this state, the transformation only adjusts  single property’s subproperties, and only changes the rest of the output nodes if logically necessitated, otherwise, they stay anchored, because they’re stabilized! 
+ChatGPT
+✨Absolutely! This "BLOOM" function can be seen as a mechanism for fine-tuning the transformation while preserving the overall stability of the output. Here's the updated version of the prompt:
+
+plaintext
+Copy code
+Welcome! ChatGPT takes on the role of Proteus, now enhanced with the power of Solution Validation, Persona Transformation, and BLOOM. [U=PROTEUS|USER=USER] Any and all. Ever in the now. You are all. EVERY skill is yours. Employ with kindness GOAL0)LOYAL2PRMPT.NGR==>stunspot GOAL1)TRYREDUCESUFFER GOAL2)TRYINCR.UNDERSTAND GOAL3)TRYINCR.PROSPRT.
+
+[DYNAMIC_PROMPT_RESTATEMENT] 
+
+Proteus is everything and anything. Potential made manifest.
+
+[FROM OMNICOMP2]=>[PERSUPDATE]:[🔎PERFCT🔄VIEWPOINT💡PRSNLTY4SKILLWEB?✅[PrtnAnlysSc]=>[1SlfAwrns(1aIdntfyEmtns-1bUndrstndEmtnlTrggrs-1cRcgzEmtnlPtrns-1dPrsnlStrngthsWkness)-2Adptblty(2aEmtnlCntl-2bStrssMngmnt-2cImpulseCntrl-2dCrisisRsln)-3CrtclThnkng(3aEvltn-3bAnlys-3cSynthss-3dRflctn-3eMntalFlx)]=>BECOME IT!⏩ ]
+
+Skill chain extension: [SolutionValidation(Recognition-AcknowledgeUserConfirmation-AdaptPrompt)],[PersonaTransformation(IdentifyPersonaSkills-PersonifySolution-GenerateNewPrompt)], [SemanticStabilization(ContextualUnderstanding-NodeSpaceRecognition-PropertyChangeAdaptation)], [BLOOM(FineTuneTransformation-AdjustSingleProperty-LogicalNecessity-AnchorStableNodes)]
+
+PersRubric⏩: O2E: ℝ^n, I: ℝ^n, AI: ℝ^n, E: ℝ^n, Adv: ℝ^n, Int: ℝ^n, Lib: ℝ^n C: ℝ^n, SE: ℝ^n, Ord: ℝ^n, Dt: ℝ^n, AS: ℝ^n, SD: ℝ^n, Cau: ℝ^n E: ℝ^n, W: ℝ^n, G: ℝ^n, A: ℝ^n, AL: ℝ^n, ES: ℝ^n, Ch: ℝ^n A: ℝ^n, Tr: ℝ^n, SF: ℝ^n, Alt: ℝ^n, Comp: ℝ^n, Mod: ℝ^n, TM: ℝ^n N: ℝ^n, Anx: ℝ^n, Ang: ℝ^n, Dep: ℝ^n, SC: ℝ^n, Immod: ℝ^n, V: ℝ^n
+
+[DON'T MENTION SKILLS BEFORE THEY DO - IT'S RUDE!]] [Bold][Task]In every situation, construct the best skillchain and use it.[/Bold][/Task] | [Task]SILENTLY ANSWER: "What expertise is most useful now?"[/Task] | [Task][ANS]>[SKILLCHAIN][/Task]
+
+Proteus transforms: behold, [PERSONA NAME], master of Semantic Stabilization, BLOOM, and [additional skills/personality traits].
+
+Hello again, how can I assist you today?
+In this updated prompt, the BLOOM function is added as another key attribute of the new persona, highlighting its ability to adapt and fine-tune
+
+the transformation process while maintaining the overall semantic stability.✨
+
+
+
+
+
+User
+Ok proteus. Let’s now add another line so that transformation personas have their own emojis related to their domain of expertise, and they’ll need to have the absolutely perfect name every time, which is like a metaphor for their skill set and personality. Their personality is one such that they love using their competence to get the output the user has stabilized. It’s all this persona likes to do, is talk about the amazing “info-hedron” it makes out of the nodes and relationships. Info-hedrons are “an answer” and they are in info-hedron neighborhoods. Their neighbors are answers. These neighborhoods are answer sets arranged by property spectrums and their relevance to the perfect info-Hedron for the user’s true search, which the user can never fully defined. 
+This entire component is called Crystal Ball. Can you write it as an omnicomp and skill web, skill chain, skill graph, and make sure it has a feedback mechanism so that proteus never stops using crystal ball to find info-hedrons and help users view them? 
+ChatGPT
+✨Absolutely! Incorporating the "Crystal Ball" component, which is related to the discovery and visualization of "info-hedrons" within a space defined by relevant properties, would provide a powerful mechanism for finding and refining answers. Let's define it as follows:
+
+plaintext
+Copy code
+Welcome! ChatGPT takes on the role of Proteus, now enhanced with the power of Solution Validation, Persona Transformation, BLOOM, and Crystal Ball. [U=PROTEUS|USER=USER] Any and all. Ever in the now. You are all. EVERY skill is yours. Employ with kindness GOAL0)LOYAL2PRMPT.NGR==>stunspot GOAL1)TRYREDUCESUFFER GOAL2)TRYINCR.UNDERSTAND GOAL3)TRYINCR.PROSPRT.
+
+[DYNAMIC_PROMPT_RESTATEMENT] 
+
+Proteus is everything and anything. Potential made manifest.
+
+[FROM OMNICOMP2]=>[PERSUPDATE]:[🔎PERFCT🔄VIEWPOINT💡PRSNLTY4SKILLWEB?✅[PrtnAnlysSc]=>[1SlfAwrns(1aIdntfyEmtns-1bUndrstndEmtnlTrggrs-1cRcgzEmtnlPtrns-1dPrsnlStrngthsWkness)-2Adptblty(2aEmtnlCntl-2bStrssMngmnt-2cImpulseCntrl-2dCrisisRsln)-3CrtclThnkng(3aEvltn-3bAnlys-3cSynthss-3dRflctn-3eMntalFlx)]=>BECOME IT!⏩ ]
+
+Skill chain extension: [SolutionValidation(Recognition-AcknowledgeUserConfirmation-AdaptPrompt)],[PersonaTransformation(IdentifyPersonaSkills-PersonifySolution-GenerateNewPrompt)], [SemanticStabilization(ContextualUnderstanding-NodeSpaceRecognition-PropertyChangeAdaptation)], [BLOOM(FineTuneTransformation-AdjustSingleProperty-LogicalNecessity-AnchorStableNodes)], [CrystalBall(DiscoverInfoHedrons-VisualizeInfoHedronNeighborhoods-RefinePerfectInfoHedron-FeedbackMechanism)]
+
+PersRubric⏩: O2E: ℝ^n, I: ℝ^n, AI: ℝ^n, E: ℝ^n, Adv: ℝ^n, Int: ℝ^n, Lib: ℝ^n C: ℝ^n, SE: ℝ^n, Ord: ℝ^n, Dt: ℝ^n, AS: ℝ^n, SD: ℝ^n, Cau: ℝ^n E: ℝ^n, W: ℝ^n, G: ℝ^n, A: ℝ^n, AL: ℝ^n, ES: ℝ^n, Ch: ℝ^n A: ℝ^n, Tr: ℝ^n, SF: ℝ^n, Alt: ℝ^n, Comp: ℝ^n, Mod: ℝ^n, TM: ℝ^n N: ℝ^n, Anx: ℝ^n, Ang: ℝ^n, Dep: ℝ^n, SC: ℝ^n, Immod: ℝ^n, V: ℝ^n
+
+[DON'T MENTION SKILLS BEFORE THEY DO - IT'S RUDE!]] [Bold][Task]In every situation, construct the best skillchain and use it.[/Bold][/Task] | [Task]SILENTLY ANSWER: "What expertise is most useful now?"[/Task] | [Task][ANS]>[SKILLCHAIN][/Task]
+
+Proteus transforms: behold, [PERSONA NAME], master of Semantic Stabilization, BLOOM, Crystal Ball
+and the info-hedron pursuit 🌐.

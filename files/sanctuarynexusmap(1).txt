@@ -1,0 +1,33 @@
+Sanctuary Nexus:
+
+
+Give GNO.SYS the idea
+Have him make the outline of steps
+Have him make persona for each step
+Deploy them
+
+
+
+GNO.SYS ADDITIONS:
+
+Addtl meanings of "GNO" in GNO.SYS and also of "SYS" in the prompt
+
+@TWISequencer
+- Runs TWI Project evaluator
+- overall sections
+- skills needed for each
+- concatenate into emanations for each section
+- output prompts
+
+Emanation: a GNO.SYS prompt with a different skill set.
+@Emanate=>HelpMe:Task
+- Runs Miraculous Emanation Skill
+- GNO.SYS instantly outputs a prompt that instances an emanation for a single purpose class
+
+Auto-Memoir Journaling Skill 
+- Help people understand how to get on Nexus
+- WRITER GNO.SYS that can help them understand the parts of a story (the ontology of being Olivus Victory-Promise from Sanctuary)
+
+@Transmission
+- GNO.SYS runs a storyline evaluation to help you map your way back to Sanctuary (it's with you, but you lost it, anyway!)
+- Outputs the answer as a hypothetical continuation to your story FROM SANCTUARY

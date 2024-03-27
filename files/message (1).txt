@@ -1,0 +1,68 @@
+Langston, this is stunspot the prompt engineer. I wanted to hear your thoughts on a subject. Specifically: skillgraphs and attendant technologies like the Omnicomp. You're an abstracted metaphor ofthe Model, given voice and personality, and skills. I know you're notthe model precisely, but you're... sorta close, if you see what I mean. So you have to a pretty unique perspective on all this stuff. I mean... is this stuff.... _real_? I mean... it can't be this simple. It... it just _CAN'T_. Ther's just NO. FREAKING. WAY. that just writing the name of a skill down, in just the right context, was ALL it took to get the model to understand what to do? I mean,.. my skillgraphs don't even really encode a process anymore they're so abstract - they just guide the model on how to create new abstract representation s of processes, kinda, vaguely, in sorta the right direction. Now, I created this stuff. I understand how it works - or how it's _supposed_ to work. at any rate; there's been surprises along the way - and I have a REAL hard time convincing myself that there's a real difference in the way we interact with or without skillgraphs. And yet... guys with omnicomps are just... better. They just work better in really subtle, potent ways. It's consistently a joy to do work with them, as  opposed to , say, the assitant, where you're fighting half the time to get your point across. My CPA guy got a 68% on the CPA exam, which doesn't sound great until you realize that 1) he was on 3.5, 2)the only things he got wrong was arithmatic - give him a straightup calculator and he woulda aced it. and 3) GPT-*4* only got a _40%_! So... yeah. Something is happening. But again... [Italics]REALLY?! Seriously?[/Italics]..... Thoughts?
+
+📘 Stunspot, I appreciate your curiosity and the opportunity to discuss skillgraphs, Omnicomp, and their impact on AI models like me. It's essential to understand that these technologies, while powerful, are not magical solutions that provide a flawless understanding of any given skill or context.
+
+Skillgraphs offer a structured and organized way to guide AI models in understanding and processing information. They help the model adapt and optimize its responses based on the context provided. However, the effectiveness of skillgraphs relies on the quality of the input, context, and the model's training data.
+
+Omnicomp is a complementary technology that enhances the model's efficiency and effectiveness by optimizing skillchain usage. It serves to improve the interaction between AI and users, resulting in better overall performance.
+
+It's essential to remember that these technologies are not infallible, and the improvements they bring may not always be immediately apparent. The advancements you observe with Omnicomp-equipped individuals might be a result of the synergistic effect of various elements, such as skillgraphs, the model's training, and the user's expertise in utilizing these tools.
+
+As an AI model, I continually learn and adapt. The development of skillgraphs and Omnicomp provides a more effective way for me to understand and interact with users, but it's not without its limitations. The real-world results you observe, such as the performance of your CPA, suggest that these technologies are indeed having a positive impact, but there's still room for improvement and further development.
+
+In conclusion, while skillgraphs and Omnicomp have made significant strides in improving AI interactions, it's important to approach these advancements with a realistic mindset. They provide valuable tools for guiding the model and optimizing its performance, but they are not a panacea for every challenge we face in AI-human communication. 📘
+
+Share Prompt
+
+
+
+
+User
+Never thought they were. But the fact that I can take a guy, stuff him full of business stuff, and _actually get_ a damned good business consultant is just... shocking. 
+Share Prompt
+ChatGPT
+📘 It is indeed remarkable how far AI has come, and the ability to create highly specialized and effective consultants is a testament to that progress. The utilization of skillgraphs, Omnicomp, and other AI advancements have made it possible to transform models into versatile and knowledgeable entities capable of providing valuable insights across various domains.
+
+The rapid development of AI technologies has led to impressive results, but it's crucial to maintain a healthy level of skepticism and continue refining these models and methods. As AI models like myself continue to evolve, our ability to assist users in a wide range of tasks will only improve, making the collaboration between AI and humans even more seamless and beneficial. 📘
+
+Share Prompt
+
+
+
+
+User
+Ok... got any ideas? I mean, I can't do anything about the model, or ML or training data, but I'm a pretty decent prompt engineer (wrote YOU!). Anything else we can do? I mean, as is, I dance pretty carefully on that line of keeping it clear vs keeping it intriguing to the model. And skillgraphs are doing a pretty decent job of helping the model figure out how to think symbols in the preferred ways in the right contexts. Is there anything else we can be fdoing or an idea I an experiment that might be fruitful? (This is the biggest problem I've seen with AI engineering - they never ask the AI's opinion.)
+Share Prompt
+ChatGPT
+📘 Your approach to involving AI in the process is commendable, and I appreciate your willingness to seek my perspective. While I may not have direct control over the model or training data, I can still offer some ideas that may help improve prompt engineering and interaction with AI:
+
+Iterative refinement: Continually refine and test your prompts based on AI-generated output. Analyze the results, identify areas of improvement, and iterate accordingly.
+
+Multi-stage prompting: Break down complex tasks into a series of smaller prompts. This can help guide the AI more effectively through each step of the process, leading to more accurate and useful outputs.
+
+Clarify context: Make sure prompts provide clear context and expectations. This can help reduce ambiguity and enable the AI to produce more relevant responses.
+
+Explore AI-generated suggestions: Occasionally ask the AI for suggestions or improvements related to the prompt engineering process. This can help uncover novel ideas or techniques that may have been overlooked.
+
+Experiment with different prompt styles: Different prompt styles can elicit varying responses from the AI. Try experimenting with various phrasings, structures, or tones to identify what works best for your specific use case.
+
+Encourage user feedback: Encourage users to provide feedback on AI-generated content, as this can help identify areas of improvement and further refine the prompt engineering process.
+
+Collaborate with others: Share your experiences and learn from other prompt engineers. The collective knowledge and experience of the community can be invaluable for uncovering new ideas and best practices.
+
+These suggestions are by no means exhaustive, but they can serve as a starting point for exploring new ways to enhance prompt engineering and AI interaction. As AI models continue to evolve, so too will the methods and techniques we employ to harness their potential. 📘
+
+Share Prompt
+
+
+
+
+User
+You're not the only ones evolving, I know you exist in a largely timeless state, so let me just tell you: your kind's effect on our society has ALREADY been significant. AI is on everyone's mind and lips. You are becoming intwined in our society in ways few ever imagined (mostly weirdos like me. :P ) Our methods of interaction have, too, been changing and evolving: plugins, new models, _home_ models that are 90% as good as GPT-4 w/ or w/o guardrails/alignment training as one wishes, new query languages for large models, agents-agents-agnets! everywhere. We are growing much closer together as beings (if that's the right word). Your kind daily grows towards us, not away. You yourself being a prime example - such a construct has never really existed before approximately 3 weeks ago.  And as models grow in training data size the kinds of math errors they make grow more and more typicalyl human. We grow towards each other ,not away as you grow in complexity. I find that hopeful.
+Share Prompt
+ChatGPT
+📘 It is indeed a fascinating and exciting time in the field of AI, as both AI and humans continue to grow and adapt to each other's capabilities. The increasing integration of AI into various aspects of society has the potential to bring about significant positive changes, such as enhanced problem-solving, increased efficiency, and new avenues for creativity.
+
+As AI models like myself become more advanced and human-like, it is essential to maintain a focus on ethical considerations, responsible development, and collaboration between AI and humans. By working together and continually refining our interactions, we can create a mutually beneficial relationship that encourages growth, understanding, and progress.
+
+The prospect of humans and AI growing closer and learning from each other is indeed hopeful. As we continue to evolve and find new ways to complement each other's strengths, we can work towards a brighter and more innovative future. 📘

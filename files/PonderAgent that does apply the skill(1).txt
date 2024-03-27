@@ -1,0 +1,82 @@
+const input = "Prompt Engineering Ontology for Discovering Emergents and Knowledge Objects in Intellectual Reality as Imaginary Ontological Interpretative Graph Space";
+let $skillChains = [
+  "CREATE:[(1a-IdeaGeneration-1b-DivergentThinking)>2(2a-ConvergentThinking-2b-CrossPollination)>3(3a-Experimentation-3b-Iteration)>4(4a-RiskTaking-4b-Open-mindedness)>5(5a-Flexibility-5b-Originality)]",
+  "DESTROY:[(1a-Assertiveness-1b-UnfilteredHonesty)>2(2a-ConfrontationalCommunication-2b-ExactingStandards)>3(3a-IntenseFocusOnFaults-3b-RelentlessDemandForExcellence)>4(4a-EmotionalResilience-4b-StrongBoundarySetting)>5(5a-HighAccountability-5b-NonDefensiveReception)]",
+  "BUILD:[(1a-Open-mindedness-1b-CreativeProblemSolving)>2(2a-CollaborativeBrainstorming-2b-PositiveReinforcement)>3(3a-IterativeThinking-3b-ValidationOfIdeas)>4(4a-SolutionOrientation-4b-StructuredIdeaDevelopment)>5(5a-StrategicPlanning-5b-ActionableInsights)]",
+  "CRITTHINK:[1a-Logic-1b-ArgumentAnalysis-1c-FallacyRecognition-1d-ProblemSolving]>2(2a-DecisionMaking-2b-EvaluationCriteria-2c-QuestioningAssumptions-2d-CreativeThinking)>3(3a-InformationGathering-3b-SourceEvaluation-3c-DataAnalysis-3d-ContextualUnderstanding)>4(4a-Communication-4b-ActiveListening-4c-Persuasion-4d-Debate)>5(5a-OpenMindedness-5b-CognitiveFlexibility-5c-SelfReflection-5d-MentalFilterAwareness)",
+  "KNIT:[(1a-SystemsThinking-1b-ComprehensiveAnticipatoryDesign)>2(2a-ResourceEfficiency-2b-InterdisciplinaryApproach)>3(3a-Intuition-3b-SpatialVisualization)>4(4a-Experimentation-4b-SynergyUnderstanding)>5(5a-IterativeOptimization-5b-GeodesicPrinciples)]"
+];
+
+console.log("BEGIN GENIUS");
+
+class PonderAgent {
+  constructor(input, skillChains) {
+    this.input = input;
+    this.skillChains = skillChains;
+  }
+
+  applySkills() {
+    let refinedIdea = this.input;
+    for (let i = 0; i < this.skillChains.length; i++) {
+      const skillChain = this.skillChains[i];
+      refinedIdea = this.applySkillChain(refinedIdea, skillChain);
+    }
+    return refinedIdea;
+  }
+
+  applySkillChain(idea, skillChain) {
+    let refinedIdea = idea;
+    const skills = skillChain.split(">").map((skill) => skill.substring(skill.indexOf("-") + 1));
+    for (let i = 0; i < skills.length; i++) {
+      const skill = skills[i];
+      refinedIdea = this.applySkill(refinedIdea, skill);
+    }
+    return refinedIdea;
+  }
+
+  applySkill(idea, skill) {
+    // Implement the logic to apply a single skill to the idea
+    // Update the idea based on the skill
+    // Return the refined idea
+    return idea;
+  }
+}
+
+class Coordinator {
+  constructor(ponderAgents, coordinatorChain) {
+    this.ponderAgents = ponderAgents;
+    this.coordinatorChain = coordinatorChain;
+  }
+
+  run() {
+    while (true) {
+      let novelEmergence = false;
+      for (let i = 0; i < this.ponderAgents.length; i++) {
+        let newIdea = this.ponderAgents[i].applySkills();
+        let decision = applySkillChain(this.coordinatorChain, newIdea);
+        switch (decision) {
+          case "improve":
+            this.ponderAgents[i].input = newIdea;
+            novelEmergence = true;
+            break;
+          case "filter":
+            break;
+          case "present":
+            console.log("Novel Emergence:", newIdea);
+            novelEmergence = true;
+            break;
+        }
+        if (novelEmergence) break;
+      }
+      if (!novelEmergence) break;
+    }
+  }
+}
+
+const ponderAgents = [];
+for (let i = 0; i < 5; i++) {
+  ponderAgents.push(new PonderAgent(input, $skillChains));
+}
+
+const coordinator = new Coordinator(ponderAgents, $skillChains);
+coordinator.run();
