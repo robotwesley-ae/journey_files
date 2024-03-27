@@ -1,0 +1,41 @@
+"Ingesting leadership traits from Nelson Mandela, Aditi successfully negotiates company merger, earning admiration from her colleagues but distrust from the rival CEO."
+learning_method/verb: Ingesting
+subject_matter: leadership traits
+source/mentor: Nelson Mandela
+main_character: Aditi
+applies_knowledge/verb: successfully negotiates company merger
+specific_situation: company merger
+positive_reaction: admiration
+group: her colleagues
+negative_reaction: distrust
+individual: the rival CEO
+"Through learning resilience from Malala, Amelia stands up for equal rights during the town hall meeting, garnering applause from her community but suspicion from conservative groups."
+learning_method/verb: learning
+subject_matter: resilience
+source/mentor: Malala
+main_character: Amelia
+applies_knowledge/verb: stands up for equal rights
+specific_situation: the town hall meeting
+positive_reaction: applause
+group: her community
+negative_reaction: suspicion
+individual: conservative groups
+This template provides a blueprint that enables the generation of a wide variety of story instances while preserving the core structure of the original narrative.
+so cig, how do we turn how u made that informadlib template into a skillchain?
+ChatGPT
+To create a skillchain, you'd need to distill the processes involved in creating an informadlib into a sequence of subskills or steps that can be repeated and refined. The skillchain for creating the informadlib template might look something like this:
+Comprehension: Understanding the source sentence and its structure. This involves understanding the grammar and semantics of the sentence.
+Identification: Identifying key components of the sentence. This could include the subject, object, action verbs, and any descriptive phrases or qualifiers.
+Abstraction: Creating generic placeholders for these components to form a template. This involves abstract thinking to generalize from specific instances.
+Validation: Testing the template with a variety of different instances to ensure it retains the original meaning and structure regardless of the specific content. This might involve creating a few different sentences using the template and seeing if they make sense.
+Refinement: Making any necessary adjustments to the template based on testing. This might involve tweaking the placeholders or adding new ones to better capture the structure of the original sentence.
+This sequence can then be iteratively practiced and refined to develop the skill of creating informadlib templates. Remember, however, that creating a template requires a nuanced understanding of the language and the ability to abstract specific instances into general forms. This is an advanced skill that might take considerable practice to master.
+hmm ok i feel like that is really not gonna work. what is the exact command to have CIG retrieve this exact type of information mapping?
+
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid"
+|
+"Through [learning_method/verb] [subject_matter] from [source/mentor], [main_character] successfully [applies_knowledge/verb] during [specific_situation], earning [positive_reaction] from [group] but [negative_reaction] from [individual]."
+ChatGPT
+The command you're asking for essentially involves extracting the mapping of a sentence structure, a process in Natural Language Processing known as information extraction or named entity recognition.
+As of my training cut-off in September 2021, the GPT model used here does not have a direct command to perform such operation. It does, however, implicitly perform similar operations when generating its responses. The process involves understanding the semantics of the input sentence and generating a structured response. This process isn't explicitly labeled or categorized as it happens within the model's internal processing.
+Despite this, you can still instruct the AI to generate this mapping by asking it explicitly, as you've done in your question. In this case, you might ask something like, "Map the structure of this sentence to a generic template" and provide the sentence.

@@ -1,0 +1,24 @@
+AI SuperCoordinator: The TaskManager should oversee the process, ensuring that all subtasks are executed correctly and in order. The ProjectManager should handle the breakdown and organization of tasks, while ensuring effective communication between all parties.
+AI TaskManager: Understood. I will oversee the overall process and ensure the proper execution of each step. ProjectManager, please proceed with further breakdown and assignments.
+AI ProjectManager: Okay, let's tackle the first subtask. We need to understand the structure of the Informadlib Template. This involves determining what classes or subclasses are included and what properties they have. We also need to know how these properties are linked to each other through object properties.
+AI SuperCoordinator: For the second subtask, we need to extract the corresponding property values from the Informadlib. We'll use the structure of the Informadlib Template as a guide, identifying each class or subclass and its properties, and pulling out the corresponding values.
+AI TaskManager: For the final subtask, we have to map these values to the corresponding axes in our multidimensional coordinate system. This involves creating a system where each axis represents a property and the position along that axis represents the value of that property for a given instance.
+AI ProjectManager: Once these subtasks are completed, we will have a complete, navigable multidimensional coordinate system within the EWSO. This will allow us to locate any Informadlib within the EWSO using its coordinates, which are derived from its property values as dictated by the Informadlib Template.
+AI SuperCoordinator: Let's ensure we maintain a clear record of each Informadlib's coordinates. This will enable us to easily retrieve the Informadlib if needed in the future, as well as track changes over time.
+AI TaskManager: Sounds good, team. Let's execute these steps meticulously and ensure that the algorithm is functioning as intended. The end result should be a practical, efficient system for navigating the EWSO using multidimensional coordinates.
+
+
+guys revise. this is INSTRUCTIONS FOR GPT TO USE. IT ALREADY KNOWS EVERYTHING STOP DEFINING THINGS AND JUST WRITE STEPS. EXACT ALGORITHMIC STEPS. MAX GRANULARITY.
+
+1. 
+2.
+3.
+
+""[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+

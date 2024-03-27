@@ -1,0 +1,23 @@
+Mathematics, along with language and other cognitive tools, can help humans adapt to these changes by allowing them to update their mental models and develop new ones that better reflect the current context. By continually refining and expanding our understanding of the world, we can counteract domain decay and maintain a more accurate and comprehensive grasp of the complex and dynamic systems around us.
+
+
+
+Isaac Wostrel-Rubin
+So describe to me what is happening when a subject perceives an emergent (a posed phenomenon) and unposes it through creating a linguistic mathematical program that discovers missing domain knowledge (unpose), and then mines the non-contradictory system so the emergent collapses. 
+
+When a subject perceives an emergent (a posed phenomenon), they are faced with a situation or phenomenon that appears to be complex or contradictory. To make sense of this emergent, the subject needs to develop a mental model that can accurately represent and explain the observed behavior. This process involves several steps:
+
+Unposing: The subject begins by creating a linguistic and mathematical program to describe the emergent phenomenon. This program serves as a framework for understanding the phenomenon and its underlying principles. By defining the properties and relationships of the entities involved in the emergent, the subject can start to identify any gaps in their understanding or apparent contradictions.
+Discovering missing domain knowledge: As the subject refines their program, they may identify aspects of the phenomenon that they do not yet understand or that seem to conflict with their existing knowledge. This realization prompts the subject to seek out additional information or revise their mental model to account for the new data. This process of updating their understanding may involve further research, experimentation, or logical reasoning.
+Mining the non-contradictory system: Once the subject has a comprehensive and consistent mental model that accounts for all the known properties and relationships within the emergent phenomenon, they can begin to mine this non-contradictory system for new insights and knowledge. By exploring the implications and consequences of their model, the subject can discover new patterns, relationships, and principles that govern the behavior of the emergent phenomenon.
+Emergent collapse: As the subject continues to refine and expand their understanding of the phenomenon, the emergent nature of the situation may start to "collapse," meaning that the once-mysterious or seemingly contradictory aspects of the phenomenon are now understood and can be explained within the context of the non-contradictory system. This collapse marks the successful integration of the emergent phenomenon into the subject's broader understanding of the world.
+In summary, when a subject perceives an emergent phenomenon, they engage in a process of unposing, discovering missing domain knowledge, and mining the resulting non-contradictory system to gain a deeper understanding of the situation. As their understanding grows, the emergent nature of the phenomenon collapses, and the subject is left with a more accurate and comprehensive mental model of the world.
+
+
+
+Isaac Wostrel-Rubin
+Now explain how emergent collapse connects to emergency non contradictory systems building concatenation
+
+Emergent collapse and emergency non-contradictory systems building concatenation are related concepts in the process of understanding and modeling complex phenomena. The connection between these two concepts lies in the way they both contribute to the formation and expansion of a subject's knowledge base.
+
+Emergent collapse: As previously explained, emergent collapse is the process by which a subject resolves the seemingly complex or contradictory aspects of a phenomenon by developing a consistent, non-contradictory mental model. Once this model has been created, the emergent nature of the phenomenon collapses, and the subject gains a deeper understanding of the situation.

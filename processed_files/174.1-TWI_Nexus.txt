@@ -1,0 +1,73 @@
+TWI Nexus Shares
+
+
+Founder Shares of the company 
+So we keep control 
+
+Board Shares of the company / Launch Shares (from the nexus) 
+So we spread control in exchange for investment
+
+System Shares / Inspirational Project Shares (from the nexus)
+Refers to the shares from working for TWI as well as the shares earned by working on Inspirational Projects
+
+Project Shares (from the nexus) / Public Shares of the company
+From making projects and posting them to Nexus, regardless of how well they do; or from buying shares. 
+
+Inspirational Shares (from the nexus) 
+From inspirational, non-project based aspirations 
+
+Aspirational Shares (from the nexus) 
+From people just sharing their feelings, accomplishments, aspirations, etc. Much like tweets, stories, Facebook statuses, etc
+
+Interaction shares 
+Only three types of interactions with posts: 
+
+I found this helpful (like) - awards no shares 
+
+I found this helpful because… (comment) - awards a share 
+
+I wish I had found this helpful but I had trouble integrating it into my view because - awards an interaction share but if it leads to further discovery then it can award inspirational shares and even inspirational project shares
+
+And this is all on a blockchain so if anyone is found to be cheating, their shares found to be illegitimate will be deleted from the ledger. 
+
+The algorithm can basically be an ontology alignment thing that looks at the words or word-based description of the content and outputs whether or not it contains the necessary pieces to qualify as either:
+
+First part
+a positive comment 
+a constructive positive comment 
+inspirational 
+aspirational 
+a project
+
+Second part
+a part of the system
+Board, Launch & Founder Shares 
+
+Whatever content you create for the platform awards you one of these. 
+
+We post the idea, we get the founder shares
+Some other people post the activity of investing and get the launch/board shares, etc. It all exists on the network. 
+
+
+We can have now:
+
+Prototype 
+An ethereum or otherwise smart contract based (polygon) token set of NFTs of successful posts that we can hand out to wallets associated with the user accounts
+ 
+A website where we can at least post the social media links etc to our own projects and our friends’ etc. 
+The entire project blueprint for Nexus 
+And all the levels of meaning of that 
+And whatever else connects to that as a natural branching
+
+Where everyone can apply for shares with their posts
+Intake form
+Creates abstract 
+Abstract can be in the form of words but also can be an embedding of the original thing ie YouTube video, tweet, etc. 
+
+A mobile app
+Directory of Categories and Keywords from which to get abstracts as a scroll list 
+
+Pitch deck
+Contains entire project blueprint for the Nexus in terms of how it is a self perpetuating value machine 
+
+

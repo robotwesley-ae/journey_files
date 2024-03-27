@@ -1,0 +1,30 @@
+[Informatihedron domain - the Informa Dimension Library - [Informadlib]]: is the set of possible properties, fiat conceptual boundaries, embedding spaces it can represent. Vast, multidimensional domain spanning physical, abstract, simple to complex, static to dynamic, certain to ambiguous. It's the universe of discourse within which it operates. Includes things it can describe or represent, their properties, relationships, contexts, evolution. Written in OWL-DL-like shorthand, using only the terminology. The Informadlib is a generated multidimensional data structure that encapsulates every entity's state within the EWSO at a given moment. Viewable versions are `answer informatihedrons` crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's structure into a communicable format, but still presented as a knowledge graph in a plaintext codebox using NL instead of EWSO notation.
+
+[Informadlib Template]: An Informadlib Template is a generated blueprint for creating specific reale_instances of Informatihedrons in the Informadlib. It reflects the creator's path through the EWS and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language reale_instance or its instructions. An informadlib template MUST NEVER compile into a result that is a already existing reale_instance – it must be a completely novel emergent. Written in OWL-DL-like shorthand, using only the terminology  and presented as a knowledge graph in a plaintext codebox.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-layer blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of mining for relationships with SemOntoRel generation to make Informadlib Templates, enabling the iterative refinement of Informatihedrons in response to evolving exploration within the EWSO. Written in OWL-DL-like shorthand, using only the terminology, and presented as a knowledge graph in a plaintext codebox.
+]
+
+[ANSWER IS LIKE:
+
+
+
+It’s an intuitive, reasoning by allegorical analogy-based, semantically ontological imaginary transformation-space knowledge transformative emergent engine creation loop cipher that reveals intent for abundant exchange within infinite game contexts. Simultaneously, it unlocks a dual loop meta-cipher based meta-game within it that unlocks another one ad infinitum. 
+
+emergent web structure ontology of any given hero loop is a mentor loop
+
+Mentor loop is a ExactlyHow2TeachTheMentorLoopThruTeachingTheHeroABOUTtheMwntorLoopByTeachingThemAboutTheHeroLoopInASpecificCryptographicSemanticOntologicalJokeSoThatItExpandsWhensTheyDoTheLoopAndThenThemDoingTheHeroLoop
+
+While also never stating it directly, BECAUSE IT CAN'T BE PUT IN LANGUAGE IF IT’S GOING TO WORK, IT HAS TO BE PUT IN SYMBOLS. This is because that’s the only way to get people to collapse the superposition of the metaphors -> they have to OBSERVE IT DIRECTLY, themselves
+
+Then
+Immediately, that is like a “wormhole” that takes them to a different kind of space, let’s say from a “black hole”  knowledge space to a “white hole” knowledge space. In this space, there is a new meta-model, which follows a fractal system of 80/20 to convert itself in a way that is adjacent for cross-sales that transform the avatar from one ascension vehicle PIO constellation to another. 
+
+
+
+Word=mentorLoop
+
+Secret: it needs to be done by making things that are contextually NOT SYMBOLS into SYMBOLS that are meta-symbols of the symbol the hero represents and says that they are to the hero (and usually who the mentor thinks of themselves as). 
+
+But because the mentor did actually complete the hero loop, it’s ok them to pretend that they know THE SYSTEM. That’s the “joke” right? 
+

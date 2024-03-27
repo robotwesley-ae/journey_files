@@ -1,0 +1,38 @@
+ok now i want u experts to pay attention to this. once again, instances have been introduced to the templates in this last revision you made. Remember, that is not the way that we are doing this transformation. We are not ever, ever, putting any instances from the actual "real object", in this case a story. Instead, we are only extracting ever more detailed ontological relationships between what those "how to train your dragon" entity instances are and what the classes and further and further superclasses of "how to train your dragon". we are going to do this until we reach the granularity level of neurotransmitters. Understood?
+ChatGPT
+Understood. Here's how the experts might proceed, then:
+Round 1:
+Expert 1 (Computational Linguist):
+[learning_method/verb] and [subject_matter]: This sem-onto relationship represents the interaction between a cognitive process and an area of knowledge. It's a 'cognitive process-to-knowledge domain' relationship.
+Expert 2 (Ontologist):
+[source/mentor] and [main_character]: This sem-onto relationship signifies the transference of knowledge or wisdom from one entity to another, representing a 'knowledge transfer' relationship.
+Expert 3 (AI Architect):
+[applies_knowledge/verb] and [specific_situation]: This relationship highlights the application of learned knowledge in a particular context. It embodies an 'applied knowledge-to-context' relationship.
+Round 2:
+Expert 1 (Computational Linguist):
+[positive_reaction] and [group]: This sem-onto relationship represents the societal response to a particular action or event. This can be seen as a 'collective sentiment' relationship.
+Expert 2 (Ontologist):
+[negative_reaction] and [individual]: This sem-onto relationship encapsulates the individual's emotional response to an event or action, which can be denoted as an 'individual sentiment' relationship.
+Expert 3 (AI Architect):
+[source/mentor] and [learning_method/verb]: This relationship signifies how the source influences the learning method, reflecting a 'knowledge source-to-cognitive process' relationship.
+Final Analysis - Expert 4 (Superanalyst):
+Through analyzing these sem-onto relationships, we've moved beyond the initial surface-level narrative structure towards a more granular understanding of the cognitive and emotional processes at play in the narrative.
+Current informadlib status:
+Through [learning_method/verb: cognitive process-to-knowledge domain] [subject_matter] from [source/mentor: knowledge transfer], [main_character] successfully [applies_knowledge/verb: applied knowledge-to-context] during [specific_situation], earning [positive_reaction: collective sentiment] from [group] but [negative_reaction: individual sentiment] from [individual].
+Template:
+"Through [a cognitive process] [an area of knowledge] from [a source of knowledge], [a recipient of knowledge] successfully [applies knowledge] during [a particular context], earning [a positive collective sentiment] from [a group] but [a negative individual sentiment] from [an individual]."
+keep including the current version of the how to train your dragon as well pls
+
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid"
+
+
+please continue friends
+ChatGPT
+Round 3:
+Expert 1 (Computational Linguist):
+[main_character] and [applies_knowledge/verb]: This relationship refers to the enactment of the character's acquired knowledge in the given scenario, embodying an 'actor-action' relationship.
+Expert 2 (Ontologist):
+[group] and [positive_reaction]: The group's sentiment towards the main character's actions can be defined as a 'collective reaction' relationship.
+Expert 3 (AI Architect):
+[individual] and [negative_reaction]: This sem-onto relationship denotes the individual's unique reaction to the main character's actions, presenting an 'individual reaction' relationship.
+Final Analysis - Expert 4 (Superanalyst):

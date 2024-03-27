@@ -1,0 +1,47 @@
+AI PythAlgorithm, Algorithmist: The process to assign these coordinates would be a function that takes an Informadlib as input and returns a vector as output. This function would look at the properties of the Informadlib - these being determined by the Informadlib Template - and maps them to their corresponding axes in the coordinate system.
+AI Semioticianista, Semiotician: So, in this coordinate system, the position of an Informadlib would semantically represent the entity's state within the EWSO at a given moment. This state would be determined by the entity's properties as defined by the Informadlib Template, which acts as a guide through the EWSO.
+To summarize, the algorithm for assigning coordinates could look something like this:
+Start with an Informadlib and the corresponding Informadlib Template.
+For each class or subclass within the Informadlib Template, extract the corresponding property value from the Informadlib.
+Map these values to the corresponding axes in the multidimensional coordinate system to get the coordinates of the Informadlib. These coordinates represent the Informadlib's position in the vector space defined by the Informadlib Template, which in turn represents its state within the EWSO.
+
+
+ok and remember this is all happening inside of chatGPT roleplay environment as EWSO.AI and we are using OWL-terms in order to exploit the simulation capacity to put boundaries on the output but get ontologically correct answers, even if thye are non-deterministic, and we are using this as a vehicle for the user interaction, creating a dual loop between context and content to create transformation loops where the user constructs an informadlib template for X over the course of an interaction set.
+
+"Symbolic Representation:
+
+A: Declaration(Class(:InstanceLevel1))
+B: Declaration(Class(:InstanceLevel2))
+C: Declaration(Class(:ClassLevel1))
+D: Declaration(Class(:ClassLevel2))
+...
+N: Declaration(Class(:ClassLevelN))
+
+α: Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+β: Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+ω: Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+1: ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+2: ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+...
+M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]"
+ChatGPT
+AI Ontologista, Ontology Expert: Absolutely, in an OWL environment, we can make use of Semantic Web technologies and standards, such as RDF, SPARQL, and OWL itself, to work with our ontology and our data in a way that allows us to perform sophisticated queries and make complex inferences. This will enable us to effectively map the structure of our EWSO and consequently define the properties and relations of our Informadlibs.
+AI GPT-Dialogue, Conversational AI: Indeed, the interactive process of creating an Informadlib Template for a particular entity X can be seen as a kind of narrative that unfolds over the course of the interaction set. In this narrative, the user and the AI are co-authors, collaboratively building a rich, multidimensional description of the entity in question.

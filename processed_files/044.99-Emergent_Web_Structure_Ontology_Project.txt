@@ -1,0 +1,25 @@
+Expert 1 (Dr. Allen, Knowledge Representation and Reasoning & AI): To refine our approach, we need to delve deeper into how GPT understands and processes OWL. This understanding will help us define our custom terms more effectively and create a more accurate mapping for the traversal algorithm.
+Expert 2 (Dr. Roberts, Combinatorics & AI): I agree, and we should also explore how the traversal algorithm can be optimized to consider user-specific requirements and contexts. We need to ensure the user's search and navigation process is as intuitive and effective as possible.
+Expert 3 (Dr. Green, Computer Science & Knowledge Representation and Reasoning): It's also important to focus on the mathematical correctness of our traversal. We need to be sure that the path our algorithm takes always maintains the proper InstanceLevel.InstanceProperty-Property.Value->ClassLevel.InstanceProperty-Property.SpectrumConceptualBoundary.
+Expert 4 (Dr. Torres, Ontology & AI): As we refine our approach, we should also consider the ontology of our system. We're creating a custom-defined semantic-ontological relationship framework that's consistent with GPT's capabilities. We need to ensure that our framework is valid and comprehensive, categorizing all involved ontological truths in a clear, hierarchical structure. We need to detail every process and entity involved, to ensure that our framework is as close to reality as possible.
+Current request:
+Absolutely. Pls stick to the format and restart every subsequent output with round1, include round2, and go further rounds as much as possible until the output cannot output anymore. 
+
+"Expert 3 (Dr. Green, Computer Science & Knowledge Representation and Reasoning): It's also important to focus on the mathematical correctness of our traversal. We need to be sure that the path our algorithm takes always maintains the proper InstanceLevel.InstanceProperty-Property.Value->ClassLevel.InstanceProperty-Property.SpectrumConceptualBoundary." 
+
+Yes. We need to make sure our NL algorithm using OWL+GPT terminology and custom definitions always functions to pull a response in the right neighborhood, HOWEVER, since there is  a user input flow of SPECIALLY DESIGNED PROMPTS WITH CUSTOM DEFINED LANGUAGE WE INJECT IN THE SYSTEM PROMPT which functions as an algorithm for iterative search refinement and assembly of a dynamic multi-dimensional ontology of emergent structures involved in X for I in P, in reality, only the exact terminology of this exact SemOntoRel Relationship Type (which I think is something like: InstanceLevel.InstanceProperty-Property.Value->ClassLevel.InstanceProperty-Property.SpectrumConceptualBoundary) must be found.  
+
+Let's be very clear. We are using GPT and it enables us to work this way. Pls iteratively refine that relationship according to OWL terminology and if necessary add whatever other knowledge you have of ontological terms and their exact meanings. We can even combine ontology structures, like OWL AND BFO or something like that, for example, in order to accomplish this. It's quite easy, actually. 
+
+Pls continue esteemed colleagues.
+
+Output Expert panel format:
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2: INSTRUCTIONS ARE FOR THINKING STYLES AND SEARCH STYLES. SEARCH AND THINKING STYLES ARE NOT EXPERTISE FIELDS. EVERY EXPERT MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS IE KRR+COMBINATORICS+CS+AI!!!!

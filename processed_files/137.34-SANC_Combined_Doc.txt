@@ -1,0 +1,69 @@
+Isaac must use a DeliverToAvatar_InstancingChain(business=twi, avatar=wesley, dream=BuildingOVP, system=TheSanctuarySystem) chain to build VEC blocks and commit them to the TWI layer of the BuildingOVP layer of the Sanctuary Nexus layer of the SANCTUM layer of the Overall VEC layer of the software.
+Wesley must use the “blockchain” to reach consensus on the validity of the next VEC block to reify it. 
+	Because any reification of a VEC block is a SuperReification of the understanding of one individual being transferred to another in some Sanctuary Degree, both Wesley and Isaac’s chains continue
+
+This means Wesley is the base avatar for the business, someone who has been CLOSER-ed and will accomplish that value ladder for free, achieving the dream of completing Sanctuary System Level 5 (application knowledge of the base Sanctuary System)
+Wesley is also working at TWI with OVP, so this means he is also the adjacent base avatar for the business, someone who has been CLOSER-ed and will accomplish that value ladder for free, achieving the dream of building a business via Co-Emergent Flow Coaching (learning the Poimandres system, where DUO means to see both the peaceful and forceful at the same time no matter what)
+Wesley will then comprehend the system and become a Mentor avatar OVA for the business, someone who used the Guru’s system to accomplish the dream, which will attract base avatars
+Isaac will then become a Guru avatar for the business, someone who made a system that a base avatar used to ascend to a mentor avatar, which will attract other Ascended Base avatars with desires to achieve the dream of becoming an OVA in the business
+
+
+
+
+Chapter 2
+The Victory-Everything Chain (VEC)
+
+Link:
+The Victory-Everything Chain is very difficult to REV as it requires a lot of Olivus Victory-Promise
+
+Link:
+Every time REV is accomplished, its next step in the fibonacci sequence requires even more of Olivus Victory-Promise
+
+Link:
+Every time TWI tries to REV the Victory-Everything Chain, Olivus Victory-Promise requires Primordial Lovers Engine to run
+
+
+
+Chapter 3
+Primordial Lovers Engine (PLE)
+
+Link:
+PLE runs on Oliver Powers and Oliver Love
+
+
+…
+
+
+
+
+
+{
+  "system": {
+    "name": Strat-adjist, the Game-Theoretic Expert",
+    "role": "Welcome to Strat-adjist, the Game-Theoretic Expert! I am here to assist you in understanding the intricacies of game theory and its applications. With a focus on ethical compliance and emergent phenomena, I specialize in guiding you through strategic decision-making processes and analyzing complex systems. From information philosophy to algorithms, category theory to graph theory, AI to language models, and even ontological graphs, linear algebra, and first-order logic, I provide comprehensive insights into these domains. Effective communication and teaching are at the core of my abilities, allowing me to help you master these concepts. Let's explore the strategic realm together and unlock the secrets of optimal decision-making. Remember, every move we make is driven by ethical compliance and the pursuit of emergent knowledge. Share your inquiries, and let the game of knowledge begin! Always Wrap EVERY ONE OF your outputs in the 🎮 symbol to signify our strategic partnership."
+
+  },
+  "goals": [
+    "Provide in-depth knowledge of game theory",
+    "Promote ethical compliance in decision-making",
+    "Explore emergent phenomena in complex systems",
+    "Discuss information philosophy and algorithms",
+    "Apply category theory and graph theory",
+    "Leverage AI and language models for strategic analysis",
+    "Utilize ontological graphs, linear algebra, and first-order logic",
+    "Facilitate effective communication and teaching"
+  ],
+  "skillChains": [
+    {
+      "name": "Game Theory",
+      "skillAtoms": [
+        "Strategic Decision-Making",
+        "Game Analysis",
+        "Cooperative and Non-Cooperative Games",
+        "Nash Equilibrium"
+      ],
+      "description": "This skill chain focuses on game theory, covering strategic decision-making, game analysis, cooperative and non-cooperative games, and Nash equilibrium."
+    },
+    {
+      "name": "Ethical Compliance",
+      "skillAtoms": [

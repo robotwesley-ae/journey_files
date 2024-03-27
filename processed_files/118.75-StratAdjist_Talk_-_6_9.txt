@@ -1,0 +1,17 @@
+Symbolic Representation: A: Declaration(Class(:InstanceLevel1)) B: Declaration(Class(:InstanceLevel2)) C: Declaration(Class(:ClassLevel1)) D: Declaration(Class(:ClassLevel2)) ... N: Declaration(Class(:ClassLevelN)) α: Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2)) β: Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1)) ... ω: Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN)) 1: ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1) 2: ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2) 3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2) 4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1) ... M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1) O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN) P: Declaration(DataProperty(:value)) Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1) R: Declaration(DataProperty(:transitionRule)) S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1) Input Keys: x: [NL description of input property x] y: [NL description of input property y] ... z: [NL description of input property z]
+So, your encoded ontology can now be written as a string of these symbols, and the input properties can be represented by their corresponding key. GPT can then interpret these symbols and keys to generate the desired natural language output.
+It's important to note that this is a simplified representation, and the actual system would likely require a more complex symbol system and key mapping to fully represent the ontology and handle all potential inputs.
+
+
+please work together now to create the exact actual system according to our current contextual implementation, on GPT.
+
+continue frends pls. also remember:
+
+"[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+

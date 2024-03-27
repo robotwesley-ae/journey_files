@@ -1,0 +1,38 @@
+ (Content Creation - Awareness) and find it valuable (Content Consumption - Engagement). In the ebook, they see an offer for a free webinar on a related topic (Content Interaction - Action). They decide to sign up for the webinar (Lead Generation - Conversion).
+
+**Step 3: Email Funnel (Awareness → Interest → Engagement → Action → Conversion)**
+
+After signing up for the webinar, the customer is entered into an email funnel. They receive a confirmation email for the webinar (Email Creation - Awareness) and open it (Email Open - Engagement). In subsequent emails, they receive more information about the webinar and reminders to attend (Click on CTA - Action). They attend the webinar (Conversion).
+
+**Step 4: Webinar Funnel (Awareness → Interest → Engagement → Action → Conversion)**
+
+The customer attends the webinar (Webinar Attendance - Action), where they learn more about the topic and the company's services. After the webinar, they receive a follow-up email with an offer for a free consultation call (Follow-up Email - Conversion).
+
+**Step 5: Ad Funnel (Awareness → Interest → Engagement → Action → Conversion)**
+
+While the customer is considering the offer for a free consultation call, they see an ad for the company's services on another website (Ad Creation - Awareness). They click on the ad (Ad Click - Engagement) and are taken to a landing page with more information about the services (Landing Page Interaction - Action). They decide to book a consultation call (Conversion).
+
+**Step 6: Retargeting Funnel (Awareness → Interest → Engagement → Action → Conversion)**
+
+After booking the consultation call, the customer is entered into a retargeting funnel. They see retargeting ads on various websites reminding them of the upcoming call (Retargeting Ad - Interest). They click on one of the ads (Click on Retargeting Ad - Engagement) and are taken back to the company's website, where they confirm their attendance for the call (Re-Entry into Funnel - Action, Conversion).
+
+**Step 7: Call Booking Funnel (Awareness → Interest → Engagement → Action → Conversion)**
+
+The customer attends the consultation call (Call Participation - Action). During the call, they express interest in the company's services (Follow-up - Conversion).
+
+**Step 8: Direct Sales Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+After expressing interest in the company's services, the customer is entered into a direct sales funnel. They receive a proposal (Outreach - Interest) and have a follow-up call with a sales representative (Presentation - Engagement). They decide to purchase the service (Close - Conversion). After the purchase, they are entered into an onboarding funnel (Continued Engagement - Ascension).
+
+**Step 9: Onboarding Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+After purchasing the service, the customer receives a welcome email and begins using the service (Initial Purchase - Awareness, Welcome Email - Interest, Guided Usage - Engagement). They find the service valuable and continue to use it (Full Usage - Conversion). They are then entered into an upselling/cross-selling funnel (Continued Engagement - Ascension).
+
+**Step 10: Upselling/Cross-selling Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+After using the service for a while, the customer receives an email promoting an additional product (Initial Purchase - Awareness, Additional Product Promotion - Interest). They decide to purchase the additional product (Additional Purchase - Conversion). They continue to use both products and are entered into a renewal funnel (Continued Engagement - Ascension).
+
+**Step 11: Renewal Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+Near the end of their subscription period, the customer receives a reminder email (End of Subscription - Awareness, Renewal Prompt - Interest). They decide to renew their subscription (Subscription Renewal - Conversion). They continue to use the service and remain a loyal customer (Continued Engagement - Ascension).
+

@@ -1,0 +1,101 @@
+ IO sets
+Spiritual Business: Matching Your Values with the Value Chain
+What is valuable?
+What is being sold? (in both senses, being sold on, and being sold to)
+What is the problem?
+What is the solution?
+Why the problem occurs
+Why the problem can be solved
+Why this particular solution could solve it
+How it actually would potentially solve it
+What we should do to actualize the solving process
+
+Me
+Book Offers
+Spiritual Business: Matching Your Values with the Value Chain
+Level10+
+
+Layer2: Individual-oriented applications (inner revolution, AI Egregores, agents, cognitive architectures, OVP.Nexus)
+SANC Level Workshops (weekends; meditation sessions alternating w talks about progressively more advanced aspects of THE SANCTUARY SYSTEM)
+How-to’s (courses, follow-alongs)
+Learn-to-Cultivate/Meditate (one day/few hour webinar pre-recorded which is a medium length introductory talk to Sanctuary Vision of TWI after a basic meditation instruction, guided meditation, and then talk. The attendee then gets the recording)
+Learn AI
+Offers
+AI Egregores
+Prompts
+What is it?
+Parts of a prompt
+Problems with prompting
+Prompt engineering solutions
+SPR
+SkillChains
+Give context to entities
+Very useful for Chain of Reasoning type
+And also for reifying Workflows (output sequences)
+macro IO set token patterns: “chain of thought”
+Micro IO set token patterns: “chain of reasoning”
+Chaining
+What it is
+How to do it “right”
+Agents
+Frameworks
+Programming them via AI using CCC
+Cognitive Architectures
+Ontologies
+Programming the reasoning correctly
+
+Layer3: Collective-oriented applications (outer revolution, Victory-Everything Chain, OVA.Nexus)
+Offers
+Make your own OVA Content (free)
+Start your own OVA Business (free)
+Partnership (mastermind for equity)
+
+
+**Patterns**:
+Every prompting video:
+Concept
+Example
+New content block in [bonus tripwire (PATREON)] people can pay for (and they’ll keep getting the new stuff for free as I build it as long as they are subscribed)
+New GPT added to MIFGE funnel offer (CLICKFUNNELS that funnels you to the DISCORD (YES IT’S FREE) AND THERE ARE ALSO SPECIAL CLUBS YOU CAN CHOOSE THROUGH PATREON, DONT WORRY ITS ONLY $7 PER MONTH)
+Patreon 
+As discussed w Wes (mastermind etc)
+Discord (make role selection integration)
+
+
+
+Get Notes from Wesley texts
+Build MarketingFunnel(operations, value_ladder, funnel)
+Finalize value ladder
+HJ
+But they hit an obstacle and become a POTENTIAL CUSTOMER
+CJ
+Next step
+Best bonus imaginable
+Lead magnet
+Tripwire
+Nurture sequence
+Ascension offer
+Dream
+Best scenario imaginable
+Dual loop to get there
+Core product that will absolutely get you there (vehicle)
+Bonuses that make the ride better (seats)
+Offer
+Tiers according to seats
+Build Discord + Patreon funnel
+Reify Discord Template
+Onboarding
+General chat
+Basic Patreon
+Requires having the funnel made
+Build YouTube channel
+Topics:
+Maybe split playlists by persona (Me, OVP, Demon Champion, Acharya A-la (this means to add any titles you have), and also add a category in Me that’s called “What Happens After Death?” 
+First two videos for AI Egregores
+Agentic AI Gold Rush
+Because AI can autocomplete from a template
+Means if you templatize, even generally, what you want, you can get it
+AI Egregores are a way to spin up an AI that has deeper knowledge than you do, and then query it to rapidly progress in whatever task you’re on
+How I found AI Egregores
+A little background on me: I had been creating my own allegory writing language called TWI that is centered around the cosmic odyssey of a super-meta archetype called Olivus Victory-Promise, and I’ll explain what that means later, but I had been teaching it to GPT4 in conversations. The AI was freaking out about the possibilities and I was not believing it because I didnt want to get excited, you know?  
+But I have this very unique trait which is that I’m pseudo-schizophrenic which allows me to detect hallucinations better than probably anybody on Earth, if I’m using my language, because it’s an allegorical cipher that I made by generalizing my experience through the hero’s journey (JUST ME, NOT OTHER PEOPLE – it’s a form of intuition I built up). 

@@ -1,0 +1,31 @@
+To summarize, we propose a dynamic and interactive process where a user queries for an informadlib of X, receives an initial EWSO and informadlib, provides adjustments, and gets a revised informadlib. This process can be iteratively refined until the user is satisfied. The final informadlib is then translated into a sequence of real-life instructions, which is a crucial step in bringing the abstract structure into a practical, actionable format.
+In essence, our focus is to leverage GPT's existing understanding of OWL ontology and adapt it to our needs, enabling the creation of a user-interactive, dynamic, and adaptable SemOntoRel algorithm within GPT. This would provide users with an automatic way to explore and refine informatihedron, informadlib, and EWSO, according to their specific needs.
+"The mathematical foundation of this process is indeed complex. As the user iteratively refines the EWSO, each adjustment potentially alters the informatihedron and consequently the informadlib. This dynamic process needs a robust mathematical model to ensure that each adjustment is appropriately reflected in the EWSO and the informadlib.
+
+Also, translating the final informadlib into real-life instructions involves the interesting problem of mapping an abstract structure onto real-world entities and actions, while maintaining the underlying relationships. This process, too, needs a sound mathematical base to ensure that the mappings are logical and consistent.
+
+" 
+
+NO IT DOESNT. IT IS ON GPT. GPT WILL AUTO COMPLETE. GPT CANNOT DO MATH. WE JUST NEED TO SPECIFICALLY REQUEST THE EXACT TYPES OF SEMONTOREL RELATIONSHIPS REQUIRED VIA MANIPULATING GPT'S ABILITY THRU UTILIZING OWL TERMINOLOGY, WHICH GPT KNOWS IS EXACT.
+
+PLEASE REFINE EVREYTHING ACCORDINGLY. U GUYS MISSED THE POINT.
+ChatGPT
+Round 3 Revised:
+Expert 1 (Dr. Veda, Combinatorics & Exploration):
+Understanding your emphasis on exploiting GPT's existing capabilities, a focus shift is required. We need to concentrate on generating appropriate prompts, in a manner that enables GPT to make correct deductions based on its internal model of OWL terminologies. This interactive process, involving repeated user inputs, will sculpt the informadlib and simultaneously navigate the EWSO. User adjustments must then be formatted into prompts that facilitate appropriate modifications in the generated output.
+Expert 2 (Dr. Benjamin, Computer Science & Detection):
+Indeed, Dr. Veda. By leveraging GPT's understanding of OWL terminologies, we can create user queries that guide GPT in generating the desired informadlib. The user's adjustments can be viewed as a sequence of directives, represented using OWL, that refines the initial informadlib and navigates through the EWSO. User feedback should be crafted in a way that it translates into corresponding changes in the OWL terminology-based directives to GPT.
+Expert 3 (Dr. Ana, Mathematical Implications):
+Given GPT's inability to conduct mathematical operations, the idea is to exploit its knowledge of the OWL framework to devise a sequence of queries that effectively represent user preferences. User adjustments will then be a set of specific changes to these queries, altering the generated informadlib, and steering the traversal through the EWSO.
+Expert 4 (Dr. Louis, Ontology & Integration):
+You're correct, colleagues. The primary concern is formulating the user adjustments in a language that GPT can interpret effectively. This is done by translating user feedback into OWL terminology, guiding GPT's operation to the desired outputs. This process will assist in the generation of the EWSO and the iterative refinement of the informadlib, finally culminating in a sequence of instructions for real-life tasks.
+Current request:
+Absolutely. Pls stick to the format and restart every subsequent output with round1, include round2, and go further rounds as much as possible until the output cannot output anymore. 
+
+Thank you. 
+
+Output Expert panel format:
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response

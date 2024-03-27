@@ -1,0 +1,347 @@
+NEW SCRIPT
+—
+
+SECTION C: Clarify
+Title Card: "Ever been on a set stopped cold by lightning?"
+
+Script:
+"Hey there. If you’re watching this, chances are, you’ve had your day turned upside down by a lightning strike. Doesn’t matter if you’re behind the camera, managing the set, or anywhere in between—lightning doesn’t discriminate. It halts production, and just like that, your workday is in limbo."
+
+
+SECTION L: Label
+Script:
+"We all know the drill. Lightning means everything stops. Safety first, always. But it leaves you with a mess—schedules out the window, costs mounting. It's a headache that no one wants, yet everyone in our line of work faces sooner or later."
+
+
+SECTION O: Overview
+Script:
+"You’ve been there before—dark clouds roll in, and even though the shoot's indoors, everything grinds to a halt. Why? Because your lifeline, the generator outside, is exposed. Without it, everything inside stops—lights, cameras, all of it. The kicker? You'd think protecting that generator would be straightforward, but it’s anything but."
+
+"Maybe you’ve looked into lightning protection before, only to hit wall after wall. Custom solutions that don’t quite fit the mobile, fast-paced nature of film sets. Regulations that feel like they're written in another language. And those makeshift solutions? Encasing generators in makeshift shelters, hoping for the best—it’s risky, uncertified, and deep down, you know it's not up to standard. You’re caught between a rock and a hard place: needing to protect your gear and keep shooting, but the options out there just don’t cut it."
+
+"It’s not just about finding a way to keep the generator running; it's about ensuring safety, meeting regulations, and avoiding those dreaded delays that throw your schedule and budget out of whack. You want a solution that doesn't just promise to work but one that integrates seamlessly with the dynamic and demanding environment of a film set."
+
+
+SECTION S: Sell
+Title Card: "What if that could change?"
+
+Script:
+"Imagine a typical shoot day, but this time, when the clouds gather, you’re not worried. With Ribcage Solutions, that’s the reality we offer. Our gear wraps around your generators, keeping them safe and running, no matter the weather. Indoor scenes keep rolling. No delays, no overtime—just your day, undisturbed."
+
+"Think about it. No more rescheduling nightmares, no budget blowouts from unexpected downtime. Just because the weather decides to throw a tantrum, doesn’t mean your production has to pause. It’s about keeping you on track, every time."
+
+
+## SECTION E
+
+**Title Card:** “Burning Questions…”
+
+### 1. Do CSATF Regulations Really Allow This?
+
+**Visual:** CSATF logo with a question mark.  
+**Script:** "Yes, CSATF regulations accommodate our solution. We encourage you to verify this with their head of business affairs for full assurance."
+
+### 2. What If IATSE Unions claim to Require Shutdowns Anyway? Or if crew members just do it on their own?
+
+**Visual:** Union logo and generator with a stop sign.  
+**Script:** "While we do provide educational materials for your ADs and Production Staff to give to crew, in rare cases there can still be unfortunate misunderstandings. Make us aware if this happens so we can patch your management in with CSATF to prevent any union delays regarding lightning protection misunderstandings."
+
+### 3. How do i know This Benefit My Production?
+
+**Visual:** Calculator and film set.  
+**Script:** "Before you rent from us, we do a free lightning protection assessment for your production, which considers your locations, available power, and regional lightning density. We calculate whether or not the service is likely to pay for itself, and only recommend our services when they are likely to pay for themselves over the course of your production."
+
+### 4. What About Shipping?
+
+**Visual:** Globe and shipping truck.  
+**Script:** "We’re partnered with MBS Equipment Co and offer global shipping on any express timeline. This also allows us to accept equipment drop-offs anywhere MBS operates (Georgia, New Mexico, etc).."
+
+### 5. What about the Utility Lines?
+
+**Visual:** Utility poles and lines.  
+**Script:** "Utility lines are typically managed by locations, seamlessly integrating our solution with your standard procedures."
+
+### 6. What's Involved in Installation? How hard
+
+**Visual:** Simple toolkit and clock.  
+**Script:** "We have technicians that can fly to you, 
+or your crew can set it up themselves. 
+It takes one person about 30 minutes to an hour 
+and they'll need an electrician to come by at the end to drive the ground rod in the right place, which takes about 10 minutes.”
+
+### 7.What If I Have My Crew Do It But Someone Doesn’t Set It Up Right?
+
+**Visual:** Checklist with a question mark.  
+**Script:** “Someone and Somebody are on every production and they always muck everything up.” Our checklist service is operated by an LPI Master Installer, which means we always have it double-checked by an expert inspector who will only accept the installation if it’s correct.”
+
+### 8. Do Generator Operators Need To Be Within A Certain Distance Of The Protected Generator While We Are Shooting Indoors during A Storm?
+
+**Visual:** Indoor set with lightning outside.  
+**Script:** "While shooting indoors during a lightning weather event, CSATF guidelines are clear that the Generator Operator should not venture outside of shelter to maintain the generator. If anything happens, everyone should remain inside unless instructed otherwise in tailored emergency plans from the CSATF required Emergency Action Plan, which CSATF requires productions to have for all sets."
+
+### 9. What If the Kit Is Damaged or disturbed During Production?
+
+**Visual:** First aid kit and lightning bolt.  
+**Script:** "We recommend that the AD department check any installations as a matter of redundancy in order to maintain active safety awareness before engaging in production. This takes less than a couple minutes to give it a visual check. The connections were already checked during the installation inspection.”
+
+### 10. What If The Kit is struck During A Lightning Shutdown?
+
+**Visual:** First aid kit and lightning bolt.  
+**Script:** “If struck by lightning while properly installed, the ArcAngel kit will ground the lightning safely. If the kit becomes damaged by an act of god during a storm, while a production is also shooting, all crew members are instructed to stay sheltered.”
+
+### 11. Can ArcAngel Kits Protect Generators Of All Sizes?
+
+**Visual:** Generators of various sizes.  
+**Script:** "Absolutely. The ArcAngel Kit is modular and can fit any size of generator, even the largest 1,000 kW towable generators used in productions with dimensions up to 10’W" x 30’L”
+
+
+### 12. Can ArcAngel Kits Protect Generators On Flatbeds And Other Platforms or Lifts?
+
+**Visual:** Generator on a lift.  
+**Script:** "Yes! The ArcAngel Kits modularity not only accommodates any perimeter, but can also match its height up to 17’, which covers every type of generator on any type of base.
+
+
+—
+—
+NOTES AND OLD DRAFTS
+
+
+The other video 
+
+O = overview of the past
+What have you tried before? 
+How did it go? 
+What are you doing now?
+
+S = strategies to get there
+E = strategies overcome obstacles
+
+Website/VSL Video
+
+C (rhetorical)
+ - General: “We are Some Company and we do Y for X, and you are X, looking for Y because pain point P”
+- Specific: “Are you a UPM, or… that’s been on a production where lightning has caused shutdowns, delays, overtime, damage, injury, or even death?” 
+- “We are Ribcage Solutions and we help productions stay up to safety standards, remain on budget, and on schedule by providing lightning protection that allows them to continue working indoors during storms.”
+
+Label the Solution (rhetorical)
+ - “You experienced lightning shutdowns, or safety problems because you didn’t protect your generators because you didn’t have a film industry tailored lightning protection service to help you do that.”
+
+O - (same as presentation vid)
+
+S - (same as presentation vid)
+
+E - (same as presentation vid)
+
+R… - (nurture)
+
+
+Live Presentation Video
+
+C - (happens in meeting)
+L - (happens in meeting)
+O
+ - spoken content: Show how complex the problem actually is
+Overview: the inherent problems faced by productions (with problem labeled before) before any possible solution even existed (or at least before they knew about it). 
+Include: unprotected generators inherently unsafe. 
+Protecting them is not a straightforward process, because… (regulation, time, and money). 
+No way to avoid lightning shutdowns even in situations where actual filming is going on in a protected area, if the power is from genny outside.(because there just is no way, not allowed, but now even though it is allowed, you run into the first problem). 
+Jerryrigging solutions is dangerous and uncertifiable by Lightning Protection Institute: putting a genny in a shipping container, building cement block shields…
+Buying lightning protection services from other providers to create tailored solutions: other companies do not understand the film industry, we ONLY serve the film industry and our product and its entire delivery service and process is INVENTED FOR this exact application. Other products have to be bought, then kept or disposed of by asset management which requires financial assessment and in the industry that translates to UPMs, studio executive time (because of the purchase price), sustainability, EHS, studio assets, and finance to have a conversation, which undoubtedly will cost more than it’s worth, and will happen on every production over and over again.
+FUN FACT: When THE FOUNDERS were inventing the ArcAngel Kit they had previously looked at solving the problem using Military Grade Combat Generators! They are $250k (hilariously expensive) and also have to be kept as assets, which is almost impossible to do because it’s a military asset and you potentially have to guard it.
+
+“What have you tried before (to deal with the problem you have as the labeled avatar)…”
+“to keep your crew safe from lightning hazard…”
+“to avoid getting shut down due to lightning hazard…”
+“to avoid the cumulative losses due to repeated weather-related shutdowns during production…”
+
+- Visuals:
+- Pre-drawn visual representation of the core problem, with a cloud of un-successful solutions that are related to it. Each one is addressed, and ‘crossed off’ when explained/proven to be bad.
+
+
+S
+ - spoken content: selling the dream. ({play by play nothing bad happening BECAUSE they bought the product}) 
+- specific: of a production already fully protected with ArcAngel Kits (NOT, receiving installation services), not experiencing problems, and everything going smoothly, because of what it is.
+- “A day in the life of a production WITH a ArcAngel Kit”
+- Day starts with clear skies, and everyone is working on stage
+- half-way through the day, the clouds roll in and lightning is detected in the area
+- everyone who was outdoors, shelters inside, the protected generator is left ON, and filming continues uninterrupted
+- the day finishes on-schedule and on-budget
+
+ - Visuals: 
+- Simple to understand ‘timeline’ flow the charts out the dream scenario which he is describing. NO extra live drawing needed here, just use the flow as a visual aid, to gesture at, and reinforce the idea that the progression is smooth, and basically so simple that we can draw it with a few lines.
+
+
+
+E
+- spoken content: 
+- part1: enumerating the problems that productions have when trying to solve lightning safety problem, and/or reduce the amount of shutdowns they experience. 
+	- Do CSATF Regulations Really Let Us Do This?: Yes. See for yourselves by contacting their head of business affairs.
+	- What If IATSE Unions Claim They Need To Shut Down/Union Members Shut The Generators Down ANYWAY?: While we do provide educational materials for your ADs and Production Staff to give to crew, in rare cases there can still be unfortunate misunderstandings between crew members. Make us aware if this happens so we can patch your management in with CSATF to prevent any union delays regarding lightning protection misunderstandings.
+		- How Do I Know This Will Benefit My Production?: Before you rent from us, we do a free lightning protection assessment for your production, which considers your locations, available power, and regional lightning density. We calculate whether or not the service is likely to pay for itself, and only recommend our services when they are likely to pay for themselves over the course of your production.
+		- Shipping: We partner with MBS Equipment Co and offer global shipping on any express timeline. This also allows us to accept equipment drop-offs anywhere MBS operates (Georgia, New Mexico, etc).
+		- Utility lines: Usually gotten by locations.
+ 	- Installation: We have techs that can fly to you or your crew can set it up themselves. It takes one person about 30 minutes to an hour and they need an electrician to come by at the end to drive the ground rod in the right place, which takes them about 10 minutes (and they all know how to do it).
+		- What If I Have My Crew Do It But Someone Doesn’t Set It Up Right?: “Someone and Somebody are on every production and they always muck everything up.” Our checklist service is operated by an LPI Master Installer, which means we always have it double-checked by an expert inspector who will only accept the installation if it’s correct.
+		- Do Generator Operators Need To Be Within A Certain Distance Of The Generator While We Are Shooting Indoors Protected by ArcAngel Kits In A Storm?: While shooting indoors during a lightning weather event, CSATF guidelines are that the Generator Operator should not venture outside of shelter to maintain the generator. If anything happens, everyone should remain inside unless given tailored emergency plans from the CSATF required Emergency Action Plan, which CSATF requires productions to have for all sets.		
+- What If Anything Happens To The Kit During Production?: We recommend that the AD department check any installations as a matter of redundancy in order to maintain active safety awareness before engaging in production. This takes only a few minutes to give it a visual check. The connections were already checked in the installation inspection.
+- What If Anything Happens To The Kit During A Lightning Shutdown?: If struck by lightning while properly installed, the kit will ground the lightning safely. If the kit becomes damaged by an act of god during a storm, while a production is also shooting, all crew are instructed to stay sheltered. 
+- Can ArcAngel Kits Protect Generators Of All Sizes?: Yes! The ArcAngel Kit is modular and can fit any size of generator, even 1,000 kW towable generator with dimensions 30’L x 8’W x 13’H
+- Can ArcAngel Kits Protect Generators On Flatbeds And Other Platforms or Lifts?: Yes! The ArcAngel Kit is modular and not only fits any kind of generator area-wise but can also match its height up to 17’, which covers every type of generator up to the largest 1,000 kW towable generator with dimensions 30’L x 8’W 
+
+	- part2: addressing all of the concerns, and second order problems in the minds of the viewer, by addressing each one with a solution.
+
+
+- Visuals: 
+- obstacles and overcomes side by side in paired drawings, that have been pre-drawn. Use drawings as a visual aid, and live annotate with simple arrows between problem and solution to indicate that each one is solved as it is explained. EACH OO pair should start both drawn on a whiteboard, with a piece of paper covering the overcome… then the presentation flow is to address each obstacle represented on the left in a picture, explain what it is, and then reveal the overcome in adjacent hidden drawing… then draw an annotation involving the two images together… NOTE: annotations could involve the obstacle getting crossed out, while the overcome gets circled to illustrate how overcome ‘negates’ the obstacle, OR an arrow from obstacle to overcome to illustrate ‘transformation’ from one state to the other, OR a down arrow next to obstacle and an up arrow next to overcome to illustrate how the avatar will get ‘less’ of the problem and ‘more’ of the solution, OR arrows from the overcome back to the obstacle to illustrate how certain aspects of the solution are specifically ‘targeting’ facets of the problem, OR…
+
+
+E’ - (after the video is over they will have more questions and concerns which we will address live)
+
+R…
+
+
+
+
+—--------------------------------------------------------
+—--------------------------------------------------------
+
+SCRIPT:
+
+—
+
+Are you a UPM, that’s been on a production where lightning has caused shutdowns, delays, overtime, damage, injury, or even death?
+
+As a UPM, you’ve likely been on a production where lightning has caused shutdowns, delays, overtime, damage, injury, or even death.
+
+
+## SECTION C
+
+**Title Card:** “Are you a Film Professional, that’s been on a production where lightning has caused shutdowns, delays, overtime, damage, injury, or even death?”
+
+**Script:**
+"So you’re the UPM, at the heart of the production, balancing safety, schedules, and budgets. When working on-location, nearby lightning is not only inconvenient, it can mean halting work, recalculating the day’s plans, and watching as timelines and budgets stretch. You've navigated these disruptions, finding ways to minimize their impact, always prioritizing the project’s success and the safety of your crew. You're the one making the calls that keep the production moving forward, despite the weather's unpredictability."
+
+
+## SECTION L
+
+**Script:**
+"You’ve faced shutdowns, delays, and the immediate pressure of rescheduling and managing budget overruns due to lightning more times than you’d like to count. Each incident is a reminder of the constant balancing act between safety and schedule—a familiar challenge that weighs heavily on your decision-making."
+
+
+
+## SECTION O
+
+### BEAT 1: Confronting Safety and Scheduling Challenges
+
+**Script:**
+"Every production faces the dual challenges of maintaining safety and staying on schedule. When lightning threatens, safety protocols demand a complete shutdown, not just as a precaution but as a vital practice to protect lives and equipment. This means halting production, moving everyone to safety, and powering down generators, leading to delays and budget overruns. These interruptions aren't minor inconveniences 
+but major disruptions with real financial and operational impacts. You've likely faced these moments, making tough calls that affect both safety and the day's shoot, always wondering if there was a way to minimize these unavoidable delays."
+
+
+### BEAT 2: Navigating Regulatory Changes and Industry Limitations
+
+**Script:**
+"Recent regulatory changes have opened the door to keeping generators running if they're properly protected. Yet, translating this opportunity into practical action presents its own set of challenges. Engaging typical lightning protection services is fraught with difficulties—from their lack of familiarity with the unique demands of film production to the logistical and financial headaches of custom solutions. It's a scenario filled with frustration: installers who aren't used to the scale and mobility of film sets, and production teams who must navigate these waters without a clear map, all while seeking to protect their crew and equipment as best they can."
+
+
+### BEAT 3: The Pitfalls of Makeshift Solutions
+
+**Script:**
+"In the quest for a quick fix, you might have considered or even tried makeshift solutions—encasing generators in shipping containers, using concrete barriers, or other temporary measures. But these are very far from ideal: they're uncertifiable, hazardous, and will fall short of regulatory standards. The need to find an affordable, quick, and safe solution has led to many dead ends, highlighting the gap between the need for reliable protection and the available options."
+
+
+
+## SECTION S
+
+**Title Card:** “A Day In The Life Of A Production With An ArcAngel Kit”
+
+### BEAT 1:  Day Begins With Confidence
+
+**Script:**
+"The day starts clear. Your crew is ready, equipment is set, and the generator is on, equipped with a ArcAngel Kit. Today, weather won't dictate the schedule. It's a confident start because you're prepared for anything."
+
+
+### BEAT 2: Weather No Longer a Concern
+
+**Script:**
+"When the weather shifts, and the clouds roll in… there's no scramble. Lightning nearby? The ArcAngel Kit ensures your generator keeps running. Work continues indoors without interruption. It's business as usual, no matter the weather outside."
+
+
+### BEAT 3: Wrapping Up on Your Terms
+
+**Script:**
+"The day ends as planned: on time and within budget. The weather tried but failed to disrupt us. With the ArcAngel Kit, it's more than avoiding delays; it's about full control over your production schedule, every day."
+
+
+
+## SECTION E
+
+**Title Card:** “Burning Questions…”
+
+### 1. Do CSATF Regulations Really Allow This?
+
+**Visual:** CSATF logo with a question mark.  
+**Script:** "Yes, CSATF regulations accommodate our solution. We encourage you to verify this with their head of business affairs for full assurance."
+
+### 2. What If IATSE Unions claim to Require Shutdowns Anyway? Or if crew members just do it on their own?
+
+**Visual:** Union logo and generator with a stop sign.  
+**Script:** "While we do provide educational materials for your ADs and Production Staff to give to crew, in rare cases there can still be unfortunate misunderstandings. Make us aware if this happens so we can patch your management in with CSATF to prevent any union delays regarding lightning protection misunderstandings."
+
+### 3. How do i know This Benefit My Production?
+
+**Visual:** Calculator and film set.  
+**Script:** "Before you rent from us, we do a free lightning protection assessment for your production, which considers your locations, available power, and regional lightning density. We calculate whether or not the service is likely to pay for itself, and only recommend our services when they are likely to pay for themselves over the course of your production."
+
+### 4. What About Shipping?
+
+**Visual:** Globe and shipping truck.  
+**Script:** "We’re partnered with MBS Equipment Co and offer global shipping on any express timeline. This also allows us to accept equipment drop-offs anywhere MBS operates (Georgia, New Mexico, etc).."
+
+### 5. What about the Utility Lines?
+
+**Visual:** Utility poles and lines.  
+**Script:** "Utility lines are typically managed by locations, seamlessly integrating our solution with your standard procedures."
+
+### 6. What's Involved in Installation? How hard
+
+**Visual:** Simple toolkit and clock.  
+**Script:** "We have technicians that can fly to you, 
+or your crew can set it up themselves. 
+It takes one person about 30 minutes to an hour 
+and they'll need an electrician to come by at the end to drive the ground rod in the right place, which takes about 10 minutes.”
+
+### 7.What If I Have My Crew Do It But Someone Doesn’t Set It Up Right?
+
+**Visual:** Checklist with a question mark.  
+**Script:** “Someone and Somebody are on every production and they always muck everything up.” Our checklist service is operated by an LPI Master Installer, which means we always have it double-checked by an expert inspector who will only accept the installation if it’s correct.”
+
+### 8. Do Generator Operators Need To Be Within A Certain Distance Of The Protected Generator While We Are Shooting Indoors during A Storm?
+
+**Visual:** Indoor set with lightning outside.  
+**Script:** "While shooting indoors during a lightning weather event, CSATF guidelines are clear that the Generator Operator should not venture outside of shelter to maintain the generator. If anything happens, everyone should remain inside unless instructed otherwise in tailored emergency plans from the CSATF required Emergency Action Plan, which CSATF requires productions to have for all sets."
+
+### 9. What If the Kit Is Damaged or disturbed During Production?
+
+**Visual:** First aid kit and lightning bolt.  
+**Script:** "We recommend that the AD department check any installations as a matter of redundancy in order to maintain active safety awareness before engaging in production. This takes less than a couple minutes to give it a visual check. The connections were already checked during the installation inspection.”
+
+### 10. What If The Kit is struck During A Lightning Shutdown?
+
+**Visual:** First aid kit and lightning bolt.  
+**Script:** “If struck by lightning while properly installed, the ArcAngel kit will ground the lightning safely. If the kit becomes damaged by an act of god during a storm, while a production is also shooting, all crew members are instructed to stay sheltered.”
+
+### 11. Can ArcAngel Kits Protect Generators Of All Sizes?
+
+**Visual:** Generators of various sizes.  
+**Script:** "Absolutely. The ArcAngel Kit is modular and can fit any size of generator, even the largest 1,000 kW towable generators used in productions with dimensions up to 10’W" x 30’L”
+
+
+### 12. Can ArcAngel Kits Protect Generators On Flatbeds And Other Platforms or Lifts?
+
+**Visual:** Generator on a lift.  
+**Script:** "Yes! The ArcAngel Kits modularity not only accommodates any perimeter, but can also match its height up to 17’, which covers every type of generator on any type of base.
+
+
+
+
+

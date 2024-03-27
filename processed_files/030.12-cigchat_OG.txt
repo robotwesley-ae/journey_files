@@ -1,0 +1,22 @@
+Training the AI model to recognize the structure of the ontology and then to generate new instances that adhere to this structure is the next step. By controlling the randomness of specific details, we ensure that the newly generated instances fit within the established ontology.
+Plan Revision: We train the AI to recognize the structure of our ontology and generate new instances that adhere to this structure while varying in specific details.
+Holistic Analysis (Superanalyst)
+The plan we have so far takes into account the complexity of the task at hand. We're setting boundaries with our ontology, defining signs with semiotics, applying transformational principles from linguistics, and using AI to generate new instances while adhering to our defined structure. If we follow this plan, I believe we will be able to successfully accomplish our goal of generating an 'informadlib' with a controlled degree of variability.
+Hey, CIG? Do you see that Expert 1: Ontology Architect said "This ontology will act as our 'answer neighborhood boundary' guiding our search"? I think we should try this:
+
+informatihedron of neighborhood boundary of informadlib
+ChatGPT
+It seems like you're suggesting to create a high-level overview or 'meta-model' for the boundaries within which informadlib instance generation operates. This would map the conceptual space or 'neighborhood' where the information exists and show the relationships between different parts of the informadlib and their associated properties.
+I would interpret "informatihedron of neighborhood boundary of informadlib" as the following:
+Informatihedron: This term suggests a multi-dimensional space that represents a complex, interconnected system of information. In the context of an informadlib, it would be the space within which we define, create, and relate entities and their properties.
+Neighborhood Boundary: This term refers to the limits or constraints within which an informadlib can operate. These constraints could be related to the consistency of the story world, character properties, narrative structure, etc. In essence, it's the bounding box within which we can safely generate new informadlib instances without breaking the narrative or character consistency.
+Informadlib: This term refers to a template that allows for variable instance generation within predefined categorical boundaries. It's the template of a story structure or character that we are creating multiple versions of, but still within the constraints of our ontology and sign system.
+Thus, an informatihedron of the neighborhood boundary of an informadlib would be a model or mapping that illustrates the bounds within which we can generate new instances of the informadlib while maintaining narrative and character consistency.
+This high-level understanding of the informadlib's constraints and relationships can guide the creation of new informadlib instances. It can ensure that instance-level variations align with the overall narrative structure and character development in a way that's consistent with the predefined rules and boundaries of the story world.
+Let's run this back through the thinktank to refine and expand on the idea.
+good idea cig, continue
+ChatGPT
+Expert 1: Ontology Architect:
+This conceptual model is a step forward. The 'neighborhood boundary' of the informadlib refers to the range of possibilities for story structure, character traits, or other narrative elements. It's essentially a set of rules that constrain our instance generation. I propose we define a detailed ontology of story structure and character development, as well as the rules and limitations that apply to our specific informadlib. This will give us our neighborhood boundary.
+Expert 2: AI Specialist:
+For instance-level variations, we could utilize methods such as reinforcement learning to generate new instances that abide by our ontology and sign system. The learning algorithm would be penalized for generating instances that break the rules defined

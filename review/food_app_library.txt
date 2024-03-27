@@ -1,0 +1,95 @@
+§1-3 - Main Menu
+§1 - Get Food
+	1.1 - get recipe
+		1.11 - get meal
+			1.111 - get possible recipes X # of degrees away from possible where degree = 1 missing 					ingredient or $ amount (returns specialized list)
+				→ PRE-SEARCH FILTERS:
+					- choose cuisine type
+						- use my favorites
+					- prioritize ingredients? Y/N
+					- prioritize cooking methods
+						- use my favorites
+						- eliminate complex methods
+						- simplify knife skills
+				→ §6.0 
+			1.112 - get prioritized recipe (by expiration date)
+		1.12 - empty my fridge in X # of meals 
+			1.121 - get meal plan (recurring grocery list, etc)
+			1.122 - get prioritized meal plan (prioritizes ingredients by expiration date)
+§2 - Get Trash (where trash = expires in X # of days)
+2.1 - recommend
+	2.11 - possible recipes (empty trash)
+		2.111 Select and Search (Instantiate recipe in Visual UI: go to section 5)
+	2.12 - grocery list (append expiring items to §3)
+§3 - Get Grocery List
+	3.1 - recommend (links with company marketing/outsource, private)
+		3.11 - bought before
+			3.111 - frequently bought with
+		3.12 - possible recipes
+			3.121 - other people like
+		3.13 - diet 
+			3.131 - input dietary limits
+§4 - Preferences
+4.1 - cuisine preferences 
+	4.11 - cuisine type limiters
+	4.12 - ingredient type limiters
+		4.121 - spices
+		4.122 - vegetables
+		4.123 - fruits
+		4.124 - proteins
+		4.125 - grains
+		4.126 - oils
+		4.127 - condiments 
+		4.128 - herbs
+	4.13 - recommend
+		4.131 - trending
+		4.132 - fusion of favorites/limited cuisine types
+4.2 - dietary preferences
+		4.21 - serving size (multiplies recipe for how much food to make at once)
+			4.211 - variety filter
+4.2111 - occurrence frequency limiter
+		4.22 - nutritional (add nutritional databases)
+			4.221 - list different diets
+4.3 - Kitchen toolset
+		4.31 - owned
+			4.32 - favorites
+		4.32 - recommend purchase
+4.4 - Cooking Techniques
+		4.41 - known
+			4.411 - knife skills
+			4.412 - baking skills
+		4.42 - learn new
+			4.43 - tutorial
+4.5 - Recipe complexity
+4.51 - Ingredient count limiter
+4.52 - Technique complexity limiter
+§5 - Add to Fridge Inventory
+	5.1 - manual
+	5.2 - by plug-in
+		5.21 - smart fridge
+		5.22 - smart receipt (receipt scan)
+		5.23 - store company app plug-in
+			5.231 - delivery
+			5.232 - store
+		
+§6 - GUI - OPTION INSTANTIATION, multi f(X) = inventory! → preferences
+
+					6.1 - List of Possible Dish Categories
+						6.11 - Possible Dish Iterations
+							6.12 - Instructions
+								6.121 - Simplify
+									6.1211 - Methods → 6.11
+									6.1212 - Prepared Ingred. → 6.11
+								6.122 - Complicate
+									6.1221 - Methods → 6.11
+									6.1222 - Prepared Ingred. → 6.11
+									6.1223 - Fuse
+										6.12231 - Cuisine Type 
+6.12232 - Ingredient Type
+6.2 - Load Recipe
+	6.21 - Prerequisites
+6.211 - Ingredient List
+6.212 - Methods List
+6.22 - Apply Methods to Ingredients
+	6.23 - Instantiate
+	

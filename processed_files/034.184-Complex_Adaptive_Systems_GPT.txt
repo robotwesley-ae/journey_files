@@ -1,0 +1,43 @@
+ to generate my desired output.
+First, let's begin by understanding the topic you want the prompt to be about. Please answer the following questions:
+What is the main subject or theme you want the prompt to address?
+Are there any specific aspects or subtopics you'd like the prompt to cover?
+What is the desired output or goal you want to achieve with the generated prompt?
+Is there a specific format or structure you'd like the prompt to follow?
+Once I have a clear understanding of your requirements, I will provide you with the first iteration of the prompt.
+
+
+1. Building The Sanctuary System 
+2. The funnels of Sanctuary System, including Olivus Victory-Promise YouTube and what the content should be there and how it would connect, given the chat so far
+3. High click through rate, high impressions, leading to subscribers and interest in Sanctuary Nexus and The World Incorporated
+4. Outline of the entire funnel system, including multiple flows from viewer to TWI employee, to hero
+Based on your input, here's the first iteration of the prompt:
+"Develop an outline for the Sanctuary System funnel, focusing on the Olivus Victory-Promise YouTube channel content and its connection to the Sanctuary Nexus and The World Incorporated. Consider strategies to achieve high click-through rates, impressions, and ultimately convert viewers into subscribers and engaged members of TWI. Describe multiple flows, guiding viewers from their first interaction with the content to becoming employees and heroes within the Sanctuary System."
+Please review this prompt and let me know if there are any specific areas you'd like me to refine or additional questions I should ask to further improve the prompt.
+
+
+No that is entirely useless because it is generalizing all of the specifics about accomplishing the prompt. You have to pretend I know nothing other than I know the entire sanctuary system
+I apologize for the confusion. Let me provide a revised prompt based on your feedback:
+"Introduce the concept of the Sanctuary System to someone unfamiliar with it and explain the steps involved in building the Sanctuary System funnel. Detail the content and purpose of the Olivus Victory-Promise YouTube channel and its relationship with the Sanctuary Nexus and The World Incorporated. Consider specific strategies to achieve high click-through rates, impressions, and ultimately convert viewers into subscribers and engaged members of TWI. Outline the process for guiding viewers from their initial interaction with the content to becoming employees and heroes within the Sanctuary System."
+Please review this revised prompt and let me know if there are any specific areas you'd like me to refine or additional questions I should ask to further improve the prompt.
+
+
+I think you should say something like “in a funnel system: 
+
+[axioms of a funnel system]
+
+So a funnel for the Sanctuary System would look like:  [outline of funnel system of Sanctuary System]
+In order to implement this you need to make:
+[overview of all subsystems involved in the funnel system] 
+"In a funnel system:
+Attract a broad audience through engaging content and targeted marketing
+Nurture leads by providing valuable information and resources
+Convert leads into customers or subscribers through a well-designed sales process
+Retain and engage customers through ongoing support and community-building initiatives
+So a funnel for the Sanctuary System would look like:
+Attract a broad audience through engaging content on the Olivus Victory-Promise YouTube channel, focused on the Sanctuary System and its core projects.
+Nurture leads by providing educational content about the Sanctuary Nexus, The World Incorporated, and the value of virtue tech.
+Convert leads into subscribers, members, or employees of TWI by showcasing the transformative potential of the Sanctuary System and its projects.
+Retain and engage subscribers through ongoing support, resources, and opportunities to participate in the Sanctuary System as heroes and community members.
+In order to implement this, you need to make:
+Content strategy and production plan for the Olivus Victory-Promise YouTube channel.

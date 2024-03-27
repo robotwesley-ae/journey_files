@@ -1,0 +1,102 @@
+INT. SECURITY CONTROL ROOM - MOMENTS LATER
+
+Security guards, Kevin, Shenseea, Keeshaloo, Ty (Burly Bodyguard), Linda (with neon goo on her face), and Chad (still in pain) gather in the control room. Their eyes scan the screens, showing various parts of the festival. The search for Zion is underway.
+
+Write out the following scene in FDX in the style of Jeremy Garelick: Spotting Zion: In the security control room, Kevin finally spots Zion on one of the cameras. At first, anger swells up inside him as he sees his son enjoying the festival without a care, especially since Kevin had been so worried about Zion being in trouble. With the help of the head of security, they set out to find Zion, navigating through the festival crowds under the escort of the security team.
+ChatGPT
+vbnet
+Copy code
+INT. SECURITY CONTROL ROOM - NIGHT
+
+As they watch multiple screens, Kevin finally sees Zion on one of them. His son appears to be having the time of his life, oblivious to the chaos he's caused. Kevin feels a rush of anger, but it quickly subsides.
+
+KEVIN
+(pointing, agitated)
+There he is... there's Zion!
+
+HEAD OF SECURITY
+(intrigued)
+So, your kid is just out there, enjoying the show? 
+
+KEVIN
+(frustrated)
+Yes, apparently without a worry in the world while we've been going mad!
+
+The head of security signals to his team. 
+
+HEAD OF SECURITY
+(decisive)
+Alright, let's get your boy.
+
+EXT. FESTIVAL GROUNDS - CONTINUOUS
+
+Under the escort of the security team, Kevin and the head of security make their way through the festival crowd. The festival is in full swing, and they have to navigate through a sea of dancing bodies to reach Zion.
+
+rewrite, but build Kevin's anger when he sees Zion on the screen
+ChatGPT
+vbnet
+Copy code
+INT. SECURITY CONTROL ROOM - NIGHT
+
+Everyone's eyes are glued to the CCTV screens. Then, Kevin's gaze locks onto one screen in particular. There, amidst the throb of the crowd, is Zion.
+
+KEVIN
+(pointing, livid)
+That's him! That's my son!
+
+The room tenses at the crack in Kevin's voice. On screen, Zion is laughing, completely carefree. A stark contrast to Kevin's desperation and anger. 
+
+HEAD OF SECURITY
+(curious)
+That's him? He's just out there, having fun?
+
+KEVIN
+(snapping)
+Yeah, he's having the time of his life while I've been ripping mine apart! 
+
+The head of security motions to his team, all business now. 
+
+HEAD OF SECURITY
+(resolute)
+Let's get him back then.
+
+EXT. FESTIVAL GROUNDS - CONTINUOUS
+
+Kevin, consumed with anger and worry, is led by the head of security and his team through the festival grounds. The music blares, and the crowd roils around them as they plunge deeper into the festival in search of Zion.
+
+write the following into FDX: As they get closer, they spot Zion in the distance, chatting and laughing with a group of girls. The overprotective father in Kevin initially feels hurt and upset that Zion seemingly snuck away from him and is having fun without him. But then he stops. As he watches Zion for a moment, taking in the joy on his son's face, Kevin experiences a change of heart. It's then that he realizes he needs to let go and allow his son to grow, be happy, and have his own experiences. With this newfound understanding, Kevin stops the security team from going after Zion, deciding to give him the space he needs.
+ChatGPT
+vbnet
+Copy code
+EXT. FESTIVAL GROUNDS - CONTINUOUS
+
+Through the crowd, Kevin spots Zion in the distance. He's chatting and laughing with a group of girls. The sight is like a punch in the gut. 
+
+KEVIN
+(upset)
+Look at him. Just... look at him. 
+
+The security team slows, watching Kevin's reaction. But Kevin isn't moving. He's just standing there, watching his son. 
+
+CLOSE ON KEVIN
+
+As he watches Zion, something shifts in Kevin's face. His anger fades, replaced with something softer, more understanding.
+
+KEVIN
+(softly)
+He's... happy.
+
+It's a simple realization, but it changes everything. 
+
+KEVIN
+(to Head of Security)
+Stop. We're not going after him. 
+
+HEAD OF SECURITY
+(confused)
+What? But, you were...
+
+KEVIN
+(interrupts, resolved)
+No. Let him be. He's having fun... He's growing up. 
+

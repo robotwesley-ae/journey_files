@@ -1,0 +1,50 @@
+ of app-specific currencies and/or app specific DAO governance tokens; user data will be stored on blockchains and interoperable with other apps. These apps do not necessarily need to be DApps because they can still be centralized and be on blockchains. If these apps are coded with Smart Contracts, however, then they would be considered DApps. The following are short explanations of the categories of service DApps, excluding finance (as discussed above) and B2B service categories besides remote office spaces such as supply chain management. 
+
+
+Workspace
+Offices
+Remote work enabling environments with features for project collaboration
+Schools
+Remote learning environments with features for teacher insight
+Socialspace
+Social Media
+Remote social environments with features for interaction
+News
+Remote viewership environments with features for freedom of speech
+Experiences (clubs etc.)
+Remote environments with features for interaction that are not necessarily tied to their own networks, but can be inside of social media platforms
+Playspace
+Entertainment
+Story experiences
+Remote environments with features for experiencing certain things (horror stories, empathy museums, etc)
+Games
+Remote environments with features for playing single-player and multiplayer games
+Wellbeing
+Fitness
+Workout
+Mindfulness
+Meditation (Calm, Flow, Guided Meditation, etc)
+Yoga (YogaVR)
+
+Healthcare
+User health data from tech (apple watch, sensors etc) visible to the provider interface in VR settings called Decentralized Healthcare Centers (deHealth etc) where patients can receive remote care, but where a doctor can analyze a patient’s data in real time via tech. These Decentralized Health Centers will run on their own cryptocurrencies and can even be governed by DAOs.
+Immersive rehabilitation (Penumbra)
+Immersive doctor visits 
+
+
+All of the above service types may be turned into platforms and require their own tokens to participate in, which makes them DApp viable, able to be turned into DApps and potentially operated via DAOs. 
+
+END OF BRIEFING
+
+
+
+
+
+
+
+
+
+
+PROPOSAL: 
+Ontological Views on Web3 Briefing
+What are the spectral values of ontological entities that can be fit into DApps, Metaverse, and DeFi protocols? In other words, what are the requirements for joining this space, and how do we turn something that doesn’t meet the requirements into something that does?

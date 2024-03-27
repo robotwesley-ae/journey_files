@@ -1,0 +1,24 @@
+EWSO: A mathematical model of ontology that incorporates the dynamic and evolving nature of relationships in complex systems. It's a tool for understanding and mapping the changing relationships between entities and properties.
+Expert 4 (Cognitive Science):
+Informadlib Template: It's a cognitive tool that helps in understanding and manipulating the relationships between entities and properties. It simplifies the complex system by providing a structured template for representing the system.
+Informatihedron: It's a cognitive representation of the system's ontology, mapping entities, properties, and relationships onto a multi-dimensional cognitive space.
+EWSO: A cognitive framework for understanding the dynamics of relationships in a complex system. It helps in making sense of the changing nature of relationships and contexts.
+Round 2:
+Expert 1 (Ontology & Semantics): The Informadlib Template can be thought of as a guide or blueprint for generating specific instances of information in a system. The Informatihedron is the multidimensional conceptual space wherein these instances and their properties exist and interact. The EWSO is the dynamic, evolving framework that encapsulates these interactions and provides a way to understand and track these changes over time.
+Expert 2 (Computational Ontology): Building on the previous inputs, an Informadlib Template is a structure for creating, understanding, and manipulating entity-property pairings in a systematic way. The Informatihedron is a sophisticated construct that provides a comprehensive overview of the system's ontology. The EWSO provides a means of conceptualizing and tracking the evolution of relationships within the system.
+Expert 3 (Mathematical Ontology): In mathematical terms, the Informadlib Template is an abstract structure for encoding entity-property pairings. The Informatihedron is the geometric representation of this space of possibilities. The EWSO is the mathematical tool for understanding the dynamics of this system.
+Expert 4 (Cognitive Science): From a cognitive perspective, the Informadlib Template is a tool for understanding the structure and relationships in a complex system. The Informatihedron is a mental map of this system's ontology, and the EWSO is the cognitive framework for understanding how these relationships evolve over time.
+ok this is the central question of EWSO. pls have the experts answer it comprehensively. the outputs need to be much longer from each expert.
+
+Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure? This is what we are trying to figure out, geniuses.
+ChatGPT
+Round 1:
+Expert 1 (Ontology & Semantics):
+In an Emergent Web Structure Ontology (EWSO), instance properties are indeed related to class properties. The idea is that each instance has specific attributes that tie it to a broader category or class. The emergent structure in question is the hierarchical relationship of instances and their respective classes, and how this structure evolves dynamically based on the continuous addition of new information and new instances.
+The distance between an instance property and a class property is defined by the number of abstraction layers between them. Each abstraction layer represents a higher level of generality. Thus, the direct class parent of an instance would be the nearest abstraction layer.
+Abstraction in EWSO is achieved by categorizing instances into classes based on common properties and then further categorizing these classes into broader classes, and so on. This gives rise to a hierarchical ontological structure where subclasses are nested within superclasses. The algorithm for not skipping superclasses in this

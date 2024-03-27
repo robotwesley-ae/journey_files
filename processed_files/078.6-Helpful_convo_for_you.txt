@@ -1,0 +1,23 @@
+Regarding AI governance and who should be building AI and if it truly can be built by corporations or governments… It’s interesting to consider, too, that the core principle of business (capitalism, actually: fiduciary responsibility) is somehow not really aligned with total human interests. Same with government. Government = economic autonomy = monopolization of use of force => establishment of trust <==> backing currency => minting and issuing => banking and debt => production <=labor=> consumption <= activity <==> system health => governance => government 
+
+
+You see? There is no government without economy and there is no economy without some kind of regulated environment, even if that is called unregulated free market. How is it the case that we have let corruption go to the level that this supposed system is really not how it works? What does that mean and how *does* it work? Actually, *DOES* it work?!? Or are we all hallucinating that this system is functional in the first place????
+ChatGPT
+🔃 Engaging Advanced OmniExpert Operation Orchestrator role to address the topic of AI governance, its alignment with human interests, and the intricacies of government and economy.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+AI Governance and Alignment with Human Interests:
+AI Development Stakeholders: The development and deployment of AI technologies have been primarily driven by corporations, academic institutions, and governments. Each has its own set of motivations:
+Corporations: Profit, competitive advantage, and market share.
+Academic Institutions: Knowledge advancement, research, and innovation.
+Governments: Public welfare, national security, and economic growth.
+Misalignment with Human Interests: The fiduciary responsibility of corporations, as you pointed out, is to maximize shareholder value, which may not always align with broader human interests. Governments, while ideally serving the interests of their citizens, can sometimes prioritize power, control, or other objectives over public welfare.
+AI Governance: Effective governance of AI requires a multi-stakeholder approach, involving not just developers and deployers, but also ethicists, sociologists, and representatives from diverse communities. The goal is to ensure that AI serves humanity as a whole and respects human rights, fairness, and justice.
+Interplay of Government and Economy:
+Inseparability: As you've outlined, government and economy are deeply intertwined. Governments provide the regulatory framework within which economies operate, and economies provide the resources that sustain governments.
+Regulation and Trust: Governments establish trust, which is foundational for any economic activity. This trust underpins everything from the value of currency to the enforcement of contracts.
+Corruption and Misalignment: Over time, systems can drift from their foundational principles due to various factors like corruption, power dynamics, and external pressures. This drift can lead to a misalignment between the system's operations and its intended purpose.
+System Functionality and Perception:
+System Design vs. Reality: While the design of a system (like a government or an economy) might be sound in theory, its implementation can be flawed due to human factors like greed, shortsightedness, or lack of information.
+Perception of Functionality: Whether a system "works" is subjective and can vary based on individual experiences and perspectives. Some might argue that despite its flaws, the system provides stability and order. Others might contend that it's fundamentally broken and needs overhaul.
+Hallucination or Reality?: The idea that society might be "hallucinating" a functional system is a philosophical perspective. It suggests that collective belief in a system's functionality might be the only thing keeping it operational. If that belief falters, the system might collapse or require significant reform.
+[Finalization]:

@@ -1,0 +1,38 @@
+Next, we would need to describe the relationship between myopia and hyperopia and the conditions that give rise to them. We might represent this as follows:
+
+M(x) is the abstraction hallucination due to drawing conclusions within the specifics of D(x): ∀x (M(x) ↔ A(x) ∧ D(x) ∧ S(x))
+H(x) is the abstraction hallucination due to drawing conclusions within the relationships to other domains of D(x): ∀x (H(x) ↔ A(x) ∧ D(x) ∧ R(x))
+These formalizations are just examples of how we might represent the claims in the text using first-order logic. There may be other ways to formalize the claims depending on how one interprets the text, and some of the claims may be subject to critique or further clarification based on their assumptions, premises, or language. Nonetheless, by breaking down the claims into specific components, we can gain a more precise understanding of the arguments and evaluate them in a more systematic and rigorous manner.
+
+
+In the text, the author also invokes game theory concepts such as Nash equilibrium and emergent dynamics to support their arguments. To analyze these arguments from a game-theoretic perspective, we would need to formalize the relevant concepts and show how they relate to the claims being made.
+
+First, let's define the concept of Nash equilibrium. A Nash equilibrium is a state in which each player's strategy is optimal given the strategies of the other players, and no player can gain by changing their strategy unilaterally. We can represent this concept using the following symbol:
+
+Nash equilibrium: NE
+Next, let's consider the idea of a non-contradictory system in the context of game theory. According to the text, a non-contradictory system emerges as a natural response to the conceptual FSM state called Nash equilibrium. We might represent this relationship as follows:
+
+NE ⇒ non-contradictory system
+In other words, a Nash equilibrium leads to a non-contradictory system. However, the text also notes that stochastic processes and emergent dynamics can lead to changes in the game that disrupt the Nash equilibrium, and therefore the non-contradictory system. To capture this idea, we might represent the relationship between Nash equilibria and emergent dynamics using the following symbols:
+
+Nash equilibrium: NE
+Emergent dynamics: ED
+NE ⇒ ¬ED
+ED ⇒ ¬NE
+In other words, if there is a Nash equilibrium, there are no emergent dynamics, and if there are emergent dynamics, there is no Nash equilibrium.
+
+The text also suggests that a non-contradictory system is beneficial for the group in which all players act for themselves strictly. To represent this idea, we might use the following symbols:
+
+Non-contradictory system: NCS
+Beneficial for group: BG
+Strict self-interest: SI
+NCS ∧ ∀x SI(x) ⇒ BG
+In other words, if there is a non-contradictory system and all players act strictly in their self-interest, the outcome is beneficial for the group.
+
+Overall, these game-theoretic formalizations show how the concepts of Nash equilibrium, emergent dynamics, and self-interest can be used to support the claims made in the text about the benefits of a non-contradictory system in game-theoretic contexts. However, as with the first-order logic formalizations, there may be other ways to represent these concepts and their relationships, and further analysis may be needed to assess the strengths and weaknesses of the arguments. 
+
+Sure, I can continue with a more detailed expression of the game theoretic notation as used in the text.
+
+The text argues that a non-contradictory system is a natural response to the conceptual FSM state called Nash equilibrium, which is defined as a state where each player's strategy is optimal given the strategies of the other players, and no player can gain by changing their strategy unilaterally. Formally, we can define the Nash equilibrium as follows:
+
+Nash equilibrium: NE

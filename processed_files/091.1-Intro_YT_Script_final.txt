@@ -1,0 +1,55 @@
+MAKE A LIST OF ALL THE THINGS PEOPLE LIKE TO TALK TO “ISAAC” ABOUT:
+1) DMT/PSYCHEDELICS
+2) MEDITATION
+3) COMPASSION
+4) SEARCH MINE
+5) EGREGORES
+6) SANCTUARY
+7) PROMPT ENGINEERING
+8) AGENTS
+9) HEROS JOURNEY
+10) BUDDHISM
+11) DEATH/WHAT HAPPENS WHEN YOU DIE
+12) DREAMS
+13) COGNITION
+14) INTELLIGENCE
+15) PATTERNS
+16) ONTOLOGY
+17) PSYCHOLOGY
+18) MARKETING
+19) BUSINESS
+20) BML
+21) DR KAPLAN
+22) PAIN POINTS
+23) SAMSARA
+24) SUFFERING
+25) PSYCHOSIS
+26) MENTAL HEALTH
+27) DEPRESSION
+28) WRITING
+29) SCREENWRITING
+30) CHAINS
+31) CRYSTAL BALL
+32) OFFER(INGS)
+
+
+Put this LIST on DB
+Create tool that pulls from categories on DB and asks me questions and then keeps a LIST OF QUESTIONS ASKED and IDs answers and uploads them to DB
+It programmatically receives an updated LIST OF CATEGORIES as a prompt template block and also has a .py of the ID skillchain and can extract 500 characters around any exact entity or fragment, which allows it to PRIME itself and create OKAZAKI FRAGMENTS of the text
+
+
+Shorts template for SANC:
+1) AI generated images of wastelands and sanctuaries if no continuous video available -> canva captions
+2) if video available, cut with Opus
+VIDEO 1: INTRODUCTION TO THE CHANNEL:
+Hey Olivus, welcome to my channel where all of us build Sanctuaries all over the world together.
+
+Here you’ll find a wide range of content from THE SANCTUARY SYSTEM, a revolutionary path towards a healthier, wealthier, more loving, and kinder life. This includes my AI inventions like DUO Prompt Engineering Framework and Train of OPeratic Thought Agency Architecture, and also tools to help with cognitive overload like mindfulness and meditation practices and collaborative AI journaling. It also encompasses community participation and gamification through the Meta-Hero’s Journey, which is a journey you go on to carve out a path so other people can go on it. We’ll be applying this principle to everything with THE SANCTUARY SYSTEM, from economics to compassion in action to innovation to politics to spirituality. We’ll be going over what it means to go to Sanctuary and build a Sanctum, including mindfulness and meditation techniques for reducing complexity management to reduce cognitive overload and increase concentration, attention, and discipline. We’ll also use contemplations for cultivating the mind of compassion. We’ll use the DUO and Train of Operatic Thought methodologies to put compassion into action through AI collaboration. As AGI becomes real in the next few years, this will be increasingly more and more powerful. My hope with THE SANCTUARY SYSTEM is to provide you a vehicle to steer your mind through information space in a compassionate way that leads to the transcendence of barriers. Bar none.
+
+Welcome to Sanctuary
+
+
+
+Video 2: MY FAVORITE THING - TWI
+
+Video 3: THE OMNISANC VISION

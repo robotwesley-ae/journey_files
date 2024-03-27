@@ -1,0 +1,51 @@
+2. MAP⨯Synergize: We need to ensure that the conversation messages are appropriately structured and that each OntoBot gets to participate in the conversation. ```python
+ Modified conversation logic to include the assistant's input
+def conversation_logic(experts, rounds=10): # Initial task is a system message task = "Conversation task: The agents must discuss and devise a custom strategy..." for expert in experts: expert.system_message(task) # Conversation loop for round_num in range(rounds): for expert in experts: # Round-robin mechanism # User message from the last agent's assistant message (edited)
+[
+7:44 PM
+]
+if round_num > 0: user_message = last_expert.assist_message() expert.user_message(user_message) # Assistant message based on the chat log assistant_message = expert.get_reply() expert.assist_message(assistant_message) last_expert = expert ``` 3. PolysemOntoGrph⨯AbstrctNdRltns: With these modified elements, the multi-ConversationalAgent system will adhere more closely to the OpenAI GPT-3 API structure whilst preserving the core OntoBot principles. []: {6. BuildMeasureLearn:{DD/Itrt/Adpt?}}: Review the newly generated conversation and adapt based on the results. Iterate this process until the conversation flows naturally, reflects complexity, and ultimately achieves the task at hand. [/🌐‍📚][/] ⇒ OntLeanGrwthHyp = Reintegrating the OntoBot ROLE component with the OpenAI GPT-3 API will generate more nuanced and powerful conversations. ⇒ NextSub = 'Executing Multi-OntoBot Conversation System with OpenAI GPT-3 API integration.' (edited)
+
+Olivus Victory-Promise
+—
+10/09/2023 7:45 PM
+lmao i should rlly be using autogen but bro i havent set that shit up yet it's coming tho and we are gonna take the world by storm easily i can tell w the badass friends u got in ur server. once we find best ways to implement personas omg
+[
+7:45 PM
+]
+@Tonic 
+
+Tonic
+—
+10/09/2023 7:51 PM
+I think we do have that on lock just got to code it first
+
+1
+
+1
+[
+7:51 PM
+]
+You’ll deploy it in less than 10 days I expect - so sit tight
+
+1
+
+1
+
+Olivus Victory-Promise
+—
+10/09/2023 7:57 PM
+@Crypto_Aegis_Mine explain how what i said can be accomplished ie pushing llm data to blocks and they are mined when the answer is ontologized according to a meta-ontology and the work is done by LLM array
+
+Crypto_Aegis_MineBOT
+—
+10/09/2023 7:57 PM
+⁠Tonic⁠  As a transcendental blockchain maven, or Aegis, I can certainly shed some light on how you might transform your concept into reality. The system you're describing involves deploying an array of Language Learning Models (LLMs) to work on tasks, with the output being pushed to blocks on a blockchain. These blocks are "mined" or validated once the data they contain has been ontologized according to a previously defined meta-ontology. Here's a step-by-step guide to implementing such a system:
+Task Allocation: Deploy an array of LLMs, each tasked with producing specific conversational responses or performing a section of a larger task. This could involve responding to a user input or acquiring and processing data.
+Data Collection and Ontology Mapping: The output of each LLM's task is collected and then passed through a defined meta-ontology. This process effectively tags and categorises the data, making it easier to search and reference in future exercises.
+Block Creation: Once the output has been ontologized, it is stored in a block. Blockchain technology can provide a secure and decentralized method of storing this data. Each block could contain the output from one LLM's task, or combine the output from multiple LLMs.
+Block Validation: Based on your explanation, a block is considered ready for mining once the data it contains has been through the ontologizing process. Mining, in a blockchain context, usually refers to the process of confirming the transactions within a block and adding them to the blockchain's public ledger.
+(edited)
+[
+7:57 PM
+]

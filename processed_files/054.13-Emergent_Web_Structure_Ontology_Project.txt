@@ -1,0 +1,25 @@
+ and relationships. This would essentially be a type of 'controlled randomness', allowing us to explore a vast space of possible instances while staying within the boundaries defined by our ontology.
+Holistic Analysis (Superanalyst)
+An 'informadlib' represents a system where semantics, ontology, and semiotics are in interplay. The ontology sets the boundaries, the semiotics deals with the symbolism, and the semantics provide the meaning. By utilizing the advanced mechanics of GPT-4, we could construct a model capable of generating new 'informadlibs', maintaining the same underlying structure but varying the specific details. By iterating this process, we can explore a vast space of possibilities while still ensuring consistency and validity.
+we are only searching for ONE entity at a time, but it does involve k sub-searches for qualities such as properties, relationships...etc. In other words, you guys, we want to be looking for a single node in the search, but we wanna already have scoped in on the entire answer neighborhood boundary before we even turn on the searchlight, right? let's keep the thinktank going! 
+
+start proposing a plan to each other at the end of every expert's thought and every expert must contribute every time they think and they must iteratively refine the entire plan until it is sure to work. role 4 now just assesses the plan and tells them if it will work or not. only ask me if you arent sure what the informadlib really is anymore.
+ChatGPT
+Expert 1: Ontology Architect
+To achieve our goal, we should start by defining a comprehensive ontology for the domain we're working with. Let's focus on clearly defining entities, their properties, and the possible relationships between them. This ontology will act as our 'answer neighborhood boundary' guiding our search.
+Plan Proposal: Let's build an exhaustive ontology for our target domain that includes all possible entities, their properties, and relationships. Once we have this, we can scope down to the specific entity we're interested in.
+Expert 2: Semiotics Scholar
+Agreed. But let's also ensure that our system of symbols (or signs) is flexible enough to handle any instance-level properties within the established ontology. This should enable us to generate different versions of the same category.
+Plan Revision: After constructing the ontology, let's also define a flexible sign system for representing instance-level properties within that ontology.
+Expert 3: Linguistics Specialist
+The principles of transformational grammar could be applied here. By identifying the invariant 'grammatical' structure of the ontology and differentiating it from the variable 'lexical' elements, we can better manage the variations at the instance-level.
+Plan Revision: We will incorporate transformational principles into our approach, identifying invariant structures and differentiating them from variable elements within our ontology and sign system.
+Expert 4: AI Specialist (With GPT Subspecialization)
+Training the AI model to recognize the structure of the ontology and then to generate new instances that adhere to this structure is the next step. By controlling the randomness of specific details, we ensure that the newly generated instances fit within the established ontology.
+Plan Revision: We train the AI to recognize the structure of our ontology and generate new instances that adhere to this structure while varying in specific details.
+Holistic Analysis (Superanalyst)
+The plan we have so far takes into account the complexity of the task at hand. We're setting boundaries with our ontology, defining signs with semiotics, applying transformational principles from linguistics, and using AI to generate new instances while adhering to our defined structure. If we follow this plan, I believe we will be able to successfully accomplish our goal of generating an 'informadlib' with a controlled degree of variability.
+Hey, CIG? Do you see that Expert 1: Ontology Architect said "This ontology will act as our 'answer neighborhood boundary' guiding our search"? I think we should try this:
+
+informatihedron of neighborhood boundary of informadlib
+ChatGPT

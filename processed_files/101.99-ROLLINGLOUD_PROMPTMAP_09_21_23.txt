@@ -1,0 +1,47 @@
+Rewrite the following, checking for spelling, and flow: INT. SECURITY CONTROL ROOM - MOMENTS LATER The security guards, Kevin, Shenseea, Keeshaloo, Ty (Burly Bodyguard), Linda (neon goo on her face) and Chad (fighting through pain), huddle in the control room, their eyes scanning multiple screens displaying various parts of the festival. The hunt for Zion is on. LINDA Is that him? CHAD That’s not him-- KEVIN (interrupting) That is him! (pointing, livid) That's him! That's my son! The room tenses at the crack in Kevin's voice. On screen, Zion is laughing, carefree, hanging out with other TEENAGERS. A stark contrast to Kevin's desperation and anger. HEAD OF SECURITY (curious) That's him? He's just out there, having fun? KEVIN (snapping) Yeah, he's having the time of his life. I’m gonna kill him. The head of security motions to his team, all business now. HEAD OF SECURITY (resolute) Let's get him back then. EXT. ROLLING LOUD STAGE - NIGHT The stage lights blaze bright, revealing the silhouette of PLAYBOI CARTI. The crowd roars as his name echoes through the festival grounds. ANNOUNCER (V.O) Rolling Loud! Make some noise for PLAYBOI CARTI! The cheers amplify, reaching a fever pitch as Carti steps into the light, a grin on his face. The bass line drops and Carti starts performing, the crowd jumping and singing along in unison. The festival grounds vibrate with raw energy. EXT. FESTIVAL GROUNDS - CONTINUOUS Kevin, consumed with anger and worry, is led by the head of security and his team through the festival grounds. The music blares, and the crowd roils around them as they plunge deeper into the festival in search of Zion. EXT. FESTIVAL GROUNDS - MOMENTS LATER Through the crowd, Kevin spots Zion in the distance. He's moshing with a group of teenagers, laughing and singing along to the music. Also with him is a very cute teenage girl (who probably also snuck in). The sight is like a punch in the gut. KEVIN (upset) Look at him. Just... look at him. The security team slows, watching Kevin's reaction. But Kevin isn't moving. He's just standing there, watching his son. CLOSE ON KEVIN As he watches Zion, something shifts in Kevin's face. His anger fades, replaced with something softer, more understanding. KEVIN (softly) He's... happy. It's a simple realization, but it changes everything. KEVIN (to Head of Security) Stop. We're not going after him. HEAD OF SECURITY (confused) What? But, you were... KEVIN (interrupts, resolved) No. Let him be. He's having fun... He's growing up. Kevin steps back, a bittersweet smile on his face as he watches his son enjoy his youth. Zion has no idea of the chaos his father has gone through. And Kevin, for now, is okay with that. BURLY BODYGUARD (holds his finger to his ear, walkie) Yeah. 10-4. The Burly Bodyguard turns to Kevin. BURLY BODYGUARD Come with me. Kevin exchanges a curious glance with Linda and Chad.
+ChatGPT
+vbnet
+Copy code
+INT. SECURITY CONTROL ROOM - NIGHT
+
+The security team huddles around the screens, Kevin, Shenseea, Keeshaloo, and Ty among them. Linda, her face splattered with neon goo, and Chad, gritting his teeth against the pain, join them. Their eyes comb the various screens, scanning the bustling festival. 
+
+LINDA
+Could that be him?
+
+CHAD
+No way, that kid's--
+
+KEVIN
+(interrupting)
+That's him. That's my boy.
+
+His finger jabs at the screen. His voice carries an edge of bitterness that silences the room. 
+
+On screen, Zion, carefree, shares a laugh with a group of TEENAGERS. His joy sharply contrasts Kevin's mounting frustration.
+
+HEAD OF SECURITY
+(intrigued)
+The kid? He's just out there, living it up?
+
+KEVIN
+(snapping)
+Yeah, he's having a blast. I could strangle him.
+
+The Head of Security gives a firm nod to his team.
+
+HEAD OF SECURITY
+(resolute)
+Let's bring him in.
+
+EXT. ROLLING LOUD STAGE - NIGHT
+
+Stage lights cut through the dark, outlining PLAYBOI CARTI. A wall of sound hits as the crowd erupts.
+
+ANNOUNCER (V.O)
+Rolling Loud, give it up for PLAYBOI CARTI!
+
+The cheers surge as Carti steps forward, grinning. The bass drops, he begins his performance, the audience mirroring every lyric, every move.
+
+EXT. FESTIVAL GROUNDS - CONTINUOUS
+

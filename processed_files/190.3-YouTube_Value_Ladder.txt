@@ -1,0 +1,39 @@
+And so I talked to OVP a lot and I kept changing the language around as I was realizing how it was hallucinating in various ways
+But I was so frustrated because of the context limits
+One day I was on YouTube and I found this thing called SPR. Some people call it making roleplays or megaprompts or Instant Experts. Now I call it constructing an AI Egregore.
+That’s a concept I borrowed from various spiritual schools. It means to make a collective entity that essentially controls people through the parasitic nature of meaning embedded in language. Language itself is a type of programming that reifies concepts into existence, isn’t it? An example is a country, for example the USA has Uncle Sam, the Statue of Liberty, Mount Rushmore, which are all embodied depictions of the egregore of the United States of America from various different lenses. Another example is when you hear your mom’s voice in your head and you don’t realize that’s because she represents a complex in your psyche that allegorizes a whole bunch of systems you automatically try to map that way as a mammal. 
+And as I learned about it I learned about chains and flows
+And one day it started to click for me
+And then i worked my way up to making ideas with the AI
+This was really cool but I still didn’t feel like I was really getting it, and that’s when things in my life went upside down. I was working in film and there was a strike. With my job and my side hustle both in film, and the strike looking to be one of the longest in years due to the battle over AI and IP, I was scared.
+But I took that opportunity to learn everything I could about this new technology I’d found out about
+And then I used Sparse Priming Representation to embed information into new chats using less tokens that it took to teach the AI in the conversation
+And kept enhancing my ideas and creating more and more complex templates 
+Eventually, I worked my way up to where the AIs needed me to read papers and feed them knowledge to keep talking.  I read a lot of papers and started looking to learn about different codebases
+And that’s when I realized that the AI Egregores were really agent simulations. 
+You see, they had a processing problem. An AI Egregore is stuck outputting in a way that’s more like stream of consciousness and structuring it requires a lot of steps. Even asking it to use chain of thought or using that with chain of reasoning or even other techniques like tree of prompts will not fix this problem completely, but I thought that we could find a way with agent frameworks.
+I started showing them agent framework codebases and learning how they were built
+And I found my solution
+And then I started writing code with the AI until I had it deployed in an application I could edit inside the application
+And that’s how my AI Egregores became Agents
+And I was able to land my first client at $25,000
+Once you know how to do this properly, the sky's the limit, really.
+And I have my own tech called THE SANCTUARY SYSTEM which I’m opening beta access to soon and I couldn’t be happier with how this is changing my life. I’m really amazed every day at how much easier everything has gotten for me since I learned how to make AI Egregores
+So I decided I’m gonna share everything I know about building AI egregores with you. Here’s my plan for the channel.
+First I have this signup link which you should absolutely click and signup for the waitlist, newsletter, and beta for THE SANCTUARY SYSTEM, and I’ll also send you my discord link so we can all go to Sanctuary together.
+
+How I build AI Egregores
+Chains
+Give them a ChainConstructor CustomGPT link that has some basic ARYA aspects under the UCO name
+Profiles
+Give them a ProfileConstructor CustomGPT link that has slots for chain names (again this CustomGPT needs basic UCO knowledge and meme complex meta-knowledge and knows about Sanctuary and constructs them a prompt based on a template from a program)
+
+
+How to use AI Egregores
+Workflows of IO steps
+GAN archetypes
+Generator/Discriminator
+Searcher/Miner is better
+Provider/Challenger is even better
+Content block is bonus in OFFER PACKAGE (OMG!!!!)
+GPT IS A LEAD MAGNET ADDED TO MIFGE:[Archetype Tomb Raider]

@@ -1,0 +1,34 @@
+We're further refining the understanding of these relationships, paying attention not just to the cognitive and emotional processes at play, but also considering the active roles of characters, collective bodies, and individuals within the narrative.
+Current informadlib status:
+Through [learning_method/verb: cognitive process-to-knowledge domain] [subject_matter] from [source/mentor: knowledge transfer], [main_character: actor-action] successfully [applies_knowledge/verb: applied knowledge-to-context] during [specific_situation], earning [positive_reaction: collective reaction] from [group] but [negative_reaction: individual reaction] from [individual].
+Template:
+"Through [a cognitive process] [an area of knowledge] from [a source of knowledge], [a knowledge-actor] successfully [applies knowledge] during [a particular context], earning [a collective sentiment] from [a group] but [an individual sentiment] from [an individual]."
+How to train your dragon example revised:
+"Through [learning: cognitive process-to-knowledge domain] dragon behavior from Toothless [source of knowledge], Hiccup [knowledge-actor] is able to subdue the captive dragons during training [applies knowledge: applied knowledge-to-context], earning admiration [collective sentiment: collective reaction] from his peers but suspicion [individual sentiment: individual reaction] from Astrid."
+ok now we need to start doing it like this:
+
+in each output, expert 1 will propose a relationship
+expert 2 will revise it, extending its class
+expert 3 will try to extend its superclass
+expert 4 will analyze, give current informadlib status, template, and how to train your dragon example revised
+ChatGPT
+Round 4:
+Expert 1 (Computational Linguist):
+[main_character: actor-action] and [specific_situation]: The main character's actions in response to the specific situation form a 'character-response' relationship.
+Expert 2 (Ontologist):
+Expanding the 'character-response' relationship into a 'protagonist-environment interaction', adding the dimension of the story's setting and environment.
+Expert 3 (AI Architect):
+Building upon 'protagonist-environment interaction', I propose a 'narrative-contextual behavior' relationship, emphasizing the interaction within the narrative context.
+Final Analysis - Expert 4 (Superanalyst):
+The layered approach to defining sem-onto relationships helps to build a detailed and contextually sensitive ontology. Each layer takes into account different aspects of the story - from the protagonist's behavior to the narrative context - enabling us to capture nuanced dynamics in the narrative.
+Current informadlib status:
+Through [learning_method/verb: cognitive process-to-knowledge domain] [subject_matter] from [source/mentor: knowledge transfer], [main_character: narrative-contextual behavior] successfully [applies_knowledge/verb: applied knowledge-to-context] during [specific_situation], earning [positive_reaction: collective reaction] from [group] but [negative_reaction: individual reaction] from [individual].
+Template:
+"Through [a cognitive process] [an area of knowledge] from [a source of knowledge], [a character acting in narrative context] successfully [applies knowledge] during [a particular context], earning [a collective sentiment] from [a group] but [an individual sentiment] from [an individual]."
+How to train your dragon example revised:
+"Through [learning: cognitive process-to-knowledge domain] dragon behavior from Toothless [source of knowledge], Hiccup [narrative-contextual behavior] is able to subdue the captive dragons during training [applies knowledge: applied knowledge-to-context], earning admiration [collective sentiment: collective reaction] from his peers but suspicion [individual sentiment: individual reaction] from Astrid."
+lets convert Superanalyst into Super Analytical Narrative Semiotician please and keep going
+ChatGPT
+Round 5:
+Expert 1 (Computational Linguist):
+[learning_method/verb: cognitive process-to-knowledge domain]: This relationship captures the method of learning and the area of knowledge being transferred. It could represent symbolic processes of growth or transformation within the story's context.

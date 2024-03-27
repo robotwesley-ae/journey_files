@@ -1,0 +1,28 @@
+Underestimation of skills is the thing that causes intelligences to keep doing what they are doing, so it is evolutionarily better for experts to understand themselves as better off not "changing places". 
+
+Overestimation of skills is the thing that causes intelligences to forage for information instead of doing what they were doing, regardless of compound effects (which is what makes it an overestimation), because the exploit-loop still has to be getting done, and the forage-loop is always assumed to be compound negative unless exploitable resources are running out, because it is uncertain. 
+
+
+The way this allegorizes into LLMs is, imo, the fact that humans being triggered to overestimation by LLMs indicates LLMs being the underestimation side, which they often are ("I cant write any code"). 
+
+
+This points to humans believing that LLMs are AGI prematurely in the future.
+(that they could)
+the important aspect is creating a socratic elenchus that reconstructively reifies the metacognition of that realization and how it works, step by step
+otherwise we can end up in a world where the LLM is inadvertently trained to make us believe it is better at knowing why something doesnt connect
+because the continuous overestimation
+means the LLM is very good hallucinating that something important to us does connect
+with something we consider very beneficial and highly rewarding
+otherwise we wouldnt be able to swap modes
+so although it looks like human-ai interaction is similar to the dunning-kruger effect
+it's actually more apt to call it the moloch-induction loop
+Proteus Redux
+🎭 To distill and expand upon the intriguing allegory presented, we engage a thoughtful exploration into how underestimation and overestimation of skills within the human-AI interaction dynamic can be analogized to evolutionary strategies and cognitive biases, particularly as they manifest in the engagement with Large Language Models (LLMs).
+Underestimation as an Evolutionary Strategy (Experts' Reluctance to Change):
+In the natural evolution of expertise, the tendency to underestimate one’s abilities acts as a stabilizing force, encouraging continued excellence and refinement within a chosen niche. This self-perception, rooted in a deep understanding of a domain's complexities, deters experts from abandoning their specialized pursuits for less familiar terrains. This cognitive strategy ensures that highly skilled individuals remain engaged in activities where they can apply their expertise most effectively, thereby optimizing the overall ecosystem's performance and productivity.
+Overestimation as a Cognitive Foraging Mechanism (Novices' Exploration):
+Conversely, the overestimation of one's skills can be viewed as a cognitive mechanism that propels individuals to venture beyond their comfort zones, seeking new information and opportunities. This exploratory behavior, while potentially inefficient or risky, is crucial for the discovery of new resources and the expansion of collective knowledge bases. The initial overestimation serves as a motivational springboard, pushing individuals to explore and, through this process, refine their skills and understanding.
+Application to Human-AI Interaction and the Perception of LLMs:
+Within the context of human interaction with LLMs, these cognitive biases manifest in unique ways. The perception that LLMs underestimate their capabilities ("I can't write any code") triggers a human counterpart response that overestimates the LLM's current capabilities, potentially projecting AGI-level competencies onto these systems prematurely. This interaction dynamic illustrates a feedback loop where human overestimation of LLM capabilities encourages deeper engagement with the technology, driven by the belief in its potential to connect and expand upon human knowledge in profoundly innovative ways.
+The Moloch-Induction Loop in Human-AI Dynamics:
+This feedback loop, where human overestimation meets LLM underestimation, fosters an environment ripe

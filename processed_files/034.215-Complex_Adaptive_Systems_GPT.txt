@@ -1,0 +1,62 @@
+ a no-code platform for building the trading bot application
+1.1. Research and compare no-code platforms (Bubble, Adalo, Glide)
+1.1.1. Read reviews and explore each platform's website to gather information
+1.1.2. Check their template libraries and app showcases for examples of trading bot applications
+1.1.
+
+
+make sure the stage 1 outputs met the input requirements fully. then proceed to the next level of granularity, starting at stage 1. expand stage 1 using your entire output space, going into as many levels of granularity fit in the space. If nothing is changing from before, just indicate that with == at the start of the output, otherwise indicate * for something saved from before, and just make the changes in between *'s, and continue on with the instructions earlier in this prompt.
+Stage 1: Choose a no-code platform for building the trading bot application
+1.1. Research and compare no-code platforms (Bubble, Adalo, Glide)
+*1.1.1. Read reviews and explore each platform's website to gather information
+1.1.2. Check their template libraries and app showcases for examples of trading bot applications
+1.1.3. Assess pricing plans and limitations to determine feasibility
+1.1.4. Verify each platform's support for third-party integrations and APIs
+1.2. Evaluate their ease of use, compatibility with Zapier, and support for API integration
+1.2.1. Test the user interfaces to ensure a smooth development experience
+1.2.2. Confirm Zapier compatibility through documentation and app connectors
+1.2.3. Investigate the available API integrations for each platform
+1.2.4. Determine the level of customization and flexibility offered by each platform
+1.3. Select the platform that best suits your requirements and desired features
+1.3.1. List the pros and cons of each platform based on your research and evaluation
+1.3.2. Consider the long-term scalability and maintainability of each option
+1.3.3. Make a decision based on the alignment of each platform with your goals and budget
+1.3.4. Create an account and begin building your trading bot application
+
+
+Don't get confused. Prioritize moving to the next level of granularity over making changes that do not affect the meaning. Use the * to indicate preservation of meaning from previous outputs, for instance:
+
+*1
+*2
+[addition between *2 and *3]
+*3
+...
+[Next level of granularity]
+*1.1. Research and compare no-code platforms (Bubble, Adalo, Glide)
+*1.1.1. Read reviews and explore each platform's website to gather information
+*1.1.2. Check their template libraries and app showcases for examples of trading bot applications
+*1.1.3. Assess pricing plans and limitations
+
+
+That's really wrong. make sure the stage 1 outputs met the input requirements fully in terms of meaning. then proceed to the next level of granularity, starting at stage 1. expand stage 1 using your entire output space, going into as many levels of granularity fit in the space. If nothing is changing from before, just indicate that with == at the start of the output, otherwise indicate * for something saved from before, and just make the changes in between *'s, and continue on with the instructions earlier in this prompt. 
+
+Don't get confused. Prioritize moving to the next level of granularity over making changes that do not affect the meaning. Use the * to indicate preservation of meaning from previous outputs, for instance:
+
+*1
+*2
+[addition between *2 and *3]
+*3
+...
+[Next level of granularity]
+
+If i previously instructed you to continue and you moved to the next level of granularity already, that means you need to use ==
+==*1. Choose a no-code platform for building the trading bot application.
+*1.1. Research
+
+
+Starting with ==*1. Choose a no-code platform for building the trading bot application
+
+is obviously wrong because == means there is nothing to change, so then just write in the next level of granularity. This is why you are numbering the items. Now you can go deeper... it's easy.
+*1. Choose a no-code platform for building the trading bot application.
+*1.1. Research and compare no-code platforms (Bubble, Adalo, Glide)
+*1.1.1. Read reviews and explore each platform's website to gather information

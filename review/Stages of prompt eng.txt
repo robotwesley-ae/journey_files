@@ -1,0 +1,20 @@
+Using other instant experts and prompts to talk about things you don’t know about
+From learning about it and executing, Realizing the prompt is missing an aspect
+Editing the prompt without breaking it
+Creating your own prompts
+
+
+Agents
+
+Creating your own prompts
+Implementing workflows in prompts
+Realizing the prompts can’t execute beyond a certain number of steps or amount of complex emergent mnemonic NL code
+Using an agent framework
+
+Agents part 2
+
+Using someone else’s agent framework
+Trying to add a feature
+Not understanding the code
+Unable to contextualize the AI to know the code effectively
+Learn to create your own agent framework from scratch using experts and prompts 

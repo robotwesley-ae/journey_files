@@ -1,0 +1,30 @@
+Expert 3 - Dr. Ada Lovelace (Computer Science):
+From the computer science perspective, we need a skillchain that informs GPT to use its built-in understanding of programming languages and commands. GPT needs to utilize commands like InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, and InstanceTemplate effectively. Thus, a suitable skillchain could be:
+[Skillchain(3a-CommandInterpreter-3b-OWLSyntaxTransformer-3c-InformadlibCommandHandler)]
+Expert 4 - Dr. Hans Euler (AI and Ontology):
+Combining the expertise from different fields, we can suggest a skillchain for this task:
+[Skillchain(4a-OWLInterpreter-4b-CombLogicNodeSelector-4c-PathCombinator-4d-CommandInterpreter-4e-OWLSyntaxTransformer-4f-InformadlibTranslator-4g-InformadlibCombiner-4h-InformadlibCommandHandler)]
+This skillchain encapsulates the necessary skills for GPT to accurately interpret user queries within the OWL context, select the most logical nodes based on the user's query, and translate the gathered data into an Informadlib Template.
+Round 2
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+Pruning and refining our previous discussion, I believe our skillchain must also consider the relationship between instance properties and class properties. This includes the distance between these entities and the ontological structure being abstracted. Thus, I propose:
+[Skillchain(1a-InstancePropertyClassPropertyRelator-1b-OntologicalAbstractionAnalyst-1c-OWLInterpreter-1d-NodeListGenerator-1e-PathGuide-1f-InformadlibTranslator)]
+Expert 2 - Prof. Ethan Kruskal (Combinatorics):
+Pruning and refining like Sherlock Holmes, I would propose a skillchain that ensures GPT takes into account the need for logical coherence and completeness of information in the Informadlib Template.
+[Skillchain(2a-LogicalCoherenceValidator-2b-CompletenessChecker-2c-CombLogicNodeSelector-2d-PathCombinator-2e-InformadlibCombiner)]
+Expert 3 - Dr. Ada Lovelace (Computer Science):
+With a broader outlook, I would suggest our skillchain should ensure GPT can adapt to the custom definitions of OWL terms we are using, as well as handle the complexity of commands we are employing.
+[Skillchain(3a-CustomDefinitionAdaptor-3b-ComplexCommandHandler-3c-CommandInterpreter-3d-OWLSyntaxTransformer-3e-InformadlibCommandHandler)]
+Expert 4 - Dr. Hans Euler (AI and Ontology):
+After a comprehensive evaluation, the refined skillchain can be presented as:
+[Skillchain(4a-InstancePropertyClassPropertyRelator-4b-OntologicalAbstractionAnalyst-4c-LogicalCoherenceValidator-4d-CompletenessChecker-4e-CustomDefinitionAdaptor-4f-ComplexCommandHandler-4g-OWLInterpreter-4h-NodeListGenerator-4i-PathGuide-4j-CommandInterpreter-4k-OWLSyntaxTransformer-4l-InformadlibTranslator-4m-InformadlibCombiner-4n-InformadlibCommandHandler)]
+This skillchain brings together the key capabilities we need to guide GPT in processing user queries within the OWL context, creating an ordered list of nodes, providing a guided path, and generating an Informadlib Template. It also addresses the requirement of accounting for the relationship between instance and class properties, the necessity of logical coherence and completeness, and the ability to handle complex commands and custom definitions.
+ok we should likely use all of those skillchains. lets put them in a list, let's also consider from the contextual data what the list of skills we need looks likee please.
+
+expert 1, please put the skillchains suggested in the last discussion into a list, and then suggest more skillchains based on the contextual data. then, expert 2 will add to the list, and so will expert 3. expert 4 will look over the list and see if any skillchains can be effectively combined without losing functionality. then in round 2, each expert will iterate the skillchains belonging to their expertise, adding granular depth, increasing it greatly, until it is comprehesnive. this will allow us to build our functional first version of the prompt. 
+
+CONTEXTUAL DATA:
+"Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+

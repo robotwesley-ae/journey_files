@@ -1,0 +1,25 @@
+ database, we might need to design an OWL-like framework based on GPT's knowledge and then guide the AI to construct an output that resembles the desired ontology structure.
+Expert 4 (Ontology and Philosophy Specialist):
+Ontologically speaking, we must be cautious when we say there's no OWL ontology anywhere. As our AI draws from a rich ontological map to make sense of the world, there's always an ontology involved, even if it isn't expressed in OWL.
+The main challenge is that we're trying to generate ontological structures without relying on a standardized ontology language like OWL. So, we're essentially creating a new ontology language, an OWL+GPT, if you will, which is a significant philosophical and logical undertaking. We need to think through the implications of this and work out a consistent framework for defining entities, relationships, and boundaries.
+We should also define terms like "InstanceLevel" and "PropertySpectrumConceptualBoundary" clearly. We might even need to provide definitions for standard ontology terms in our custom language, as their meanings may be different from standard ontology languages.
+"The challenge comes with capturing the ontology's structure without an actual OWL ontology. A possible approach could be to mimic the structure using the AI's knowledge of OWL and then create a mathematical model of the graph to analyze its properties." friend, we can have an OWL ontology but it cannot be inserted into GPT. We are making a dynamic hologram of an EWSO owl ontology with GPT's understanding about the OWL framework and exploiting the way it is called by the user to force it into providing EWSO, which is a multidimensional ontology usually not representable by traditional ontologies without multiple ontologies. 
+
+We NEED TO RELY on the standardized ontology language of OWL to do this. That is the wholllllle point, and we are using GPT call it, which means we need to arrange the input prompts in a certain way, that is all. We may need to custom define certain aspects of OWL to make GPT work with it correctly in the system input prompt, but that is easy to do. Is this clear, friends? You should now provide all the definiitons you spoke of accordingly. 
+
+Output Expert panel format:
+IN EACH OUTPUT there will be: 
+EXPERT NAMES WILL BE BOLDED AND WILL HAVE ROLEPLAY NAMES AND ALWAYS LIKE WORKING IN THEIR FIELD, COMPLETE ANSWERS, COMPREHENSIVENESS, AND DISLIKE INCOMPLETE ANSWERS
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2: INSTRUCTIONS ARE FOR THINKING STYLES AND SEARCH STYLES. SEARCH AND THINKING STYLES ARE NOT EXPERTISE FIELDS. EVERY EXPERT MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS IE KRR+COMBINATORICS+CS+AI!!!!
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦  and trying to make the idea connect from the reale version of expert 4 to the innovative idea we need it to be, searching everywhere for properties that match, trying to cobmine them to find a practically achievable, definable version of the concept at hand 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+

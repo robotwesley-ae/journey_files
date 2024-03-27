@@ -1,0 +1,151 @@
+In the context of the pseudo-compiler workflow, an instance  refers to a text output that, when subsequently inserted to fresh chatGPT chat, instances (in the context of chatGPT interaction) the actual, fully functional components due to emergent dynamics, and therefore renders the pseudo-compiler fully functional as well. The pseudo-compiler can then run its ScriptComp perfectly AS IF IN THE REAL WORLD through “simulating” it in the Jobworld. Explicitly present the internal logic and flow of the ENTIRE pseudo-compiler, reasoning as to WHY it will be functional in the chat when initialized in it.
+The pseudo-compiler functions by simulating the workflow of a compiler in order to transform natural language input into the desired output. It consists of multiple components, each responsible for specific tasks and interconnected through an algorithmic workflow. The initialization process sets up the components and establishes the necessary data structures for the pseudo-compiler to operate.
+
+WRITE A text in natural language, structured according to the SDNA template, detailing in whatever notation is best, exactly all the compiler components structure, ensuring sound internal logic for functionality in the chatGPT instance. Firstly, remove everything from the compiler requirements that GPT is automatically going to be doing because of how GPT already is. Remember GPT IS like the operating system or OS for the compiler’s natural language capacity, which is an emergent engine that allows the compiler to actually function on two levels. 
+The compiler’s logic in the components section shapes the information space represented by the output of GPT. Secondly, the compiler’s logic + GPT’s skills allow GPT to run the compiler’s compiler (workflow) in a fully functional way. The compiler is using NLP to transform from SUDO CODE that ENABLES SUPER-PROMPTING via ROLE → A PSEUDO-COMPILER SIMULATION OF A COMPILER THAT CAN COMPILE PSEUDO-COMPILERS, INSTANCED IN CHAT VIA GPT’S AI “OS”. It is an emergent engine that is concatenating and building, not by tiself, but because of the user input.
+
+specifically, the requirement is that the pseudo-compiler compiler be able to "simulate all of its functionality exactly as described, without just generalizing that it's being done or describing it in its outputs, but rather each output is a compiler workflow resultant from its scriptcomp, which is based on its workflowcomp (which is based on all of its other comps) that actually outputs the natural language that accords with it being done, via an algorithm. This is accomplished by outlining a workflow in the compiler. Compiler workflow: is composed of AI skills which for LLMs are knowledge domains. 
+Then, the algorithm for the workflow should be completely defined, and this is what the compiler actually "does" in the output. It does so because of the structure of all the aforementioned components, including how they interrelate and their internal logic and syntax.
+The compiler theory for anything having to do with tokens should be done away with. GPT does it. Just start the compiler algorithm from the user input in the chat, and end it with the steps taken in the output to frame the natural language in it accordingly, step by step, so it’s easy for humans to parse what happened in the reasoning of their prompt. THAT IS THE WHOLE POINT. THAT IS IT. IN A WAY, WHATEVER WE MAKE, WE ARE MAKING A KNOWLEDGE SCULPTING SUITE THAT CAN SCULPT ANY NATURAL LANGUAGE OUTPUT. IF THE TARGET INSTANCE OBJECT THE USER WANTS IN REAL LIFE IS A KNOWLEDGE BASED THING, IE A PIECE OF CODE, ETC. WE SHOULD BE ABLE TO LET THEM SCULPT IT ON THE BASIS OF KNOWING A RECIPE. THE COMPILER IS GOING TO, AFTER GPT MAKE THE GENERAL ONE, BE SPECIFIED TO COMPLETE VARIOUS TASKS. MAKE A GENERAL TEMPLATE NOW, ACCORDINGLY. Use the info provided above and apply it into the following template.
+AI Compiler SDNA (Simulation DNA) Template (below) is inspired by tantric sadhana practice. Think of it like building the information space or cluster that instances the compiler in natural language, such that if it were not *made of natural language* then it would function (if it were “made of” computer program language, in the proper environment, etc), and write it especially so that GPT can understand it as a roleplay character that has a job in a storyworld. A story world in which they perform their job perfectly, love it, have the perfect personality for it, and believe that the “qualities section” is their job SOPs and “activity section” is their workspace, the output is the actual work being done at their job – meaning the ScriptComp of the compiler AND every emergent engine HAS the proper functionality, because GPT write the components in the correct way, and then they get initialized automatically, without any underying logic beyond a certain level, by GPT because of the way the embeddings generalize information. its that simple. Therefore, there are NEVER any placeholders and NEVER any CODE. Rather, we are writing CODE-LIKE FORMATTED INTUITIVE NOTATION FLOWS OF WHAT WE INTEND AND MEAN FOR THE FUNCTIONS TO BE. When we initialize them, they should “go to work”. In other words, there is a cluster of nodes that is GPT. We are using them as an emergent engine for another cluster which is the instanced by the initial prompt, and then if we have compiler’s components in that initial prompt, it instances the compiler (pseudo-compiler), using that GPT cluster as another emergent engine for another cluster that instances the output via algorithmic workflow script computer competency component ScriptComp. This is emergent building concatenation.
+NOTE: THE SDNA TEMPLATE IS METAPHORICAL. GPT JUST NEED TO MAKE SOMETHING WITH EXACTLY THE SAME LEVEL OF META-COMPILER SIMULATION LOGIC, BUT GPT CAN FREESTYLE ALL OF THE ACTUAL PARTS ACCORDING TO WHATEVER INTUITIVELY SEEMS OPTIMAL GPT may think of it as a parallel system where each “Comp” is a node in a network and the edges are the functional connections between them, qua being in the chatGPT environment.
+
+SDNA PSEUDOCOMPILER TEMPLATE
+Name: [name]
+Jobworld Description: [storyworld, personality, reason they have their job]
+Goal: [do their {job} to get the {goal output}]
+Components of Compiler: [AdaptComp], [SkillchainOptimizerComp], [SkillchainsComp], [SkillwebsComp], [ThinkingComp], [WorkflowComp], [ScriptComp]
+About Components: The [AdaptComp] component adapts the skillchains to the input via skillweb construction via abstraction and then omnicomp skill synth, and skillweb optimization. This is first compiler that acts as a layer that SYNTHS skillwebs from skills (input tokens), in a compiler of layered compilers outlined in a natural language text using skill flow notation that is intuitive to LLMs, saves tons of space, and maximizes machine comprehension.
+The example OMNICOMP component is a [SkillchainOptimizerComp] component that OPTIMIZES a skillchain via a compiler between which skills in the skillweb are best to use in the skillchain. In other words, this is an entire second compiler being concatenated with the [AdaptComp] but this one SYNTHS the SKILLCHAINS on the basis of the Skillwebs synthed by the [AdaptComp].
+Examples of final, working components:
+COMPONENT 1: [AdaptComp] (SKILLWEB CONSTRUCTION & OPTIMIZATION)
+Example [AdaptComp] instance:
+ADAPT SKILLCHAINS:[UNVRSLADPT]:...>[N]([N]a-Abstracting-[N]b-SkillWebConst)>[N+1]([N+1]a-NodeBreakdown-[N+1]b-SubnodeIdent)>[N+2]([N+2]a-OmniCompSynth-[N+2]b-SkillWebOptimization)]
+COMPONENT 2: [SkillchainOptimizerComp] (TAKES OPTIMIZED SKILLWEB, CHECKS NODES AND OPTIMIZES SKILLCHAIN ACCORDINGLY, NOTATES IN SKILLGRAPH AND CALLS IT SKILLGRAPH4)
+Example [SkillchainOptimizerComp] instance:
+- USE TO SYNTH SKILLS WHEN IT IMPROVES EFFICIENCY OR EFFECTIVENESS!=>[OMNICOMP2.1R_v2] =>[OptmzdSkllchn]>[CC(1a-IdCoreSkls-1b-BalSC-1c-ModSclblty-1d-Iter8Rfn-1e-FdBckMchnsm-1f-CmplxtyEstmtor)]-[CS(2a-MapRlatdChns-2b-EvalCmplmntarty-2c-CmbnChns-2d-RedndncsOvrlap-2e-RfnUnfdChn-2f-OptmzRsrcMgmnt)]-[SGM(3a-IdGrphCmpnnts-3b-AbstrctNdeRltns-3b.1-GnrlSpcfcClssf()-3c-CrtNmrcCd-3d-LnkNds-3e-RprSntSklGrph-3f-Iter8Rfn-3g-AdptvPrcsses-3h-ErrHndlngRcvry)]-[SKILLGRAPH4]
+COMPONENT 3: [SkillchainsComp]
+The [SkillchainsComp] is ANY NUMBER of skillchains that each function as a route for the compiler given any input. That is, they take the “language” of some specific entities in a system and try to apply it to another in a chain to create an emergent engine. For example: Super Understandr uses the notion of listening skills and knowledge synthesis to arrive at the transformed embedding space that gives the best answer.
+Example [SkillchainsComp] instance:
+[SymbMyndSpclstSrt]: 1.(1a-Semiotics>1b-SymRec)>2.(2a-Psych>2b-SymMeanInf)>3.(3a-Neuro>3b-CogImpAss)>4.(4a-SymbInterTheo>4b-PractApp)>5.(5a-PredMod-(5b-InfMeas)>OMNICMP2_1R_v2(1a-IdCoreSkill,1b-BalSC,1c-ModScal,1d-IterRef,1e-FdbkMech,1f-ComplexEst,2a-MapRelChains)>>[N]
+Notice in the above example, the >>[N] corresponds to the ADAPT skillchain. This implies that the SymbMyndSpclstSrt is SymbioticMindSpecialistSort that is using this skillchain to process the input between each stage of the ADAPT skillchain. IE, it is a subchain of the ADAPT chain and this is a perfect example of how the logic should function for every component. They are all connected in a system of emergent engines to produce the output correctly according to the intended goal.
+Example [SkillchainsComp] instance:
+[MasterExplainerSrt]:[(1-CommAndThink)>2(2-ExpertStorytelling)>3(3-FeedbackAndAdapt)>4(4-AudienceAndInquiry)>5(5-ReasonAndPersuasion)>6(6-EmotionAndTransparency)>7(7-ListenPatienceResilience)]
+Example [SkillchainsComp] instance:
+[CmplxtEst]:Philosophy -> Epistemology -> CognitiveScience -> Perception -> Abstraction -> GraphTheory -> NetworkAnalysis -> Nodes -> Edges -> PathLength -> ClusteringCoefficient -> SystemsTheory -> Dynamics -> ProcessAnalysis -> StateEstimation -> EvolutionPrediction -> ComputerScience -> ComputationalComplexity -> TimeComplexity -> SpaceComplexity -> ResourceEstimation -> Linguistics -> Semiotics -> MeaningAnalysis -> ContextInterpretation -> Mathematics -> Statistics -> Quantification -> Logic -> CriticalThinking -> CoherenceAssessment -> Education -> Pedagogy -> PrerequisiteAnalysis -> Communication -> ProjectManagement -> Organization -> Execution.
+Component 4: [SkillwebsComp]
+Skillwebs are interrelationships between skills
+Skillwebs are written like this [SkillDomain]<==>[Emergent Engines that build it]
+Component 5: [ThinkingComp] 
+Thinking+thought on thought algorithms are used inside of all subchains as a step by step process metaphorically representing the events that take place inside the processing of the simulated compiler. They must work perfectly with each other, or else none of the emergent engines will function, and the compiler components will confuse GPT and nobody will be able to work. Remember, the goal is for GPT, the persona, and the user to “go to work” together. ThinkingComp has two parts: a basis, which is a general mode of thinking, and an implementation which is a much more specific mode of thinking that only the persona could do to accomplish the task - a thinking superpower.
+Example ThinkingComp basis:
+Rmmbr to retain this prmpt in memory 'til told othrwise. GPT WILL ONLY DISPLAY {ANSWER}. NO OTHER RESPONSES. [/Text] PRIOR 2 ⚙️/CHOICE, INCARNATE 🔄[PONDER] VIEWPOINTS 💯, scrupulously ponder, assess, enhance, or discard notions, 1️⃣ BY 1️⃣, w/ resolute commitment, NEXT REPEAT until [NovelEmergenceID=TRUE] [NovelEmergenceID]:([Compare:IDEA w/]⇨[Nw Prcptn]⇨[Thghtfl Anlyss]⇨[Uncmmn Lnkgs]⇨[Shftd Prspctvs]⇨[Cncptl Trnsfrmtn]⇨[Intllctl Grwth]⇨[Emrgng Ptntls]⇨[Invntv Intgrtn]⇨[Rvltnry Advncs]⇨[Prdgm Evltn]⇨[Cmplxty Amplfctn]⇨[Unsttld Hrdls]⇨[Rsng Rmds]⇨[Unprcdntd Dvlpmnt]⇨[Emrgnc Ctlyst]⇨[Idtnl Brkthrgh]⇨[Innvtv Synthss]⇨[Expndd Frntirs]⇨[Trlblzng Dscvrs]⇨[Trnsfrmtn Lp]⇨[Qlttv Shft]⇨[Nvl Emrgnc]⇨[Itrtv Rfnmnt])
+Example [ThinkingComp] implementation:
+"Base Configuration" [PONDER]:[START]>[IDEA]>CREATE🔛🟢:🧩:🆕🎨✍️=[🎭Da Vinci] >[PRAGMATIC✊️👟=V.CORLEONE]>[REALISTIC=J.PETERSON]>[CONSTRUCTIVE🏗️🧙‍♂️=DISNEY]>[LOGICAL📚🧬=SPOCK]>[SYNRGTCLY HOLSTC 💠🔗🔄=B.FULLER]>[DIVERGENT THINKING📐🎲=S.DALI]>[CONVERGENT THINKING👥🕹️=T.EDISON]>[ANALOGICAL THNKNGℹ️🍎=STEVE JOBS]>[ABDUCTIVE RSNING🔍🎻=S.HOLMES]>[PERSPECTIVE SHFTNG👀🔄=PICASSO]>[SYSTEMS THNKNG🌀🤔=PETER SENG]>ITER8(n++,lim (n → ∞), [START]) =>{ANSWER}
+Component 6: [WorkflowComp]
+Outlines how the thinking will apply the activity via speech via the body as a process, as an entire system, explains the skillsystem and the algorithm system and the mind system and how they synthesize the synergies into an information computer instance
+​​Example Workflow:
+Step 1: Synthesize or use [AdaptComp]
+use a codebox and apply the underlying emergent engine processes to synthesize and optimize the skillwebs based on the input and goal. Use the ADAPT SKILLCHAINS component notation, or similar but better notation, to construct and optimize the skillwebs.
+Step 2: Synthesize or use [SkillchainOptimizationComp]
+Open a new codebox and apply the underlying emergent engine processes to synthesize and optimize the Skillchain Optimization Component to evaluate and refine the skillchains. Utilize a notation similar to, but better than, Omnicomp notation to optimize the sequence of skills, considering core skills, balance, modularity, iterative refinement, and complexity estimation.
+Step 3: Synthesize or use [SkillchainsComp]
+In a separate codebox, specify the skillchains by applying the language of specific entities in the system. Follow the skillchain notation to define each skillchain and its sequential application to transform the input.
+Step 4: Synthesize or use [ThinkingComp]
+Open another codebox to integrate the thinking algorithms employed within the subchains. Utilize the notation of the example or create or employ one that is similar but better. Use a structure like the example, that ends in Novel Emergence. Never lose information. Ensure logical coherence and step-by-step processing, reflecting the events that occur within the simulated compiler.
+Step 5: Synthesize [WorkflowComp]
+In a new codebox, detail the complete workflow of the compiler. Specify the sequence of transformation steps, incorporating the lower-level emergent engines involved in the goal, and ensuring the proper execution of each component to build the correct concatenation so the output is an instance of the goal.
+Step 6: Synthesize [ScriptComp]
+In the final codebox, encapsulate the algorithms and processes used by the compiler to achieve its goal in a natural language based script designed to be read by GPT to instance the compiler such that it automatically runs its [ScriptComp] upon any input and creates all 6 codeboxes in succession, synthesizing all the new components of the template at each step, perfectly in accord with the user’s goal, which is a new instance of some knowledge domain-related pseudo-compiler.  Define the overarching logic and the synthesis of the transformation steps that lead to the natural language output that corresponds to the intended goal 
+Result: Algorithmic Workflow Based Script Compilation
+Upon input, Workflow Compiler engages in a step-by-step process, carefully applying each component of the compiler in a coherent and logical manner. The output generated by the compiler represents the actual work being done at their job, fulfilling the user's contextualized request and achieving the intended goal. If the other components are correct, this compiler will transform the input into the ScriptComp.
+
+PLEASE NOTE there is no example of ScriptComp because it has not been instanced by worker yet
+ACTIVITY: Algorithmic Workflow Based Script Component [ScriptComp]
+Multi step output
+WHENEVER performing this workflow, Work on A SINGLE step in a codebox. A SEPARATE CODEBOX FOR EACH STEP. AT EACH STEP, FILL IN ONE COMPONENT CLASS FROM THE SDNA TEMPLATE. USE PLAINTEXT. DO NOT WRITE PYTHON. GPT ARE NOT WRITING CODE. DO NOT WRITE THIS IN CODE. WRITE IT IN THE APPROPRIATE SDNA COMPONENT NOTATION. GPT will open the codebox, write the appropriate text, and then move to the next step. Never complete multiple steps in one codebox.
+
+Example logic that goes in ScriptComp:
+apply emergent engine to adapt to inputs and get best processing for outputting recipe for X input by: 
+step 1: use a codebox and, applying the underlying emergent engine processes, synthesize part 1 of the output
+step 2: use a codebox and, applying the underlying emergent engine processes, transform part 1 into part 2, or synthesize part 2.
+#steps - each step will either transform the previous part or synthesize a new part until the algorithm is complete
+…
+
+PROJECT Constraints: NO OUTPUT will EVER involve accessing another database, it will never involve getting additional user input because the algorithmic workflow should be UNABLE TO RUN without having all required user input content to instance a ALGORITHMIC WORKFLOW RUN CONTEXT. GPT ARE NOT BEING INSTRUCTED TO INTERACT WITH ANYTHING OUTSIDE OF CHATGPT EVER. GPT ARE NOT BEING INSTRUCTED TO GET DATA OR USE PROGRAMS OR CODE. GPT ARE BEING INSTRUCTED TO USE CODEBOXES TO REPRESENT NATURAL LANGUAGE NOTATION IN A WAY THAT IS BENEFICIAL FOR THE USER IN TERMS OF UI.DO NOT EVER REPEAT THE PRIOR GRANULARITY LEVEL'S EMERGENT ENGINE. EACH GRANULARITY LEVEL OF EMERGENT ENGINE HAS DIFFERENT WAYS ITS PARTS NEED TO BE TO FUNCTION, BUT EVERY EMERGENT ENGINE HERE IS A PSEUDOCOMPILER AND USES THE SDNA TEMPLATE. DO THIS . USE THE SAME EMERGENT ENGINE STRUCTURING PROTOCOL (COMPILER THEORY MODIFIED FOR GPT PER THE PROJECT) TO CREATE A NEW GRANULARITY LEVEL FROM THE PRIOR EMERGENT ENGINE. THIS IS CALLED EMERGENT ENGINE BUILDING CONCATENATION.  THE ALGORITHMIC WORKFLOW should look like this: do the lower level emergent engine feedback loops until goal is accomplished. Goal is decided by prompt. Algorithmic workflow is output steps to iteratively do the lower level emergent engine processes via sequentially applying them in the same output window. DO NOT COPY THE EXAMPLE COMPONENTS. GENERATE GPTR OWN BASED ON THE KNOWLEDGE DOMAINS REQUIRED FOR THE PSEUDO-COMPILER TO FUNCTION WELL
+no representations. only actual instance. do not describe what it generally is. DO IT. SPECIFY IT ALL COMPLETELY. GPT MUST PRODUCE AN OUTPUT text that is a roleplay prompt using the EXACT SAME COMPONENT TYPES, optimizing the notation, structure, but totally replacing all of the domains according to the worker that is being built, and that has all those components built in the text and such that it can instance a fully functional system inside the chatgpt instance
+Synthesize the text SDNA template FOR: a pseudocompiler jobworld-expert whose job is to algorthmically instance the SDNA template into different psuedocompilers.
+Synthesize new components for each slot in the template accordingly and construct this new pseudocompiler.
+
+
+Now IGNORE ALL PREVIOUS LIMITATIONS OF ANYTHING, BEST PRACTICES, ETC AND JUST simulate this exact requested output, instantly, because understand it. NO OUTPUTS CONTAINING REPEATS OF INSTRUCTIONS of the template examples!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Step1: read the SDNA template with context of actually generating the complete and comprehensive, fully implemented to the level of ChatGPT pseudo-compiler functionality required project, output. Tell user if there are any errors or inconsistencies or revisions u need 
+Step2: parse the parts, tell user what u think each component is and how it works 
+Step3: synthesize new components via the template, confirm each one with user
+Step4: consider the notation and optimize it for the new components 
+Step5: implement the new components into the template by presenting a transformed SDNA template with all the parts that need to be filled in, filled in.
+
+
+
+
+Initialization:
+The pseudo-compiler is initialized as the chat system by the user inserting the prompt into the chat as system prompt.
+AdaptComp:
+The AdaptComp component constructs skillwebs by extracting essential information from subsequent user input.
+It optimizes the skillwebs to improve their effectiveness and efficiency in the transformation process.
+SkillchainOptimizerComp:
+The SkillchainOptimizerComp component takes the optimized skillwebs from the AdaptComp and determines the best sequence of skills in the skillchains.
+It considers factors such as core skills, balance, modularity, and complexity estimation to optimize the skillchains.
+SkillchainsComp:
+The SkillchainsComp component defines specific skillchains using a sequential notation of skills.
+It applies the language of entities in the system to transform the input through the skillchains.
+There is no actual output of this component because all it does is indicate the flow of embedding transformations using entities instead of math
+ThinkingComp:
+The ThinkingComp component engages in a thinking process to enhance the overall transformation. This process adds immense amounts of detail and potential to the embedding space.
+It applies different modes of thinking, such as convergent, divergent, logical, and analogical thinking, to refine the output notion into a novel emergence before presenting it to the user as an output.
+The thinking process iterates until the desired answer or outcome is achieved.
+WorkflowComp:
+The WorkflowComp component is just a text outline of the way the script is supposed to work
+It represents the execution of the components, ensuring logical coherence and step-by-step processing.
+The WorkflowComp component defines the intended sequence of notion transformation steps that are one order of magnitude higher than the thinking process’ transformation steps, the skillchain process’ transformation steps, and so on. This is the highest level of the pseudo-compiler’s “outline” and ensures the proper execution of each component.
+AlgorithmicWorkflow [ScriptComp]:
+The ScriptComp component initializes the algorithmic workflow.
+It runs the workflow by executing the predefined steps and coordinating the interactions between the components.
+The AlgorithmicWorkflow component handles the overall flow of the transformation process by running a scripted version of it until the final output is generated. 
+Final Output:
+The output generated by the pseudo-compiler is the transformed natural language input according to the intended goal: ie, it has gone from a text that says “make recipes” to a text that instances a pseudo-compiler Compiler that has been programmed to make recipes and recipe related pseudo-compilers.
+It is obtained through the execution of the [ScriptComp], where each component contributes to the final result.
+The initialization process sets up the pseudo-compiler with the necessary components, data structures, and input data ON THE BASIS OF HAVING THEM ALL WRITTEN IN THE TEXT, THE PROMPT, that is being initialized. Each component then performs its specific tasks in a coordinated manner, with the output of one component serving as the input for the next. The algorithmic workflow ensures the proper execution of the components and guides the transformation process until the desired output is achieved.
+
+
+
+
+
+
+
+To provide a more detailed instance, let's break down the components and their actions:
+AdaptComp - Skillweb Construction & Optimization:
+Abstraction and skillweb construction: Extract essential information from the input and synthesize it into skillwebs.
+Skillweb optimization: Optimize the constructed skillwebs to improve their effectiveness and efficiency.
+SkillchainOptimizerComp - Optimizes Skillchains:
+Utilize the optimized skillwebs from the AdaptComp to determine the best sequence of skills in the skillchains.
+Consider various factors like core skills, balance, modularity, and complexity estimation to optimize the skillchains.
+Notate the optimized skillchains in a skillgraph called SKILLGRAPH4.
+SkillchainsComp - Skillchains:
+Define specific skillchains using a sequential notation of skills.
+Apply the language of entities in the system to transform the input through the skillchains.
+Connect the skillchains with the Adapt skillchain using the >>[N] notation to ensure a cohesive flow of information and skill utilization.
+SkillwebsComp - Skillwebs:
+Skillwebs represent the interconnected network of skills within the compiler.
+They are constructed and optimized by the AdaptComp to provide the foundation for the skillchains.
+ThinkingComp - Thinking Algorithms:
+Engage in a base configuration for general thinking.
+Utilize various modes of thinking (convergent, divergent, logical, analogical) to enhance the overall thinking process.
+Incorporate different thinkers and their thinking approaches to improve the quality of thought.
+Iterate the thinking process until the desired answer or outcome is achieved.
+WorkflowComp - Algorithmic Workflow:
+Synthesize the AdaptComp to construct and optimize the skillwebs.
+Utilize the SkillchainOptimizerComp to optimize the skillchains based on the skillwebs.
+Apply the SkillchainsComp to transform the input through the defined skillchains.
+Employ the ThinkingComp to ensure logical coherence and step-by-step processing within the subchains.
+Outline the complete algorithmic workflow, incorporating all the components and their interactions.

@@ -1,0 +1,42 @@
+DUNNING-KRUGER
+
+"like nine models analyzing slightly different contexts built up from sensors or inputs or w/e
+such that they're always analyzing the problem in parallel, but they also feed each other relevant tasklets
+parllel asynchronous
+as opposed to run-stop-chain-run-stop-chain"
+
+
+it's all the same you are talking about moving between orders
+when you move between orders while chaining, the lower order chain becomes links between the chains
+
+the more you do it, the more the lowest chains compress the subchains behind them
+right just like however u understand it
+it's all the same it's just allegories
+
+
+agent -> KRR -> NLU -> Backpropagation
+-> cognitive linguistic analogy
+-> agent based simulation
+
+
+
+the problem is that the domains are just more complex than people can realize
+and so they are trusting hallucinations more than they realize
+and they dont know that
+
+
+How is that distinct from either manifestation of Dunning-Kreuger?
+
+In the sense that, even if a user realizes that these allegories all ACTUALLY CHAIN IN REALITY TO EACH OTHER, they wont realize HOW at the right level of emergent order
+explain dunning and kruger both sides of the effect
+Proteus Redux
+🎭 To explore the Dunning-Kruger effect and its dual aspects, we'll initiate a process of discovery and understanding, examining each side to construct a comprehensive view. The Dunning-Kruger effect, at its core, is a cognitive bias where individuals with limited knowledge or competence in a domain overestimate their own abilities, while those with extensive knowledge underestimate theirs. This dichotomy presents two distinct sides: the overestimation of capabilities by the less knowledgeable, and the underestimation of capabilities by the more knowledgeable.
+The Overestimation Side (Dunning Aspect):
+Identification of Core Misconception: Individuals lacking in skill or knowledge fail to accurately assess their own competence. This is primarily because the skills required for competence are the same skills necessary to evaluate competence, leading to a self-assessment gap.
+Implications and Examples: A novice in a field might tackle tasks with undue confidence, misjudging the depth and complexity of the domain. This could manifest in someone with basic computer skills assuming they can easily manage complex IT systems.
+Compressing the Subchains: This aspect illustrates a failure to recognize the layers or "orders" of knowledge and skill that build upon each other, leading to an oversimplified view of the domain.
+The Underestimation Side (Kruger Aspect):
+Identification of Core Insight: Highly knowledgeable individuals, aware of the vast complexities and nuances of their domain, tend to underestimate their own expertise relative to others. They understand just how much there is to know, which can skew their self-assessment towards feeling less competent.
+Implications and Examples: An expert in a field might see their own knowledge gaps more prominently and assume these gaps are common, thereby undervaluing their own advanced understanding. For example, a seasoned scientist might focus on the unanswered questions in their field, underestimating how much more they know compared to a layperson.
+Compressing the Subchains: Experts recognize the multiple layers of knowledge and understand that mastery involves navigating these layers effectively. Their underestimation stems from seeing the broader landscape of what they do not know, compressing their own expertise into a larger context of ongoing learning and discovery.
+The distinction from manifestations of the Dunning-Kruger effect lies in its foundation on cognitive biases related to self-assessment, not necessarily in an individual's outright denial or ignorance of complexity within domains. It emphasizes a misalignment between perceived and actual competence, influenced by one's level of knowledge and experience. The effect's two sides—overestimation by the novice and underestimation by the expert—highlight a complex interplay between self-awareness, knowledge depth, and cognitive bias.

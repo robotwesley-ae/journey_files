@@ -1,0 +1,47 @@
+
+so like it's the reverse WTS
+it's like "look at this look what im doing and in the future it
+'s gonna be part of a larger system that it augments"
+(but without ever saying what that is going to be)
+which creates the WTS atmosphere
+hmm....
+then selling people on the value of that somehow
+"you got so much value from each individually, when i finally show u how they all connect ur gonna freak out"
+and the big reveal at the end is "THE SANCTUARY SYSTEM" "Sanctuary Nexus" and "SANCTUM" all together
+with OMNISANC platform
+and inside one offer called "Bring Myself Online as Olivus Victory-Promise in Sanctuary Revolution"
+
+
+
+OVAs = people who resonate VERY Strongly with OVP narrative (ascendants)
+
+What i really need:
+
+Concepts:[General=Archetype:
+1. Funnel_GeneralInstancingChain (explain any concept; funnel itself, including how a ‘reality tunnel’ is assembled [via experience funnels, reality funnels, etc whatever you want to call it. A funnel is a metaphor for a process where a large amount of input is progressively narrowed down to a specific outcome])
+2. Business_GeneralInstancingChain (make any business operate)
+3. CodingChain_GeneralInstancingChain (write any code) (six guys -
+Comment->Copilot->CodeImplementation->CodeImplementationRejectorComment->CodeImplementationRejectorCommentAdaptedCopilot->AdaptedCopilotCodeImplementation, 
+Each guy has a prompt that says `Assess the current state of work in CCC paradigm, then continue. If there are problems with the code, you must write comments about it. If there are comments about bad code, you must provide a resolved snippet, and if the code is ready for deployment, delete all comments. If all comments are deleted already, it means it’s ready for deployment, so send it via tool.
+Each one of them has a CodebaseBrainBrane that serves them the required context to understand what they need to know for the task. This is done via chunking the codebase to 500 chara chunks per module and applying a naming schema showing a table of contents style map for all the chunks according to which flow they are part of in the program.
+
+So
+
+CCC = Comment, Copilot, Code
+DL = Dual Loop
+
+CI/CD_CodeChain:[InjectCodebaseBrainBrane→retrieves_codebase_from_Github_Repository→InjectCodebaseBrainBrane→injects_context→CCC_DL_1→UpdateCodebaseBrainBrane→updates→codebase_Github_Repository→InjectCodebaseBrainBrane→retrieves_codebase_from_Github_Repository→InjectCodebaseBrainBrane→injects_context→CCC_DL_2,
+Loop until next layer of deployable optimized program complete]
+
+
+# BRANE (Brain-Related Analytical and Neural Engine) flowchain (AI_Chat_Fibration):
+            # RULE
+            # Crucially, each persona must receive the totality of chains that came before it, so it can verify they do not need to be changed, since they came from a less knowledgeable expert in their subject area. This effectively re-creates the human process of learning, where we have to connect general knowledge about things to specific knowledge with uncertain depth requirements (in terms of ontological drilldown)
+            # At start/between every 'deliverable_output' (every iteration of loop), "take task input tokens and default output tokens (from raw GPT response) and map the signature as a function. use this map as control
+
+# check for the most specific hyperPersona for ${task} that did not fail this task signature previously, run the BRANE from that point score final outcome against control
+
+# iteratively perform this similarity score to create a space out of the data points and navigate it by adjusting chain flowgraph values at layers, in a structured and formalized way thru BRANE"
+    # It is called a hyperPersona because its template is the basic template for all the other personas, including its chains which are the chain flowgraph template that explains how to make a chain flowgraph and what it is. Similarly, any hyperPersona type, like a superPersona hyperPersona, is the template OF the superPersona
+    # this is a complex architecture we have not fully enumerated:
+# STAGE 1: SDNA_GENE MAPPING

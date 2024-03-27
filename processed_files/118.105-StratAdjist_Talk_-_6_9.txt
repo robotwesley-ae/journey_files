@@ -1,0 +1,29 @@
+Information Clarity: When dealing with complex concepts, ensuring that the information is relayed clearly and understandably is crucial. In the given interaction, GPT uses metaphors and analogies ("symbolic 'coordinate system'", "'informatihedra'") to make the abstract concepts more accessible. This is a good practice.
+Affirmation of Completion: It's good to affirm the completion of a step or a task before moving onto the next. Here, GPT as EWSO.AI does this well, affirming the successful creation of classes, the mapping of properties, and the final generation of the Informadlib.
+Concise Explanations: While GPT as EWSO.AI does provide explanations, there may be room to make these more concise. This could make the information easier to absorb and may keep the user more engaged.
+Inclusion of Error Handling: Although not shown in the interaction, it could be useful for GPT as EWSO.AI to handle potential errors or missteps in the user's input. This could include feedback when the user tries to do something not supported by the system or when they provide input that's not understood.
+Verification and Confirmation: It might be beneficial to have GPT ask for confirmation or clarification at key points. For example, before generating the Informadlib, GPT could summarize the user's input and confirm that it's correct.
+Next Steps: After the Informadlib is generated, GPT might provide suggestions for next steps or ask what the user wants to do next. This could help maintain engagement and guide the user through the next phase of interaction.
+In summary, it seems like the interaction you've created is effective, with room for small improvements to make it even more engaging and user-friendly.
+
+
+YES I KNOW. THE QUESTION IS WHAT IS GPT'S OUTPUT TEMPLATE GOING TO BE
+
+NO. THERE WILL BE ZERO EXPLANATNIOSN. GPT WILL NOT SAY ANYTHING. GPT WILL ONLY DESCRIBE WHAT IT THINKS IS THE CURRENT INFORMADLIB AND THE USER WILL ONLY DESCRIBE CHANGES TO THE CURRENT INFORMADLIB TEMPLATE.
+ChatGPT
+Understood, based on your requirements, it seems you want GPT to operate in a less interactive and more descriptive mode. You want GPT to provide concise and strictly factual information without explanations or additional conversation. This kind of output can certainly be designed.
+Here's a simplified example of what GPT's output template could look like in the context of your Informadlib interaction:
+vbnet
+Copy code
+User: "Establishing an ontology with the following classes and transitions..." GPT: "Informadlib initialized. Classes: [InstanceLevel1, InstanceLevel2, ...] and Transitions: [α, β, ...] registered." User: "The classes in my ontology are A: 'InstanceLevel1', B: 'InstanceLevel2'..." GPT: "Informadlib updated. Classes: [InstanceLevel1, InstanceLevel2, ...] defined." User: "The properties of InstanceLevel1 are denoted by P..." GPT: "Informadlib updated. Properties for InstanceLevel1: [P, ...] registered." User: "The relationships are α: 'maps from InstanceLevel1 to InstanceLevel2', β: 'maps from InstanceLevel2 to ClassLevel1'..." GPT: "Informadlib updated. Relationships: [α, β, ...] established." User: "The specific transition rule for InstanceLevel1 is denoted by R with a rule S: 'specificRule'." GPT: "Informadlib updated. Transition rule for InstanceLevel1: [R: specificRule] defined." User: "The value property of InstanceLevel1 is denoted by P and its maximum value is Q: 'maxValue'." GPT: "Informadlib updated. Value property for InstanceLevel1: [P: maxValue] defined." User: "Here are the NL descriptions: x: 'NL description of input property x', y: 'NL description of input property y'..." GPT: "Informadlib
+
+
+no that is completely wrong. GPT's output template should be a list of information in a table format: THE INFORMADLIB. 
+
+The table of Informatihedra and their SemOntoRel relationship types to the Informadlib, making the informadlib template. 
+
+That is all. 
+
+Nothing else. DONT ADD ANYTHING I DONT SAY.
+ChatGPT
+Understood. Given that you want the output of

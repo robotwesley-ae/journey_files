@@ -1,0 +1,44 @@
+M(x, y, z): Subject x misunderstands phenomenon y with respect to property z.
+Now, we can add a statement to represent that a subject can understand all aspects of other subjects' misunderstanding of a phenomenon:
+
+∀x∀y∀z (E(y, x) ∧ D(y, N(x)) ∧ M(x, y, z) → U(z, y))
+
+This statement can be read as: For all subjects x, phenomena y, and properties z, if phenomenon y is emergent for subject x and has a non-contradictory domain function N(x), and subject x misunderstands phenomenon y with respect to property z, then subject y understands property z.
+
+This formalization captures the idea that a subject can understand all aspects of another subject's misunderstanding of a phenomenon in the context of a non-contradictory system.
+
+
+
+Isaac Wostrel-Rubin
+Non-contradictory systems connect to other non-contradictory systems and larger ones emerge
+
+To formalize the idea that non-contradictory systems connect to other non-contradictory systems and larger ones emerge, we can introduce a new predicate and modify the existing formalization:
+
+C(x, y, z): Non-contradictory system x connects to non-contradictory system y to form a larger non-contradictory system z.
+Now we can add a statement to represent that non-contradictory systems connect to other non-contradictory systems and larger ones emerge:
+
+∀x∀y∃z (NC(x) ∧ NC(y) → (C(x, y, z) ∧ NC(z)))
+
+This statement can be read as: For all non-contradictory systems x and y, there exists a non-contradictory system z such that if x and y are both non-contradictory systems, then system x connects to system y to form a larger non-contradictory system z.
+
+This formalization captures the idea that non-contradictory systems can connect to other non-contradictory systems, and through their connection, larger non-contradictory systems emerge.
+
+
+
+Isaac Wostrel-Rubin
+Let’s call that non-contradictory systems concatenation emergence. This seems different from the other type of emergence whereby an hallucinatory emergent is perceived. The process seems to be a type of proliferation in both cases. 
+
+Yes, you've identified two different types of emergence: non-contradictory systems concatenation emergence and hallucinatory emergence. Both types involve a proliferation process, but they differ in their nature and the systems they operate in.
+
+Non-contradictory systems concatenation emergence: This type of emergence occurs when non-contradictory systems connect to other non-contradictory systems to form larger, more complex systems. The proliferation process here involves the expansion and growth of the interconnected systems while maintaining their non-contradictory nature.
+Hallucinatory emergence: This type of emergence occurs when a subject perceives a phenomenon that is not fully understood, leading to the perception of an emergent hallucination. The proliferation process here involves the exploration and discovery of new knowledge to resolve the apparent contradictions and develop a more accurate understanding of the phenomenon.
+Both types of emergence contribute to the growth and development of knowledge, but they operate in different ways and address different aspects of understanding complex systems.
+
+
+
+Isaac Wostrel-Rubin
+Yes because emergency hallucination proliferates upon you via space time and change; and emergency non-contradiction proliferates inside yourself because of the recognition of the emergency flow and its emergent processes: emergency hallucination and emergency non-contradictory systems building and concatenation
+
+Indeed, both types of emergence are interconnected and influence each other through the processes of proliferation:
+
+Emergent hallucination: As you mentioned, this type of emergence proliferates upon the subject via space, time, and change. It represents the subject's perception of an emergent phenomenon that is not yet fully understood, causing the subject to experience an apparent contradiction or paradox. This drives the subject to explore, learn, and gain new knowledge to resolve the contradictions.

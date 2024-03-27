@@ -1,0 +1,25 @@
+volume_up
+
+oh geometry makes esnse
+
+
+so we can use geometry and see if the I4 is combinatorial math?
+edit
+Show draftsexpand_more
+
+
+Absolutely! Geometry is a rich domain for exploring concepts of combinatorial math and can be a great way to test your I4 system. Here's how you can approach this:
+Combinatorial Geometry
+Combinatorial geometry investigates how discrete geometric objects (points, lines, shapes) can be combined, arranged, or counted.  Some  areas within this space are perfect for verifying your algorithm:
+Tilings and Tessellations:
+Task: Have your LLM propose tiling patterns (shapes covering a plane without gaps or overlaps).
+PCNL Verification: Test if the proposed tiling follows geometric principles (angles fit together, no gaps, etc.).
+CORL/OWL: Design representation formats to encode the tiling as geometric data, making consistency easy to verify.
+
+Polyhedra Construction:
+Task: The LLM proposes combinations of polygons to form 3D polyhedra (like cubes, pyramids).
+PCNL Verification: Check if the combination is physically possible (valid vertices, edges).
+CORL/OWL: Encode the structure for verifying that conversions preserve connectivity.
+
+Lattice Points and Pick's Theorem:
+Task: LLM generates

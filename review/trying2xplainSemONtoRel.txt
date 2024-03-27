@@ -1,0 +1,5 @@
+SemOntoRel: SemOntoRel(t) = |SourceEntity(t)⟩ + |TargetEntity(t)⟩ + |RelationshipType(t)⟩
+
+
+
+no that is wrong. the block time limit of novuschain is 3 seconds, but that is BECAUSE it is a certain TYPE of blockchain and the class-level is THAT type of blockchain that it is. The class-level property is part of WHY it falls under that type. The class-level property boundary shows HOW it CAN fall under that part of that type. but the reale_instance-instance-level-property-value-actual has a relationship to the WHY and HOW that is a very specific thing and needs to be DEFINED AND NAMED EXACTLY ACCORDING TO WHAT ITS FUNCTION IN THE EMERGENT WEB OF THE ENTITY IS. That is wht SemOntoRel is, the general relationship there --- and when u gen SemOntoRel for an entity, only THAT relationship being specified (X-SemOntoRel-Y). If you are able to do this at all, it can be recursively applied as a general function to get the SemOntoRel for every single informatihedron that makes up the emergent web structure of any entity you want to informadlib template.

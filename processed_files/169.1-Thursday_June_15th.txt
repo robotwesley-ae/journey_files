@@ -1,0 +1,64 @@
+This DRAFT schedule goes out 3 weeks, and gets very sparse at the end…
+Please note, I am very likely UNDERESTIMATING times, so this schedule may seem more ambitious than possible, idk.
+That’s why I am giving it to you, so you can read it, talk to me, and help me to see my blind spots and light up the darkness.
+
+“Open Schedule” DOES NOT mean nothing, There just are openings that need to be filled.
+After the schedule is the TASK LIST I generated first in order to make this schedule.
+
+HOUSE RULES:
+1. Smoking weed during work hours, if necessary, should be done as quickly as possible!
+2. “WORK” is from 9AM to 7PM, desk lunch! ALL abnormal “WORK” start times = anything after 9AM, and IS acceptable assuming you apply the following equation:
+[Value:ACTUAL START TIME] - [9] = [Value:NECESSARY OVERTIME]
+…you’ve got to finish your scheduled tasks
+3. OVERTIME starts at 8 at the earliest, if “exercise” @7PM and Dinner @7:30PM all happen within the hour, but more time is likely to be taken. OVERTIME ENDS @1AM  unless you are going to start late again tomorrow.
+4. All new TASKS must follow the TASK SCHEMA:
+CATEGORY/PROJECT
+TASK: SUBTASKS…
+ALL SKILLCHAINS…
+5. All new SCHEDULED TASKS must follow the SCHEDULED TASKS FORMAT:
+[start time] to [end time]: (Assignee) “Task name: Subtasks” [categories//Projects:subprojects][Duration (XXhr)]
+
+
+Thursday, June 15th
+7AM to 7PM: (Wesley) "at MBS: Finish kit pack and labeling, Setup demo kit outside, Discuss and determine replacement procedures with Hassen" [MBS][12hrs]
+9AM to 7PM: (Isaac) "MEETINGS. With Mike. With Jammpa.” - “prompts” [Thinkmine//Business Buddhist][10hrs]
+
+Friday, June 16th
+9AM to 11AM: (Wesley) "Update Ribcage assembly instructions" [Ribcage][2hrs]
+9AM to 11AM: (Isaac) "Notes Categorization" [Thinkmine:CrystalBall:Aegis][2hrs]
+11AM to 11:30AM: (TWI) "Review instructions" [Ribcage][0.5hrs]
+11:30AM to 1:30PM: (Wesley) "Update Bizzi website with lead nurture flow and Bizzi bot" [Bizzi][2hrs]
+11:30AM to 1:30PM: (Isaac) "Open Schedule" [][2hrs]
+1:30PM to 2:30PM: (TWI) "Lunch break" [][1hr]
+2:30PM to 5:30PM: (Wesley) "Create new long form bizzi ad campaign, in accordance with optimal strategy. Subtasks include ad campaign strategy assessment. Long-form copy/creative generation. Campaign integration with existing website" [Bizzi][3hrs]
+2:30PM to 5:30PM: (Isaac) "Open Schedule" [][3hrs]
+5:30PM to 6PM: (TWI) "Review campaign" [Bizzi][0.5hrs]
+6PM to 6:30PM: (Wesley) “Launch Campaign” [Bizzi][0.5hrs]
+6PM to 7PM: (TWI) "Open Schedule" [][1hr]
+
+Saturday, June 17th
+9AM to 1PM: (Wesley) "Build business Buddhist MVP funnel site. Subtasks: include free materials. Dharma concierge packages, membership site, book preorder" [Business Buddhist][4hrs]
+9AM to 11AM: (Isaac) “Open Schedule” [][2hrs]
+11AM to 1PM: (Isaac) "Organize business Buddhist notes" [Business Buddhist][2hrs]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 4PM: (Isaac) "Write business Buddhist MVP funnel offerings and copy" [Business Buddhist][2hrs]
+2PM to 4PM: (Wesley) "Add written material to site" [Business Buddhist][3hrs]
+4PM to 7PM: (TWI) "Develop business Buddhist ad set. Subtasks: copy, creative, and strategy" [Business Buddhist][3hrs]
+9PM to 10PM: (Wesley) “Launch BB MVP funnel+Campaign”
+
+Sunday, June 18th
+9AM to 12PM: (Wesley) "Build sanctuary MVP landing page. Subtasks: include lead capture, free content (gnosys), content blocks about Sanctuary, white paper, links to other projects" [Sanctuary Nexus][3hrs]
+10AM to 12PM: (Isaac) "Write copy/content for site. Subtasks: latest gnosys prompt. Explanation of Sanctuary revolution game" [Sanctuary Nexus][2hrs]
+12PM to 12:30PM: (Wesley) "Setup Sanctuary Patreon" [Sanctuary Nexus][0.5hrs]
+12:30PM to 1:30PM: (TWI) "Lunch break" [][1hr]
+2:30PM to 3PM: (Wesley) "Launch MVP site" [Sanctuary Nexus][0.5hrs]
+3PM to 4PM: (TWI) "Coffee Hour Meeting" [][1hr]
+
+Monday, June 19th
+9AM to 1PM:  (TWI) "Read and categorize EWSO notes" [AI General][4hrs]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 6PM: (TWI) "Read and categorize EWSO notes" [AI General][4hrs]
+6PM to 7PM: (Wesley) "Open Schedule" [][1hr]
+6PM to 7PM: (Isaac) "Write OVP video notes" [][1hr]
+
+Tuesday, June 20th

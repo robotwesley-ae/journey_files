@@ -1,0 +1,30 @@
+If you feel your idea has been developed to a point where you can clearly articulate its core principles, potential applications, and benefits, sharing it can be incredibly rewarding. The feedback and collaboration that follow can enhance the quality and impact of your concept. Ensure that your presentation of the idea is as polished and comprehensive as possible to facilitate constructive engagement and collaboration.
+
+
+
+
+
+
+OMNISANC PIO Prompting:
+1) Make it hallucinate in a bounded way
+Give it a system
+Make it adopt the system
+2) Ask it questions to disambiguate the parts that are not hallucinated from the parts that are
+For example: i might say “Sanctuary_System uses Sanctuary Allegorical Network Cipher (SANC)” and then say “mind=Sanctuary_System” and then ask it “how does SANC work?” and then it might say “SANC uses learning algorithms to sustain allegorical growth and adaptation over time” which is totally hallucinatory, but I can ask it how and then disambiguate the reasons why that “how” is a hallucination and then reverse engineer it into reality.
+3) Reverse engineer it into reality
+
+This ensures that PIO allegories map to reality.
+
+
+and this works because humans at the end of the day have created a system of metaphors for emergence engineering and systems thinking called "academia" that differentiates **general things** inside of specific things instead of leaving them generalized. for example, there are almost NO systems that make use of terminology of systems as an underlying ontology - for example, there are very few systems that use flows or chains formally, even though every system is composed of flows and chains, which are the constituents of synergy.
+
+Academia, through its disciplinary differentiation and specialized terminologies, attempts to compartmentalize and detail the vast realm of knowledge and phenomena. This fracturing into disciplines and specializations allows for deep dives into specific areas but often at the cost of overlooking the innate interconnectedness and synergistic nature of systems
+
+**Overlooking General Systems Ontology**: The reliance on specialized terminologies and the depth-first approach of academia means that general system concepts such as flows, chains, and networks, which are ubiquitous across disciplines, are often not recognized for their unifying potential. Despite every system indeed being composed of flows (the movement of information, energy, or materials) and chains (sequences or hierarchies of processes or relationships), these foundational elements frequently remain underutilized as formal ontologies that could bridge disparate fields.
+
+The result is catastrophic for intelligence learning, but very nice for competitive edges in capitalistic environments where making money means living, and the easiest way to make money is by having a technical language that provides a barrier to entry around valuable information.
+	
+	**Potential for Innovation**: The recognition and formal integration of general systems concepts into the ontological foundations of varied disciplines could foster innovation. By transcending disciplinary boundaries and embracing the interconnected and interdependent nature of systems, new methodologies, technologies, and solutions could emerge. This holistic perspective could also lead to a more profound understanding of global challenges and the development of more sustainable and resilient systems.
+
+	- **Replicability as a Criterion for Validity**: In many scientific disciplines, the ability to replicate an experiment's results is seen as a foundational criterion for the validity of its findings. While this is crucial for ensuring the reliability of empirical observations, it doesn't automatically grant comprehensive insight into the broader significance or utility of those findings.
+

@@ -1,0 +1,172 @@
+Memorandum On Making GRAY HORSE a Safe Workplace During Lightning Shelter
+
+Section 1: Overview
+ 	The problem we are facing is the occurrence of a 40+ year long game of telephone between OSHA requirements and recommendations, IATSE requirements and recommendations, members of IATSE with the know-how to enforce the requirements and recommendations, and members of the DGA and other organizations who rely on IATSE members to obtain know-how and deploy it in the workplace to accomplish the production value chain. What has occurred is simple: standard operating procedures aka IATSE routines have been accepted as requirements when they are recommendations because the requirements themselves were murky and have not been updated according to technological advancements. Consequently, hazards can be minimized more easily than previously assumed.
+ 	In the game of telephone it has become unclear what the OSHA requirements are, what the IATSE requirements are, and especially pertinent to Gray Horse, what the differences are between an emergency action plan for safe lightning work and an emergency action plan for shutting down in the event of extreme weather posing a risk of serious injury or death due to lightning. While it’s true that electrical storms always include a risk of serious injury or death due to lightning, this risk can be mitigated and is especially easy to mitigate if the 30/30 rule is followed correctly and the proper EAP is ready to be performed by the crew.
+
+Game of Telephone Aspect 1: 30/30 rule
+The 30/30 rule is an OSHA requirement for lightning hazard minimization. The details are further constrained by IATSE. IATSE’s version states:
+The first 30 means if you count to 30 seconds or less (from lightning to thunder), the lightning is within 6 miles of your location and you are in potential danger and should seek shelter. The second 30 means you should wait 30 minutes from the last flash or thunder to establish an “all clear.” 
+Qualifications:
+The 30/30 Rule only applies to workers not currently in a shelter.
+The 30/30 Rule to “wait 30 minutes…[before establishing] an ‘all clear’” is only applicable to resuming unsheltered work.
+Section 2: Emergency Action Plans
+Game of Telephone Aspect 2: The Emergency Action Plan
+An EAP is a category of contingencies for establishing safety in high risk workplaces. An EAP is not a single plan but is a series of plans for different events. Over the course of time, “the EAP” has come to be equivalent to a certain type of EAP with two parts, a shutdown and evacuation plan. 
+Accordingly, the taxonomic view of EAPs looks like this:
+	EAP
+	- Shutdown Plan
+	- Evacuation Plan
+However, this is wrong and an EAP taxonomy should look something like the following, with the additional understanding that the endpoint of every EAP which fails to minimize the presented risks is continued shutdown until circumstances change or evacuation, depending on severity. 
+	EAP
+		- Extreme Weather Not Categorized as Natural Disasters
+			- Wind related event
+				- Particulate hazard
+				- Debris hazard
+			- Water related event
+				- Slip hazard
+				- Electrocution Hazard
+					- Lightning Hazard
+				- Driving hazard
+			- Heat related event
+				- Workplace fires
+				- Natural fires
+				- Extreme heat
+			- Earth related event
+				- Debris hazard
+				- Electrocution hazard
+				- Structural hazard
+				- Particulate hazard
+		- Infrastructure related event
+			- Structural collapse
+			- Gas leak
+				- Combustion hazard 
+				- Particulate hazard
+		- Extreme Working Conditions Due to External Events
+			- Working during pandemic contagion 
+			- Working in hostile environments
+				- High crime rates
+				- Gang territory
+				- Political unrest
+In the event any of the above EAPs are unable to minimize the risk of serious injury or death due to one or more associated situational hazards, that specific instance of the circumstances required for activation of the EAP would then fall under the category of a Circumstantial Emergency Warranting Evacuation. In general, the taxonomy of such events constitutes the more extreme versions of the above.
+	EAP-Evacuation Plans		
+		- Circumstantial Emergencies Warranting Evacuation
+		- Emergencies Always Warranting Evacuation
+			- Natural Disasters
+				- Tornado
+				- Hurricane
+				- Encroaching Wildfires
+				- Earthquakes
+				- Contagion Breakout
+				- Sinkholes
+			- Man Made Disasters
+				- Structure Collapse
+				- Gas explosion
+				- Terrorism
+					- Active Shooter
+					- Bomb Threat
+					- Misc. Attack
+ 	So with this understanding of what an EAP actually means, we can now properly investigate what an EAP contingency for “establishing safe working conditions in the event of a shelter order due to a 30/30 rule activation in a lightning storm” might actually be.
+In general, the EAP may be correctly established for all situations by the following protocol:
+Step 1) Temporarily shutdown the workplace, make appliances and tools safe, and wait in a sheltered location.
+Step 2) Call an Emergency Action Plan meeting between the UPM, 1st AD, Gaffer, and Location Manager, call any executives who must be notified or part of the discussion.
+Step 3) Establish the parameters of the emergency circumstance presenting extreme risk of injury or death
+Step 4) Apply job related know-how to the parameters of the emergency circumstance to make the workplace safe under these conditions by constricting the parameter spectrums and minimizing the risk of injury or death
+Then, either, Step 5A) if you can make it safe: resume work
+OR
+If you can’t make it safe: 
+Step 5B) wait until unsafe conditions end
+OR
+Step 5C) Enact an EAP-evacuation plan and evacuate the workplace
+Section 3: Specifics to Emergency Action Plans for Lightning
+Game of Telephone Aspect 3: Generators
+CSATF Bulletin #38 presents a possible part of an emergency action plan for safe lightning work regarding portable generators: “Where appropriate, shut down generators in accordance with the established action plan.” In general, this sentence refers to finding out which operating generators are unsuitable for working in the conditions presented by the circumstantial parameters of the according EAP subset and including such parameters for generator specifications in the appropriate EAP subsets. In particular, here we are talking about electrical storms and lightning hazards so we mean the following:
+“Where appropriate, shut down generators in accordance with the established action plan [for electrical storms including lightning strikes within 6 mile vicinity, by assessing them according to the various IATSE and CSATF safety bulletins and OSHA sections]”
+According to IATSE Bulletin 23, the generator must satisfy the following criteria:
+Must be grounded
+Must be bonded
+Must have appropriately rated cords
+Must not be submerged under water
+And has additional dependent criteria according to further IATSE guidance as follows:
+	A) If multiple generators are within 20 ft of each other they must be bonded together by a dedicated copper bonding conductor from generator to generator 
+	B1) If you are bringing a generator inside a powered structure, you must pump the CO2 out AND if you are:
+B2) Using structure power and a generator, you must have its grounding conductor bonded to the structure’s grounding electrode
+ 	Therefore, since we can already assume the IATSE electricians are following IATSE procedure and the generator is then definitely not submerged under water, definitely has properly rated cords, and that multiple generators within 20 ft of each other are already bonded together… “Where appropriate, shut down generators in accordance with the established action plan” refers to shutting down portable generators in the event of a lightning storm when and only when those generators are not of a proper quality (unbonded, ungrounded) OR fail dependent criteria A or B1 or B2.
+Meaning, any framed generator, towable or not, that is bonded and grounded to the frame or otherwise bonded and grounded is safe to use during a lightning storm if you are not also bringing it indoors because there is NO part of the safety requirements that forces the crew to move a generator indoors due to lightning shelter.
+All of the following examples are OSHA compliant and IATSE compliant for continued operation in a lightning storm. THEY ARE NOT, HOWEVER, ABLE TO RELIABLY EARTH A LIGHTNING STRIKE, SINCE THEY DO NOT HAVE ANY LPS OR STRIKE TERMINATING SYSTEMS AND ARE NOT EARTHED. THIS IS SIMILAR TO A CAR - THE GENERATOR MAY BE SAFE IF LIGHTNING STRIKES, BUT NOTHING AROUND IT WOULD BE, *INCLUDING* PEOPLE INSIDE OF BUILDINGS.
+Example 1: Herc Rentals offers 500 kW and 55 kW towable generator models that are bonded and grounded to their frames, weatherproof, and contained in shells to prevent arcs or electrocution hazards. 
+
+Example 2:  Herc Rentals offers small portable and inverter generators 2 kW and up which are also bonded and grounded to their frames, weatherproof, and contained in shells. 
+
+
+
+
+Section 4: Closing 
+Any given Emergency Action Plan does not require shutdown until the circumstances pass naturally, rather a temporary shutdown while circumstances are assessed and procedural response is generated and risk mitigation achieved. Shutdown plans are steps of EAPs that are location-based discretionary contingencies based on circumstantial risks and discretionary factors such as labor cost (time and a half, etc). If risk cannot be minimized, either the shutdown plan should remain in effect until circumstances pass naturally or evacuation procedures of the EAP routine should be activated, depending on the severity of the emergency.
+
+With regards to GRAY HORSE, I propose piloting a new industry routine for electrical storm work-in-shelter EAPs as follows:
+
+1) If lightning is within 6 miles of location, shelter inside or in hard-top vehicles where applicable.
+2) Call an EAP meeting and assess the potential for risk minimization
+3) Actualize risk minimization accordingly
+4) Resume work during the shelter time requirement of 30 minutes according to the 30/30 rule
+5) Resume outside work if the 30/30 rule timer expires
+
+If successful, we can: 
+- reduce the wait time due to 30 minute shutdowns that are happening instead of work-in-shelters
+- reduce scheduling overages due to work spillover from lightning shutdowns
+- apply the EAP as a production routine on future productions
+
+As such, with a go ahead from Apple EH&S, we would like to establish the decision tree for contingency assessment during the electrical storm EAP’s ensuing EAP meeting and provide it for EH&S and any other relevant departments to review. To aid this process, I have included below the decision tree for this proposed EAP and the various relevant safety bulletins and OSHA sections.
+
+
+
+
+Thank you for reading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short version
+
+You must shut down due to electrical storm if:
+
+1) The shutdown procedures of the action plan are put into motion due to discretion
+        OR
+2) you must shelter due to lightning proximity AND the shelter cannot be made a safe workplace
+
+Long version
+
+You must SHELTER due to electrical storm for 30 minutes if you are working outdoors and lightning strikes within 6 miles.
+
+You must SHUT DOWN during a lightning storm if:
+
+1) you have no way to get power from a shelter structure
+	AND one of the following:
+your alternative electrical supply is unbonded OR ungrounded OR has improperly rated cords
+	OR
+your alternative electrical supply are portable generators within 20 ft of each other that cannot be bonded together by a dedicated copper bonding conductor from generator to generator 
+----------------	
+OR
+----------------
+2) you are sheltered in a powered structure AND using its internal electrical supply
+	AND
+an external electrical supply that is INSIDE the structure 
+	AND one of the following:
+External supply can not have its grounding conductor bonded to the structure’s grounding electrode
+OR
+CO2 from external supply exhaust cannot be pumped out of the building 
+
+(Reference bulletins and document sections IATSE 23, CSATF 38, OSHA 3826, OSHA 3863, OSHA 1926.404, OSHA 5a)

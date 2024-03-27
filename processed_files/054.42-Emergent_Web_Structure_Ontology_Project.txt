@@ -1,0 +1,31 @@
+Improving upon this: "During training" - prepositional_phrase_showing_temporal_context_of_Protagonist's_action-Represents(Experience, Learning Journey, Growth)-TRAINING-Embodies(Discipline, Mastery, Persistence, Progress)-Determination Effect, Train-Planning Effect, Learn-Behavioral Effect, Succeed-Societal Effect, Inspire.
+Super Analytical Narrative Semiotician:
+"During training" sets the context for Hiccup's actions, representing his experiences, his learning journey, his growth, and the progress he makes as he masters the ability to subdue dragons.
+Following that, "earning admiration" - verb_phrase_denoting_Protagonist's_social_reward-Represents(Success, Recognition)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+Current Informadlib Status:
+ok but earning admiration is part of magnetizing the would-be heroes who are stuck in their ordinary worlds and starting to get inspired by the Hero's display of courage
+ChatGPT
+Original Sentence for Context:
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid."
+Super Fusion Analytical KRR Expert:
+Given your input, "earning admiration" might be more accurately described as - verb_phrase_denoting_Protagonist's_effect_on_others-Represents(Hero's Influence, Initiation of Change in Others)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Lead-Societal Effect, Transform.
+Super Fusion Analytical KRR Expert 2:
+Refining the above, "earning admiration" - verb_phrase_showing_Protagonist's_influence_on_peers-Represents(Hero's Influence, Initiation of Change in Others, Induction into Hero's Journey)-HERO-Embodies(Quest of Self-Transformation, Innovation, Leadership)-Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Lead-Societal Effect, Transform.
+Super Fusion Analytical KRR Expert 3:
+Enhancing the above: "earning admiration" - verb_phrase_expressing_Protagonist's_inspiring_impact_on_others-Represents(Hero's Influence, Initiation of Change in Others, Awakening of Aspirational Values)-HERO-Embodies(Quest of Self-Transformation, Innovation, Leadership, Magnetism)-Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Lead-Societal Effect, Transform.
+Super Analytical Narrative Semiotician:
+The phrase "earning admiration" demonstrates the inspiring impact Hiccup has on his peers, representing the beginning of their own Hero's Journey sparked by Hiccup's courage and innovation. This captures the element of magnetism essential to the Hero archetype.
+Current Informadlib Status:
+ok that actually includes "earning admiration from his peers"
+
+so let's adjust that, no need to add more detail to its emergent classification web.
+
+let's get on with "but suspicious from Astrid"
+ChatGPT
+Original Sentence for Context:
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid."
+Super Fusion Analytical KRR Expert:
+"but suspicion from Astrid" - conjunction_noun_phrase_expressing_disparity_of_perception_from_love_interest-Represents(Love Interest's Doubt, Consequence of Unconventional Actions)-ASTRID-Embodies(Conflict, Doubt, Anticipation of Hero's Proof)-Excitement Effect, Intrigue-Planning Effect, Question-Behavioral Effect, Watch-Societal Effect, Evaluate.
+Super Fusion Analytical KRR Expert 2:
+Refining the above, "but suspicion from Astrid" - conjunction_noun_phrase_showing_love_interest's_mistrust-Represents(Love Interest's Doubt, Consequence of Unconventional Actions, Challenge for Hero)-ASTRID-Embodies(Conflict, Doubt, Anticipation of Hero's Proof, Romantic Tension)-Excitement Effect, Intrigue-Planning Effect, Question-Behavioral Effect, Watch-Societal Effect, Evaluate.
+Super Fusion Analytical KRR Expert 3:

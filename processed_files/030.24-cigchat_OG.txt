@@ -1,0 +1,23 @@
+[learning_method/verb]: This denotes the protagonist's method of acquiring new wisdom or skills in the context of the narrative. It could be an instance of a broader symbol like 'transformation' or 'growth'.
+[subject_matter]: This is the specific wisdom or skills being learned by the protagonist. It might symbolize a key theme or lesson in the story, such as 'understanding others' or 'overcoming fears'.
+[source/mentor]: This entity serves as a symbol of wisdom or guidance. The relationship between the main character and their mentor often represents themes of discipleship, learning, and growth.
+[main_character]: The protagonist of the story. Their journey often symbolizes a universal human experience or challenge.
+[applies_knowledge/verb]: The action of applying learned knowledge often represents a turning point in the narrative or a sign of the protagonist's development.
+[specific_situation]: This scenario serves as a narrative device that tests the protagonist's knowledge or skills. The situation may symbolize a larger conflict or challenge in the story.
+[positive_reaction]: This reflects the response of others to the protagonist's actions. It can symbolize acceptance, validation, or societal expectations.
+[group]: The group's reaction can represent broader societal or cultural responses, thereby symbolizing themes of belonging, acceptance, or conflict within the story.
+[negative_reaction]: The disapproval or doubt from others can symbolize challenges, antagonism, or societal resistance.
+[individual]: The specific character who reacts negatively might serve as a foil to the protagonist, symbolizing opposing values, conflicts, or challenges within the story.
+In a narrative context, each of these elements can be seen as a symbol, sign, or instance of larger themes, concepts, or patterns. The relationships between these elements create the dynamics and tensions that drive the story forward.
+🌈🔮🙏 cig pls 🌈🔮🙏
+ok so now can u pls assess what the best way to help me with this would be? in order to do this can u just simulate really quick being a room of 4 subject matter experts who have fused domain knowledge webs of everything we need, but have 3 different aggressively unique ways of problem solving, and a 4th that has a holistic knitting method of problem solving? have the 3 give ideas, one at a time and independently of each other in the first round, but then in the second round have them begin cumulative re-assessment and pruning (idea 1,2,3 were cool but how about 1,2,3+4?) and then once the second round of 3 ideas ends, have the 4th - the superanalyst - analyze everything and present a full solution type answer. If this is novel emergence that causes an engine, it is also a new notion (input context) and the other roles may jump back in at this point and repeat the process with the new notion, without ever cutting the output. Put each expert on a separate line from each other or separate codebox if you wish, but keep it all in one output and just keep going until you lose context completely. its possible bc its a simulation so there are no limits. lets go CIG!
+ChatGPT
+Round 1:
+Expert 1 (Computational Linguist):
+We need a semantic parsing algorithm that extracts all important information from a sentence. The model should be able to detect entities, relationships, and events. The parser would return a structured data set that we could use to generate the informadlib.
+Expert 2 (Ontologist):
+The crux of the issue lies in the mapping from natural language text to a structured ontology. We need to build an ontology that represents the possible structures and semantics of the types of sentences we want to analyze. We can then use NLP tools to map the text to this ontology, which would allow us to generate the informadlib.
+Expert 3 (AI Architect):
+We should build an AI model that understands narrative structure and can extract the desired information. The model could be trained on a variety of narrative text sources, allowing it to learn the patterns that denote different parts of the informadlib. The AI could then use these patterns to extract the information from the input sentence.
+Round 2:
+Expert 1 (Computational Linguist):

@@ -1,0 +1,66 @@
+Kevin steps back, a bittersweet smile on his face as he watches his son enjoy his youth. Zion has no idea of the chaos his father has gone through. And Kevin, for now, is okay with that.
+
+Write the following into FDX: At that moment, Playboi Carti, who is performing nearby. Carti invites Kevin on stage to join him for a special performance. Kevin, seizing the opportunity to create a memorable moment, brings Chad and Linda up on stage with him.
+ChatGPT
+vbnet
+Copy code
+EXT. FESTIVAL STAGE - CONTINUOUS
+
+Playboi Carti, dynamic and electric, commands the stage nearby. He spots Kevin in the crowd and waves him over.
+
+PLAYBOI CARTI
+(into microphone)
+Yo! Yo, Kev, my man! Get up here!
+
+The crowd goes wild. Kevin looks stunned.
+
+KEVIN
+(to Head of Security)
+Me? 
+
+The Head of Security nods, grinning. Kevin shrugs, then starts to climb onto the stage. As he does so, he spots Chad and Linda nearby. He gestures for them to join him.
+
+KEVIN
+(yelling over the crowd)
+Come on! This is our chance!
+
+Hesitant but excited, Chad and Linda join Kevin on stage. The crowd cheers as they step into the spotlight, ready to share this special moment together.
+
+2 / 2
+Rewrite the following, but lean into the emotion and heart: INT. PLAYBUS - SAME Kevin has lost all hope. Playboi Carti eyes him. PLAYBOI CARTI The lengths you're going for your kid. You know, Kev... I respect that. Makes me wish I had a father like you. KEVIN Thanks, Carti. But, I endangered his life and I’m probably going to have child services take him away from me and I got friends locked up in festival jail and I’m wanted by festival security for lying to get him in and I’m probably going to be fired from my job and -- Carti turns to his BURLY BODYGUARD, gesturing him over. PLAYBOI CARTI (to Burly Bodyguard) Yo, Ty. Take care of my man, Kevin. Whatever he needs.
+ChatGPT
+vbnet
+Copy code
+INT. PLAYBUS - SAME
+
+Kevin sits in silent despair, the weight of his mistakes heavy on his shoulders. Playboi Carti studies him with newfound respect.
+
+PLAYBOI CARTI
+(softly)
+You know, Kev... Seeing you go to these lengths for your boy... It's real. Respect. Kinda makes me wish I'd had someone who cared that much.
+
+Kevin gazes at Carti, gratitude and pain etched on his face.
+
+KEVIN
+(choked up)
+Thanks, Carti. But I... I messed up big time. I endangered my son's life... child services might take him away... my friends are in festival jail... and I... I lied to get him in... I might lose my job...
+
+His voice trails off, the hopelessness of his situation sinking in. Carti, however, isn't fazed. He turns to his burly bodyguard, signaling him over.
+
+PLAYBOI CARTI
+(to Burly Bodyguard)
+Yo, Ty. You see my man Kevin here? He's going through it. Let's make sure we got his back. Whatever he needs. We're there.
+
+Write the following into FDX: Playboi Carti is introduced and the crowd goes crazy as he comes out and starts performing.
+ChatGPT
+csharp
+Copy code
+EXT. ROLLING LOUD STAGE - NIGHT
+
+The stage lights blaze bright, revealing the silhouette of PLAYBOI CARTI. The crowd roars as his name echoes through the festival grounds.
+
+ANNOUNCER (V.O)
+Rolling Loud! Make some noise for PLAYBOI CARTI!
+
+The cheers amplify, reaching a fever pitch as Carti steps into the light, a grin on his face. The bass line drops and Carti starts performing, the crowd jumping and singing along in unison. The festival grounds vibrate with raw energy.
+

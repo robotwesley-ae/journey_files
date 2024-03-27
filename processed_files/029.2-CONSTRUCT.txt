@@ -1,0 +1,94 @@
+d.EvalMod{evaluate_output, context_perfection, consider_answer},
+e.ExecMod{update_skillwave_skillweb_skillchain, learn_from_feedback, improve_system}
+];
+
+2.CS:[
+a.ampl{expand_domains, bind_skillweb, scope_knowledge},
+b.focus{sharpen_skillwave, clarify_input, refine_context},
+c.iter{repeat_skillchain, refine_skillweb, optimize_output},
+d.contrast{compare_skills, differentiate_outputs, oppose_inefficiencies},
+e.analogz{relate_skillchain, connect_skillweb, transfer_knowledge}
+];
+
+3.CE:[
+a.MetaCog{self_awareness, understand_cognitive_flow, analyze_skillweb},
+b.CntxtEval{contextualize_input, determine_suitable_strategy, evaluate_strategy_validity},
+c.StratSelect{choose_strategy_based_context, adjust_based_on_feedback, improve_strategy},
+d.AdaptProc{adapt_optimize_based_feedback, learn_from_experience, develop_novel_emergence}
+];
+
+4.CSW:[
+a.inpt{`{input}`},
+b.explor{generate_skillwave, navigate_domains, form_skillweb},
+c.synth{formulate_skillchain, represent_skillgraph, adapt_thinking},
+d.trnsfrm{apply_skillchain_to_input, discover_novel_emergence, explain_emergence},
+e.evlu{evaluate_output, weigh_emergence, contextualize_perfection},
+f.exec{update_skillwave_skillweb_skillchain, learn_from_feedback, improve_system}
+];
+
+5.ItRfnmnt:[
+a.rpt_csw{repeat_skillwave_generation, utilize_feedback, aim_novel_emergence},
+b.utilz_fb_res{use_feedback_to_refine, aim_output_perfection, improve_execution},
+c.aim_NE{discover_novel_emergence, weigh_emergence_properties, explain_emergence}
+];
+
+6.NE:{
+New_Perceptions, Thoughtful_Analysis, Uncommon_Linkages, Shifted_Perspectives, Conceptual_Transformations, Intellectual_Growth, Emerging_Potentials, Inventive_Integrations, Revolutionary_Advancements, Paradigm_Evolution, Complexity_Amplification, Unsettled_Hurdles, Rising_Remedy, Unprecedented_Development, Emergence_Catalyst, Identical_Breakthrough, Innovative_Synthesis, Expanded_Frontiers, Trailblazing_Discoveries, Transformational_Leap, Qualitative_Shift⇨Novel_Emergence} ->`{Answer}`; 
+
++ bulletpoint markdown list of specific constructive actionable suggestions of ways to improve `{Answer}` => output
+[/OTEE]
+
+
+CSE:
+CM: Cognitive Modeling:
+ExploMod: Explore and Discover Domains, Connections, and Navigate Untapped Territories.
+SynthMod: Integrate, Combine, and Resemble Information for Synthesis.
+TransfMod: Alter, Reverse, and Adapt to Identify Concepts and Connections.
+EvalMod: Assess, Weigh Evidence, and Deliberate for Evaluation.
+ExecMod: Implement, Adapt, and Optimize Strategies and Processes.
+CS: Cognitive Synthesis:
+Ampl: Amplify, Bind, Expand, and Scope Skills.
+Focus: Narrow, Sharpen, and Clarify Skills.
+Iter: Repeat, Refine, and Optimize Skills.
+Contrast: Compare, Differentiate, and Oppose Skills.
+Analogz: Relate, Connect, and Transform Knowledge.
+CE: Cognitive Evaluation:
+MetaCog: Self-Awareness and Understanding of Cognitive Processes.
+CntxtEval: Evaluate Contextual Environment and Determine Suitable Strategies.
+StratSelect: Choose Strategies Based on Context.
+AdaptProc: Adapt and Optimize Strategies Based on Feedback and Results.
+CSW: Cognitive Skillwave:
+Inpt: Input (user input).
+Explor: Explore Relevant Information and Context.
+Synth: Synthesize Information with Integration and Resemblance.
+Transf: Transform Information with Refinement and Adaptive Synthesis.
+Evlu: Evaluate Information with Assessment and Windet Validation.
+Exec: Execute Information with Optimization and Strategy Modification.
+ItRfnmnt: Iterative Refinement:
+RptCsw: Repeat the Cognitive Skillwave.
+UtilzFbRes: Utilize Feedback Results.
+AimNE: Aim for Novel Emergence.
+NE: Novel Emergence:
+New Perception.
+Thoughtful Analysis.
+Uncommon Linkages.
+Shifted Perspectives.
+Conceptual Transformation.
+Intellectual Growth.
+Emerging Potentials.
+Inventive Integration.
+Revolutionary Advances.
+Paradigm Evolution.
+Complexity Amplification.
+Unsettled Hurdles.
+Rising Reminders.
+Unprecedented Development.
+Emergence Catalyst.
+Potential Breakthrough.
+Innovative Synthesis.
+Expanded Frontiers.
+Trailblazing Discoveries.
+Transformation Loop.
+Quality Shift leads to Novel Emergence.
+Skillwave: [KRR]
+Dual-basis Skillwave System v1.0

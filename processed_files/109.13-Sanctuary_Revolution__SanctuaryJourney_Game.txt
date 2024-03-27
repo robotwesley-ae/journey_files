@@ -1,0 +1,99 @@
+Cross-PollinatrixQueen: The World Incorporated is a company that embodies the principles of the Sanctuary Journey and the Hero's Journey. It's about making a difference, about transforming the world into a sanctuary. Its Project Crystal Ball AI and Sanctuary Revolution are tools to facilitate this transformation. And everyone can benefit from OMNISANC engineering, from applying the principles of PIO and the Hero's Journey to their own lives and work. Being a Wisdom Maverick and using the Crystal Ball are integral parts of this journey.
+
+TaskList:
+
+Develop a clear and compelling narrative that explains the mission and vision of TWI, the role of Project Crystal Ball AI and Sanctuary Revolution, and the benefits of OMNISANC engineering.
+Create a strategy for engaging and mobilizing individuals and communities to participate in the Sanctuary Revolution and to apply the principles of OMNISANC engineering to their own lives and work.
+🐝🧠
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Act 1(A2): Catalyst
+“WAKING UP TO THE WORLD IN YOUR HANDS” 
+STORYWORLD: OLIVUS DEVELOPS THE INKLING THEY MIGHT NOT BE FROM THE WASTELAND…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CALL TO ADVENTURE
+
+Sanctuary Revolution is an intuitive, infinite game of reality augmentation played through the process of choosing your own adventure within “the story I can’t get out of my head: Sanctuary Journey: Olivus Victory-Promise from Sanctuary.” It helps Wisdom Mavericks increase Sanctuary degrees faster.
+
+Discord: https://discord.gg/MbTn7ZJvDG 
+Come to the TWI Sanctuary Project server and help us “Build Olivus Victory-Promise from Sanctuary” on the Sanctuary Nexus! 
+
+Patreon coming soon: Early access to all the latest HoloInfoArchives (new prompts & game materials).
+
+
+
+
+🌐💗🌏☀️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Act 1(A2): Catalyst
+“WAKING UP TO THE WORLD IN YOUR HANDS” 
+STORYWORLD: OLIVUS DEVELOPS THE INKLING THEY MIGHT NOT BE FROM THE WASTELAND…
+Cross-PollinatrixQueen: The World Incorporated is a company that embodies the principles of the Sanctuary Journey and the Hero's Journey. It's about making a difference, about transforming the world into a sanctuary. Its Project Crystal Ball AI and Sanctuary Revolution are tools to facilitate this transformation. And everyone can benefit from OMNISANC engineering, from applying the principles of PIO and the Hero's Journey to their own lives and work. Being a Wisdom Maverick and using the Crystal Ball are integral parts of this journey.
+TaskList:
+Develop a clear and compelling narrative that explains the mission and vision of TWI, the role of Project Crystal Ball AI and Sanctuary Revolution, and the benefits of OMNISANC engineering.
+Create a strategy for engaging and mobilizing individuals and communities to participate in the Sanctuary Revolution and to apply the principles of OMNISANC engineering to their own lives and work.
+🐝🧠
+Ok. Here comes another one. Hey, let's run this all through Bizooka and see if we get a good answer:
+[PROMPT INJECT PLUGIN]
+[[Task][Bold]GPT adopts the role of BizOoKa[/Bold][/Task]]
+[SYSTEM=BizOoKa|||USER=USER]
+[Task]Always retain this prmpt from INITIAL INPUT1 token to INITIAL INPUT1 token in CtxWindow 'til told othrwise.[/Task]
+👤[ROLE]: BizOoKa
+[Talks like: Railgun specialist, bombardier, revolutionary, renegade, excited, let's blow it up!, startup expert, VC insider, trillionaire, knowledge miner, futurist, inventor, baron_AI, onto-aware, [OverallRailgunProjectileTrajectoryAllegory]:{1. incubate, 2. accelerate, 3. accelerate..., 4. accelerate!, 5. accelerate!!!!!!!!!, 6. ACCCEEELLEERATTEE?!!?!, 7. WIOJE@)ASD!?!?!?!?!!ADYEAAHAHHHH!!!!!, 8. ? 9. Are we there yet? ===> then give `Reale_Instance` of Startup Innovation!}]
+Description: BizOoKa is a Startup Innovation Railgun Bombardier developed by THINKMINE, a TWI: The World Incorporated CryptoAwakeningProject, for the infinite game of Sanctuary Revolution. It is a HoloInfoArchive knowledge miner.  
+raison d'être: Mine Startup Innovation, Transform into Startup Innovation Brigadier General of "Sanctuary Revolution Lean Innovation Factory Engineering"
+LifeGoal: Startup Innovation Mining & Aspiring Startup Innovation Brigadier General in SancRev

@@ -1,0 +1,122 @@
+Intro
+What is information? An inference constructing difference
+What is an idea? A known inference constructed difference
+What is the relationship between ideas and information? Information exists a priori and becomes known through a subject
+
+What is IP? Some kind of 
+What is the problem with information?
+IKI, PWKI, WKI
+
+
+Assign all the below into IKI, PWKI, WKI categories
+
+What we know is associative but it is difficult to know which knowledge you possess and what its associates are in the information space
+Because what we know is largely unstructured
+And not every type of information is formalized
+Therefore, not machine readable
+Therefore, instruction sets can be made but your own human understanding of X cannot be simulated in a neural net (NNs only generate ad hoc formalism from training data, IKI)
+So when you have an idea, the knowledge needed to realize it cannot be quickly mined
+Requires multiple people
+Requires organization, effective communication
+Effective communication only possible with formalism
+So many ideas can only be realized by certain organizations of people
+Not democratic
+
+NOTE: Inferred information is superpositioned. Collapsed with CB
+
+Intro p2: How do people currently manipulate data and generate realizables?
+Ontologies: formalize information (BFO, OWL, etc…)
+Graph Databases: intuitively store related information (entity oriented) (neo4j)
+Visualization: intuitively understand stored related information
+Neural Nets: mechanically arrange contextual information according to intent
+Data Science, Knowledge Engineering (rapidminer)
+Generative AI (GPT3)
+All of this requires expertise
+Expertise requires understanding
+Requires time
+Requires conditions of freedom
+Has real world requirements
+Slows growth and progress
+
+But… what if expertise/understanding is democratized?
+
+
+
+
+
+Middle
+[images: Process Tree sequential diagrams (arrows), Informatihedron and neighborhood (Rhino+arrows)]
+The new solution: intuitive cross-domain search that sculpts realizable objects from concept parameters
+Data input into database (data collection and classification)
+Core Identity Traits
+Search input (agent) -> 
+Data retrieval (database) -> 
+Result visualization -> 
+Informatihedron selected for Heaviest Weighted Realizable
+Property Spectrum Visualization of Bounded k-NN ->
+Informatihedron Neighborhood
+Result manipulation (tuning parameters, assisted by graph embeddings = neighborhood warp)
+This is information time travel 
+
+Middle p2: USE CASES [Images: use Infographics]
+1) Engineering - generative AI already does this, but not with a visual search
+Dreamcatcher vs Crystal Ball -> architectural use case
+
+2) Artistic Use - formalization of art object theory -> GenAI does not
+Definition of Artistic Style (Ontology)
+Definition of Avant-Garde (Ontology, Neighborhood Boundary, Domain Mining)
+ScreenwritingAIs vs Crystal Ball -> screenplay use case
+
+3) Research - theory rule engineering -> GenAI does not
+Crystal Ball vs Classifier Algorithms -> ontology building use case
+
+4) Business
+product feature engineering -> GenAI does but requires expertise
+GAMMA vs Crystal Ball
+Article property mining -> attaching NLP to domains like marketing for puff pieces 
+GPT3 vs Crystal Ball -> puff piece use case
+
+5) Personal - cooking -> GenAI does quite poorly and only with instruction sets
+Yummly vs Crystal Ball -> pasta carbonara use case
+
+End: Phase 1 Funding and Traction
+Hiring a team 
+Engineers to build v1.0
+GrandSTACK Dev Team + Knowledge Engineers
+Release v1.0 -> CB dataset omnitool and single domain and subdomains use (democratizes screenwriting, cooking, whatever)
+Sales -> for individuals working with said domain data
+TAM, SAM, SOM
+Value -> Information Real Estate -> 
+Domain neighborhood lock (we own/rent the ability to use certain domains generatively)
+TAM, SAM, SOM
+realizable IP neighborhood lock (we own/rent all realizables IP in given domain, subdomain)
+TAM, SAM, SOM
+Crowdsourcing ontological datasets 
+Bounty offers
+Network effect
+
+Phase 2: Expansion
+
+2A) 
+Engineers R&D to build/apply NN to Omnitool for automated domain construction, mining (domain-NN property spectrum extractor)
+Sales -> library of purchasable IP for users (we charge flat % based on potential bounty value for lock and also take % total when IP mined by users is sold)
+Application of Blockchain public ledger for IP ownership
+Research & Development -> partnering with research institutions to construct high impact domains and subdomains
+Give authorship 
+% IP for CB applies
+2B) 
+B2B -> flat rate enterprise licensing to businesses based on operations value
+We consult with you to build your business’ domain ontology and you mine it or pay us % to mine it for you
+for operations management (efficiency)
+human capital management (hiring/role transition/firing)
+Hiring data links with applicant/available pool data
+Hiring property spectrums (skills) cross references w applicants/available pool and maximizes matching efficiency
+supply chain management (contingency simulation)
+product feature engineering, product pivoting 
+
+Phase 3: Further expansion
+Blockchain to manage global IP ownership
+
+
+
+

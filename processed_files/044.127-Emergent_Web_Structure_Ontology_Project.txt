@@ -1,0 +1,31 @@
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure?   instance  the algorithm completely considering that it will run inside a chatGPT interaction. the model cannot be changed, the data cannot be external.
+
+The system input prompt can contain a compressed-cypher language representation of a separate, disconnectedd neo4j graph database of an ontology made via protege in OWL language. 
+
+as we consider what the algorithm will be, know we will be using OWL. the system input prompt will also contain an OWL primer, as well as definitions for EWSO, informatihedron, informadlib, and any custom ontology language we need to devise to get the function to work, as well as the algorithm for SemOntoRel (thats this that we are talking about). 
+
+Lets think of the space as a knowledge graph
+I believe that as you have said, it is complicated to make the algorithm go to the next superclass correctly for any given search purpose
+an input is a search query for a desired instance of something (X)
+the output should be the informadlib template of X, btu how should this be accomplished?
+
+I believe we should have the user do a custom walk from node to node, designing their own EWSO (emergent web structure ontology) dynamically, as they go, and the output is filling in the informadlib template accordingly, while also showing them the display of the node they are on right now as an informatihedron. 
+
+"The Informadlib Template can be thought of as a guide or blueprint for generating specific instances of information in a system. The Informatihedron is the multidimensional conceptual space wherein these instances and their properties exist and interact. The EWSO is the dynamic, evolving framework that encapsulates these interactions and provides a way to understand and track these changes over time."
+ to make GPT output a node like that, we need to devise a way to make it do so using OWL terminology. That is the algorithm. The algorithm is the way we tell GPT to output an OWL frame of the informatihedron of X. We need to correctly, therefore, define the informatihedron in terms of which OWL terminology the output should display about an ENTITY, which here is a node.
+
+Now, let's remember that this is not strictly OWL, but OWL+GPT which is special. We can query GPT for multiple levels of properties and so on at once using commands like InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate, and so on. 
+
+We can also use these terms and custom define them in order to create the algorithm we need to make this automatically, so the user gets a fully defined informatihedron of whatever they want. 
+
+REMEMBER: THERE IS NOT AN OWL ONTOLOGY ANYWHERE. THERE ARE ONLY CUSTOM DEFINED TERMINOLOGY EXPLOITING GPT'S KNOWLEGE OF OWL FRAMEWORK APPLICATION TO MAKE A FUNCTIONAL EWSO SEMONTOREL (SemanticOntologicalRelationship) ALGORTIHMIC FRAMEWORK THAT AUTOMATICALLY CAPTURES THE PROPER INSTANCELEVEL.INSTANCEPROPERTY-PROPERTY.VALUE->CLASSLEVEL.INSTANCEPROPERTY-PROPERTY.SPECTRUMConceptualBOUNDARY which means InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary
+
+Instance level: This layer contains individual entities, represented by the InstanceTemplate, with their InstanceLevelProperty.
+
+Class level: This layer represents classes of entities, which share common properties defined by the DomainLevelClassPropertyTemplate and ClassLevelClassPropertyTemplate.
+
+Superclass level: This layer represents the superclasses of the classes, and it is explored using the DirectSuperClassTemplate.
+
+Bringing the experts' views together, we need to devise a mechanism that allows GPT to interpret a user query within an OWL

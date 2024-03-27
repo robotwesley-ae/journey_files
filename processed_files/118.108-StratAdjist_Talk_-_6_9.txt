@@ -1,0 +1,47 @@
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]""
+ChatGPT
+Given the focus on symbolic representation and natural language descriptions, I see that you're proposing a clear-cut, structured conversation between the user and GPT, centered around the development of an ontology and the subsequent creation of the Informadlib.
+The conversation and symbolic representation essentially capture the key steps and rules involved in setting up an ontology, defining classes, properties, and relationships (SemOntoRel), and then applying these rules to craft the Informadlib.
+This communication method should streamline the process, making it easier to manage, understand, and update the ontology as it evolves. The structured format allows for precise control over the ontological structure, enhancing the Informadlib's accuracy and its ability to capture the desired wisdom-infused structure within the EWSO.
+By using this approach, it's important to ensure that both user and GPT have a clear understanding of each concept and symbolic notation used. The placeholders (InstanceLevel1, InstanceLevel2, etc.) and symbolic notation (A, B, α, β, etc.) need to be thoroughly defined and consistently used throughout the conversation.
+This model gives the user full control over the Informadlib creation process, allowing for highly customizable ontologies and Informadlibs. It could serve as a robust framework for crafting complex, dynamic ontologies and Informadlibs within the EWSO.
+
+
+so previously you said "+---------------+-----------------+------------+-------------+
+| Informatihedron  | Property          |  Value     |  Relation   |
++---------------+-----------------+------------+-------------+
+| InstanceLevel1 | P                     |  maxValue |  α             |
+| InstanceLevel2 |                       |            |  β             |
+| ...               |  ...                    |  ...           |  ...            |
++---------------+-----------------+------------+-------------+
+" 
+
+but now do you see what i mean?
+ChatGPT
+I believe I'm starting to understand your vision better. In the proposed "Informatihedron" structure, you're defining an instance's existence and its properties within the EWSO. It looks something like this:
+css
+Copy code
++---------------+-----------------+------------+----------------+ | Informatihedron | Property | Value | Relation | +---------------+-----------------+------------+----------------+ | InstanceLevel1 | P | maxValue | α maps to IL2 | | InstanceLevel2 | ... | ... | β maps to CL1 | | ... | ... | ... | ... | +---------------+-----------------+------------+----------------+
+Where:
+Informatihedron corresponds to each identified class within the Informadlib.
+Property denotes the specific property of the instance.
+Value is the actual value of that property for the instance.
+Relation describes the Semantic Ontological Relationship (SemOntoRel), specifying how the instance maps to other informatihedra.
+In this format, the Informadlib forms a multi-dimensional array-like structure, with each row representing a unique informatihedron within the EWSO. It encapsulates the entity's state at a given moment, mapping properties, values, and relationships to their associated informatihedra.
+Is this what you had in mind?
+
+
+yes that's correct and the way it maps is through SemOntoRel. Specifically, like in a process ontology, the type of SemOntoRel that itll be depends on the X and Y. For instance, chefs write recipes, they cooks use recipes while cooking food. See all the ways this works?
+ChatGPT
+Absolutely, I see your point. In your EWSO framework, the SemOntoRel (Semantic Ontological Relationship) acts as a dynamic connector that outlines the processes and interactions between various Informatihedra.

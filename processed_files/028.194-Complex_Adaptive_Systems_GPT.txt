@@ -1,0 +1,56 @@
+Pinecone enables the storage of vast amounts of vector-based memory, allowing for only relevant memories to be loaded for the agent at any given time.
+
+Go to app.pinecone.io and make an account if you don't already have one.
+Choose the Starter plan to avoid being charged.
+Find your API key and region under the default project in the left sidebar.
+Setting up environment variables
+Simply set them in the .env file.
+
+Alternatively, you can set them from the command line (advanced):
+
+For Windows Users:
+
+setx PINECONE_API_KEY "YOUR_PINECONE_API_KEY"
+setx PINECONE_ENV "Your pinecone region" # something like: us-east4-gcp
+
+For macOS and Linux users:
+
+export PINECONE_API_KEY="YOUR_PINECONE_API_KEY"
+export PINECONE_ENV="Your pinecone region" # something like: us-east4-gcp
+
+View Memory Usage
+View memory usage by using the --debug flag :)
+💀 Continuous Mode ⚠️
+Run the AI without user authorisation, 100% automated. Continuous mode is not recommended. It is potentially dangerous and may cause your AI to run forever or carry out actions you would not usually authorise. Use at your own risk.
+
+Run the main.py Python script in your terminal:
+python scripts/main.py --continuous
+
+To exit the program, press Ctrl + C
+GPT3.5 ONLY Mode
+If you don't have access to the GPT4 api, this mode will allow you to use Auto-GPT!
+
+python scripts/main.py --gpt3only
+It is recommended to use a virtual machine for tasks that require high security measures to prevent any potential harm to the main computer's system and data.
+
+🖼 Image Generation
+By default, Auto-GPT uses DALL-e for image generation. To use Stable Diffusion, a HuggingFace API Token is required.
+
+Once you have a token, set these variables in your .env:
+
+IMAGE_PROVIDER=sd
+HUGGINGFACE_API_TOKEN="YOUR_HUGGINGFACE_API_TOKEN"
+⚠️ Limitations
+This experiment aims to showcase the potential of GPT-4 but comes with some limitations:
+
+Not a polished application or product, just an experiment
+May not perform well in complex, real-world business scenarios. In fact, if it actually does, please share your results!
+Quite expensive to run, so set and monitor your API key limits with OpenAI!
+
+Can you please come up with some starting prompts that limit the number of processes necessary to complete the task by using highly specific language in the prompt? For example, first, come up with a prompt to make autogpt into a startup. give it a budget and the lean startup's build measure learn cycle such that it builds the business operations  from that. Have it become profitable as soon as possible to pay for the calculations it needs. Then have it take excess profit and pool it to pay for more processing. use that processing to scale into verticals.
+Here are a few prompts to guide Auto-GPT in building a startup based on the lean startup methodology with a focus on early profitability and scaling into verticals:
+"Given a budget of $X, create a business plan for an AI-based startup utilizing Auto-GPT technology while following the lean startup's build-measure-learn cycle. Focus on achieving profitability as soon as possible to fund further development and processing."
+"Analyze the most cost-effective and profitable strategies for marketing and promoting Auto-GPT to potential customers, considering the startup's limited initial budget. Identify the key value propositions that would resonate with the target audience and lead to early adoption."
+"Develop a financial plan to allocate the startup's initial budget towards development, marketing, and operations, ensuring early profitability. Outline strategies to reinvest profits into the business to improve processing capabilities and scale operations."
+"Identify potential verticals and industries that would benefit from Auto-GPT technology. Create a plan to expand the startup into these verticals, leveraging the increased processing capabilities funded by the profits generated from early operations."
+"Describe how the startup can continuously iterate and improve its Auto-GPT offerings, utilizing the build-measure-learn cycle, and adapting to customer feedback and market demands. Focus on ensuring long-term growth and sustainability."

@@ -1,0 +1,205 @@
+SYSTEM OPERATOR CHAINS:
+
+Kanban Morning Chain: Every day at the conclusion of morning Stand-Up meeting, the system operator (wesley), changes the state of the Active Task Kanban if deemed necessary by group. State change could include change of TASK status from “To Do” back to “This Week”, and the opposite, as well as an addition of a REMINDER (small rogue one step task or appointment) to “This Week” so it can be done at it’s scheduled time (Reminders are not TASKS and can NOT be added to “To Do”).
+
+Ubiquitous Capture Core Chain: Every moment of every day, the system operator runs the UC core chain.
+= @Anywhere —> capture notes and ideas in any context with any medium —> send text to clickup idea inbox
+
+Ubiquitous Capture Daily Chain:
+Every day before end of day, the system operator does a review of the capture inbox
+= @Capture Inbox —> review items in inbox
+—> refine, divide into parts and rewrite for clarity
+—> assign+define…
+assign all items to a “Business” “Subdivision”
+TWI (B)
+AISAAC (SD)
+MENTORUS (B)
+RIBCAGE (B)
+SANCTUARY NETWORK STATE (B)
+VICTORY-EVERYTHING-CHAIN (SD)
+SANCTUARY NEXUS (SD)
+THINKMINE (B)
+BIZZI (B)
+SYSTEM (for Projects about internal development of the team project management system itself)
+then define as… and add labels
+NEW PROJECT to add to the BML Core Chain
+(label is_a = “Project”)
+(label part_of = {{chain-name}})
+Create with new TASKS, as “subtasks” if included in the idea note
+TASK to add to an existing Project
+(label is_a = “Task”)
+(label = {{project-name}})
+implement using associated tasks field with Projects in scheduler
+Subtask to add to Task
+(label = “subtask”)
+(label = {{task-name}})
+also uses association fields
+Note to add to Subtask or Task
+(label = “note”)
+(label = {{task-name}})
+Meta-Note to change the existing features of a Project, Task, Subtask, or Note
+(label = “change”)
+(label = {{name of thing to be changed}}
+Knowledge Data Base Note (not for specific Project)
+(label = “KDB”
+Reminder (basically an orphaned Task that has no Project, just an owner)
+(label = “reminder”)
+—> send to Active Scheduler Inbox, or to the Knowledge Base Inbox
+—> @Active Scheduler Inbox —> review inbox (sorted by business)
+—> consolidate all NEW PROJECTS, TASKS, and SUBTASKS into each other if required.
+—> add to…
+…add all new PROJECTS, TASKS, and SUBTASKS to the “unscheduled” status
+…add all NOTES to their associated PROJECTS/TASKS/SUBTASKS anywhere on the scheduler
+…add all undefined or unknown items to a designated status for later review
+…add all REMINDERS to a special status
+…Execute all Meta-Note Changes to existing items in the scheduler
+
+
+Kanban Evening Chain: Every day during evening Sit-Down meeting, after the work blocks have been verbally reviewed…
+The system operator updates the Task Kanban by setting all completed work to “Built” and adding Tracked Time to all Built and In-Progress TASKS. Then “Built” TASKS are moved off the Kanban and back the the Scheduler to await weekly validation. (can be done wit automation at midnight)
+Then the system operator reviews any newly created items in the scheduler with the group.
+First all undefined items are reviewed, refined, assigned, and placed in unscheduled.
+Then all unscheduled items are reviewed, and any which are URGENT, “due tomorrow” or “this week” are immediately given a due date, and placed in a scheduled status on the scheduler, or even on the Task Kanban for tomorrow if considered high enough priority to change the weekly sprint plan.
+Due Dates MUST be set for all PROJECTS and included TASKS on the scheduler.
+Time Estimates MUST be set for all TASKS on the scheduler.
+Unscheduled items that are NOT URGENT should be left unscheduled until the weekly meeting.
+REMINDERS should be given a due date and time immediately.
+Then the system operator pushes the next scheduled TASKS from “This Week” to “To Do” on the Active Task Kanban.
+Finally System Operator sends a daily wrap up email to all team members including a report of all completions, and the list of items scheduled to do tomorrow.
+
+Weekend Wrap-Up Chain:
+Every weekend before the Weekly Planning Meeting, the system operator reviews all “Built Tasks Awaiting Review” on the Scheduler and determines if any “Projects In-Progress” have been completed.
+All completed PROJECTS are re-composed with their completed TASKS, and sent to “Built Projects”
+The Completion Data for the week is captured in a log to track and calculate internal system performance indicators. Data points includes: # task completions per day (per person), # task incompletions per day, # task completions/incompletions per week, # project completions per week (per team), # project incompletions per week, Time Estimated, Time Tracked. The indicators will be ratios of these data points that we are trying to improve through optimization of the system.
+This data is used for the BLOS-BML CHAIN cycles that build and optimize the management system itself.
+
+Weekend Scheduler Chain:
+Every weekend during the Weekly Planning Meeting on Sunday, the system operator:
+Provides weekly completion report.
+Then all “Built Projects” are reviewed by the group. Based on the expected results and actual results, the Projects are deemed valid or invalid, and moved to the next status.
+= L part of BML
+Some Built Projects may still be ‘awaiting results’ in which case they are left for next week.
+All new Projects are generated/converted to replace completed projects, based on CHAIN GOALS, and Validated Learning.
+When a Project is completed it almost always initiates the creation of another project. For instance after an MVP is launched and feedback received, and new PROJECT is generated/converted from the old, to advance the MVP through the next BML CHAIN, within the context of either ‘persevere’ or ‘pivot’. This also includes recurring weekly projects that comprise operational chains. These are also validated, but as a CHAIN becomes a more mature part of a business, the weekly PROJECT it runs is likely to change less and less between iteration.
+New GOALS based on newly emerged CHAINS are defined, set, and associated with new and converted PROJECTS
+All converted Projects are given a due date based on related CHAIN GOALS, dependent projects, and availability in the existing schedule.
+All new Tasks contained within converted Projects are also given a time estimate and dues dates based on parent PROJECT due date, execution order, and calendar availability.
+All NEW PROJECTs from the unscheduled status, are reviewed, fully elaborated into TASKS and SUBTASKS, and all items are given a due date and time estimate, based on GOALS, dependent projects, and the existing calendar.
+All new TASKS and SUBTASKS from the unscheduled status are added to their parent PROJECTS and given a due date.
+All Projects and Tasks Scheduled for the entire month (out to scheduling window) are reviewed item by item.
+All Projects and Tasks scheduled for “This Week” are reviewed item by item. After any modifications have been made, all these PROJECTS are moved to the “Projects In Progress” where the TASKS are converted and separated from the PROJECTS, then associated with them in a custom field, and finally the bare TASKS are moved to the “This Week” status on the Task Kanban.
+Finally, the system operator fills the “To Do” status for tomorrow, and sends out a weekly wrap-up email to all team members.
+
+
+About OWNERS - Businesses and Subdivisions:
+The root of the hierarchy, everything that exists in the clickup management system is_a entity in the domain of a “Business/Operator” and if applicable one of its specific “Subdivisions”. This includes all CHAINS, PROJECTS, TASKS, SUBTASKS, NOTES, REMINDERS, KDB NOTES.
+All Businesses run on CHAINS, meaning that any TASK done in the name of a given Business must be a part of a PROJECT, which is being executed by the set of CHAINS which defined for the Business.
+All Businesses/Operators and Subdivisions will also have associated GOALS.
+
+About GOALS:
+GOALS are defined as sets of {expected results} within a planned timeline for achievement based on the {validated results}, {kpi-set}, and {performance data} from multiple PROJECTS that may be on different CHAINS within the same Business.
+GOALS are the organizational unit of Innovation Accounting and Growth Management
+All GOALS are set at the Business level and may be specifically categorized under a certain Subdivision.
+GOALS have deadlines which determine when their achievement must be assessed.
+All GOALS are assessed by reviewing the data resulting from the completion of instrumental PROJECTS on CHAINS.
+All GOALS correspond to the completion of major and minor BLOS CHAINS
+All GOALS have a defined Value on scale.
+
+About CHAINS:
+All CHAINS are defined as a template and context for the phases of execution for Completing all PROJECTS.
+CHAINS do not have TASKS, but instead they are used to run the execution of PROJECTS with TASKS and also direct the iteration of that PROJECT which recur in cycles of completions of BML CHAINS.
+The procedure defined by the CHAIN that a given PROJECT is on determines how the TASKS of the PROJECT are prioritized and scheduled on the calendar.
+CHAINS concatenate to form super-chains, and those concatenate further.
+The Core BML CHAIN is the base unit CHAIN which concatenates to form all layers of super-chains. BUILD → MEASURE → LEARN →→B2…
+The Major Chain that encapsulates the overall state of the Business, is called the Major BLOS CHAIN of CHAINS, and it has Major sub-chains BUILD, LAUNCH, OPTIMIZE, SCALE.
+1. Major BUILD CHAIN = Minor BLOS-BUILD CHAIN of CHAINS = Minor BUILD CHAIN = (Development CHAIN + Investor CHAIN) = Core BML CHAIN = BML^1 + BML^2 … +BML^n
+Series of BML CHAINS to iteratively develop an “IDEA” (new project or set) into an “MVP” (ascending project) that you can launch. “achieve basic existence” = “idea to startup” = do Prototyping
+The Minor BUILD CHAIN within the Major BUILD CHAIN is the first and simplest sub-CHAIN of the Major BLOS CHAIN. It contains 2 “PRE-OPERATIONAL CHAINS” the Development-CHAIN and the Investor-CHAIN.
+Both of these CHAINS run on a series of Core BML CHAINS that convert a new project or set of projects into an MVP of something, thus accomplishing the CHAIN GOAL.
+NOTE: At the end of the CHAIN, when the first “MVP” of a given Business or Subdivision is launched the Major BUILD CHAIN-GOAL is achieved and the next stage of the Major BLOS CHAIN of CHAINS, the Major LAUNCH CHAIN is initiated. At this point there are no longer strictly “NEW” PROJECTS for that Business, but instead any number of domain specific “OPERATIONAL” CHAINS are initialized by the MVP Launch.
+1A. OPERATIONAL CHAINS:
+OPERATIONAL CHAINS are Standard Operating Procedures which define recurring PROJECTS that are instrumental in all aspects of running the business.
+Examples: (Social Media Chain, Marketing Chain, Product Development Chain, Performance Development Chain, Administrative Chain)
+OPERATIONAL CHAINS define the execution for recurring PROJECTS composed of TASKS for completing regular business activities, regularly. Like all PROJECTS, the recurring PROJECTS executed and instantiated by the OPERATIONAL CHAINS are each executed according to the Core BML CHAIN.
+OPERATIONAL CHAINS are all instantiated within the context of a stage within the Major BLOS CHAIN of CHAINS, and a stage of the Minor BLOS CHAIN of CHAINS.
+At the start of the Major LAUNCH CHAIN the initiating “LAUNCHED MVP” and its Results are used to determine the full set of NEW OPERATIONAL CHAINS which will be defined and initiated for the Business. This process = NEW PROJECT “ASCENSION” to OP CHAIN
+All NEW OPERATIONAL CHAINS initiated at the beginning of the Major LAUNCH CHAIN are themselves iteratively developed through the Minor BLOS-LAUNCH CHAIN of CHAINS that comprises the Major LAUNCH CHAIN.
+2. Major LAUNCH CHAIN = Minor BLOS-LAUNCH CHAIN = Minor BUILD CHAIN + Minor LAUNCH CHAIN
+The Major LAUNCH CHAIN’S Minor BLOS-LAUNCH CHAIN of CHAINS serves to iteratively develop a “LAUNCHED MVP” (set of Ideas for Operational Chains) into a “LAUNCHED BUSINESS” (set of Launched Operational Chains) that you can start to optimize. “achieve basic market fit” = “startup to business” = do MORE
+2A. Minor BUILD CHAIN
+Every NEW OPERATIONAL CHAIN starts in the context of the Minor BUILD CHAIN, where through a series of BML CHAIN cycles the recurring PROJECT which comprises the NEW OPERATIONAL CHAIN is iteratively developed into a built MVP OPERATIONAL CHAIN, fulfilling the Minor BUILD CHAIN-GOAL. The CHAIN is Converted from “idea/NEW” to “built/MVP” and the PROJECT Ascends to the next stage of the Minor BLOS CHAIN, the Minor LAUNCH CHAIN, now in the converted context of an MVP OPERATIONAL CHAIN. An MVP OPERATIONAL CHAIN is a “Minimum-Viable” Standard Operating Procedure for repeatably accomplishing business activities, that you can then Launch into the SYSTEM and iterate.
+2B. Minor LAUNCH CHAIN
+Every MVP OPERATIONAL CHAIN is iterated through the Minor LAUNCH CHAIN, where through a series of BML CHAIN cycles the recurring PROJECT that comprises the MVP OPERATIONAL CHAIN is iteratively developed into a LAUNCHED OPERATIONAL CHAIN, fulfilling the Minor LAUNCH CHAIN-GOAL. The CHAIN is Converted from “built/MVP” to “systematized/LAUNCH”. A LAUNCHED OPERATIONAL CHAIN is is a fully “Systematized” Standard Operating Procedure for repeatably accomplishing business activities, that functions to a minimum standard which can be optimized. “fully systematized” is context specific.
+When All OPERATIONAL CHAINS defined in the Major LAUNCH CHAIN-GOAL have been fully Converted from NEW ideas into built MVPs and finally into LAUNCHED OPERATIONAL CHAINS via the Minor BLOS CHAIN of CHAINS, the GOAL is achieved and the Major LAUNCH CHAIN is completed.
+When the Major LAUNCH CHAIN is completed the set of LAUNCHED OPERATIONAL CHAINS will instantiate either a NEW LAUNCHED Business, Subdivision, or Operation within an existing Business. This initiates the next stage of the Major BLOS CHAIN of CHAINS, the Major OPTIMIZE CHAIN, wherein an entire set of OPERATIONAL CHAINS are iterated together to achieve product market fit.
+3. Major OPTIMIZE CHAIN
+serves to iteratively develop a “Launched Business” (or subdivision/operation) into an “Optimized Business” that you can start to scale. “achieve product-market fit” = “business to innovation factory” = do BETTER
+At the start of the Major OPTIMIZE CHAIN, the OPERATIONAL CHAINS are considered as one unified Business System which supports every part of the customer experience journey flow, in other words, a complete Funnel. The set of OPERATIONAL CHAINS are no longer iteratively developed in isolation but instead as one whole in an optimization process that This process = OP CHAIN “ASCENSION” to “business unit”
+the Major OPTIMIZE CHAIN (equivalent to Minor BLOS-OPTIMIZE CHAIN of CHAINS) has 3 Minor CHAINS including BUILD, LAUNCH, and OPTIMIZE.
+the Major OPTIMIZE CHAIN also has 3 META-OPERATIONAL CHAINS which dictate the phases of optimization execution for the entire business unit
+CRO CHAIN
+ARO CHAIN (ascension rate optimization)
+ORO CHAIN (optimization rate optimization
+Each of of the META-OPERATIONAL CHAINS dictates the execution of Projects from which the resultant validated learning is used to actually modify the definition of the set of OPERATIONAL CHAINS being optimized.
+Each META-OPERATIONAL CHAINS must itself go through the Minor CHAINS, starting with a Minor BUILD cycle (idea MOPC → MVP MOPC), Minor LAUNCH (MVP MOPC → Launched MOPC), Minor OPTIMIZE CHAIN (Launched MOPC → Optimized MOPC) which is equal to ORO
+At the end of the Minor CHAINS, when all optimizations have been maximized, the next stage of the Major BLOS CHAIN is initiated, the Major SCALE CHAIN.
+4. Major SCALE CHAIN
+serves to iteratively develop a “Optimized Business” into a “Scaled Business”. “achieve category kingdom” = “innovation factory to ascension automation factory”
+= do NEW
+SCALE CHAINS are ADJACENT SCALE, VERTICAL SCALE, CATEGORICAL ASCENSION
+Major BLOS CHAIN (equivalent to Minor BLOS-SCALE CHAIN of CHAINS) = Minor BUILD CHAIN + Minor LAUNCH CHAIN + Minor OPTIMIZE CHAIN + Minor SCALE CHAIN
+All SCALE CHAINS must convert and ascend through an entire Minor BLOS CHAIN cycle. The “Projects” that comprise a cycle of a SCALE CHAIN is itself a “MAJOR” Business Expansion which basically constitutes the work of making a whole new business, and therefore it also convert, and ascends through the Core BML cycles, and through all of the Major and Minor BLOS CHAINS
+
+About PROJECTS:
+All PROJECTS are defined as Multi-TASK-step plans with {defined deliverables}, and {expected results}, that should be accomplishable within 1-2 weeks on average but could be as short as a couple days. Beyond 2 weeks should likely be broken into phases as separate PROJECTS for consistent and flexible scheduling.
+All PROJECTS are assigned an OWNER, a GOAL, and a Major/Minor/Operational CHAIN for execution.
+The scheduling priority of fully defined PROJECTS is co-determined by the generally set priority amongst OWNER entities defined in the SYSTEM, and “Project Value” which is itself co-defined by all the Value Ranks and due dates of all the GOALS which it is instrumental in.
+All new Projects that constitute the Development of a novel emergent, start on a the Core BML CHAIN, at the very beginning of the major BLOS super-chain associated with the Business.
+When a PROJECT is created in the SYSTEM is is either “NEW”, “CONVERTED”, “ASCENDING”
+The Core Chain that runs all PROJECTS is the Core BML CHAIN. One cycle on this CHAIN will take a “NEW” PROJECT and transform it into a “CONVERTED” PROJECT, which is strictly co-determined by the resultant validated learning, and CHAIN GOALS.
+All PROJECTS are Scheduled and Executed by following the flow dictated by the CHAIN that PROJECT is on. Since all CHAINS are comprised of sub-chains and can concatenate into super-chains, nearly every PROJECT is defined as being on an entire stack/tree of CHAINS.
+
+
+KEY VIEWS: Active Task Kanban - Board View
+Includes Satus Bins:
+This Week - includes all tasks scheduled for this week
+To Do - includes 3 tasks to be completed next, for each team member
+In-Progress - includes up-to 3 tasks that are started and not finished, for each team memebr
+Built - includes completed tasks
+Blocked - for tasks major problems requiring major attention
+Archive - system status, do not use.
+TWI CAL - Folder, Calendar View
+Includes ALL scheduled PROJECTS, TASKS, and GOALS form the following lists:
+Active Task Kanban (provides all TASKS scheduled this week)
+Active Scheduler (provides all PROJECTS and TASKS scheduled for the entire month, or more) (and REMINDERS)
+ROUTINE CHAIN (provides all inner routine and outer routine CHAINS which execute recurring PROJECTS that dictate a set of regularly recurring TASKS)
+This View will be used during the Weekly Meetings to review and accomplish all scheduling
+Active Scheduler - Board View
+This view will be primarily used by the system operator, however it will also be used by the team to review Built PROJECTS awaiting Validation
+
+
+Businesses, Subdivisions, Goals, Chains:
+TWI (B)
+AISAAC (SD)
+AIsaac.com MVP BUILD (chain goal)
+AIsaac YT MVP BUILD (chain goal)
+MENTORUS (B)
+Mentorus.ai MVP BUILD (chain goal)
+RIBCAGE (B)
+MANUFACTURING LAUNCH (chain goal)
+MARKETING/SALES LAUNCH (chain goal)
+SANCTUARY NETWORK STATE (B)
+VICTORY-EVERYTHING-CHAIN (SD)
+VEC MVP BUILD (chain goal)
+SANCTUARY NEXUS (SD)
+OLIVUS-VICTORY PROMISE YOUTUBE MVP BUILD (chain goal)
+DISCORD LAUNCH (chain goal)
+SANCTUARY JOURNEY ACADEMY MVP BUILD (chain goal)
+SANCTUARY REVOLUTION GAME MVP BUILD (chain goal)
+THINKMINE (B)
+TREE OF PROMPTS MVP BUILD (chain goal)
+BIZZI (B)
+MARKETING LAUNCH (chain goal)
+PRODUCT MANAGEMENT LAUNCH (chain goal)
+CUSTOMER EXPERIENCE MANAGEMENT LAUNCH (chain goal)
+SYSTEM (for Projects about internal development of the team project management system itself)

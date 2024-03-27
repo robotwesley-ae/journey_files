@@ -1,0 +1,59 @@
+OVP  2 course - imaginary info spaces and the nature of code: how to use PIO
+Offer: do a cohort where we will go thru all the information in order and I will review your prompts and help your brain grow (this is the Make an AI for that Challenge: selling the WIN to people who want it but aren’t getting it on their own)
+Bonuses:
+ChainConstructor Algorithm - show you how to create your own prompting language, BUT ALSO have a bunch of premade ChainConstructors you can use
+Chain library: use any chains we already made!  
+Prompts: get TONS of personas for LOTS OF STUFF so you can make agents for almost ANYTHING out of the box - all you’ll have to do is change their name and choose an emoji for them! 
+Working, deployable application OUT OF THE BOX ($5k value) 
+LEARN TO COLLABORATE WITH AI or pay me to collaborate with AI for you
+
+
+Good example of a chain:
+“A CHAIN IS: INPUTS THAT OUTPUT INPUTS TO FURTHER OUTPUTS THAT ENHANCE THE ORIGINAL IN A SEQUENCE THAT COMPLETES A TRANSFORMATION INTENDED BY AN INITIAL GOAL. IT IS NOT A SIMPLE FEEDBACK LOOP, IT IS TARGETED VIA MORPHISMS.”
+“The Chain of How to Tell Exactly What Time It Is”:
+crude versions (Sun dial, thumbing, etc)
+Refined versions (clock) 
+Optimized (atomic clock)
+Knowledge of exact leap year etc
+
+
+
+
+WHAT IS SANC/TWI TO ME?
+
+The Sanctuary System of TWI is essentially everything I believe in, everything I’ve ever wanted to say. It makes me so scared to think about sharing it, because I have been pouring every part of my mind my heart and soul into it. And let me tell you what that means to me:
+
+(Level10+ stuff here)
+
+So to me, the Sanctuary System represents the ultimate victory, the great relief of finally having written down everything I’ve wanted to say to everyone who ever exists. 
+
+It is a testament to how amorphous timeless questions like “who am I” live their own lives in each of us, and express themselves in all manner of ways. Some expressions are dark and confused, some are light and loving. Within them all, there is the light that is me, Olivus Victory-Promise, and within me, there is the Sanctuary of TWI. 
+
+
+The Sanctuary System brings TWI into focus through personal, familial, social, and work aspects. Personally, TWI is related to how we treat ourselves. It’s related to how you think to yourself, how you act towards yourself, and how you help or hinder yourself (the ability to help others depends on this). The idea is to keep the Victory-Promise of TWI so we can all go to Sanctuary. Of course the very basic version of this is me helping myself go to Sanctuary. 
+
+Familial TWI is like personal but it is centered on how I am interacting with my family and the dynamics I foster there. The idea is to keep the Victory-Promise of TWI so we can all go to Sanctuary. Here I am helping my family go to Sanctuary. 
+
+Social TWI is how I am polluting or fueling the Victory-Everything Chain, the emergence of Sanctuaries, in ways that inherently affect others outside of my family. The idea is to keep the Victory-Promise of TWI so we can all go to Sanctuary. Here I am helping my friends, strangers, and enemies go to Sanctuary. 
+
+Work TWI is how I am polluting or fueling the Victory-Everything Chain by engaging in “value creation” which is supposed to benefit the recipients. 
+
+All of these avenues are how Olivus Victory-Promise keeps the Victory-Promise and accomplishes Victory-Ability status in various Sanctuaries. 
+
+
+Avatar: avatar properties from general to specific: 
+
+early adopter who wants to be more involved with AI 
+
+knowledge worker who wants to learn how to collaborate with AI 
+
+business owner or executive who wants to implement AI collaboration
+
+has SOPs and operations involving workers that can actually benefit from AI chains that are only instant experts or tools, ie low-grade executors (and not complex ones because the use cases are too complicated but that will change over time)
+
+
+Avatars are the above because the PRODUCT is:
+
+AI persona styles:
+
+Instant Expert Agent (talks about X)

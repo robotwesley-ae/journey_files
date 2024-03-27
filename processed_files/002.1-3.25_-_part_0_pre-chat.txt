@@ -1,0 +1,89 @@
+I:
+That's why this is just a shitty idea to do the first one, to be that way, it’s not gonna work
+But to have
+It like the only way it would work is the first thing is if it was a story that people liked
+Then it's like oh, it's a story that people like
+Cause it’s an allegory because it means all this stuff
+Did you know that all those things? No. Oh, this is the craziest story you've ever fucking heard then, isn't it?
+And then it's like wow, I guess it is
+Because like Jenny was saying she's like this is like just just just, So just beyond Mind-blowing, it's it's like it's the scale right of like
+Not even
+It doesn't matter how real or not real or whatever it is
+It's just the idea of the spectacle of seeing the fact that I thought about all this stuff
+right, and it's like oh
+So maybe that's what the real product is is like
+It's just me actually giving away all these ideas because who knows if they're ever worth anything
+And so it's just gotta be like
+You just are paying $20 a month to like, read the full thing or whatever
+
+W:
+Yeah
+Right, which is it which is
+It sounds like it's like on the one hand. It looks like you're not selling anything, but you're actually it's you're selling everything
+in one single
+Offer that way
+
+I:
+Ya and like, i’m not selling a book, i'm like selling you the book over and over again
+Cause it’s like a membership, like hmm
+Well, then you would do the patreon right here you go
+I'm giving this away and then you just sign up and for these different tears of support
+Right, and I give you gifts and the gifts are
+We get to hang out and like
+You know
+Yeah whatever right. You get to be in the channel where we can talk or you get into, whatever whatever, something like that.
+And you can see some of the prompts and like
+You know, like just, you know, showing progenitor and showing busy-bee and being like, yeah,
+these are the prompts, this is how they work, this is a chaining prompt, whatever, you know,
+these are the prompts, and then, by the way, if you go use that agent, that will print
+you these other agents, like you can talk to it, and then you can ask it to do that,
+and then it will make these agents, and then all of their parts are Legos that you can
+use, because that's the thing, is that, like, right now, it's, when it is compiling from
+Assistant, it's not using a schema, so it only is grabbing, like, it's, I mean, because
+it has to work this way, but once we do it the way that I'm thinking, we'll just be
+regexing all of that stuff out, because it will all be packed, right, right, 
+
+W:
+yep, 
+
+I:
+That's actually kind of important that you make that kind of system, 
+
+W:
+dude, I already, I like, just
+made, like, a regex, a general purpose regex, regexing chunker, like, yesterday, 
+
+I:
+oh nice,
+
+W:
+to solve the problem of parsing through the production weekly,
+because there's these regular patterns in it, but it's all fucked up when it comes out of the PDF,
+and it's, like, hard to read, and, like, not every category is in everything, right,
+so I need, but it's 150,000 tokens, 
+
+I:
+Right,
+
+W:
+right, so we can just, I mean, obviously, we have to put in what that, change the pattern and stuff,
+
+I:
+but that's why I said it's going to be emoji, yeah, it's like this zwj that people won't be
+able to replicate, and then this one, and then it'll be all these special symbols all joined
+so it's like, what the fuck is going on, those are the only things, right, it's like you have
+these joiners, they're there for the system, just, you know, they're nice things, you can just, you
+know, whatever, they just mean that you should do your job, that's all you have to say, they just
+mean you should do your job, yeah, so, but because that stuff just means that I should do my job,
+
+W:
+but I'm just gonna mention it for a sec, you're definitely 100% right about the way the subscription patronage model is, 
+I paid, was paying this cartoonist three dollars on Patreon to see their stuff,
+and then I started paying five dollars to ostensibly get the sketches, which I don't give a
+shit about, and I actually did it just so that they would see me as being at that tier level
+while I was trying to talk in the comments,
+
+I:
+right,
+yep.
+um,

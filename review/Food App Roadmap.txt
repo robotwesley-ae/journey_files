@@ -1,0 +1,111 @@
+FIRST ->
+BACK END:
+
+Do we need to know Java, Python? (probably only if we want to actually build the whole thing/if we want to use a NN in certain ways) 
+
+ML aspect:
+Database <- FIRST step in build
+Cuisine
+Pasta 
+Nutritional value 
+2. NN (for what?) (for turning the data into CB ontological data?) (NN is only interesting for certain functions like for instance COMBINING two domains [re: cuisines] into FUSION/using one domain as a eigenfunction of the other)
+DL4j <- SECOND step in build OR SKIP
+How to use????
+3. Crystal Ball 
+Graph Algorithms - Neo4j
+NEO4j Certifications <- FIRST prereq
+Graph Embeddings - GAMMA integrations
+NEO4j Certifications
+Graph Applications
+Graphileon integrations <- SECOND/THIRD STEP
+
+SECOND ->
+
+FRONT END: <- THIRD/FOURTH STEP
+	Crystal Ball GUI
+Rhino + Grasshopper scripts?
+Maybe we just draw it and make a single use case 
+	Mimetic GUI - normal app stuff
+		
+
+*means not building/just demo purpose
+
+Prototype Options:
+Do we just draw this out as a use case demo?
+Do we build the entire app *in theory* with pictures, too?
+How much of the NN is actually implemented? 
+How much does CB actually work in this example?
+Other stuff:
+Can we patent the use of the 3D space to navigate Graph Database Algorithms?
+
+
+
+Single use:
+
+Cuisine Ontologies but only in the Country of Pasta and then in any Pasta neighborhood
+	Search parameters
+		In fridge
+		Not missing more than X ingredients
+		Fusion types
+		Nutritional Value/Dietary restrictions
+		Ability to make (appliances/skills)
+
+
+Necessary components:
+
+BACK END:
+	ML aspect:
+Database 
+Cuisine
+Nutritional value (extract food products database; nutritional value database?)
+NN - DL4j
+Crystal Ball (Graphs + NN) 
+Graph Algorithms - Neo4j
+NEO4j Certifications
+		      2.   Graph Embeddings - GAMMA
+NEO4j Certifications
+      3. Graph Applications
+Graphileon
+FRONT END:
+Crystal Ball GUI
+Rhino + Grasshopper scripts?
+Maybe we just draw it and make a single use case
+Mimetic GUI - normal app stuff
+	*API Hooks
+*Recipe Search
+*Meal plans
+*Diet specific meal plans
+*allow people to load their own diet ontologies
+		
+
+
+
+
+
+
+PROTOTYPE
+BACK END:
+
+Dataset
+NN - DL4j
+Graph Algorithms - Neo4j
+Graph database
+Use for importing dataset (ontologies) into visual format
+Visual replication in Rhino (with Real num abstracted labeling)
+		GAMMA
+Graph embeddings
+Take Rhino representations and use them as Maps
+		Graphileon
+Graph applications
+Additional feature construction
+FRONT END:
+Crystal Ball GUI
+Rhino + Grasshopper Scripts
+Objective: Display Informatihedrons and Prove that we can manipulate them in the way Crystal Ball hypothesizes
+Stages of transformation
+Going from general to subjective informatihedron (General informatihedrons = Cuisine Type, Dishes, pasta carbonara but this specific pasta carbonara [within the neighborhood related to this specific pasta carbonara etc. etc.] is a subjective informatihedron [within the neighborhood related to this specific pasta carbonara etc. etc.]) 
+Mimetic GUI - normal app stuff
+*Neighborhood Search
+*Allow people to load, share, patent and publish their own informatihedrons
+*API Hooks
+Difference between an informatihedron and a normal graph theoretical object is that an informatihedron contains not only all the properties of X but the spectral ranges of those properties themselves. In other words, all of the data is already connected.

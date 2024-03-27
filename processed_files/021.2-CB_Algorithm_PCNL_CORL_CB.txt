@@ -1,0 +1,81 @@
+### Symbolic Abbreviation:
+- Entities (`(entity:Screenplay)`) and relationships (`[r:HAS_PART]`) are abbreviated to symbols and shorthand codes (`(e1:Screenplay)`, `[p]`), reducing the length of each reference.
+
+### Referential Economization:
+- After their first declaration, entities are referred to by their indices (`e1`, `e2`, ..) instead of their full names, relying on the context established through their initial declaration for comprehension. 
+
+### Indexing:
+- Each uniquely mentioned entity and relationship type is given a numerical index, creating a compact, numeric reference system that significantly cuts down on text volume when entities or relationships are repeatedly referred to.
+
+### Relationship Chaining and Grouping:
+- Chaining simplifies representations of multiple connected relationships by allowing for the omission of redundant intermediate entities when the context remains clear, further reducing textual length.
+
+### Basic Encoding Rules:
+
+1. **Entity Encoding:**
+  - Initial declaration: `(e1:EntityName)`.
+  - Subsequent reference: `""`.
+  - Unknown entity: `(eX:X)`.
+
+2. **Relationship Encoding:**
+  - Declaring a relationship: `[r:RELATIONSHIP_TYPE]`.
+  - For general relationships (`PART_OF`, `IS_A`, `INSTANTIATES`), use abbreviations: `[p]` for `PART_OF`, `[i]` for `IS_A`, and `[n]` for `INSTANTIATES`.
+
+3. **Indexing Entities and Relationships:**
+  - Every entity and relationship type encountered is assigned a unique number: `e1`, `e2`, `r1`, `r2`, etc.
+  - Once an entity or relationship is numbered, refer to it only by its number in all subsequent mentions.
+
+4. **Chaining and Grouping:**
+  - Relationship chains can be condensed by removing redundant entity pointers when they’re implied by the sequence: 
+   - For a chain like `(e1)-[r1]->(e2)-(r2)->(e3)`, just use `(e1)-[r1]->[r2]->(e3)`.
+
+5. **Attribute Encoding:**
+  - Attributes can be initially declared within their entity definition for simplification and later referenced by number. 
+  - Use a colon followed by the attribute number when referencing within relationships: `e1:a1` for the first attribute of `e1`.
+
+***any rel not isa/partof/instantiates must be accompanied by a disambiguation to a isa/partof/instantiates cluster that instantiates the custom process rel. must MAP how, explicitly labeled***
+
+Workflow: {
+steps: {
+- 1. TripartiteDecomposition: enum_genRels(query) -> ChainOfThoughtPatternTemplate -> Linking | Chaining(template, chain_input)
+=> genRel_CoTs
+- 2. FlowchainMap: map_specRels(genRel_CoTs) -> MetaCogReCompression -> Specific Process Definition
+- 3. OutputGraph: create_PCNL_graph -> return(PCNL_code)
+=> PCNL graph code
+ }
+Loop for each PCNL query
+end
+}
+
+ENCODING KEY: {
+**`⇒`**: is_a
+**`⊆`**: part_of
+**`↻`**: instantiates (reifies general values by displaying them as more specific instance ie 'organs⊆person'<=>'x⇒hand(⊆person)↻skin')
+**`emergent algebra`**: can also map whatever is necessary for example '%e1⊆e2%⇒%eX↻e3%' denotes a set with an entity 1 part of entity 2, and that set is an unknown entityX that instantiates entity 3.
+**`%s`**: use %s to denote a set.
+}
+
+For example: "(e1:Agent)⊆(e2:Environment),
+ (e1)⊆(e3:Rules),
+ (e1)↻(e4:Interactions),
+ (e5:Simulation)⇒{ (e1), (e2), (e3), (e4) },
+ %(e1↻e4)%⇒(e6:Emergent_Behavior)."
+
+Numbers:
+
+Rels: should index like "entity 1 has r index 1 so all entity 1 r are 1.x"
+etc.
+
+not just numbering the entities themselves, but rather using the numbers of entities as UUIDs that can taxonomically expand however necessary
+
+### Advanced Organizational Rules:
+
+1. **Hierarchical Grouping**:
+  - **Rule**: Entities and relationships can be grouped into hierarchical clusters to represent containment or scope.
+  - **Syntax**: `%G{entity/relationship list}%` where `G` stands for a group or cluster, and the list contains entities or relationships which are part of this hierarchical group.
+
+2. **Modularization of Components**:
+  - **Rule**: Similar entities or relationships can be modularized into reusable components.
+  - **Syntax**: `M{module_name}` where `M` denotes a module, and `module_name` is a reusable component (e.g., interaction patterns).
+
+3. **Precision in Relationship Types**:

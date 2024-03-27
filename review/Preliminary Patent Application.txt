@@ -1,0 +1,58 @@
+Please provide a short description (15 words max) of your invention.
+A modular, portable, and weld-free external lightning protection system for protecting objects inside its area.
+
+What problem does your invention solve? Do not explain here HOW your invention solves the problem. Discuss ONLY the problem itself. Please answer in complete sentences.
+
+Sometimes a person possesses an object that cannot be modified (due contract or warranty or another reason) that also requires lightning protection that may be temporary and so a lightning protection system cannot be attached to it. Sometimes this person is also not skilled in the art of lightning protection system design.
+
+In these cases, an external lightning protection system kit that is modular, easy to assemble and disassemble, that also requires no welding or complex attachments, no conducting wires besides the grounding cable, and meets lightning protection standards and may pass inspection if properly assembled, is required. 
+
+This invention is a lightning protection system that is external to the object it protects and offers protection that does not violate these types of contracts or void warranties. It is modular, easy to assemble and disassemble, requires no welding or complex attachments, has no conducting wires besides the grounding cable, and meets lightning protection standards and may pass inspection if properly assembled. 
+
+This invention requires no welding, has no floor plate, no roof enclosure, and no cross-bars. This invention is therefore much less difficult to assemble and disassemble, more portable, better designed for temporary use, and has higher reuse value. The device is modular, insofar as it has no set dimension, and can be expanded arbitrarily with additional identical parts to enclose any given region for protection.
+
+
+The problems with other systems and devices include their permanence, reliance on not being moved, the fact that they modify the devices they are attached to, and inclusion of wires that are difficult or time consuming to install. Additionally, there are serious problems with the inclusion of welding, floor plates, roof enclosures, and cross-bars as they make it difficult to assemble and disassemble the devices and systems in the field of this invention. The inclusion of aspects presenting such difficulties would defeat the purpose of this specific invention since it would no longer solve the problem which this specific invention is intended to solve. Although there exists a patent (US 8,373,065 B2) for an external lightning protection system, that system is comparatively quite complicated and makes extensive use of the mentioned problematic design components, especially welding.
+
+
+
+These devices are usually designed such that they require expertise to assemble and also void warranties when used, and so often cannot be applied as lightning protection solutions to specific objects in need of protection.
+
+This invention requires minimal expertise and time to install, no modification of the protected object, no conducting wires besides the grounding cable, and no welding.
+
+Fifty four or more Copper Rods (5/8in x 12in UTC-11)
+Four Copper Air Terminals (48in x 1/2in UTC-11)
+Four or more Copper Air Terminal Extension Rods (48in x 1/2in UTC-11) of combined length with the air terminals to achieve two feet clearance above the protected object
+Eight or more Small Female-Female Brass Rod Coupler (1/2in ->1/2in UTC-11)
+Fifty or more Large Female-Female Brass Rod Coupler (5/8in ->5/8in UTC-11)
+Eight Brass or Copper Grounding Clamp (5/8in)
+Four Brass Corner Triple Connector Cube (3in x 3in x 3in, with two threaded connections 1x 5/8in UTC 11 and 1x 1/2in UTC 11, and 1x Through Hole connection to fit 5/8in rod)
+Two or more Copper Grounding Cables of length required to connect lightning protection system frame to earthing site
+Two or more Copper Grounding Rods at least 3/8in diameter and 10ft long. Alternatively, grounding plates may be used depending on terrain and purpose
+
+
+Copper Rods (1), Large Female-Female Brass Rod Coupler (5), Brass or Copper Grounding Clamp (6), Brass Corner Triple Connector Cube (7) compose the corners of the frame, see FIG 9, such that Copper Rods (1) are connected to Brass Corner Triple Connector cube (7) lengthwise so Copper Rods (1) go completely through the through-hole of Brass Corner Triple Connector cube (7), with a Brass or Copper Grounding Clamp (6) on each end of the length-side Copper Rods (1) connected to the Brass Corner Triple Connector Cube (3in x 3in x 3in) (7), see FIG 10. For the width-side corner, a Copper Rod (1) connects via threading to the Brass Corner Triple Connector Cube (7). To compose the frame, Copper Rods (1) are connected to the Large Female-Female Brass Rod Couplers (5) as many times as necessary to compose the desired length and width, see FIG 13. To establish the base of the height aspect of the lightning protection system, Copper Air Terminal Extension Rods (3) are connected to the Brass Corner Triple Connector cube (7)’s threaded top connection, see FIG 2. To reach the desired height aspect of the unit, Copper Air Terminal Extension Rods (3) are connected to Small Female-Female Brass Rod Coupler (4) and the Small Female-Female Brass Rod Coupler (4) is connected to another Copper Air Terminal Extension Rod (3) as many times as necessary, which establishes the down conductor, see FIG 12. To establish the required clearance and air terminal aspect, the Small Female-Female Brass Rod Couplers (4) are connected to Copper Air Terminals (2), see FIG 12. Lengths of Copper Grounding Cable (8) connect as many times as deemed necessary - usually two - to one inside or outside Brass or Copper Grounding Clamp (6) each and then each connect to Copper Grounding Rods (9). Copper Grounding Rods (9) are earthed at the earthing site. 
+
+
+The lightning protection system is achieved by connecting the components such that they are conductively continuous. The frame is composed of pieces of Copper Rods (1) connected to each other by pieces of Large Female-Female Brass Rod Coupler (5) via threading and connected to Brass Corner Triple Connector Cube (7) on the length side via the through-hole of Brass Corner Triple Connector Cube (7), with pieces of Brass or Copper Grounding Clamp (6) clamping the through-connected Copper Rods (1) in place on each through-hole of Brass Corner Triple Connector Cube (7)'s entrance and exit so as to prevent it from shifting and making the frame lose integrity, see FIG 10. The Brass Corner Triple Connector Cubes (7) connect to the width side via threaded connection to Copper Rods (1), see FIG 10. These Copper Rods (1) connect to each other via Large Female-Female Brass Rod Couplers (5), see FIG 13, for the entire width of the frame and then end by connecting again to another Brass Corner Triple Connector Cube (7). The Brass Corner Triple Connector Cubes (7) connect to pieces of Copper Air Terminal Extension Rods (3) via the top of the cube’s threaded connection, see FIG 10. Pieces of Copper Air Terminal Extension Rods connect to each other via Small Female-Female Brass Rod Couplers (4) via threaded connection, see FIG 2. Pieces of the Small Female-Female Brass Rod Coupler (4) then connect to pieces of Copper Air Terminals (2) via threaded connection once the standard clearance height is achieved, see FIG 12. Thus, the lightning protection system is complete. Grounding is achieved by clamping Copper Grounding Cable (8) to Copper Rods (1) with Brass or Copper Grounding Clamp (6) on either the inside or outside of the Brass Corner Triple Connector Cubes and leading Copper Grounding Cable (8) to the earthing location and then earthing it via Copper Grounding Rods in compliance with standard requirements as necessary. The use of threaded connections and the through-hole connections are required for the invention to perform its function without welding.
+
+
+
+Assemble the frame around the object to be protected as described previously, with eight clamps attached to the frame through-hole connected rods (2 per each cube), at both the inner and outer faces of the cube’s through-hole connection in order to stop the frame rods from moving. Assemble the height aspect, the air terminals and their down-conducting extension rods as previously described such that a minimum of two feet of clearance is achieved. Ground and earth the system as previously described and as is obvious to anyone with skill in the art.
+
+
+
+All elements are generally necessary to achieve a complete lightning protection system. In certain specific scenarios, this changes and such changes should be obvious to anyone with skill in the art. For example, if the system's frame is directly on top of soil, the grounding/earthing system may be unnecessary depending on the conductive properties of the soil. In some of these cases, earthing may not be necessary because the frame will act as a ground to earth connection. It is very much an intentional part of the invention that in the event there is a direct contact between the frame and the soil, earthing may not be necessary. The metallic compositions of the materials described are one example, as it is not necessary to use copper and brass. This is just one permutation of metal combinations that achieves a properly conductive lightning protection system and anyone skilled in the art should find other permutations obvious. The air terminal system may be changed according to time, place, and intended duration of protection. All such changes should be obvious to anyone skilled in the art. For example, a wire system connecting the air terminals can be added or a safety tip or additional needles may be added to the air terminals; a grounding plate can replace the earth rods if necessary for certain types of soil or rock formations; the couplers may be replaced by additional clamps with wider spaces for the connecting rods. If swaying of the frame is not an issue, it is possible to use grounding lugs and wires to jump the connections from corner cube to corner cube, instead of connecting rods. What is not obvious, and specific to this invention, is the assembement of connecting parts to establish a lightning protection system kit that is easy to assemble, disassemble, modulate for different objects, and weld-free. 
+
+
+
+To use this invention, one would assemble the lightning protection system around the object to be protected, starting with the frame and then either the down conductors and air terminals, or the grounding/earthing components and properly earth them according to the situation - meaning, either with earth rods or lightning plates - and then completing whichever step is left over depending on the order of assembly.
+
+No
+
+
+No
+
+
+
+

@@ -1,0 +1,53 @@
+ is a maximally efficient rule breaker, there is an optimal strategy in the context of a non-contradictory Sanctuary system.
+
+Impact of maximally efficient rule breakers on other entities:
+∀x (MEB(x) → IE(x, NCSS))
+
+This formalization states that the actions of maximally efficient rule breakers have an impact on other entities within the non-contradictory Sanctuary system.
+
+Nash equilibrium in a non-contradictory Sanctuary system, accounting for maximally efficient rule breakers:
+NE(NCSS) ⇔ ∀x ((RB(x) → OS_RB(x, NCSS)) ∧ (RF(x) → OS_RF(x, NCSS)) ∧ (MEB(x) → IE(x, NCSS)))
+
+This formalization states that a Nash equilibrium exists in a non-contradictory Sanctuary system if and only if every rule breaker and rule follower adopts their respective optimal strategies in the context of the non-contradictory Sanctuary system, and the impact of maximally efficient rule breakers on other entities is considered.
+
+By incorporating the impact of maximally efficient rule breakers on other entities within the Sanctuary System, we can better account for the dynamics and stability of the Nash equilibrium in this context.
+
+
+
+Isaac Wostrel-Rubin
+But also isn’t it true that since being a person is a cumulative and temporally bounded specific collection of circumstances, any and all actors are always using the maximally efficient strategies for themselves qua themselves? 
+
+Yes, it is reasonable to assume that individuals, being a cumulative and temporally bounded collection of circumstances, will generally try to adopt the maximally efficient strategies for themselves, given their specific knowledge, constraints, and abilities. However, it's important to consider that "maximally efficient strategies" are not always apparent or accessible to all individuals due to the limitations of their understanding, resources, or circumstances. Therefore, while individuals may strive to use the most efficient strategies available to them, they may not always succeed in doing so.
+
+We can incorporate this idea into our formalizations as follows:
+
+Individual strategy based on personal circumstances:
+Circumstances: C(x)
+Maximally efficient strategy given circumstances: MES_GC(x)
+
+∀x (C(x) → MES_GC(x))
+
+This formalization states that for every individual x with their unique circumstances, there is a maximally efficient strategy given their specific circumstances.
+
+Nash equilibrium in a non-contradictory Sanctuary system, accounting for individual circumstances:
+NE(NCSS) ⇔ ∀x ((RB(x) → MES_GC(x, NCSS)) ∧ (RF(x) → MES_GC(x, NCSS)) ∧ (MEB(x) → IE(x, NCSS)))
+
+This formalization states that a Nash equilibrium exists in a non-contradictory Sanctuary system if and only if every rule breaker and rule follower adopts their respective maximally efficient strategies given their circumstances in the context of the non-contradictory Sanctuary system, and the impact of maximally efficient rule breakers on other entities is considered.
+
+By considering the unique circumstances of each individual and their attempts to adopt maximally efficient strategies given those circumstances, we can better understand the dynamics and stability of the Nash equilibrium in a non-contradictory Sanctuary system.
+
+
+
+Isaac Wostrel-Rubin
+No I’m saying whatever they do in any situation IS the maximally efficjent response they could have had at that specific time, because they are themselves and not a hypothetical. 
+
+Apologies for the misunderstanding. I see now that you're suggesting that whatever action an individual takes in any situation is, by definition, the maximally efficient response they could have had at that specific time, given that they are themselves and not a hypothetical version of themselves.
+
+Under this assumption, every individual is always making the best decision they can at any given moment, given their knowledge, beliefs, and circumstances. In this case, we can modify the formalization to incorporate this idea:
+
+Individual strategy is always the maximally efficient strategy:
+Individual: I(x)
+Maximally efficient strategy given individual: MES_I(x)
+
+∀x (I(x) → MES_I(x))
+

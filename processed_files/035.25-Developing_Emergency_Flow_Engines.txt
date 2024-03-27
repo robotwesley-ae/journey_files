@@ -1,0 +1,36 @@
+In simpler terms, imagine the AI model as a student trying to learn a subject by studying a textbook (the dataset). The more the student reads and practices, the better they understand the subject. Similarly, an AI model learns to understand and represent data by adjusting its internal structure (the weights and biases) based on the dataset it's trained on.
+I hope this explanation makes the concept more approachable. If you have any specific questions or need clarification on any part, please feel free to ask!
+
+Oh so an AI doesnt have an actual intent, it just outputs according to contexts latent inside an input and doesnt affect its output except by parameters?
+That's correct. An AI model doesn't have intent or consciousness like humans do. It processes inputs and generates outputs based on the patterns and relationships it has learned from the training data. The output depends on the input and the internal structure of the model, which has been fine-tuned during training.
+The AI's behavior can be influenced by the parameters and the architecture of the model, but it doesn't have an innate understanding of the meaning or consequences of its outputs. It simply processes the data according to the patterns it has learned and generates the most likely output based on its training.
+It's important to note that AI models are created and designed by humans, so the way they process data and generate outputs is a reflection of the design choices and the data used for training. However, the AI itself doesn't have intentions or desires like a human being.
+What do the neurons in a neural network represent? Any abstraction of any size?
+In a neural network, neurons, or more accurately, artificial neurons, represent computational units that perform specific mathematical operations. These artificial neurons are inspired by the biological neurons found in the human brain, but they are a highly simplified abstraction.
+Each neuron receives input from other neurons (or directly from the input data) and computes a weighted sum of these inputs. Then, it applies an activation function to the result, which determines the output of the neuron. The output is then passed on to other neurons in the network.
+Neurons can represent various levels of abstraction, depending on their position in the network and the architecture used. In the initial layers of a deep learning model, neurons often capture simple patterns or features, such as edges, corners, or colors in an image. As you move deeper into the network, neurons begin to represent more complex and abstract concepts, such as shapes, textures, or objects.
+In other words, the role of neurons in a neural network is to perform mathematical operations that gradually extract higher-level features and patterns from the input data, ultimately leading to the desired output or prediction.
+
+Can you write this out so I can see it step by step as a knowledge graph?
+Sure, I can provide you with a step-by-step description of a neural network in the form of a knowledge graph. Please note that this will be a simplified version of the process, focusing on the main components and steps involved in a neural network.
+Input Layer:
+Nodes: Input features (e.g., pixels of an image, words in a text)
+Edges: Connections between input features and neurons in the first hidden layer
+Hidden Layers:
+Nodes: Neurons (computational units)
+Weighted Sum: Computes the weighted sum of the input values
+Activation Function: Applies a non-linear function to the weighted sum
+Edges: Connections between neurons in adjacent layers, associated with weights
+Output Layer:
+Nodes: Output neurons (representing classes, values, or other
+
+Ok you are really bad at outputting knowledge graphs like that. Can you follow this way?
+
+Hidden layer neurons
+nodes are always: neurons [definition]
+    property1: weighted sum - [definition]
+    property2: activation function - [definition]
+edges are always: other neurons - [definition]
+I apologize for the confusion. Here's a revised version based on your provided format:
+Input Layer:
+Nodes are always: Input features [e.g., pixels of an image, words in a text]

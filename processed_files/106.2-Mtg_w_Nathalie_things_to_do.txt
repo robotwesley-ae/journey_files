@@ -1,0 +1,33 @@
+         		* This is essentially an agent SIMULATION - important to remember this. It shows you where the AI model could potentially respond from. Targeting these “places” the AI responds from, is like finding a “home” for your Instant Expert. In an expanded way, when we make agents, the “place” or “home” becomes the entire array of functions related to that agent.
+   * Ms_2: How I build Instant Experts
+      * How I make an Instant Expert
+         * Profile
+         * Chains
+   * Ms_3: My Instant Expert Template (Programmatic Prompt)
+      * Programmatic Prompt Template
+         * Meanings of terms
+         * Applying it to various domains
+      * Different ways you can do it and how you could change it per domain
+   * Ms_4: How I built an Instant Expert factory
+      * Manual Factory (will work with ChatGPT @ mentions)
+         * Easiest way to do it is to do a prompt that is a meta-prompt that creates an Instant Expert persona using Morph Prompting
+            * But there are a lot of issues that can arise with this due to the deterministic aspects of the model and constant changes
+            * Better way to do it is to use a piecemeal workflow
+         * Morph prompting
+            * Constructor Prompts
+               * Profile Constructor (i make these by hand because it’s not reliable to use morph)
+               * Chain Constructor (i make these by hand because it’s not reliable to use morph)
+               * MorphPromptConstructor (need to make this, this is different than morph assistant bc it makes things that require morph prompting, ie it makes constructor types; requires agents for consistent output)
+         * Workflow = @ Profile -> @ Chains -> User Synthesizes -> User Paste to CustomGPT Builder
+   * Ms_5: Adding tools to an Instant Expert
+      * Ask the persona about the tools they want
+      * This gives you ideas
+      * Complex tools
+         * May use multiple tools or results from one tool to chain to another
+         * Example: FORMATIA_QUIVER
+   * Ms_6: Using Tools and Making SmartChains
+      * SmartChain with tools
+      * Uses mermaid sequenceDiagram
+         * Can use a Constructor for that
+   * Ms_7: Advanced
+      * Compression Syntaxes: SPR, emojis, data schemas

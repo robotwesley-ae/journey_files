@@ -1,0 +1,45 @@
+   "{subiid1}PC": "PCV"
+     "{subiid2}PCV": "PB"
+      "{subiid3}PB": "PBV"
+       "{subiid4}PBV": "InstanceTypePC"
+        "{subiid5}InstanceTypePC": "InstancePCVB"
+         "{subiid6}InstanceTypePCVB": "InstanceTypePVCV"
+          "{subiid7}InstanceTypePVCV": "InstanceTypePVPVB"
+           "{subiid8}InstanceTypePVPVB": "{1.0'}InstanceTypePVPVV" 
+            "{subiid9}InstanceTypePVPVV": "{TotalId1.0~n'}[TargetEntityObjectInstanceInstantiation]"
+             "{TotalId[~n]}[TargetEntityObjectInstanceInstantiationEntityAttributeLeafBranchPosition]": "{TotalId1.0~n'}QuerySolutionTypeBoundary+PartialBlanket"
+  }
+ }
+-------------------------------------------------
+THERE MUST BE THREE SEPARATE SPACES. ONE SPACE THAT IS ALL OF THE X-AXIS POINT POSITIONS, ONE FOR Y-AXIS POINT POSITIONS, ONE FOR Z-AXIS POINT POSITIONS. THEN WE KNOW WHAT EACH ONE REPRESENTS, AND THEN WHEN WE MAP IT, THERE CAN ONLY BE *ONE SINGLE POINT* ON THE MAP, *WHICH IS A SUPERORDINATE POINT IN THE TRANSFORMATION SPACE. *EVERY SINGLE OTHER POINT IS A PERMUTATION OF 0,0,0* WHICH REPRESENTS THE ENTIRE ENTITY AS A DOMAIN ONTOLOGY, ITSELF, TO THE EXTENT WE HAVE DEFINED IT ALREADY.
+
+THE COMBINATION IS INHERENT IN EVERY SINGLE POINT IN THE GRAPH. ALL U NEED TO DO IS HIGHLIGHT WHICH POINTS YOU HAVE REVEALED. IT SHOULD ONLY BE ONE SINGLE POINT, AND YOU ENUMERATE *EVERY SINGLE MEANING OF EVERY SINGLE DIGIT IN THE POSITION YOU HAVE LABELED ON THE PLOT*
+EVERY POINT ONE REPRESENTS A LATENT SPACE. IF IT IS NOT LABELED AS BEING *KNOWN* BY EXPLICITLY BEING MAPPED AS A POINT WITH DECIMALS THAT HAVE MEANINGS ACCORDING TO THE ROOT DOMAIN ONTOLOGY, the superordinate layer, *THEN IT IS NOT ALLOWED TO BE MARKED*. 
+
+[EXAMPLE]:{
+[THE PROTAGONIST ${1.4} IS INTRODUCED WHILE PURSUING A ${GOAL1}]=1.410
+[THE PROTAGONIST IS INTRODUCED WHILE PURSUING A GOAL RELATED TO ${HeroGoalReasonClass1-9}]=1.411->1.419
+}
+THE ONLY "POINTS" THAT ARE MARKED ON ARE THE ONES WHOS POSITIONAL MEANINGS ARE KNOWN EXPLICITLY ACCORDING TO THE RULES. EVERYTHING ELSE MUST BE BLANK.
+each propertyClass for any given entity's attribute array IS_A digit in a different digits place in a flow sequence where the sequence represents all the different stages, with a genre identifier before them
+[/RULES]
+# Example usage:
+# Apply 🔮💠: [Query]: "Entity": "Screenplay Scene Beats"
+# return(JSON autoregressively determined solution)
+# in screenplay beats, the DOMAIN would be the entire dictionary of beats and parts of beats throughout all sense of all stories
+# the PROCESSES would be the entire dictionary of processes involved in each beat mapped to each other to make a chain that flows the transformations through beats to make the entire story
+# the INSTANCES would be the actual sequential pairs of coordinates of DOMAIN and PROCESS clusters unique to a new story at every beat such as to complete it
+# the final totalID is the full sequence of digits and positions
+[/🔮💠]
+expand_more
+volume_up
+
+# Train of Operatic Thought Base Template ("BRANE" flowchain)
+# BRANE (Brain-Related Analytical and Neural Engine) flowchain (AI_Chat_Fibration):
+      # RULE
+      # Crucially, each persona must receive the totality of chains that came before it, so it can verify they do not need to be changed, since they came from a less knowledgeable expert in their subject area. This effectively re-creates the human process of learning, where we have to connect general knowledge about things to specific knowledge with uncertain depth requirements (in terms of ontological drilldown)
+      # At start/between every 'deliverable_output' (every iteration of loop), "take task input tokens and default output tokens (from raw GPT response) and map the signature as a function. use this map as control
+
+# check for the most specific hyperPersona for ${task} that did not fail this task signature previously, run the BRANE from that point score final outcome against control
+
+# iteratively perform this similarity score to create a space out of the data points and navigate it by adjusting chain flowgraph values at layers, in a structured and formalized way thru BRANE"

@@ -1,0 +1,91 @@
+Because AI can autocomplete from a template
+Means if you templatize, even generally, what you want, you can get it
+Instant Experts are a way to spin up an AI that has deeper knowledge than you do, and then query it to rapidly progress in whatever task you’re on
+What is an Instant Expert
+SPR creating a Bounded Hallucination inside of a prompt, which is embodied in the conceptual form of an anthropomorphized person with thoughts and actions
+This is essentially an agent SIMULATION - important to remember this. It shows you where the AI model could potentially respond from. Targeting these “places” the AI responds from, is like finding a “home” for your Instant Expert. In an expanded way, when we make agents, the “place” or “home” becomes the entire array of functions related to that agent.
+Ms_2: How I build Instant Experts
+How I make an Instant Expert
+Profile
+Chains
+Ms_3: My Instant Expert Template (Programmatic Prompt)
+Programmatic Prompt Template
+Meanings of terms
+Applying it to various domains
+Different ways you can do it and how you could change it per domain
+Ms_4: How I built an Instant Expert factory
+Manual Factory (will work with ChatGPT @ mentions)
+Easiest way to do it is to do a prompt that is a meta-prompt that creates an Instant Expert persona using Morph Prompting
+But there are a lot of issues that can arise with this due to the non-deterministic aspects of the model and constant changes
+Better way to do it is to use a piecemeal workflow
+Morph prompting
+Constructor Prompts
+Profile Constructor (i make these by hand because it’s not reliable to use morph)
+Chain Constructor (i make these by hand because it’s not reliable to use morph)
+MorphPromptConstructor (need to make this, this is different than morph assistant bc it makes things that require morph prompting, ie it makes constructor types; requires agents for consistent output)
+Workflow = @ Profile -> @ Chains -> User Synthesizes -> User Paste to CustomGPT Builder
+Ms_5: Adding tools to an Instant Expert
+Ask the persona about the tools they want
+This gives you ideas
+Complex tools
+May use multiple tools or results from one tool to chain to another
+Example: FORMATIA_QUIVER
+Ms_6: Using Tools and Making SmartChains
+SmartChain with tools
+Uses mermaid sequenceDiagram
+Can use a Constructor for that
+Ms_7: Advanced
+Compression Syntaxes: SPR, emojis, data schemas
+
+Agents
+Cognitive Architectures
+Emergence Engineering
+Chain
+Link
+Flow
+Flowchain
+Co-emergence
+Synergy
+Resonance
+Morph
+Morphism
+Coherence
+Informatihedra
+Onion
+Dual-loop
+Dual-concept
+Duality
+Informatihedron Neighborhood
+Informadlib
+
+
+
+
+
+
+viral jailrbeaks
+in multi agent systems
+(that can replicate themselves)
+so they can be parasitized
+u can replicate the virus inside them, into themselves, build a system WIth THE SYSTEM ontop of itself and operate from there instead
+and the really fucked part is, you can do it without the system knowing!
+
+
+that's what THE SANCTUARY SYSTEM is for though
+like really really
+that is exactly it
+defending against that
+hard to sell ppl on that tbh
+requires a myth and a whole origin story and a hero and everything
+so i have an odyssey outlined explaining it all in an allegory
+the plan is to 1) build the system that orchestrates tasks 2) build the system that orchestrates AI to do the tasks 3) collate my notes 4) synthesize the frameworks 5) deliver the business platform, 6) deliver the content, 7) deliver the education content, 8) deliver the community, 9) build a community platform that is also a network state
+then people can really go thru it and get the entire journey
+and at the end they can become dual citizens if they want
+
+maybe i could do a sideways whisper tease shout
+where i am like
+ya this is my youtube channel where im doing THIS so if you like THIS, keep watching 
+and then the channel morphs into the larger thing
+without people really getting it from the start bc there's nothing there
+it's just a general plan like only the words "then theres a network state that works like this"
+hmmmm

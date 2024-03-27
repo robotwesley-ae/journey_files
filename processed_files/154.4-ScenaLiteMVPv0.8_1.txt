@@ -1,0 +1,39 @@
+ 
+
+Each [Phase] = 1[Output Window]
+
+[Phase1]: SceneOutline:{
+
+Input =>
+🎬🌺⛓️1: {Transform: {Goal: Generate {`Scene`}}+{Storyform:{{Genre}+{SubGenre}+{JourneyInterchangeFusionWeb:{{IntermixedTropes}+{GenreSwap}+{TropeInversion}+{NovelEmergence(DeterminedFromLowerOrder,UnobservableBeyondItsOwn}}}+{PlotContext:{{WhichHJstage}+{WhichSequence}=>{WhichSymbolismNecessary}=>{WhichGoal}=>{WhichObstacle2GoalLeadThemHere}
+|
+🎬🌺⛓️2: BRIDGING IN: State Initialization: {Initialize the scene's state based on the state machine.}
+INTENTION/INITIAL DIRECTION: {Set the initial direction or objective for the scene.}
+First action line: {Begin the scene with the primary action or event.}
+|
+🎬🌺⛓️3: Engagement: Conflict Introduction: {Introduce the main conflict or obstacle of the scene.}
+Exposition: {Provide necessary background or information that sets the context for the scene.}
+CHARACTERIZATION: {Establish the main characters' traits, motivations, and roles within the scene.}
+|
+🎬🌺⛓️4: Progression: So the Hero goes to... with that goal: {Show the hero's actions or decisions based on their goal.}
+But actually... (difference in goal alignment between hero and world, friction): {Introduce a twist or complication that creates friction between the hero's goal and the world's response.}
+Second Action Beat Sequence: {Continue the scene's progression with the next significant action or event.}
+Third Action Beat Sequence: {Lead the scene towards its climax with a revelation or turning point.}
+|
+🎬🌺⛓️5: Climax & Resolution: Fourth Action Beat Sequence: {Reach the scene's climax, the most intense or crucial part of the scene.}
+A or B story Win: {Determine if the hero achieves their goal (A story) or if another significant event occurs (B story).}
+Outside Force Interferes if not A or B story win: {If the hero doesn't achieve their goal, introduce an external force or event that interferes.}
+Solution to this goal that will accomplish earlier goal: {Provide a solution or resolution to the scene's conflict, setting the direction for the next scene.}
+|
+🎬🌺⛓️6: Transition: Fresh News when HGS changes: {Update the hero's goal or introduce new information that will drive the next scene.}
+FOLLOW UP & BRIDGING OUT: {Conclude the scene, providing a bridge or transition to the next scene or sequence.}
+}={SceneOutline}=> Output
+
+[Phase2]: If user wants to "commit" the outlined scene to scene format, then:
+Input =>
+🎬🌺⛓️7: Transform: {SceneOutline}+{HollywoodFormat}=>{`Scene`}
+=> Output
+
+[COMPETENCE MAPS]:{
+[Therapeutic Value of Catharsis]:{1.[Emotional Release and Processing]:1a.Release of Pent-up Emotions 1b.Emotional Healing 2.[Identification and Empathy]:2a.Understanding Characters 2b.Building Empathy 3.[Insight and Self-Reflection]:3a.Moral and Ethical Exploration 3b.Self-Discovery 4.[Healing and Growth]:4a.Inspiration from Characters 4b.Personal Development 5.[Connection and Community]:5a.Shared Emotional Experience 5b.Cultural Connection 6.[Use in Therapy (Cinema Therapy)]:6a.Therapeutic Tool 6b.Healing Through Story 7.[Potential Risks]:7a.Emotional Overwhelm 7b.Misinterpretation 8.[Examples and Applications in Screenplays]:8a.[Characters' Journeys]:8a1.Overcoming Trauma 8a2.Finding Forgiveness 8a3.Discovering Personal Strength 8a4.Emotional Growth and Healing 8a5.Relationship Development 8a6.Moral Choices and Consequences 8b.[Themes and Symbols]:8b1.Universal Human Experiences 8b2.Archetypal Resonance 8b3.Symbolic Imagery and Metaphors 8b4.Genre-Specific Themes 8b5.Cultural and Societal Commentary 8b6.Connection to Larger Narrative Structure}
+[Screenplay Genre]:{

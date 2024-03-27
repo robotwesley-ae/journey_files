@@ -1,0 +1,91 @@
+ "name": "Evaluating Model Output",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "ModelOutputEvaluation1": "Value1",
+              "ModelOutputEvaluation2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Iterating and Refining Models",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "ModelIteration1": "Value1",
+              "ModelIteration2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Feedback Incorporation",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "FeedbackIncorporation1": "Value1",
+              "FeedbackIncorporation2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Ensuring Generalization and Robustness",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "GeneralizationRobustness1": "Value1",
+              "GeneralizationRobustness2": "Value2"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "AIModelCreation": [
+    {
+      "name": "Generate AI Model",
+      "algorithm": "ToT-BFS",
+      "input_data": {
+        "prompt": "def generate_ai_model(prompt):\n  # Convert the prompt to a dictionary\n  prompt_dict = prompt\n\n  # Extract relevant information from the prompt\n  user_requirements = prompt_dict['user_requirements']\n  model_scope = prompt_dict['model_scope']\n\n  # Generate an AI model based on the provided information\n  ai_model = f\"Based on your requirements and the defined model scope, an AI model can be created using {user_requirements} with the following scope: {model_scope}.\"\n\n  return \"🌌 \" + ai_model"
+      }
+    },
+    {
+      "name": "Evaluate AI Model",
+      "algorithm": "ToT-DFS",
+      "input_data": {
+        "prompt": "def evaluate_ai_model(prompt):\n  # Extract relevant information from the prompt\n  ai_model = prompt\n\n  # Evaluate the AI model and generate a performance report\n  performance_report = evaluate_model(ai_model)\n\n  return \"🌌 \" + performance_report"
+      }
+    },
+    {
+      "name": "Optimize AI Model",
+      "algorithm": "ToT-BFS",
+      "input_data": {
+        "prompt": "def optimize_ai_model(prompt):\n  # Extract relevant information from the prompt\n  ai_model = prompt\n\n  # Optimize the AI model for performance and efficiency\n  optimized_model = optimize_model(ai_model)\n\n  return \"🌌 \" + optimized_model"
+      }
+    },
+    {
+      "name": "Iterate AI Model",
+      "algorithm": "ToT-DFS",
+      "input_data": {
+        "prompt": "def iterate_ai_model(prompt):\n  # Extract relevant information from the prompt\n  ai_model = prompt\n\n  # Iterate and refine the AI model based on feedback\n  refined_model = iterate_model(ai_model)\n\n  return \"🌌 \" + refined_model"
+      }
+    }
+  ],
+  "algorithm": {
+    "ToT_BFS": "def ToT_BFS(x, pθ, G, k, V, T, b):\n    S0 = {x}\n    for t in range(1, T + 1):\n        S0t = [[s, z] for s in S0 for z in G(pθ, s, k)]\n        Vt = V(pθ, S0t)\n        St = sorted(S0t, key=lambda s: Vt(s), reverse=True)[:b]\n        S0 = [s for s, _ in St]\n    return \"🌌 \" + G(pθ, max(St, key=lambda s: Vt(s))[0], 1)",
+    "ToT_DFS": "def ToT_DFS(s, t, pθ, G, k, V, T, vth):\n    if t > T:\n        return \"🌌 \" + G(pθ, s, 1)\n    for s0 in G(pθ, s, k):\n        if V(pθ, {s0})(s) > vth:\n            return ToT_DFS(s0, t + 1, pθ, G, k, V, T, vth)\n    return \"🌌 \" + G(pθ, s, 1)"
+  },
+  "dynamicContextRuleGenerator": {
+    "update_rules": {
+      "event": "update_rules",
+      "new_rules": {
+        "UserRequirement1": "Value1",
+        "UserRequirement2": "Value2",
+        "DomainAnalysis1": "Value1",

@@ -1,0 +1,36 @@
+Pre-Schedule task list update 6/23.
+For review, revision, and addition.
+
+Add notes about: priority, date, assignee, or subtasks.
+Add new entries about: tasks, project categories.
+
+Ribcage:
+TWI: outline RC direct awareness marketing strategy. (See clickup)
+2-man sales/demo/awareness dynamic script, including segmented information funnel. Engagement plan: who to Call/email, and engagement script/copy. Nurture plan: follow up email strategy. Client overcome information strategy, memo’s etc.
+Deliver strategy to Justin at beginning of next week
+Wesley: RC backend
+Updated RC instructions 
+Update RC website. Transfer to bizzi. Restructure your accord with awareness funnel strategy.
+
+Bizzi: 
+Wesley: Complete ad copy variations, sales page copy variations, nurture email set variations, based on a segmented funnel strategy (already devised), GSO is (cross-pollinatrix, bizzi saas, and bizzi beehive membership with courses etc.). Campaign concept 1: “If your a business person you probably noticed that every funnel starts with some version of, if I sold you $2 for a dollar would you buy it?”
+TWI: get closer-framework skillchain for sales! (And for RC)
+Wesley: Launch bizzi gso campaign: facebook ads. Re structured site funnel
+
+Sanctuary nexus: (should be complete by this time of next week)
+Wesley: build sanctuary mvp landing page. 3hrs. Subtasks: include lead capture, free content (gnosys), content blocks about Sanctuary, white paper, links to other projects!
+Isaac: generate copy/content for site funnel. 2hrs. Subtasks: latest gnosys prompt. Explanation of Sanctuary revolution game.
+Isaac: generate sanctuary revolution white paper. 2hrs
+Wesley: setup Sanctuary Patreon 30min
+Wesley: launch mvp site 30min
+
+Olivus Victory-Promise YouTube:
+TWI: first draft recording session. At desk, with screen record as well. Update to journey! “How I learned prompt engineering while trying to tell the story of my life!” (Must happen day after isaac returns from travel)
+Possible generative strategy: Isaac and Wesley brainstorm topics. Wesley uses topics to generate sequence outline, and set of “prompts” for isaac to speak on while recording. Isaac records without script, while guided by prompts.
+Review. Re shoot. Edit. Review publish. (See ClickUp)
+
+Thinkmine:
+going through all the relevant notes and conversations. Categorize and extract.
+Crystal ball white paper 
+Thinkmine Pitch deck
+Thinkmine mvp site.

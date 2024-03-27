@@ -1,0 +1,25 @@
+Remembering our goal of creating an Informadlib template - a sort of 'madlib' for ontological entities - this could involve identifying common patterns or 'shapes' within this space. These could then serve as templates for future entity-property pairings. This is akin to developing an 'instancing answer set neighborhood,' which will likely require further discussion and refinement.
+ok run a 2 round expert panel on it, making sure the experts are assigned supergenius level skills in the areas they are talking about.
+
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1:
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2:
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦  and trying to make the idea connect from the reale version of expert 4 to the innovative idea we need it to be, searching everywhere for properties that match, trying to cobmine them to find a practically achievable, definable version of the concept at hand 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand?”
+ChatGPT
+Round 1:
+Expert 1 (Combinatorics): The EWSO model appears to have a rich combinatorial structure, similar to a high-dimensional geometric space. Each entity-property pairing could be seen as a point in this space, and uncertainty about properties could be modeled as the distance between points. The notion of 'distance' could be flexible, potentially incorporating various aspects of the relationship between properties, such as their semantic similarity or the strength of their contextual link.
+Expert 2 (Topology): If we view the EWSO as a topological space, the concept of "closeness" between entity-property pairs could be essential. The topological properties of this space, such as continuity and connectedness, could reveal essential features of the ontology. In the Informatihedron, for example, nearby points may represent strongly related properties.
+Expert 3 (Graph Theory): Considering the EWSO as a graph might also be beneficial. Entities could be represented as nodes, and properties or relationships could be edges. This perspective could facilitate a clearer understanding of the structure of the ontology, potentially allowing for more efficient querying or extraction of relevant information.
+Expert 4 (Ontology): Drawing from the insights of the previous experts, we might consider the EWSO as a multi-dimensional topological space with a graph structure. Each entity-property pair is a point in this space, and relationships between properties are represented by edges in the graph. The graph's topology reveals important features of the ontology, such as how closely related different properties are. If we can develop methods for managing and interpreting this complex space, we may be able to construct more efficient and flexible ontological tools, including informadlib templates.
+Round 2:

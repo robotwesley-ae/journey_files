@@ -1,0 +1,32 @@
+Alignment algorithm with expansion capabilities: Develop a single, versatile alignment algorithm that can handle multiple domains and has the capability to expand its scope as needed. This algorithm would be responsible for managing the complexity of the ontology processing and identifying valuable property relationships.
+GPT model deployment: Deploy GPT models that have been pre-trained on the alignment algorithm and fine-tune them on the current domain state. These models would be responsible for exploring the domain and discovering new knowledge.
+Evaluation and pruning: After fine-tuning, evaluate the performance of the GPT models based on their ability to discover new knowledge in the domain. Retain the models that perform in the top 20% and discard the others. This selection process helps to focus on the most valuable relationships and maintain computational efficiency.
+Iterative improvement: Continue to deploy and fine-tune GPT models as needed, iteratively improving the ontology processing and domain-specific knowledge discovery.
+Implementing this approach requires the following components:
+
+Development of a versatile alignment algorithm with expansion capabilities to manage the complexity of ontology processing across multiple domains.
+Mechanisms for deploying and fine-tuning GPT models on the current domain state, as well as evaluating their performance and applying the 80/20 pruning rule.
+Infrastructure for iterative improvement, including continuous deployment and fine-tuning of GPT models to enhance domain-specific knowledge discovery.
+By using this approach, you can potentially manage the complexity of ontologies more effectively and improve the efficiency of ontology processing. The use of GPT models fine-tuned on specific domain states can facilitate better knowledge discovery and adaptation to the evolving domain requirements. However, it is essential to consider the scalability and robustness of the algorithms and models, as well as the computational costs associated with deploying and fine-tuning GPT models.
+
+
+
+
+Isaac Wostrel-Rubin
+That’s true. Let’s just talk about the basics of an alignment algorithm. 
+
+So, in order to make an aligner between domains X and Y, and have it function such that, for example: 
+
+If I take notes while reading a book and run a program that converts it into a set of entities and axioms, makes a protege ontology and loads it into neo4j, (X)
+And
+If I run a program that reads that same book and converts the entire document into a set of entities and axioms, makes a protege ontology, and loads it into neo4j (Y)
+Then
+I can run a program (a general aligner) to align X and Y, such that any potential inferences about knowledge related to but not included in Y are preserved from X in XY, and everything incorrect about X is made apparent in XY
+
+An alignment algorithm, in this context, aims to find a mapping between two ontologies (X and Y) so that related entities and axioms are matched, and potential inferences are preserved. The goal is to create a merged ontology (XY) that retains valuable knowledge from both X and Y while making discrepancies between the two apparent.
+
+Here is an outline of the basic steps involved in creating such an alignment algorithm:
+
+Preprocessing: This step involves preparing the ontologies for alignment. It may include tasks such as normalizing entity names, converting data types, and removing duplicates or irrelevant information. This helps ensure that the ontologies are in a consistent format, which makes it easier to find matches between them.
+Entity matching: The algorithm should identify and match corresponding entities in ontologies X and Y. This can be done using various techniques, such as string similarity, semantic similarity, or machine learning methods. The objective is to find the best possible matches between the entities in the two ontologies.
+Axiom matching: Similarly, the algorithm should identify and match corresponding axioms in ontologies X and Y. This may involve comparing the structure and semantics of the axioms, as well as identifying relationships between matched entities. This step ensures that related axioms are aligned correctly.

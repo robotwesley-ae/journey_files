@@ -1,0 +1,54 @@
+BOOK 
+
+YOUTUBE VIDEO 1 (WRITING A SCREENPLAY WITH CHATGPT): about the process of Outlining and stuff, starts after i build the backend context
+YOUTUBE VIDEO 2 (explaining what I did, specifically, to write the book): about the backend context
+YOUTUBE VIDEO 3 (WRITING A BOOK WITH CHATGPT): about writing a book about what I did, using ChatGPT
+
+WRITING A SCREENPLAY WITH CHATGPT:
+
+Chapter 1: What is Storytelling?
+Initiation stories
+Monomyth/hero’s journey
+Chapter 2: What is AI?
+Human thought composition
+AI thought composition
+So we can use AI to help us compose realizations that instantiate our thoughts about potential realizations
+Chapter 3: ChatGPT
+Meaning of GPT
+Chat format
+Chapter 4: Language Game
+Language game meaning
+Now we see that getting the realization we want from ChatGPT is a language game between us and ChatGPT and between ourselves and the ontological domain of storytelling, specifically screenwriting
+Note about ChatGPT getting stuck (more later)
+Entities
+Intellectual
+Physical
+Intellectual + Physical = Cascading emergence from polysemy
+Chapter 5: Screenwriting with ChatGPT
+Keeping an Eye on ChatGPT 
+It will start parroting you and you need to break down where it is taking wrong turns so it can get back on track, watch out for this.
+Outlining
+First understand we start with the Monomyth
+It has 4 Overarching story phases of transformation
+And 17 stages of symbolic transference
+It has some number of Characters 
+Which are used Symbolically to represent the pieces that accomplish the emergence of the 17 stages in the mind of the audience, which induces catharsis
+Symbolic Characters (Archetypes)
+Properties
+Spectral Values
+Instantiation
+Realization
+Realizing the 17 stages as a screenplay with ChatGPT
+Treatment
+Paragraph form of everything that happens, may include important lines of dialogue
+Scriptment
+Screenplay format of everything that happens, made in this way
+Pass 1
+Sluglines
+Descriptions
+Action lines
+Script
+Add dialogue
+Start with what is necessary to make the scene make sense
+End with what is necessary to make the theme catharsis more effective
+And now you have a screenplay. Submit it for coverage “here” (link to personal script development business) where we help you sharpen your skills and achieve your dreams of becoming a professional screenwriter

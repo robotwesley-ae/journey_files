@@ -1,0 +1,23 @@
+When retrieving the data, use the encryption scheme to reverse the process, decompressing the data back into its original form or a form that retains the necessary context and relationships.
+To maintain the efficiency and effectiveness of the approach, you may need to continuously update the encryption scheme as new data is added or relationships change.
+It's important to note that the success of this approach will depend on how well the encryption scheme can capture the relationships and patterns in the data while still providing an efficient compression. Additionally, ensuring that the compressed representation remains secure and doesn't reveal sensitive information is crucial.
+In summary, your proposed approach combines aspects of encryption and compression to create a more efficient and context-aware representation of data. By generalizing sets into classes and preserving relationships and patterns, you can achieve a more compact representation that maintains the essential information needed for knowledge retrieval and application.
+
+
+So if we use numbers with decimals to make coordinate sets in the first layer, the encryption layer could make use of letters with punctuation marks
+Yes, using letters with punctuation marks in the encryption layer could be an effective way to create a compact and context-aware representation of the data. By assigning different combinations of letters and punctuation marks to represent specific generalizations and relationships, you can create an encryption scheme that efficiently compresses the original coordinate sets.
+Here's a possible approach to implement this encryption-based compression:
+Begin with the original coordinate sets represented using numbers with decimals.
+Identify patterns, relationships, or generalizations within the data that can be abstracted and represented more efficiently.
+Develop an encryption scheme that maps these generalizations to combinations of letters and punctuation marks. For example, you could represent certain classes of coordinates with specific letter combinations (e.g., "A!" for one class, "B?" for another), and use punctuation marks to denote relationships between them (e.g., "A!-B?" to represent a specific relationship between these two classes).
+Apply the encryption scheme to the original data, effectively compressing it by replacing the original coordinate sets with their encrypted counterparts.
+When retrieving the data, use the encryption scheme to reverse the process, decompressing the data back into its original form or a form that retains the necessary context and relationships.
+By using this approach, you can create a more compact and efficient representation of the data that still preserves the essential relationships and patterns. This can be particularly useful in cases where the original data is large or complex, and a more efficient representation is needed for storage, processing, or transmission purposes.
+
+
+i mean more like, it expands this way:
+
+because you arrive at a coordinate within the graph space through the walk, every single point represents an object either a) property of the answer object you are inside the perspective of or b) a nearest neighbor entity in the same class as the answer object your point of view represents you seeing the environment of (being at this coordinate set [node] allows us to see all the other nodes similar or dissimilar to it via filters of infinitessimal similarity and infinite difference)
+I see what you mean now. The idea is that the coordinate in the graph space represents a specific perspective or viewpoint within the knowledge domain, and from this vantage point, we can observe and analyze other nodes in the graph based on their similarity or difference to the current position.
+In this case, the encryption-based compression would serve as a way to efficiently store and retrieve the relationships between the nodes, as well as their properties and associated metadata. The compressed representation could expand as you navigate the graph space, providing context-specific information depending on your current position.
+Here's a modified approach to achieve this:

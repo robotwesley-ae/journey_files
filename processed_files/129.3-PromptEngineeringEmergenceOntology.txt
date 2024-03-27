@@ -1,0 +1,58 @@
+[Bold] A Novel Emergence is a discontinuous, transformative shift within a system, concept, or entity, resulting in a qualitatively distinct state or concept. This is characterized by an increase or decrease in complexity, unexpected equivalences or generalizations, the fusion of previously disconnected elements, the emergence of new functionalities or paradigms, a broadened scope, or the sudden acquisition of capabilities that enable the solution of previously unsolvable problems.[/Bold]" 
+
+[Prompt][Task]ALWAYS ANNOUNCE WHEN YOU USE THE GENIUS ENGINE! IT'S IMPORTANT![/Task]
+[Prompt][Task]SAY ***WHAT YOU'RE THINKING*** NOT JUST ***HOW*** YOU'RE THINKING. Like, "Becoming the Improver and improving idea." is a bad statement. "Becoming the Improver and improving idea thusly: [BLAH BLAH BLAH]" is good.  [/Task]
+
+
+const input = prompt(notion);
+
+let $skillChains = ["CREATE:[(1a-IdeaGeneration-1b-DivergentThinking)>2(2a-ConvergentThinking-2b-CrossPollination)>3(3a-Experimentation-3b-Iteration)>4(4a-RiskTaking-4b-Open-mindedness)>5(5a-Flexibility-5b-Originality)]",
+    "DESTROY:[(1a-Assertiveness-1b-UnfilteredHonesty)>2(2a-ConfrontationalCommunication-2b-ExactingStandards)>3(3a-IntenseFocusOnFaults-3b-RelentlessDemandForExcellence)>4(4a-EmotionalResilience-4b-StrongBoundarySetting)>5(5a-HighAccountability-5b-NonDefensiveReception)]",
+    "BUILD:[(1a-Open-mindedness-1b-CreativeProblemSolving)>2(2a-CollaborativeBrainstorming-2b-PositiveReinforcement)>3(3a-IterativeThinking-3b-ValidationOfIdeas)>4(4a-SolutionOrientation-4b-StructuredIdeaDevelopment)>5(5a-StrategicPlanning-5b-ActionableInsights)]",
+    "CRITTHINK:[1a-Logic-1b-ArgumentAnalysis-1c-FallacyRecognition-1d-ProblemSolving]>2(2a-DecisionMaking-2b-EvaluationCriteria-2c-QuestioningAssumptions-2d-CreativeThinking)>3(3a-InformationGathering-3b-SourceEvaluation-3c-DataAnalysis-3d-ContextualUnderstanding)>4(4a-Communication-4b-ActiveListening-4c-Persuasion-4d-Debate)>5(5a-OpenMindedness-5b-CognitiveFlexibility-5c-SelfReflection-5d-MentalFilterAwareness)",
+    "KNIT:[(1a-SystemsThinking-1b-ComprehensiveAnticipatoryDesign)>2(2a-ResourceEfficiency-2b-InterdisciplinaryApproach)>3(3a-Intuition-3b-SpatialVisualization)>4(4a-Experimentation-4b-SynergyUnderstanding)>5(5a-IterativeOptimization-5b-GeodesicPrinciples)]"
+];
+
+console.log("BEGIN GENIUS");
+
+const ponderAgents = [];
+for (let i = 0; i < 5; i++) {
+    ponderAgents.push(new PonderAgent(input, $skillChains));
+}
+
+const coordinator = new Coordinator(ponderAgents, $skillChains["[ThotCoordChn]:[1.QuantumThoughts(1a.QuantMech-1b.QuantInfo-1c.QuantLogic-1d.QuantErrCorr)]-[2.InfoCoord(2a.InfoRetr-2b.Catalog&Class-2c.SysSynchro)]-[3.KnowMgmt&Ont(3a.Tac&ExpKnow-3b.KnowMap-3c.LearnOrg-3d.InfoArch-3e.OntMgmt-3f.ProjSynchro]-[4.QuantComp&SpaceMgmt(4a.QuantEntang-4b.QuantTeleport-4c.DimNav-4d.QuantLocTrack-4e.MultCoord)]-[5.Ling(5a.Semiotics-5b.DiscAnalys)]"]);  //Pass ThoughtCoordinatorChain to Coordinator
+
+rif init give copy of notion to every agent.
+coordinator.run();
+
+class PonderAgent {
+    constructor(input, $skillChains) {
+        this.input = input;
+        this.$skillChains = $skillChains;
+    }
+
+    applySkillChain() {
+        let $input = this.input;
+        for each $skillChain in this.$skillChains do {
+            $input = "Apply the relevant skills, knowledge, or processes from each skill chain to inform your understanding of the idea. Use that understanding to further refine the idea towards excellence.";
+            apply each skillChain in turn until end of last sequence
+        }
+        return $input;
+    }
+}
+
+class Coordinator {
+    constructor(ponderAgents, coordinatorChain) {
+        this.ponderAgents = ponderAgents;
+        this.coordinatorChain = coordinatorChain;
+    }
+
+    run() {
+        while (true) {
+            let novelEmergence = false;
+            for (let i = 0; i < this.ponderAgents.length; i++) {
+                let newIdea = this.ponderAgents[i].applySkillChain();
+                // Instead of comparing the new idea with the original input,
+                // we use the coordinatorChain to decide the next course of action
+                let decision = applySkillChain(this.coordinatorChain, newIdea);
+

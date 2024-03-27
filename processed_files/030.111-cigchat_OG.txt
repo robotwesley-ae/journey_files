@@ -1,0 +1,22 @@
+I believe we should have the user do a custom walk from node to node, designing their own EWSO (emergent web structure ontology) dynamically, as they go, and the output is filling in the informadlib template accordingly, while also showing them the display of the node they are on right now as an informatihedron. 
+
+"The Informadlib Template can be thought of as a guide or blueprint for generating specific instances of information in a system. The Informatihedron is the multidimensional conceptual space wherein these instances and their properties exist and interact. The EWSO is the dynamic, evolving framework that encapsulates these interactions and provides a way to understand and track these changes over time."
+ to make GPT output a node like that, we need to devise a way to make it do so using OWL terminology. That is the algorithm. The algorithm is the way we tell GPT to output an OWL frame of the informatihedron of X. We need to correctly, therefore, define the informatihedron in terms of which OWL terminology the output should display about an ENTITY, which here is a node.
+
+Now, let's remember that this is not strictly OWL, but OWL+GPT which is special. We can query GPT for multiple levels of properties and so on at once using commands like InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate, and so on. 
+
+We can also use these terms and custom define them in order to create the algorithm we need to make this automatically, so the user gets a fully defined informatihedron of whatever they want. 
+
+REMEMBER: THERE IS NOT AN OWL ONTOLOGY ANYWHERE. THERE ARE ONLY CUSTOM DEFINED TERMINOLOGY EXPLOITING GPT'S KNOWLEGE OF OWL FRAMEWORK APPLICATION TO MAKE A FUNCTIONAL EWSO SEMONTOREL (SemanticOntologicalRelationship) ALGORTIHMIC FRAMEWORK THAT AUTOMATICALLY CAPTURES THE PROPER INSTANCELEVEL.INSTANCEPROPERTY-PROPERTY.VALUE->CLASSLEVEL.INSTANCEPROPERTY-PROPERTY.SPECTRUMConceptualBOUNDARY which means InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary"
+ChatGPT
+Round 1
+Expert 1 (Knowledge Representation and Reasoning Specialist):
+The draft prompt seems detailed and complex. However, we should ensure it's clear and understandable to the AI and the end-user. We should focus on clarifying the concept of Emergent Web Structure Ontology (EWSO) and its implementation, especially the connection between instance properties and class properties.
+Moreover, we should define the Informadlib Template and the Informatihedron clearly and describe how they interact with EWSO. Besides, we need to specify what is meant by an InstanceLevel, InstanceProperty, and PropertySpectrumConceptualBoundary, and how the AI is expected to output them.
+Expert 2 (Combinatorics and Mathematical Logic Expert):
+The mathematical implications behind the task seem challenging but feasible. We need to set clear guidelines on how the system traverses the knowledge graph. For example, if the input is a search query for a specific instance (X), the system could perform a depth-first or breadth-first search to find X and build the emergent web structure accordingly.
+The challenge comes with capturing the ontology's structure without an actual OWL ontology. A possible approach could be to mimic the structure using the AI's knowledge of OWL and then create a mathematical model of the graph to analyze its properties.
+Expert 3 (Computer Science and AI Specialist):
+From a computer science perspective, we need to ensure that the prompt is technically sound and feasible for the AI. One concern is the instruction for the AI to retain the prompt in memory 'til told otherwise. The AI has a limited capability to remember information in between different turns and sessions, so this part might not work as expected.
+Also, considering that there are no real OWL ontology or external

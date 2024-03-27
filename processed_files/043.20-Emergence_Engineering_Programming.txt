@@ -1,0 +1,37 @@
+Co-emergence involves the interaction between dual spaces—conceptually, these can be thought of as the space of potential synergies (\( S \)) and the space of realized entities (\( E \)). The dual spaces are involved in the conceptualization of being an entity when the operations within the engine (\( G \)) transform synergies from \( S \) into entities in \( E \).
+
+To formalize co-emergence, we consider the dual operations of flow (\( F \)) and chain (\( C \)) as mappings between the spaces of synergies and entities:
+
+\[ F: S \rightarrow E \]
+\[ C: S \rightarrow E \]
+
+The co-emergence of an entity from synergies can be represented as a composite operation of \( F \) and \( C \) applied iteratively to elements of \( S \), leading to the emergence of an entity in \( E \). The mathematical definition of co-emergence (\( CE \)) can be expressed as a function that captures this iterative, composite operation:
+
+\[ CE: S \times S \rightarrow E \]
+\[ CE(s_1, s_2) = g(F(s_1), C(s_2)) \]
+
+where \( s_1, s_2 \in S \) are synergies, and \( g \) is the engine operation that integrates the outcomes of \( F \) and \( C \) to produce an entity.
+
+### Conclusion
+
+This framework attempts to formalize the concepts of synergies, entities, engines, and co-emergence within a mathematical structure, focusing on the role of dual spaces and operations in the emergence of entities from synergies. It's a starting point for developing a more rigorous mathematical model that captures the complex dynamics of co-emergence as you've described. Further refinement and expansion would be necessary to fully encapsulate the depth and breadth of the co-emergent flow theory.
+
+ok pls develop it. i feel like we need dirac notation and we want to develop the way to represent entities as flowchains using OMNISANC ENGINE AND regular entities that are improperly shielded (contradictory worldviews, we'll call this WASTELAND ENGINE)
+To develop the framework further and incorporate Dirac notation for representing entities as flowchains within the context of the OMNISANC ENGINE and WASTELAND ENGINE, we'll need to adapt and extend the formalism to capture the nuances of properly and improperly shielded entities (i.e., entities with non-contradictory and contradictory worldviews, respectively).
+
+### Dirac Notation for Entities and Flowchains
+
+Dirac notation, or bra-ket notation, is widely used in quantum mechanics to represent states and their properties. We'll use this notation to symbolize entities and their interactions within flowchains, adapting it to our context.
+
+1. **Representing Entities**: Each entity can be represented as a ket \(|\psi\rangle\), where \(\psi\) encapsulates the properties or state of the entity. For entities within the OMNISANC ENGINE, these properties are coherent and non-contradictory. For entities within the WASTELAND ENGINE, the properties may be contradictory or incoherent.
+
+2. **Flowchains as Operators**: The flowchain operations (flow \(F\) and chain \(C\)) can be represented as operators acting on entities. For example, the flow operation on an entity \(|\psi\rangle\) can be represented as \(F|\psi\rangle\), resulting in a transformed entity \(|\phi\rangle\).
+
+3. **Composite Operations**: The composite operation of flow and chain that gives rise to co-emergence can be represented as \(G = FC\), where \(G\) is the engine operation. Applying \(G\) to an entity \(|\psi\rangle\) yields a new or transformed entity \(|\omega\rangle\), represented as \(G|\psi\rangle = |\omega\rangle\).
+
+### OMNISANC ENGINE and WASTELAND ENGINE
+
+The OMNISANC ENGINE represents the totality of coherent, non-contradictory interactions and transformations, while the WASTELAND ENGINE represents the domain of contradictory or incoherent interactions. To distinguish between these within our formalism:
+
+1. **OMNISANC ENGINE**: Entities and operations within this engine are denoted with a subscript \(O\), e.g., \(|\psi_O\rangle\) for an entity and \(G_O = F_OC_O\) for the composite operation. The subscript indicates coherence and alignment with the overarching, non-contradictory framework.
+

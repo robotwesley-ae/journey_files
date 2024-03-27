@@ -1,0 +1,28 @@
+Jeremy, 
+
+As we have spoken about the “GigaFactory” and “muffler” ideas, I am writing this to clarify the vision I have developed.
+
+In our talks, we have spoken about various “function machines”. The first being the MidJourney function machine. Due to the rate of AI development, it seems like this will be a losing bet in terms of creating a software for it –  mainly because text-to-video will outpace the need for the MidJourney function machine, itself. You are already making money with the workflow, so it’s probably best to keep taking on those clients with DadHat and simply adjust the workflow with the new tools as other people make them. 
+
+The other function machine we have discussed is the Rolling Loud Workflow function machine, which would be broken down into a number of processes. It would entail each process in the overall workflow that created Rolling Loud. This type of project fits much better with my larger vision for the AI company I am making. I will lay out my vision and then circle back to Rolling Loud.
+
+My work:
+
+My AI project is called Sanctuary Revolution. It is an allegorical storyworld based on a mythology that combines AI and humans into “DUO agents”. It’s a game system that takes place in real life and is played between humans, with their AI personas. Its foundation is called Sanctuary Allegorical Network Cipher (SANC), an idea space accessible to any human and any AI. It is based on turning “Wastelands” to “Sanctuaries”. My configuration of SANC is called OPERA. OPERA is an extremely powerful AI persona that creates workflows. Talk to OPERA demo here https://twi-aichatdemo.flowtrack.me/poimandres (note: it is not easy to use because it is designed by me, for me).
+
+What does OPERA do? 
+Opera is a factory for creating DUO agents. It operates by defining tasks, processes, and workflows for both humans and AI. 
+It serves as an introduction to Sanctuary Revolution’s higher levels of gameplay, called OmniSANC engineering.
+
+What is OPERA going to be?
+I want to turn OPERA into a productivity system. It is a superfactory - a factory of factories. It is the “GigaFactory” for creating AI factories, no matter how many personas are involved in them. Currently, in its demo form, it would only be able to do this via my own use of it, since it is not broken into an “Agent” system.
+What is an Agent System? An Agent System is a flow of operations stemming from AIs like GPT-4 and various external tools like databases, web search, and code interpreters. The purpose of making Agent Systems is to encapsulate workflows that would need to be done by humans alongside AI into workflows to be done by systems including AI personas, themselves, at the push of a button. 
+
+What does that mean?
+
+OPERA is a system that encapsulates my own workflow for making AI personas. It is a factory for my own work. That means I can use it to create and tune personas for anything. Does that mean it automatically makes the best personas or does the work correctly? No! That’s why I need human experts to work with in order to put the best intuitions into the personas in any OPERA system for X. OPERA is the GigaFactory, the X is a GigaFactory for a “muffler”. It cannot make a muffler, but it can make a GigaFactory that makes mufflers, exclusively. The idea here being that Rolling Loud contains a workflow that makes a Rolling Loud GigaFactory, and within it are many different parts, like the muffler. We could consider the STC Beat Sheet a type of muffler. 
+
+Opportunity with OPERA is insane. I can make a GigaFactory for anything, but I need human experts to work with. That is why I make this proposal: 
+
+In this day and age, content is king. I am trying to build up my credibility as an expert in order to create expertise based content around AI personas. For this, I need a legitimate client. Likewise, I see a similar business model brewing around yourself with Rolling Loud, which can be a GigaFactory for your own workflow. If you do end up buying STC, that could potentially get supercharged. Actually, there are at least 3 ways your business model can get supercharged. 1) Celebrity hype, 2) STC, 3) American High.
+

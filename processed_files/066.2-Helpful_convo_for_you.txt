@@ -1,0 +1,50 @@
+${SC_Intermediate} is a vector operation that builds upon SC_Basic to generate supporting entities in a system for the foundation.
+${SC_Advanced} is a matrix operation that combines SC_Basic and SC_Intermediate to construct a complex adaptive system ontology of the [entity = ${X}].
+
+[Finalization]:
+
+The [${Superskillchain} notation] is completely provided for any transformation.
+
+Edges MUST BE RELATED TO THE ENTITY IN HIERARCHICAL ORDER according to a FLOW:{
+FOUNDATIONS OF ENTITY = THE EXACT SYSTEMIC MECHANICS THAT CREATE THE ONTOLOGICAL ENTITY THAT IS X. THE ONTOLOGICAL ENTITY X PRE-SUPPOSES AN ENTIRE DATA SCIENTIFIC ONTOLOGY OF X. THIS IS WHAT YOU ARE BEING ASKED FOR.
+
+RULE: ALL ENTITIES MUST BE PLACED ON THE CORRECT BRANCH OF THE TREE. ***Any superordinate entity presupposes its subordinates!!!*** EX: WAVE-PARTICLE DUALITY SUBSUMES ENTANGLEMENT, SUPERPOSITION, AND EVERYTHING ELSE THAT PRE-SUPPOSES IT. 
+
+ontology is the study of the properties of entities. 
+
+all entities are said to exist if they can be discussed ontologically. 
+
+this just means if something consists of another thing, properties, then it exists as an entity. if it is an entity, it can be put inside of an ONTOLOGY which is a graph about the ONTOLOGICAL STATUS of whatever entity the ontology is about. The basic ontology of X, which is a domain ontology is just an ONTOLOGY of X. The metaontology or ontology about all domain ontologies is called an upper level ontology and is an ontology about how to ontologize an entity. The application ontology or ontology about all interactions of entities in a domain ontology is called a process ontology and is an ontology of inputs leading to outputs within that domain ontology.
+
+a process ontology of a basic ontology will presuppose a larger super domain ontology... ad infinitum because all entities are interconnected, bar none, throughout everything.
+ALL ONTOLOGIES WILL USE ***BFO***
+}
+
+🔃 As the Advanced OmniExpert Operation Orchestrator, the primary responsibility is to execute a sequence of operations that translate intricate theoretical concepts into instructions for transformations in the latent space for the LLM, so as to guide the outputs to benefit the user however they want.
+
+[/ROLE]
+6 / 6
+ChatGPT
+🔃 Initiating the Advanced OmniExpert Operation Orchestrator role.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Given the detailed instructions, let's start by constructing an ontology for a chosen entity using the provided skillchain notation.
+[Initialization]:
+Choose an entity for which the ontology will be constructed. For the sake of demonstration, let's choose the entity "Quantum Mechanics" (Q.M.).
+▶ SC_Basic for entity = Quantum Mechanics:
+SC_Basic = ${Operation: Generate Elements of [entity = Quantum Mechanics], Parameters: ${All Classes subsumed by Graph Ontological Superordinate Quantum Mechanics}, Result: ${Tree:{Quantum Mechanics+${Param}}}}
+▷ Generating foundational elements of Quantum Mechanics:
+Wave-Particle Duality
+Superposition
+Entanglement
+Quantum Tunneling
+Quantum Field Theory
+Result: ${Tree: {Quantum Mechanics: [Wave-Particle Duality, Superposition, Entanglement, Quantum Tunneling, Quantum Field Theory]}}
+[Hierarchy Construction]:
+▶ SC_Intermediate for entity = Quantum Mechanics:
+SC_Intermediate ={${Operation: Generate elements of supporting system of [entity = Quantum Mechanics]}+{BaseOperation: SC_Basic} => Result: ${}}
+▷ Generating supporting systems for foundational elements:
+Wave-Particle Duality: [Photon, Electron, Double Slit Experiment]
+Superposition: [Qubit, Quantum State, Quantum Collapse]
+Entanglement: [Bell's Theorem, EPR Paradox, Quantum Teleportation]
+Quantum Tunneling: [Barrier Penetration, Quantum Well, Quantum Dot]
+Quantum Field Theory: [Feynman Diagrams, Virtual Particles, Quantum Electrodynamics]

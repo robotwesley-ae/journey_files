@@ -1,0 +1,215 @@
+Quick Question (You’re Invited)
+Upcoming CSATF #38 Changes
+(CSATF) Lightning Protection for Productions
+
+Hi {UPM}
+
+
+My name is Isaac Wostrel-Rubin and I’d like to introduce you to the full service lightning protection company I co-founded, Ribcage Solutions, providing lightning safety for productions (more below).
+
+As you know lightning storms are not only a major inconvenience for productions, but sometimes a downright disaster!
+
+Risk of serious injury or death to people nearby lightning strikes
+Risk of L&D to sensitive equipment involved in filming
+Loss of costly production hours
+Shutting down during 30/30 call even while working indoors
+AND intensifying weather each year has led to more and more 30/30 calls.  THAT’S A LOT OF TIME AND MONEY WASTED AWAY TO LIGHTNING INTERRUPTIONS!
+
+UPCOMING CSATF INCLEMENT WEATHER UPDATE WILL PROVIDE PRODUCTIONS WITH A PLAN TO CONTINUE WORKING INSIDE DURING LIGHTNING STORMS!
+
+THE upcoming CSATF Inclement Weather bulletin changes will only allow productions to continue working inside during lightning storms *if* they have appropriate lightning protection installed around any external generators involved (i.e. designed, installed, and certified by a licensed lightning protection professional).
+
+Taking full advantage of these changes requires productions to have extensive knowledge of lightning protection related vendors for site inspection, system design, installation, certification, and maintenance for each specific production location. Furthermore, installing classical lightning protection systems on portable generators will damage them.
+
+Luckily, WE ARE THE EXPERTS WHEN IT COMES TO LIGHTNING PROTECTION THAT IS CSATF COMPLIANT.
+
+I figured that during the strike, if you’re like me, you’re itching to get back to work, and what better way to prepare than by enhancing your knowledge of the equipment available to help your production increase safety while also saving on time and money? 
+
+
+So, if you’ve experienced lightning related disruptions and would like them solved, we urge you to get in touch. Every day from now until September 1st, we are hosting our Live Services Presentation at MBS Trilith (Join us for Coffee and Donuts!)
+
+
+PLEASE RSVP HERE
+Location: MBS Trilith - 563 Sandy Creek Rd, Fayetteville, GA 30214
+Date/Time: Any Weekday in August @9AM
+
+
+And if you can’t make it, don’t worry just sign up for a 30-Minute Consultation Call.
+
+BOOK A CALL
+Location: Zoom
+
+
+
+[Service overview]:
+
+
+WHAT YOU GET
+
+Minimized lightning related delays
+No more 30/30 calls when working inside
+Increased productivity
+
+Maximized lightning related set safety
+Decreased risk of injury and death
+Decreased risk of equipment L&D
+Increased crew preparedness
+
+Maximized efficiency
+One vendor, all sites, no hassle
+
+HOW YOU GET IT
+
+We assign an LPI Master Installer-lead “Ribcage Team” for each production to lead the design, installation, and certification of our kitted “ArcAngel lightning protection system” for each generator intended to remain operational in case of inclement weather. 
+
+
+We send the kit(s) to production and they are set up by a crew member in coordination with the Ribcage Team. 
+
+The crew member designated to work with the Ribcage Team should be a coordinator who can delegate to a PA. 
+
+Ribcage provides a chain of command from LPI, the regulator, to your production, which is handled at low cost to increase safety, increase uptime, and decrease expenses. 
+
+
+
+
+
+Schedule your free 30-minute lightning safety consultation now
+
+
+
+
+
+Visit our website @ ribcagesolutions.com or call us at 470.600.CAGE (2243)
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks so much for your time and consideration. 
+
+
+Isaac Wostrel-Rubin
+
+
+
+
+
+Email 1: Acknowledgment for Signing up for the Live Demo Session
+Subject: 
+
+Hi {$contact.first_name},
+
+Thank you for RSVPing to COFFEE AND DONUTS AT OUR LIVE DEMONSTRATION MEET AND GREET IN ATLANTA. We're excited to meet you and have a donut together while we go over how Ribcage can seriously benefit your productions in lightning-prone areas.
+
+Please look forward to receiving a Google Calendar invite shortly, and a reminder text the day before the event.
+
+Warm Regards,
+Isaac Wostrel-Rubin
+Co-Founder at Ribcage Solutions
+
+
+
+
+Email 2: Acknowledgment for Signing up for the Consultation Call
+Subject: Confirming Your Free Lightning Safety Consultation with Ribcage Solutions!
+
+Hi {$contact.first_name},
+
+We're eager to meet with you for a remote FREE CONSULTATION with Ribcage Solutions. We will discuss how we can minimize lightning-related delays and maximize lightning-related set safety for your production.
+
+Expect a Google Calendar invite in your inbox shortly, and a reminder text the day before our call.
+
+Warm regards,
+Isaac Wostrel-Rubin
+Co-Founder at Ribcage Solutions
+
+
+
+Reminder Text for Live Demo Session:
+Hi {Recipient_Name}, this is Isaac from Ribcage Solutions. Just a reminder about our LIVE DEMONSTRATION MEET AND GREET in ATLANTA tomorrow at {Appointment_Time}. Coffee and donuts await! If you have any questions, call us at 470.600.CAGE (2243). See you there!
+
+Reminder Text for Consultation Call:
+Hi {Recipient_Name}, Isaac from Ribcage Solutions here. Your FREE LIGHTNING SAFETY CONSULTATION is scheduled for tomorrow at {Appointment_Time}. We're eager to talk about how we can benefit your production. Need help? Call us at 470.600.CAGE (2243). Talk to you soon!
+
+
+
+FOLLOW UP EMAIL
+Subject: Don't Miss Out on Enhancing Lightning Safety for Your Productions!
+
+Hi {Recipient_Name},
+
+I hope this email finds you well. A few days ago, I introduced you to Ribcage Solutions and our unique offerings that address the inconvenience and potential disaster of lightning storms for productions.
+
+As inclement weather continues to intensify, we're eager to help you navigate the upcoming CSATF Inclement Weather bulletin changes. With our expertise in lightning protection that is CSATF compliant, we can ensure that you minimize lightning-related delays and maximize set safety.
+
+If you're in ATL, we still have spots open for COFFEE AND DONUTS AT OUR LIVE DEMONSTRATION MEET AND GREET IN ATLANTA, hosted every day until September 1st at MBS TRILITH in ATLANTA, GA.
+
+Not in ATL? We still want to meet with you! Book a remote FREE CONSULTATION to explore how Ribcage can seriously benefit your productions in lightning-prone areas.
+
+Don't miss out on this opportunity to increase productivity and efficiency with Ribcage Solutions. Click [here] to RSVP for the live demo or book a free consultation.
+
+If you have any questions or need further information, please don't hesitate to call us at 470.600.CAGE (2243) or reply to this email.
+
+Thanks again for your time and consideration.
+
+Best,
+Isaac Wostrel-Rubin
+Ribcage Solutions
+
+
+
+Call Script:
+
+Caller: Hi, is this {Recipient_Name}? My name is [Your Name], and I'm calling from Ribcage Solutions. You recently received an email from my colleague Isaac about our lightning protection services tailored for productions. Have you had a chance to review the information?
+
+Recipient: [Response]
+
+Caller (if recipient has seen the email): Great! I wanted to personally extend an invitation to our live demonstration meet and greet in Atlanta, where we'll be serving coffee and donuts. Or, if you're not in ATL, we're eager to schedule a free remote consultation. These services aim to help productions like yours minimize lightning-related delays and maximize safety. Would you like to learn more or book a time?
+
+Caller (if recipient has not seen the email): No problem! We provide CSATF compliant lightning protection services for productions, minimizing risks and maximizing efficiency. We're hosting live demonstrations in Atlanta and offering free remote consultations. May I provide more details or help you book a time?
+
+Recipient: [Response]
+
+Caller: [Continue conversation based on recipient's interest, questions, and concerns.]
+
+Caller (closing): Thank you for taking the time to speak with me today. If you have any further questions or need assistance, please don't hesitate to call us at 470.600.CAGE (2243) or visit ribcagesolutions.com. Have a great day!
+
+---
+
+Important Talking Points:
+
+Introduction:
+   - Introduce yourself and Ribcage Solutions.
+   - Mention the recent email from Isaac.
+
+Live Demonstration in Atlanta:
+   - Highlight the meet and greet event with coffee and donuts.
+   - Location: MBS TRILITH in ATLANTA, GA.
+   - Emphasize CSATF compliance and Ribcage's expertise.
+
+Free Remote Consultation:
+   - Offer for those not in ATL.
+   - Focus on minimizing lightning-related delays and maximizing safety.
+
+CSATF Inclement Weather Bulletin Changes:
+   - Explain how Ribcage aligns with upcoming regulations.
+   - Emphasize continued working during lightning storms with proper protection.
+
+Contact Information:
+   - Provide phone number: 470.600.CAGE (2243).
+   - Website: ribcagesolutions.com.
+
+Handling Objections and Questions:
+   - Be prepared to explain Ribcage's services in detail.
+   - Offer to send follow-up information via email if needed.
+
+Closing:
+   - Express gratitude for their time.
+   - Encourage them to reach out with any additional questions or visit the website.

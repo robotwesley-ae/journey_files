@@ -1,0 +1,30 @@
+How to train your dragon example revised:
+"Learning dragon behavior (knowledge-creation-context) from Toothless (knowledge transfer), Hiccup (narrative-contextual behavior) is able to subdue the captive dragons during training (applied knowledge-to-context), earning admiration (collective reaction) from his peers but suspicion (individual reaction) from Astrid."
+ok where is the informadlib template?
+ChatGPT
+I apologize for the oversight. Here's the informadlib template based on the revised ontological descriptions:
+"Through [learning_method/verb: knowledge-creation-context] [subject_matter] from [source/mentor: knowledge transfer], [main_character: narrative-contextual behavior] successfully [applies_knowledge/verb: applied knowledge-to-context] during [specific_situation], earning [positive_reaction: collective reaction] from [group] but [negative_reaction: individual reaction] from [individual]."
+you guys, you need to be including the characters they are huuuuuugely important entities in the structures of the semantics and so on here. 
+
+you also need to understand that generalizations are not allowed. you cannot call astrid an individual. that is not the class she is in, is it? she is contextualized in a story, not the world. she is not a "person" she is a character. remember? so astrid does not become a [character], either, because that is a huuuuuugely general abstraction to make, a huge generalization. how could we go from ASTRID, hiccups love interest-(scene->emotions->internal beats->goalsequence->Hero'sJourneyPlotPoint->Story->Initiation->PsychologicalAbsorption->Synchronicity->PerceptionOfEmergentKnowledge->PerceptionOfEmergentStructure->PerceptionOfEmergentEngine)
+ChatGPT
+Your point is well taken. Each of these entities has specific roles and dynamics that are influenced by the broader narrative context, which includes the specific story and its symbolic structures, narrative beats, and character relationships. Thus, referring to Astrid merely as an "individual" oversimplifies the nuanced role she plays in the story.
+Here's a revised version of the informadlib template with a new representation for Astrid, along with the revised "How To Train Your Dragon" example:
+Informadlib template:
+"Through [learning_method/verb: knowledge-creation-context] [subject_matter] from [source/mentor: knowledge transfer], [main_character: narrative-contextual behavior] successfully [applies_knowledge/verb: applied knowledge-to-context] during [specific_situation], earning [positive_reaction: collective reaction] from [group] but [negative_reaction: reaction-signifier] from [character: relationship-signifier]."
+Revised "How To Train Your Dragon" example:
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid."
+Revised CIG example:
+"Through understanding the intricate movements of Toothless, Hiccup successfully applies this newfound knowledge during dragon training sessions, earning admiration from his Viking peers but suspicion from Astrid, who maintains a critical role as a foil to Hiccup's emerging leadership."
+ok this is getting good. continue with the expert panel pls 
+
+in each output, expert 1 will propose a relationship
+expert 2 will revise it, adding its class
+expert 3 will revise it adding its superclass
+expert 4 will analyze, give current informadlib status (of the How to Train Your Dragon Informadlib we are working with), informadlib template, and how to train your dragon example (so we dont lose the context of it)
+
+Ok? Pls continue friends
+ChatGPT
+Sure, let's continue.
+Expert 1: Story Analyst
+I suggest focusing on the "learning_method/verb: knowledge-creation-context" portion of our template. The learning method used by Hiccup isn't just rote memorization or textbook learning. It's a type of observational learning or mimicry, marked by empathy, patience, and understanding. This method signifies a transformative learning

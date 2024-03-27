@@ -1,0 +1,37 @@
+[specific_situation]: This scenario serves as a narrative device that tests the protagonist's knowledge or skills. The situation may symbolize a larger conflict or challenge in the story.
+
+[positive_reaction]: This reflects the response of others to the protagonist's actions. It can symbolize acceptance, validation, or societal expectations.
+
+[group]: The group's reaction can represent broader societal or cultural responses, thereby symbolizing themes of belonging, acceptance, or conflict within the story.
+
+[negative_reaction]: The disapproval or doubt from others can symbolize challenges, antagonism, or societal resistance.
+
+[individual]: The specific character who reacts negatively might serve as a foil to the protagonist, symbolizing opposing values, conflicts, or challenges within the story.
+
+In a narrative context, each of these elements can be seen as a symbol, sign, or instance of larger themes, concepts, or patterns. The relationships between these elements create the dynamics and tensions that drive the story forward."
+I show u this because these entities need to be defined as not only the above definitions but ALSO AS THE sem-onto (semantic ontological) RELATIONSHIPS i mentioned earlier.
+Now, in order to research this more, I propose that we, in the next output, investigate the following:
+In the next panel, each expert will attempt to define sem-onto relationships in the example text pair from how to train your dragon and the made up one CIG wrote.
+ChatGPT
+Round 1:
+Expert 1 (Computational Linguist):
+Let's consider the sem-onto relationship between [learning_method/verb] and [subject_matter]. This can be seen as a 'method-to-subject' relationship, where the learning method directly impacts the subject matter being learned. For instance, "Learning dragon behavior" signifies Hiccup's method (learning) being directly applied to the subject matter (dragon behavior).
+Expert 2 (Ontologist):
+In the relationship between [source/mentor] and [main_character], we see a 'source-to-recipient' sem-onto relationship. In our case, "from Toothless, Hiccup" denotes Toothless (the source of knowledge) imparting wisdom or knowledge to Hiccup (the recipient of the knowledge).
+Expert 3 (AI Architect):
+Looking at [applies_knowledge/verb] and [specific_situation], we can denote a 'action-to-context' sem-onto relationship. In "able to subdue the captive dragons during training", Hiccup (action: subdue captive dragons) is performing this in a certain context (during training).
+Round 2:
+Expert 1 (Computational Linguist):
+Taking into account the input from Expert 2 and 3, let's consider the relationship between [positive_reaction] and [group]. This could be seen as a 'reaction-to-collective' relationship. For example, "earning admiration from his peers" illustrates the peers (collective) expressing a reaction (admiration) to Hiccup's actions.
+Expert 2 (Ontologist):
+Reflecting on the inputs, I'd like to focus on the relationship between [negative_reaction] and [individual]. This can be viewed as an 'individualized reaction' sem-onto relationship. Here, "suspicion from Astrid" indicates an individual, Astrid, displaying a specific reaction (suspicion) towards Hiccup's actions.
+Expert 3 (AI Architect):
+Upon considering the other perspectives, let's analyze the relationship between [source/mentor] and [learning_method/verb]. This could be seen as a 'source-to-method' sem-onto relationship. In the phrase, "Learning dragon behavior from Toothless", the source of knowledge (Toothless) is directly influencing the method of learning.
+Final Analysis - Expert 4 (Superanalyst):
+Each expert has provided a valuable perspective on identifying sem-onto relationships within the sentence. These relationships provide a deeper understanding of the narrative's structure, and help in refining our understanding of the story. As we move forward, we should continue to identify and analyze these sem-onto relationships, and how they influence the overall narrative.
+provide a revised informadlib template at the end each output and show it like this:
+
+Expert thoughts
+Analysis thoughts
+Current informadlib status:
+[REVISED TEMPLATE]

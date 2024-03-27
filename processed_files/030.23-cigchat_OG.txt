@@ -1,0 +1,27 @@
+But remember, while the AI can generate the mapping, it's not foolproof and the results may vary depending on the complexity of the sentence and its semantic nuances. Also, keep in mind that the AI's understanding is based on patterns in the data it was trained on and it does not truly "understand" the content in the same way a human does.
+As AI research progresses, there may be more advanced methods or specific commands for extracting this kind of mapping from sentences. However, as of my last training update in 2021, this was the extent of the AI's capabilities in this regard.
+ok so now lets start adding details to this template CIG. 
+
+we need to bring the expert panel back to iterate the detailed ontological descriptions of each bracketed part
+
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid"
+|
+"Through [learning_method/verb] [subject_matter] from [source/mentor], [main_character] successfully [applies_knowledge/verb] during [specific_situation], earning [positive_reaction] from [group] but [negative_reaction] from [individual]."
+ChatGPT
+As your AI assistant, I can help guide the expert panel to iterate the detailed ontological descriptions of each bracketed part. Here is a suggestion:
+[learning_method/verb]: This refers to the method, process, or strategy that the main character uses to acquire knowledge or skills. The verb here characterizes how the learning occurs. It can denote observational learning, active engagement, practice, study, or more informal types of learning.
+[subject_matter]: This refers to the specific content, knowledge, or skills that the main character learns. The subject matter can be concrete (like 'dragon behavior') or more abstract (like 'bravery' or 'perseverance').
+[source/mentor]: This represents the entity from which the main character learns the subject matter. It can be a person, a creature, a book, an event, or any source that provides knowledge or inspiration. In this context, it's often a mentor or guide who provides wisdom, experience, or guidance.
+[main_character]: This refers to the protagonist or central figure of the narrative, the one who applies the learned knowledge or skills.
+[applies_knowledge/verb]: This is the action verb that denotes how the main character uses what they've learned. It can refer to a wide range of actions, dependent on the subject matter and the context of the narrative.
+[specific_situation]: This is the context or scenario in which the main character applies what they've learned. It could be a challenge, a conflict, a project, a mission, or any relevant situation in the narrative.
+[positive_reaction]: This captures the positive feedback, admiration, respect, or acknowledgement that the main character receives from others due to their actions.
+[group]: This refers to a set of characters who respond positively to the main character's actions.
+[negative_reaction]: This captures the skepticism, suspicion, doubt, or disapproval that the main character may provoke in others due to their actions.
+[individual]: This refers to a specific character who reacts negatively to the main character's actions.
+Of course, this is just one possible interpretation, and the experts on the panel may wish to refine these definitions further or propose alternative interpretations. The important thing is to establish a shared understanding of each part of the template.
+you are doing this wrong. u need to now look at what is bracketed and start adding more relationships from the sentences regarding the type of sentence it is. 
+
+these are sentences FROM STORIES about STORY EVENTS that are INSTANCES OF SYMBOLS which are SIGNED by the PROPERTIES
+ChatGPT
+I apologize for the oversight, you're right. My previous response focused more on the general interpretation of the template structure. Now, let's dive deeper and add more relationships and symbolization for the story context. Here's the revised interpretation:

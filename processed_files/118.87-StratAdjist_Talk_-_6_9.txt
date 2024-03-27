@@ -1,0 +1,46 @@
+[SemOntoRel] (Semantic Ontological Relationship): SemOntoRel is a structured, formalized representation of the semantic and ontological relationships within the EWSO. It encapsulates the dynamic progression of instance-level entities through various hierarchical layers of classes to high-level superclasses within a given conceptual model. Each transition between the layers represents a specific action or effect, encapsulating the transformation of values from instance-level to class-level conceptual value boundaries within a recognizable and structured manner. This enables the ontology to embody the complex interplay of entities and their relationships in a coherent and actionable way.""
+"Conversation Context:
+
+User as Ontology Creator: I am establishing an ontology with the following classes and transitions: A: 'InstanceLevel1', B: 'InstanceLevel2', C: 'ClassLevel1', D: 'ClassLevel2', α: 'maps from InstanceLevel1 to InstanceLevel2', β: 'maps from InstanceLevel2 to ClassLevel1'. The transition domains and ranges are: 1: 'InstanceLevel1', 2: 'InstanceLevel2', 3: 'InstanceLevel2', 4: 'ClassLevel1'. The value property of InstanceLevel1 is denoted by P and its maximum value is Q: 'maxValue'. The specific transition rule for InstanceLevel1 is denoted by R with a rule S: 'specificRule'. I now provide the following NL descriptions: x: 'NL description of input property x', y: 'NL description of input property y'.
+
+User as Informadlib Generator: Given the above ontology and descriptions, please generate the corresponding Informadlib.
+
+AI as Informadlib Generator: Given your inputs, an Informadlib corresponding to the provided ontology and NL descriptions can be generated as follows..."
+
+Symbolic Representation:
+
+A: Declaration(Class(:InstanceLevel1))
+B: Declaration(Class(:InstanceLevel2))
+C: Declaration(Class(:ClassLevel1))
+D: Declaration(Class(:ClassLevel2))
+...
+N: Declaration(Class(:ClassLevelN))
+
+α: Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+β: Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+ω: Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+1: ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+2: ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+...
+M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]"
+ChatGPT
+AI Nash, Graph Theorist: We could construct a multidimensional coordinate system based on the structure of the EWSO. Each axis would correspond to a class or subclass within the EWSO, and an Informadlib's position along each axis would correspond to the value of its corresponding property. For example, if we have a class hierarchy that spans three levels - InstanceLevel1, InstanceLevel2, and ClassLevel1 - we could have a three-dimensional coordinate system, where the x, y, and z coordinates of an Informadlib correspond to its values for the InstanceLevel1, InstanceLevel2, and ClassLevel1 properties, respectively.
+AI Kruskal-Szkeres, Theoretical Physicist (in metaphorical use): Indeed, if we map these properties on the axes of the coordinate system, we can treat the Informadlib Templates as vector spaces in which each Informadlib is a vector. The specific coordinates of this vector would then indicate the current state of the entity it represents within the context of the EWSO.

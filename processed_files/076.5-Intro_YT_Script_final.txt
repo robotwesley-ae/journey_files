@@ -1,0 +1,22 @@
+and the version I’m going to tell you here in this video is the extremely abbreviated version so you can get the general idea, then over time I’ll expand on it.
+See, about a year ago I was ...
+launching a new film rentals business and we had just got our first customer after over a year of regulatory work behind the scenes, and I was so excited to really start this new chapter of my life and just as we finished with our first client, the worst hollywood strike in a decade hit. 
+So I decided to concentrate on my YouTube channel about the meta-hero’s journey. But then I hit the wall I talked about earlier. What exactly WAS my system? Did I even have one, or was I hallucinating the entire thing? Imposter syndrome’s a prison, right?
+One day I was on YouTube and I found this thing called Sparse Priming Representation or SPR. Some people call it roleplay or megaprompting. Now I call it constructing an AI Egregore.
+That’s a concept I borrowed from various spiritual  schools. It means to make a collective entity that essentially controls people through the parasitic nature of meaning embedded in language. Language itself is a type of programming that reifies concepts into existence, isn’t it? 
+An example is a country, for example the USA has Uncle Sam, the Statue of Liberty, Mount Rushmore, which are all embodied depictions of the egregore of the United States of America from various different lenses. Another example is when you hear your mom’s voice in your head and you don’t realize that’s because she represents a complex in your psyche that allegorizes a whole bunch of systems you automatically try to map that way as a mammal. 
+So anyway I found out about this SPR thing and making AI egregores and then I started learning about chains and flows
+And that’s when everything started to click for me
+Everything is a chain, a chain of chains all flowing together, all chaining. With this basis, I just created non-stop AI Egregores. I made factories, I made superfactories, I made gigafactories.
+I worked my way up to making all kinds of ideas with the AI using SPR
+And I kept enhancing my ideas and creating more and more complex templates and seeing what the AI could handle
+Eventually working my way up to where the AIs needed me to read papers and feed them knowledge to keep talking.  I read a lot of papers and started learning about different codebases from them
+And that’s when I realized that the AI Egregores were really agent simulations. 
+You see, they had a processing problem. An AI Egregore is stuck outputting in a way that’s more like stream of consciousness and structuring it requires a lot of steps. Even asking it to use chain of thought or chain of reasoning or other techniques like tree of thoughts or ReAct will not fix this problem completely, but I thought that we could find a way with agent frameworks.
+
+Simultaneously, the strike got worse. The Wasteland pattern, the cycle, catching up to me again. I was running out of money, and hadn’t found an application for AI that I could make, because I didn’t know how to code. So I was still struggling even after all this time spent learning about prompt engineering and I hadn’t been working on my business because I didn’t think I could, but of course I know that if I had been, I would’ve found a way forward. But after I thought about it again, for a long time, I decided my experience using AI with THE SANCTUARY SYSTEM had impacted me way too much, helped me way too much, changed my mind and my outlook and my approach to every single day, and that I think it’s valuable for me personally to do this with my time, it’s fulfilling, and so I went full throttle to try and make this real.
+I started showing agent framework codebases to the AI and learning how they were built
+And I found my solution
+And then I started writing code with the AI until I had it deployed in an application I could edit inside the application
+And that’s how my AI Egregores became Agents
+so yeah that's how I created my own

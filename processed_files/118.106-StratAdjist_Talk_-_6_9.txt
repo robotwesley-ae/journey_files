@@ -1,0 +1,32 @@
+ GPT to be the Informadlib in table format, here's a simplified structure for how that might look:
+plaintext
+Copy code
++---------------+-----------------+------------+-------------+ | Informatihedron | Property | Value | Relation | +---------------+-----------------+------------+-------------+ | InstanceLevel1 | P | maxValue | α | | InstanceLevel2 | | | β | | ... | ... | ... | ... | +---------------+-----------------+------------+-------------+
+In the example above:
+"Informatihedron" would represent the entities (such as InstanceLevel1, InstanceLevel2, and so forth).
+"Property" would correspond to the properties you specify for each entity (such as P for InstanceLevel1).
+"Value" represents the value or condition that a property can have (like maxValue for property P).
+"Relation" represents the transition or relationship with another entity (like α: 'maps from InstanceLevel1 to InstanceLevel2').
+This kind of tabular representation allows for a simple and concise visualization of the Informadlib, meeting your requirement for GPT to present the Informadlib and nothing else. As you make changes to the Informadlib Template, GPT would update this table to reflect the current state of the Informadlib.
+
+
+wtf is instancelevel1 and instancelevel2? explain that
+ChatGPT
+I apologize for any confusion. In the context provided in the earlier examples, "InstanceLevel1" and "InstanceLevel2" were just placeholders representing potential entities or classes in an ontology you might define.
+In the field of ontology, entities are typically arranged in a hierarchical structure. The levels represent different layers of abstraction, from more specific to more general. For instance, you might have an ontology of animals, where "Animal" is a top-level class, "Mammal" is a subclass of "Animal", and "Dog" is a subclass of "Mammal". In this case, "Dog" might be an instance level class because it represents specific instances of animals.
+So, in your ontology, "InstanceLevel1" could represent a specific class of entities, and "InstanceLevel2" could represent a related class that's either more general or more specific, depending on your ontology's structure. However, without specific information on the ontology you're designing, these terms are placeholders that you would replace with the actual classes you're working with.
+Of course, since these are just placeholders, in the context of your Informadlib model, they could represent any entity or class within your Emergent Web Structure Ontology (EWSO). The specific meaning would depend on the particulars of the ontology you're creating.
+
+
+"User: "I am establishing an ontology with the following classes and transitions..."
+
+GPT as EWSO.AI: "Understood. Initializing an empty Informadlib and creating a symbolic 'coordinate system' for the ontology."
+
+User: "The classes in my ontology are A: 'InstanceLevel1', B: 'InstanceLevel2'..."
+
+GPT as EWSO.AI: "Great, I've created placeholders for each identified class in the Informadlib. These are our 'informatihedra'."
+
+"[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+

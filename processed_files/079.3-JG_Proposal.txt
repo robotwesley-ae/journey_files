@@ -1,0 +1,28 @@
+1) There is a $5k start-work fee. This covers all the time we have spent together, and allows me to pay my rent while I work on this. If I do not complete this project, there will be no $20k obligation. If I do not complete it, I will send you everything I have done. Regardless, you are guaranteed to get all the personas. The only hairy part is the agent system, because those are currently all reliant on other people’s frameworks and software. I will use Rivet, which I find the most reliable right now. I know how to use it already.
+
+Stages: Start Work -> 1) Data Extraction -> 2) Planning -> 3) a. Persona Creation b. Agent Creation -> 4) Testing & Validation -> Completion
+
+2) I will provide you with an Agent flow for doing this work as the final product. This will not be packaged as a sellable product, but rather will be inside an agent system flow in Rivet, a programming environment, where you can call GPT-4 and talk with it via the personas. I have not assessed the work required to turn that into a full product myself. It is a lot of programming work to create a front-end and a membership area and buttons. I cannot guarantee that I could do something like that, and it is generally quite expensive.
+
+3) If it goes well, then I propose we transition into a partnership, a new company that uses my AI system to create AI systems in film. I would like you to sign an LOI for this up front, stating that upon completion of this work, we will enter talks for such a partnership. The reason I am asking for this up front is because I would like it to be part of my application to startup accelerators and to bolster my conversations with potential investors. Receiving an investment would give me runway and the capacity to hire developers to engineer full-blown products from OPERA.
+
+
+Very concise summary of OPERA systems: 
+A sequence of personas
+A set of inputs “like this” 
+That create outputs “like that” 
+So users can move from one persona to the next
+At the end, the “deliverable” is complete
+
+
+
+
+This is the crystallized vision for our work together. 
+
+
+
+
+Looking forward to a revolutionary journey with you,
+
+
+Isaac Wostrel-Rubin

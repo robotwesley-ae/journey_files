@@ -1,0 +1,74 @@
+If,
+Shib price = 0.00004700 
+Binance fee = 0.075% = 0.00075
+
+.00004700 * .00075 = 0.00000003525
+0.00004700 
+= 0.00004704 price to break even on asset value
+
+.00004704 + (0.00004704 * .00075) = 0.00004708 price to break even including out fee
+
+% between .00004700 and .00004708 = % change to profit
+
+=
+
+Increase = 0.00000008 
+/ .00004700
+*100
+= 0.17%
+
+And, buying $4000 of shib
+And, selling 100% holdings when in green
+
+Then, 
++$6/trade
+
+#2
+Scenario:
+$4000 trade
+Shib @ .00004700
+Sell @ .00004720
+Increase = 0.00000020
+
+1st fee (0.00000003525)
+2nd fee (0.00000003540) 
+= 0.00000007065 total fees
+= real price buy @ (.00004700 + 0.00000007065) = 0.00004707065
+
+0.00004720
+-
+0.00004707065
+= 0.00000012935 difference per shib * 85106382.978723404255319 shib
+= $11 profit
+For $100 profit, 10x movement = .00004700 -> 0.00004900
+
+
+x(Pf^2 - 2Pf +P) - P = 0
+
+Where x is percent gain of position
+P is principal investment amount
+f is one-time transaction fee
+
+
+x = P / (P*f^2 - 2*P*f + P)
+
+X = 1 / (f^2 - 2f + 1)
+X = 1 / (0.00075^2-2*0.00075+1)
+X = 1/0.99850
+X = 1.001501689189083
+
+X(Buy price) = Break even price
+1.001501689189083*0.00004573 = 0.00004580
+
+
+If sell price > break even price = profit
+If sell price < break even price = loss
+
+0.00004588 > 0.00004580 should = profit
+
+Sale price - Break Even price = Difference
+Difference = 0.00000008
+D * #assets sold = profit or loss
+71694057 shib sold * 0.00000008 difference from break even = $5.73 profit
+
+Fee = (USDT amount that you’ll use / 100) * 0.075 

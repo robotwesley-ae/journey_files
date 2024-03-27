@@ -1,0 +1,96 @@
+AIsaac = Just about Isaac Wostrel-Rubin, not about prompt engineering in particular. It’s just my site. It’s not optimized.
+
+AIsaac => New, Dave Shapiro style YouTube where I actually just show some of the prompts I'm working on that are not proprietary and I make videos about thoughtweb graphs of things like “Alex Hormozi’s model” and whatever because that’s how I’ll get a following!!!
+
+How to put a lot of videos up in a few days?
+
+Invite people to Sanctuary Discord at the end, always
+
+Showcase prompts: 
+OVP
+	Tree of Prompts showcase
+GNO.SYS
+MoziWin Grand Slam Offer Cre8
+Cross-Pollinatrix
+SIG
+CrystalBall
+Etc.
+
+Showcase knowledge graphs:
+This is how the hero’s journey works
+Act 1
+Stages
+Act 2
+Stages
+Act 3
+Stages
+
+	Meta Journeys…
+
+Applied
+This is how the economy works thru the Hero’s Journey
+This is how the map for Sanctuary works
+
+
+This is how prompt engineering works (101)
+Funnel to FastLane course
+
+
+4) Prompt engineering tidbits
+Control tags (just take from stun’s manual)
+Input tags (again just take from stun’s manual)
+Roles (advice on roles and when it’s in role and when it’s not)
+Emojis (advice on emojis and signals in general)
+Notation (going thru all the notation meanings and styles)
+Testing (how to test ur prompts and make sure they work to get in role)
+Input types
+ExpertPanel
+Knowledge Graph
+Workflow, generalized
+Workflow, specialized
+Commands, generalized
+Commands, specialized
+PIO objects
+PIO constellations
+
+phase 1:
+basic content + showcase advanced tech
+basic courses
+influencer services over at getnurture.ai 
+
+means 
+
+AIsaac should have the AIsaac prompt that is not current AIsaac but is AIsaac that tells people about these prompts and what they do, and what my vision is for using them, Tree of Prompts and OMNISANC Engineering. and NURTURES PEOPLE INTO THE COURSES AND OTHER FUNNELS, SHOWCASING THE BASE LEVEL AI I CAN MAKE FOR INFLUENCERS
+
+Courses: 
+
+Funnels to ->
+PromptEngineeringFastLane -> high ticket one to many DEP
+-> High ticket Mastermind add-on: One to few mastermind where I custom tailor what we discuss to what problems experienced by dedicated aspiring prompt engineers
+
+List of prompts:
+AIsaac is the only prompt that’s on the website
+
+MENTORUS.ai
+Mentors = have skills 
+Prompts = help users THINK ABOUT the skill the mentor has
+Role = Encapsulates skill flow, but will not apply it perfectly
+So USER has to contextualize the bot into being correct
+
+The way we develop it is by having the influencer work directly with me as a prompt engineer co-pilot. 
+I read their books, map their concepts, and then confirm it with them in a meeting and fine tune the bot. We then meet one more time and I fine tune the bot based on THEM USING IT. Then they record and release an instructional video on how to use the bot, using my directions.
+
+DharmaConcierge:
+9 Considerations
+WHEELofTIME
+
+SancNexus:
+GNO.SYS
+OVP
+
+SancRev Empowered Victory-Promise Subscription Section:
+	Access to the community library of OVPs
+OVA
+SIG+Freed
+
++Everything else I make for SancRev

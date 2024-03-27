@@ -1,0 +1,88 @@
+                "message_templates": ["{current_message}"],
+                "max_iterations":
+                None,
+                "termination_conditions": [None]
+            }]
+        }],
+        "loop": []
+    }
+
+    # Initialize the sanctuaryRevolution with the specific attributes for BodysanctuaryRevolution
+    super().__init__(agent_data=agent_data,
+                     message_template_data=message_template_data,
+                     termination_data=termination_data,
+                     cog_data=cog_data,
+                     max_iterations=max_iterations,
+                     big_brain_mega_agent=big_brain_mega_agent)
+
+
+technically, the sanctuaryRevolution class should be inheriting the chain constructor Engine class. the chain constructor engine class should be inheriting the Engine class. the engine class should be composed of two attributes: a chain constructor flowchain and chain executor flowchain. there should be a flowchain class, which is composed of a flow and a chain. there should be  flow and chain classes. chains are links in a series of dual loops of adding a link by running a subchain processing it to verify that it is the chain that allows another link to be added by reifying its inclusion into the system. flows are the ways that information moves because of chains. flows require chains and chains require flows. they are mutually constitutive. flow takes a chain blueprint and chain takes a flow blueprint, but they both run concurrently and infinitely, and that is what makes a flowchain. 
+To implement the described architecture, we'll define several classes that encapsulate the concepts of `Engine`, `ChainConstructorEngine`, `FlowChain`, `Flow`, and `Chain`. This architecture emphasizes the interdependence between flows and chains, where flows dictate the movement of information facilitated by chains, and chains structure the progression of tasks or operations as dictated by flows. Both are designed to operate in a mutually constitutive manner, enabling a dynamic and flexible system for processing and managing information or tasks.
+
+### Engine Class
+
+The base `Engine` class will contain attributes for both a `ChainConstructorFlowChain` and a `ChainExecutorFlowChain`, representing two primary operational modes of the engine.
+
+```python
+class Engine:
+    def __init__(self):
+        self.chain_constructor_flowchain = FlowChain()
+        self.chain_executor_flowchain = FlowChain()
+```
+
+### ChainConstructorEngine Class
+
+The `ChainConstructorEngine` inherits from `Engine` and can be extended with additional functionalities specific to constructing chains.
+
+```python
+class ChainConstructorEngine(Engine):
+    def __init__(self):
+        super().__init__()
+```
+
+### FlowChain Class
+
+The `FlowChain` class encapsulates a `Flow` and a `Chain`, representing the intertwined operation of flows and chains.
+
+```python
+class FlowChain:
+    def __init__(self):
+        self.flow = Flow()
+        self.chain = Chain()
+```
+
+### Flow Class
+
+The `Flow` class represents the movement of information or tasks facilitated by chains. It takes a `Chain` blueprint to operate.
+
+```python
+class Flow:
+    def __init__(self, chain_blueprint):
+        self.chain_blueprint = chain_blueprint
+
+    def process(self):
+        # Process information or tasks based on the chain blueprint
+        pass
+```
+
+### Chain Class
+
+The `Chain` class represents a series of links (tasks or operations) that are processed and verified to allow the addition of new links. It takes a `Flow` blueprint to operate.
+
+```python
+class Chain:
+    def __init__(self, flow_blueprint):
+        self.flow_blueprint = flow_blueprint
+        self.links = []
+
+    def add_link(self, link):
+        # Process and verify the link before adding it to the chain
+        pass
+
+    def run_subchain(self):
+        # Run a subchain for processing and verification
+        pass
+```
+
+### Integration
+

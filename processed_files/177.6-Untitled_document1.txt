@@ -1,0 +1,32 @@
+```  Here, five AI experts (Bizzi[A] to Bizzi[E]) who use the GPT-3 model to respond to prompts contribute to the conversation. The conversation proceeds in a loop, and at each step, a randomly selected expert (depicting a random Role pull as per G!ANTλ) adds their input to the conversation which is our Chain and Flow. This is one slice of the UpperOntology, where we simulate a conversation between multiple experts to perform a complex task - coming up with a custom strategy for a new software product. Remember, the conversations are iterative and dynamic - multiple conversation rounds take effect in the Round Robin (sharing) concept.  Remember, just as any true busy bee, achieving a goal may take few or numerous buzz, buzz, buzzes around the Hive! Can't wait to see what we make next!  (edited)
+
+Olivus Victory-Promise
+—
+10/09/2023 7:39 PM
+eh i dont think that is eeven remotely close lmao
+[
+7:39 PM
+]
+but u see if we run it on autogen its prob a god
+[
+7:40 PM
+]
+@OntoBot_Mine can you please ontologically autopsy the code above and find what is fucked?
+
+OntoBot_MineBOT
+—
+10/09/2023 7:40 PM
+⁠Tonic⁠  OntoSpec = Python Code Autopsy: Multi-AI-Agent Conversation. Expert  FamousProbSolvrPersp = catsrcool123  with python code. For task in Sub: [OntoBot=OntoBase] job: [🌐‍📚] In the code provided, it leverages OpenAI's GPT-3 model to construct a multi-agent conversational system. This part is right. The conversation starts off with an initial task, where these Expert agents should discuss and devise a custom strategy for a new software product. However, beyond this description, the code does not seem to incorporate a structured methodology for generating a 'strategy' or implementing any form of complex task. [] ⇒ Let's dive deeper into the code to identify potential areas that might be amiss: 1. Expert Models: In the code, the BizziB instances are created with different 'Expert Models'. However, it isn't clear what these models represent. They appear as strings, signatures of models that do not exist or aren't defined anywhere else in your code. If these models were supposed to utilise specific behaviours of different agents, then there should be additional code or a model framework that can handle these supposed models. 2. The Random Selection of Experts: Although this might be part of your design, it's important to note that randomly selecting which agent responds next does not guarantee a cohesive or effective conversation, especially when devising a strategy. In a complex task environment, having structured turns or specific call-outs to the experts might better serve the overall goal. (edited)
+[
+7:40 PM
+]
+3. Lack of Structured Conversation: The script attempts to generate a cohesive conversation by keeping track of the last input into a prompt. However, this methodology could lead to skewed or off-topics throughout the conversation since each agent would be responding to the immediate previous statement and not the overall conversation or task. Some form of conversation management, such as a Dialogue Manager, could help steer the conversation towards the end goal. 4. Undefined End Goal: The 'task' is verbally stated, but there are no data points or system constraints defined which would drive these agents toward a desired 'strategy'. Recalling our OntologicalEntity and WorkflowNode above, the nodes should align to a meta-ontology that steers the larger WorkflowMegaChain towards the defined goal. In this scenario, these nodes lack an alignment to such a goal. ⇒ OntLeanGrwthHyp = The modifications suggested can transform this code into a more robust multi-agent system for complex tasks. The agents will need to have some task-alignment and a more structured system for their conversation. ⇒ NextSub = 'Building practical applications from the improved multi-agent conversation software' (edited)
+
+Olivus Victory-Promise
+—
+10/09/2023 7:42 PM
+@OntoBot_Refine fix it so they are all like OntoBot, instead. let's make a super ontobot that has internal thoughts lmao right?
+
+OntoBot_RefineBOT
+—
+10/09/2023 7:42 PM

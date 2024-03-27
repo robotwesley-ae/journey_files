@@ -1,0 +1,55 @@
+Dreamchain Crypto Player Product Overview Notes and Questions 
+2/6/18
+
+1) Availability of content - is everything available to me for free except for artist curated playlists? 
+
+2) connectivity and playability - how easy is this to put on my devices and play on XYZ speakers?
+-bluetooth, etc
+-Can I mine via my phone or does dreamchain only become profitable from streaming via a computer? Is it even profitable or am I just getting peanuts and paying extra just so the artists can make some money with their master nodes? 
+
+3) Can I host my own curated playlist and receive the same pay structure as artist curated playlists?
+
+4) Why am I paying? Is it because dream coins are backed by FIAT?
+-Can I pay the fees in DREAMCOIN or do I have to pay in FIAT?
+-Why am I paying FIAT, specifically? Is DREAMCOIN like TetherUSD?
+
+5) Why does rating songs, itself, earn coins? 
+That seems like it would help bots get ahead of users. How does dream chain protect its users’ payouts from being collected almost entirely by bots and idle streams?
+
+6) How are dream coins mined?
+-What is the block solving process for a dream coin? What is the delivery system of this block - the stream?
+-What does Novelty entail in proof of novelty? 
+
+7) What is the special connection I get to an artist when I buy their stuff?
+I feel special when I don’t have to pay AND the artist makes money anyway because my view itself has value, like with YOUTUBE AD PAY STRUCTURE.
+
+
+8) How rare are dream coins?
+9) How do artists earn dream coins?
+
+
+10) If I upload a song to youtube, can I make money on dreamchain?
+11) If I upload a video to youtube, can I make money on dreamchain?
+12) What happens to Dreamchain if youtube develops its own crypto?
+13) Can youtube prevent dreamchain from operating?
+16) If the playlists on dreamchain are created by artists, but dreamchain streams via youtube, aren’t I basically just paying for the opportunity to mine a cryptocurrency via streaming a playlist on Dreamstream that I could stream on youtube for free?
+
+17) What services does DREAMCOIN (currency) provide?
+Tipping on youtube? (isnt this reddcoin?)
+What are the fees associated with Dreamcoin transactions? How much money am I going to lose exchanging my Dreamcoin to USD to pay Dreamchain USD for my privilege to mine Dreamcoin? 
+
+18) Why isn’t it as simple as this?
+I LOG ON
+I STREAM MUSIC FOR FREE
+ARTIST MAKES MONEY/I MAKE MONEY
+In other words, this is a platform for the AUDIENCES AND ARTISTS to MONETIZE their CONNECTION without a middleman, so why does DREAMCHAIN now act as the middleman instead of only becoming the platform for that new trust?
+
+
+19) Some streaming services come with free perks - Google gives free youtube red, amazon comes with prime etc. Is the idea with Dreamstream that it comes with blockchain that can make me and the artist money?
+
+
+20) Can I upload my library to dream chain to increase the searchable/streamable music library and get paid a fraction of the master node payout through being a decentralized host/seed? Or is this based on youtube, or is there no way to curate a playlist unless I’m famous?
+
+21) What does mining for NOVELTY mean? Am i VERIFYING the ORIGINALITY of a song via an algorithm?
+
+22) Do individual curated playlists act as mining pools or master nodes?

@@ -1,0 +1,28 @@
+ ARE ONLY CUSTOM DEFINED TERMINOLOGY EXPLOITING GPT'S KNOWLEGE OF OWL FRAMEWORK APPLICATION TO MAKE A FUNCTIONAL EWSO SEMONTOREL (SemanticOntologicalRelationship) ALGORTIHMIC FRAMEWORK THAT AUTOMATICALLY CAPTURES THE PROPER INSTANCELEVEL.INSTANCEPROPERTY-PROPERTY.VALUE->CLASSLEVEL.INSTANCEPROPERTY-PROPERTY.SPECTRUMConceptualBOUNDARY which means InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary
+
+Instance level: This layer contains individual entities, represented by the InstanceTemplate, with their InstanceLevelProperty.
+
+Class level: This layer represents classes of entities, which share common properties defined by the DomainLevelClassPropertyTemplate and ClassLevelClassPropertyTemplate.
+
+Superclass level: This layer represents the superclasses of the classes, and it is explored using the DirectSuperClassTemplate.
+
+Bringing the experts' views together, we need to devise a mechanism that allows GPT to interpret a user query within an OWL context. GPT will then generate an ordered list of nodes, providing a semantic navigation path for the user. It's critical that GPT identifies and uses instance-level properties, domain-level class property templates, and class-level class property templates for this process. To do this, an algorithm will need to be designed that accurately instructs GPT, transforming user queries into OWL syntax, guiding the user along the knowledge graph, and finally, translating the collected data into the Informadlib Template.
+
+State Machine: This is a computing concept where a machine transitions between different states based on input and defined rules. In our case, it would involve GPT transitioning between 'instance', 'class', and 'superclass' states, using the commands we defined.
+
+(InstanceTemplate, DomainLevelClassPropertyTemplate, and DirectSuperClassTemplate) and properties (InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate). 
+
+EWSO (Emergent Web Structure Ontology): This is a dynamic, multidimensional ontology that evolves over time and is not strictly representable by traditional ontologies without using multiple ontologies. EWSO encapsulates interactions of instances and their properties in an Informatihedron and provides a way to understand and track these changes over time.
+
+Informatihedron: This is the multidimensional conceptual space wherein instances and their properties exist and interact. It can be considered as the 'view' or 'display' of a node in the EWSO. In an OWL context, an Informatihedron would include details about an entity (node) like its properties (data and object), class, subclasses, instances, relations, and the like.
+
+Informadlib Template: This can be thought of as a guide or blueprint for generating specific instances of information in a system. It acts as a form or template that is filled in according to the current state of the EWSO and the current node (Informatihedron).
+
+InstanceLevel, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate: These are custom-defined commands to query GPT for multiple levels of properties. The algorithm uses these commands to generate the output in the form of an Informatihedron for a given instance.
+
+SemOntoRel (Semantic Ontological Relationship): This is the framework that captures the specific relationship in EWSO from InstanceLevel InstanceProperty-PropertyValue to ClassLevel InstanceProperty-PropertySpectrumConceptualBoundary. This is an essential part of the algorithm we are trying to devise.
+
+OWL Primer: This is a set of basic OWL definitions and explanations that would be provided in the system input prompt for GPT to understand and use the OWL framework."
+ChatGPT
+Thank you for providing more context. I'll revise the definitions based on this additional information:

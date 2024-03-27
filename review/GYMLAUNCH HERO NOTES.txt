@@ -1,0 +1,55 @@
+Layer2: GYM LAUNCH as Hero = You hire to teach gym
+	Ads =
+		We are Gym Launch:
+			We help you 1) get more CUSTOMERS (MEMBERS), 2) change more lives, 3) be wildly profitable
+		Steps:
+Start Gym 2) Grow Gym 3) Work with Gym Launch 4) Stay in community and achieve goals
+
+Layer1: Ripped guy as Hero = You hire to teach workout
+	Ads =
+		I am ripped guy
+			I help you 1) get more MUSCLE, 2) be perceived differently, 3) be who you want to be
+		Steps:
+Join challenge 2) Lose Weight/Get fit 3) Join Gym 4) Stay in Gym and achieve goals
+
+how2hero:
+Layer1 = Get ripped, proven by BEING MUSCULAR and KNOWING WORKOUTS and HAVING PRODUCTS (CLASSES ETC)
+Layer2 = Get ripped business from getting ripped, proven by SELLING PRODUCTS on account of having products from knowing the workouts and using them to become muscular AND therefore having clients that believe in you, in order to sell them the product, because at the end of the day, the product is THEM DOING IT, not something you're gonna give them. What ur gonna give them is EVERYTHING ELSE, and that’s what they pay for.
+
+How2Ads:
+	Ads =
+		We are/I am NAME:
+			We/I help you 1) get more WHATUWANT, 2) have higher IMPACT, 3) make ur dream come true
+
+	Steps:
+Monetary Commitment 
+2) Taste the Journey by yourself (oh sorry you only lost 3 lbs in this challenge bc u cant do it by urself) 
+3) Commit to Mentorship (ah, these ppl rlly are heroes) 
+4) Stay in Community (i will keep paying until i am like them)
+
+
+
+Layer 1 = Get knowledge, proven by ACCOMPLISHING the instance, in a way THE CUSTOMER FINDS VALID (having big muscles WHICH DOESNT MEAN ANYTHING EXCEPT U KNOW HOW TO DO THE WEIGHTS
+Layer 1 = $600-2,000 range, up to $200/mo + discounts to bring down
+Layer 2 = having big business/having big title/etc = $5,000+ range
+
+Layer 1 = “Writers” who have maybe sold some stuff but you don’t know why they aren’t working doing that anymore, AND some never writers who are just idea people who have more fun helping people ← THAT’S ME!
+
+YES I CAN HAVE THE HJ WEBSITE AND STUFF AND SELL IT AND I AM NOT A FRAUD BC I HAVE THE BIG MUSCLES HERE AND I KNOW IT ***AND SO DO U IF U CHECK MY CONTENT***
+
+Layer 2 = People who got rly good at that, or are experts in the field itself and working
+
+
+Likewise, AI:
+Layer 1 = “Prompt Engineers” who have maybe sold some stuff but you dont know what they do. I imagined STUNSPOT knew EVERYTHIGN about EVErythiNG and turns out he doesnt know much. These are people who are doing things YOU DONT KNOW ABOUT. Places like Benny’s academy, etc. All those are Layer 1. They will help you get to $100k places.
+
+YES!!! I CAN HAVE AN AI WEBSITE WHERE I TEACH PROMPTING AND RELEASE MY PROMPTS
+
+Layer 2 = Professionals, David Shapiro, Andrej Karpathy, etc People who worked at FAAGN and did cool things
+
+
+Websites:
+
+BizBuddhist
+THINKMINE
+HeroBlueprint

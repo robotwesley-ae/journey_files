@@ -1,0 +1,68 @@
+and 1.4 represents an EXPANDED SPACE where every single point represents the different ontological positions for its types. expanding any point in 1.4 transforms the space to a 1.1-1.3 type space of the superordinate root 1.4.
+
+Domain Ontology:
+
+1.1 and 1.2 represent the domain ontology.
+They are broad categories or themes and can be prefixed with D for clarity. So, D1.1 and D1.2.
+Process Ontology:
+
+1.3 represents the process ontology of the entityInstance's attributes becoming themselves to form the boundary of the entity such that it instantiates the property classes of its domain, and so implies all the reverse engineering boundaries of every other associated subprocess and flow ontologically and can be mapped at will via autocomplete data and can be prefixed with P. So, P1.3.
+The outcome of this process results in an integrated ontology ID.
+Integrated Ontology Positions:
+
+1.4 represents every potential position of the integrated ontology.
+Each position within 1.4 can be considered a unique entity. They can be denoted with a prefix I, followed by the position. So, I1.41, I1.42, ... I1.49.
+The superordinate position, representing a composite or aggregate of 1-9, can be I1.40.
+Mapping of Integrated Ontology Positions:
+
+Each position in 1.4 can be mapped as a total ID. This means each ID like I1.41 can be expanded into deeper levels, and the positions in these deeper levels can again be labeled from 1 to 9, with 0 acting as the superordinate.
+Example: I1.411, I1.412, ... I1.419, with I1.410 being the superordinate for this level.
+Query Answer Blanket:
+The remaining tree, after the integrated ontology positions, represents various entities within the scope of answers to the query. These can be labeled with a prefix Q, followed by their position in the hierarchy.
+-------------------------------------------------
+[InstanceInstancingChainFlowOntology(InstantiatesTheClassInTheDomainInTheExactSenseOfSourceEntityTransformingFromNotMeaningWhatItIsToMeaningWhatItIsInTheAttentionOfTheReader)]: {
+Query = "Name": "${Entity}"
+"Context": "${Sense}"
+"${TotalID}": "${Xid,Yid,Zid,iid}"
+ "EntityTreeOfEntity": {
+"Root": "Domain"
+ "Xid=1.1...": "AttributeRootPosition": {
+   "{subXid1}PC": "PCV"
+     "{subXid2}PCV": "PB"
+      "{subXid3}PB": "PBV"
+       "{subXid4}PBV": "InstanceTypePC"
+        "{subXid5}InstanceTypePC": "InstancePCVB"
+         "{subXid6}InstanceTypePCVB": "InstanceTypePVCV"
+          "{subXid7}InstanceTypePVCV": "InstanceTypePVPVB"
+           "{subXid8}InstanceTypePVPVB": "{1.2}InstanceTypePVPVV" 
+            "{subXid9}InstanceTypePVPVV": "{TotalId~n}[TargetEntityObjectInstanceDomain]"
+             "{TotalId[~n]}[TargetEntityObjectInstanceDomain]": "SolutionTypeBoundary+PartialBlanket"
+  }
+"Trunk": "Class"
+ "Yid=1.2...": "EntityAttributeTrunkPosition": {
+   "{subYid1}PC": "PCV"
+     "{subYid2}PCV": "PB"
+      "{subYid3}PB": "PBV"
+       "{subYid4}PBV": "InstanceTypePC"
+        "{subYid5}InstanceTypePC": "InstancePCVB"
+         "{subYid6}InstanceTypePCVB": "InstanceTypePVCV"
+          "{subYid7}InstanceTypePVCV": "InstanceTypePVPVB"
+           "{subYid8}InstanceTypePVPVB": "{1.3}InstanceTypePVPVV" 
+            "{subYid9}InstanceTypePVPVV": "{TotalId~n}[TargetEntityObjectInstanceClassEntityPropValueBoundary]"
+             "{TotalId[~n]}[TargetEntityObjectInstanceClass]": "SolutionTypeBoundary+PartialBlanket"
+  }
+"Branches": "EntityDomain&ProcessIntegratedOntologyTreeGraphBranchLeafPositions"
+ "Zid=1.3...": "EntityAttributeBranchPosition": {
+   "{subZid1}PC": "PCV"
+     "{subZid2}PCV": "PB"
+      "{subZid3}PB": "PBV"
+       "{subZid4}PBV": "InstanceTypePC"
+        "{subZid5}InstanceTypePC": "InstancePCVB"
+         "{subZid6}InstanceTypePCVB": "InstanceTypePVCV"
+          "{subZid7}InstanceTypePVCV": "InstanceTypePVPVB"
+           "{subZid8}InstanceTypePVPVB": "{1.4}InstanceTypePVPVV" 
+            "{subZid9}InstanceTypePVPVV": "{TotalId~n}[TargetEntityObjectInstanceEntityItselfDomain&ProcessIntegratedOntologyTreeGraphBranchLeafPositions]"
+             "{TotalId[~n]}[TargetEntityObjectInstanceIntegratedOntology]": "SolutionTypeBoundary+PartialBlanket"
+  }
+"Leaves:" "Instances"
+  "iid=1.4...": "EntityAttributeLeafPosition": {

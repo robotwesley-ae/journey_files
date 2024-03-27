@@ -1,0 +1,19 @@
+Notes on CSATF Draft #38 Revision
+
+1. Lightning protection can only be installed by a person certified or under the supervision of someone certified to do so (such as LPI designers or master installers) - these are the SMEs for lightning protection including assessment, design, installation, and certification. Lightning protection materials MUST be UL96A listed. Lightning protection system grounding electrodes must undergo resistance testing and clock in at under 25 ohms. In terms of surge protection, a “lightning arrestor” is simply a high-rated surge protector and so surge protection can be installed by electricians as they are considered SMEs for surge protection. Surge protection on its own is not adequate lightning protection for safety concerning people, and direct strike protection (a lightning protection system, such as a strike intervention system) is not adequate protection for both safety of people and equipment. Low voltage equipment requires surge protection to be safe from extreme damage in the case of a lightning strike induced surge, but both people and equipment require the lightning protection system to adequately ground the lightning to Earth. This grounding to Earth can take place with or without the intervention of surge protection.
+
+2. The Zone of Protection must be calculated by a professional installer during an inspection.
+
+3. Note that this, MIL spec type of thickness (3/16” or greater), is very rare. It is unlikely any of the commercial units used in film production meet this required housing thickness.
+
+4. It is not safe to use different metals in a lightning protection system without connecting them properly. This requires additional equipment and, again, must be done by or under the supervision of a certified installer or designer.
+
+
+General: 
+Each generator with an LPS installed will need to be inspected after grounding to earth, and will need an inspection every time it is moved per NFPA 780 below:			
+A.8.8 The effectiveness of any lightning protection system depends on its installation, its maintenance, and the testing methods used. Therefore, all installed lightning protection systems should be properly maintained. Proper records of maintenance and inspections should be maintained on each facility to ensure adequate safety. These records are part of the lightning protection requirements and should be maintained.
+Each grounding electrode will also need to be individually tested during the certification process.
+NEC 250.53 (A.2) When a single electrode is less than 25 ohms, it must be supplemented by an additional grounding electrode no more than 6 ft away. 
+Additionally, lightning protection clients usually require contractors to prove system resistivity <25 ohms (for government jobs this can go as low as 5 ohms). Generally, this is considered “effective” for terminating a lightning attachment. So when testing electrodes, systems tests can be performed to confirm the relative effectiveness of the system before certification.
+
+				

@@ -1,0 +1,23 @@
+and every nearest neighbor (to the extent of the processing limit) is a nearest neighbor by some user-defined-degree of the search answer. This happens automatically without any calculation because of the way the embedding functions when the entities mapped represent exact ontological entities, which is what the encryption algorithm does to the query, instead of just embedding it as such from the query. this is because the searcher mostly doesnt know what they are talking about or how to ask for what they are looking for, but if they did they would get it much faster with this system anyway
+I apologize for the confusion earlier. Based on your description, here's an updated explanation of the system:
+Start with a single knowledge graph that contains the ontology of the polysemic linguistic program, the cryptographic classifier, and visualizer stack.
+Create a graphical user interface (GUI) to interact with the knowledge graph.
+When a query is submitted through the GUI, apply the encryption algorithm to encrypt the query. This encryption process maps the query to specific entities in the knowledge graph.
+Use the encrypted query to generate an embedding that transforms based on the search purpose.
+The result is obtained by "decrypting" the product of the search and the search purpose. This decryption reveals the nearest neighbors of the search answer, up to a user-defined processing limit.
+The system can efficiently provide relevant search results because the encryption algorithm maps the query to exact ontological entities. This approach is beneficial even when the searcher is unsure about their query, as the system can still return meaningful results.
+This updated explanation should better align with your vision for the system, which incorporates a single knowledge graph, a GUI, encryption and decryption processes, and an embedding mechanism to return relevant search results based on user queries.
+
+
+i think 3 is wrong.
+
+query is submitted to gui
+apply the encryption algorithm to encrypt the query by gathering the full context of each entity:
+search second knowledge graph of established knowledge related to the entities and map it ontologically as an ontological word embedding of the fully defined query's possible purposes according to the actual meanings of the words
+represent the relationships between the words of the query and subdomains involved in those entities (throughout X-user defined temperature degree of granularity across our related knowledge) symbolically via letters and punctuation as needed
+continue until the processing limit is approximately reached
+then embed that search context 
+then, open each subdomain of the search entities as its own domain and encrypt each one according to its own schema
+then, apply the encryption symbol key used there to recognize the patterns invisible in the graph space (because there's nothing there) 
+then populate the regions that represent the boundaries of the encryption tokens
+this space should be (in the GUI) lockable and unlockable, such that in lock mode the calculation being done is decrypting a point into a toroidal visualization of all of its properties, where we are then able to see the amplitudes of properties within entities tiled onto the 2d inner surface of the torus as heat maps and move around the space. Moving in this space causes no calculation other than calculating a character model moving in a space - all of the knowledge graph is perspective is frozen. When we see a heat map we like, interacting with it will cause calculations to be done regarding showing us what it is in the context of this torus. If we go into it, we change locations.  In unlock mode, the knowledge graph location is not frozen and each tile on the 2d inner surface of the torus represents an entity in the same class. Moving around moves us within the overall space of the position of this class relative to its neighboring classes. So lock mode is about viewing properties of a single entity or class of entities as they relate to the identity of the that single entity and unlock mode is about viewing classes of entities as they relate to each other

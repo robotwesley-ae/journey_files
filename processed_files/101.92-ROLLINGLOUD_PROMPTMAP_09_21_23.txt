@@ -1,0 +1,44 @@
+write the following scene into FDX format in the style of Todd Phillips: Once they've put Kevin through the ringer, Playboi Carti says, "I don't know what you're talking about, man," shaking his head. "Zion's not on my bus." Though Kevin's efforts have been in vain, the ordeal has endeared him to Playboi Carti and the others on the bus, earning their respect and willingness to help him find his son. Kevin feels a knot of dread forming in his stomach. If Zion's not on the bus, then where could he be? As he fumbles with his phone to show Playboi the photo of Zion, he accidentally clicks on a new message from the two girls he met earlier. Playboi's eyes widen as he takes in the risqué photo. "Damn, son," he says, laughing. "Looks like you're having a wild time out here." Kevin quickly scrolls past the photo, feeling embarrassed and frustrated. "That's not important," he says, trying to steer the conversation back to Zion. "I just need to find my son." Playboi nods sympathetically. "I feel you, man." Just then, his phone starts ringing. He looks at the caller ID and sees that it's his wife. "I'm not going to answer," he mutters, but Playboi lectures him about how you "always answer the wife." Feeling pressured, Kevin answers the call, and his wife tells him she's parking and walking towards the entrance. He quickly ends the call, feeling even more stressed than before. Kevin feels a wave of despair wash over him. He's lost his son in a sea of strangers, and he has no idea where to start looking. He can feel the weight of his mistakes bearing down on him. Kevin is feeling the weight of his mistakes. He's under the influence, his head pounding with a massive headache, and he's feeling more alone than ever, unsure of how to find his son.
+ChatGPT
+vbnet
+Copy code
+INT. PLAYBUS - CONTINUOUS
+
+After having toyed with Kevin, PLAYBOI CARTI gives an unsatisfactory shake of his head.
+
+PLAYBOI CARTI
+Man, I ain't seen no Zion here.
+
+Kevin's heart sinks. His attempts have yielded nothing, but it's clear the group is now rooting for him.
+
+Kevin reaches for his phone to show Playboi a photo of Zion, but in his haste, he opens a risqué text from the two girls he met earlier. 
+
+PLAYBOI CARTI
+(laughs)
+Damn, dude. Looks like you've been partying hard.
+
+Flustered, Kevin scrolls past the photo, his cheeks burning.
+
+KEVIN
+(muttering)
+That's not the point... I need to find my son.
+
+Playboi Carti gives a nod of understanding.
+
+PLAYBOI CARTI
+I get it, family first, man.
+
+Kevin's phone rings - it's his wife. Kevin hesitates, then swipes to ignore the call.
+
+KEVIN
+(under his breath)
+I can't answer right now.
+
+PLAYBOI CARTI
+(grinning)
+You gotta pick up for the wife, bro. Trust me.
+
+Pressured, Kevin answers the call. His wife's voice fills his ears, mentioning parking and walking towards the entrance. He ends the call abruptly, his dread deepening.
+
+The magnitude of his mistakes crashes over him, making him feel small and helpless amidst the festival's chaotic atmosphere. Alone, under the influence, and battling a splitting headache, Kevin's situation becomes overwhelmingly daunting. The task to find Zion in this sea of strangers feels impossible. But he won't give up; he can't. His son is out there, somewhere.
+

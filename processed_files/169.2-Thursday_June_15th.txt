@@ -1,0 +1,65 @@
+9AM to 12PM: (TWI) "Demo with gaffers" [MBS][3hrs]
+12PM to 1PM: (TWI) "Lunch break" [][1hr]
+2PM to 4PM: (TWI) "Record video footage draft" [Olivus Victory-Promise YouTube][2hrs]
+4PM to 4:30PM: (Wesley) "Rough cut" [Olivus Victory-Promise YouTube][0.5hrs]
+4:30PM to 5:30PM: (TWI) "Review and refine" [Olivus Victory-Promise YouTube][1hr]
+5:30PM to 7PM: (Wesley) "Open Schedule" [][1hr]
+5:30PM to 7PM: (Isaac) "Open Schedule" [][1hr]
+
+Wednesday, June 21st
+9AM to 11AM: (TWI) "Read and categorize EWSO notes" [AI General][4hrs]
+11AM to 1PM: (TWI) “Re-Record video footage” [Olivus Victory-Promise YouTube][2hrs]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 4PM: (Wesley) "Edit video (may produce more than one video)" [Olivus Victory-Promise YouTube][2hrs]
+2PM to 4PM: (Isaac) "Open Schedule" [][2hrs]
+4PM to 4:30PM: (TWI) "Review video" [Olivus Victory-Promise YouTube][0.5hrs]
+4:30PM to 6PM: (Wesley) "Generate accompanying materials. Subtasks: generate thumbnail, generate description copy, generate social media posts" [Olivus Victory-Promise YouTube][1.5hrs]
+6PM to 7PM: (TWI) "Open Schedule" [][1hr]
+
+Thursday, June 22nd
+9AM to 9:30AM: (Wesley) "Pre-Publish video(s)" [Olivus Victory-Promise YouTube][0.5hrs]
+10AM to 1PM: (TWI) "Determine best practice workflows for prompt engineering, and for using engineered prompts" [AI General][3hrs]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 6PM: (TWI) "Develop and record first set of courseware videos for working with AI like we do at Thinkmine" [AI General][4hrs]
+
+Friday, June 23rd
+9AM to 11AM: (Wesley) "Build Thinkmine MVP landing page basic layout. Subtasks: include free materials, lead capture, and paid prompt pack store, or membership area" [Thinkmine prompt engineering site][2hrs]
+9AM to 11AM: (Isaac) "Open Schedule" [][2hrs]
+11AM to 12PM: (Isaac) "Write copy/content" [Thinkmine prompt engineering site][1hr]
+11AM to 1PM: (Wesley) “Flow content into site”  [Thinkmine prompt engineering site][1hr]
+12PM to 1PM: (Isaac) "Open Schedule" [][1hr]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 4PM: (TWI) "Develop Thinkmine ad set" [Thinkmine prompt engineering site][2hr]
+4PM to 4:30PM: (Wesley) "Launch TM" [Thinkmine prompt engineering site][0.5hrs]
+4:30 to 7PM: (TWI) “Open Schedule” [][2.5hrs]
+
+Saturday, June 24th
+9AM to 11AM: (Wesley) “Build hero’s journey course funnel basic layout” [Hero’s journey][2hrs]
+9AM to 11AM: (Isaac) "Write hero’s journey course notes" [Hero’s journey][1hr]
+11AM to 1PM: (TWI) “Record and produce HJ course 1) [Hero’s journey][4hrs]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 3PM: (Isaac) “write hero’s journey course funnel copy/content” [Hero’s journey][1hr]
+2PM to 3PM: (Wesley) “flow copy/content into HJ Course Funnel Site” [Hero’s journey][1hr]
+3PM to 4PM: (TWI) “develop hero’s journey course funnel promotional copy” - “may be ads, or just cross-promotion on other content” [Hero’s journey][1hr]
+4PM to 5PM: (Wesley) “link and launch funnel mvp” [Hero’s journey][1hr]
+5PM to 7PM: (TWI) "Open Schedule" [][1hr]
+
+Sunday, June 25th
+2PM to 3PM: (TWI) "OVP YT video topic selection brainstorm" [Olivus Victory-Promise YouTube][1hr]
+3PM to 4PM: (TWI) "Coffee hour meeting, Review and discuss video performance each week" [Olivus Victory-Promise YouTube][1hr]
+
+Monday, June 26th
+9AM to 10AM: (TWI) "Review and discuss video performance each week" - “incoprorate findings into ongoing innovation accounting for improving YT channel” [Olivus Victory-Promise YouTube][0.5hrs]
+10AM to 12AM: (Isaac) "Write video notes" [Olivus Victory-Promise YouTube][2hrs]
+
+Tuesday, June 27th
+9AM to 11AM: (TWI) "Record video footage draft" [Olivus Victory-Promise YouTube][2hrs]
+11AM to 12PM: (Wesley) "Rough cut video" [Olivus Victory-Promise YouTube][1hrs], 
+12PM to 1PM: (TWI) "Review and refine video" [Olivus Victory-Promise YouTube][1hr]
+1PM to 2PM: (TWI) "Lunch break" [][1hr]
+2PM to 6PM: (TWI) "Re-record video footage" [Olivus Victory-Promise YouTube][1.5hrs]
+6PM to 7PM: (Wesley) "Open Schedule" [][1hr]
+
+Wednesday, June 28th
+9AM to 11AM: (Wesley) "Edit video (may produce more than one video)" [Olivus Victory-Promise YouTube][2hrs]
+9AM to 11AM: (Isaac) "Open Schedule" [][2hrs]

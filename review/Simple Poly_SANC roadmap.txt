@@ -1,0 +1,89 @@
+Foundation systems
+Poly + SANC
+PolyGPT
+Finish Neo4j database implementation
+First group of agents interacting w database
+Triangle setup for coding (have prompt that says [CYPHER]... basically)
+Finish PolyGPT
+Use PolyWebApp 
+Finish SESAP
+Build Voice Journaling
+Discord management
+Blog post writing
+Social Media & Marketing
+Agent App marketplace
+THIS WEEK (Friday): Implement basic SDNA Progenitor superfactory (*1)
+Break into agent topology and create specialized token heavy agents
+Create Persona Prompt Superfactories for X-morphisms
+People hit button
+Button do agent
+Agent send email w personas inside
+OR agent make agent factory for X, which they can use to drilldown further (it has a specified version of SDNA Prog as the top, and copies the same topo as (*1), making it (*2). They then query it to make (*2’s).
+Use case
+U want to learn something, need a set of personas to help u learn the domain
+U want to onboard/offboard and u need personas to explain your company specific processes: requires: ontology or flowcharts of processes or nat lang as inputs
+U have a funnel and u want to support each ascension step with personas
+U have a service and u want to support each feature in the feature set with personas
+Very crude MVP, but it will work
+SANC campaign act 1
+Knowledge base neo4j
+RDF/OWL onto
+Wiki
+Discord
+Content
+Workflow foundation
+Kanban
+KanbanAgent connected
+3. OPera
+GAN topology implementation
+Set up ready made agents
+Make new agents
+Implement teachableAgent style RAG system and drilldown protocol
+Implement personas
+Implement E2E RAG
+Test fine-tuning strategy
+Platform foundation complete =====>
+Omega Team Implementation ⇔ ♾️
+Re-launch Sanctuary Campaign
+Members/polities
+Poly186
+SESAP+ implementation
+Recruiting
+Dev on Sanctuary Revolution game
+Dev on blockchain currency implementations
+Agent DAO
+GNO.SYS journal
+
+ISAAC PLEASE MAKE SOME DOCUMENTATION OMG NOBODY KNOWS WHAT YOU ARE TALKING ABOUT!
+
+***OKRs * KPIs!!!!!***
+
+
+
+Notes:
+Building - Princeps
+Content - Isaac
+Consulting?
+Isaac x Tonic - figure out outputs to Ontology protocol
+Isaac x Refactoring Guru
+
+Malcolm Gladwell
+
+Connectors
+Connect people
+Muses
+
+Maven
+Info and expertise
+Salespeople
+Soft influence to sell
+
+
+
+
+Stages of SancRev 
+Intent: gaining TWI: keeping VP
+Journey VP
+Amplify VA
+
+

@@ -1,0 +1,55 @@
+Rewrite the following, but elaborate the the lyrics that Kevin is performing: INT. PLAYBUS - CONTINUOUS Inside the smoky, pulsating heart of the PLAYBUS, KEVIN and SHENSEEA weave through the dim, chaotic space. The PLAYBUS is a pulsating haze. Marijuana mist swirls (the bus has been rigged to be a giant hotbox) KEVIN, SHENSEEA, and KEESHALOO push through the bodies towards PLAYBOI CARTI, engrossed in his track. PLAYBOI CARTI (not looking up) Who's killing my vibe? Kevin gulps, nerves getting the best of him. KEVIN (nervously) Hi, Mr. Carti. I’m Kevin. I'm actually... a big fan. Playboi Carti raises an eyebrow, intrigued yet suspicious. PLAYBOI CARTI (smirking) Really? What's your favorite song? KEVIN (quickly) Sky. Carti is taken aback, but grins, a challenge in his eyes. PLAYBOI CARTI (leaning back) Alright, let's hear it. Kevin swallows, then, with a shaky voice, begins to sing a verse from "Sky". He does an okay job, but his nerves are clear. Playboi Carti laughs, recognizing the awkwardness of the situation. PLAYBOI CARTI (laughs) I don't buy it, man. You ain't no fan. Kevin takes a deep breath, deciding to tell the truth. KEVIN (resolute) You're right. I'm not a fan. I actually don’t love your music, but I love my son and he loves your music, so I brought him to Rolling Loud thinking we’d watch you perform tonight and I secretly learned all the words to Sky, because I thought I’d surprise him, but now I lost him. And I heard he might've tried to find you for a photo... Playboi Carti's smile fades, replaced with a more serious expression as he takes in Kevin's plight.
+ChatGPT
+vbnet
+Copy code
+INT. PLAYBUS - CONTINUOUS
+
+Inside the belly of the PLAYBUS, a foggy oasis humming with energy, KEVIN, SHENSEEA, and KEESHALOO navigate through a sea of bodies towards PLAYBOI CARTI, who's lost in the rhythm of his beats.
+
+PLAYBOI CARTI
+(without looking)
+Who's interrupting my flow?
+
+Kevin swallows, a lump forming in his throat.
+
+KEVIN
+(nervously)
+Uh, hello, Mr. Carti. My name's Kevin. I'm... a big fan of yours.
+
+Carti raises an eyebrow, his curiosity piqued yet skeptical.
+
+PLAYBOI CARTI
+(smirking)
+Oh, really? So, what's your favorite track of mine?
+
+KEVIN
+(immediately)
+Sky. It's Sky.
+
+Carti looks surprised, a playful grin spreading across his face.
+
+PLAYBOI CARTI
+(leans back, crossing arms)
+Alright then, let's hear you perform it.
+
+Heart pounding, Kevin takes a deep breath and launches into the first verse of "Sky", his voice shaky yet sincere.
+
+KEVIN
+(singing, unsteady)
+"I told my boy go on, like ten flats on the fifty-yard...
+Yeah, yeah, off the fifty, yeah, yeah..."
+
+A chorus of laughter erupts, but Kevin pushes through, refusing to back down.
+
+PLAYBOI CARTI
+(laughs)
+Nah, man. You ain't a fan. Something's up.
+
+Faced with Carti's disbelief, Kevin comes clean, his words rushing out in a desperate confession.
+
+KEVIN
+(determined)
+You're right. I'm not a fan, not really. But my son Zion is. He loves your music. We came here together, to Rolling Loud, to see you perform. I learned all the words to Sky, thought it would be a nice surprise for him... But he's lost now. And someone mentioned he might have come looking for you, for a photo...
+
+The laughter dies down. Carti's amusement fades, replaced with a more serious expression as he contemplates Kevin's predicament.
+

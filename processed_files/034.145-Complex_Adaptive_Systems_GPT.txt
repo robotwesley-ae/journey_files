@@ -1,0 +1,28 @@
+ information is extracted through techniques such as statistical analysis, machine learning, or natural language processing.
+Knowledge representation:
+a. The extracted information is organized and structured in a way that can be easily understood, interpreted, and used for decision-making.
+b. Knowledge representation may include graphs, tables, taxonomies, or semantic networks.
+Knowledge integration:
+a. The newly acquired knowledge is integrated with existing knowledge, creating a more comprehensive understanding of the subject.
+b. This integration may involve updating or revising existing knowledge structures or models, or creating new ones to accommodate the new information.
+Decision-making and application:
+a. The resulting knowledge is used to make informed decisions, solve problems, or generate new insights.
+b. The application of this knowledge may involve creating new products, services, or policies, or improving existing ones based on the insights gained.
+In summary, information theory helps us understand how raw data is collected, preprocessed, analyzed, and ultimately transformed into actionable knowledge. This process involves a series of steps, including data collection, preprocessing, information extraction, knowledge representation, integration, and decision-making. By organizing information into structured and coherent knowledge, we can make better decisions and generate valuable insights.
+
+
+Oh is information theory only about computation? I thought data referred to the signals in physical objects
+Apologies for any confusion. Information theory is not solely about computation; it also addresses the fundamental aspects of communication, storage, and processing of information in various domains, including both digital and analog systems. Data, in the context of information theory, can indeed refer to signals in physical objects.
+Information theory was first developed by Claude Shannon to study the transmission and processing of information in telecommunication systems. However, its scope has expanded over time to include other areas, such as computing, cryptography, and even biology.
+In the context of physical systems, information theory is concerned with the representation, transmission, and processing of signals that carry information. These signals can be in the form of electrical voltages, light waves, sound waves, or other physical phenomena. Information theory provides a mathematical framework to quantify the amount of information in a signal, as well as to analyze the efficiency and reliability of communication channels and storage systems.
+So, while information theory has applications in computation, it also extends to various other domains, including the study of signals in physical objects.
+
+
+Yeah so write this again so it is clear. 
+
+For humans perceiving stimuli, information theory of knowledge derivation and application
+
+For computers perceiving data, information theory of knowledge derivation and application
+For humans perceiving stimuli, information theory of knowledge derivation and application:
+When humans perceive stimuli, they receive information from their environment through their senses. This information is encoded in the form of neural signals that are transmitted to the brain for processing. Information theory helps to understand how these signals are quantified, transmitted, and processed within the human nervous system. It provides a mathematical framework to analyze the efficiency and reliability of the human sensory system in extracting and using information from the environment. As humans process and interpret these signals, they derive knowledge from the perceived information, which then informs decision-making, problem-solving, and other cognitive functions.
+For computers perceiving data, information theory of knowledge derivation and application:

@@ -1,0 +1,26 @@
++-------------------------+------------------------+-------+--------------------------------------+ | Informatihedron | Property | Value | Relation | +-------------------------+------------------------+-------+--------------------------------------+ | Character | Personality Traits | ? | Defines Character Behavior | | Dragon | Dragon Type | ? | Defines Dragon Capabilities | | Relationship | Trust Level | ? | Determines Interaction Success | | Interaction | Interaction Outcome | ? | Depends on Relationship | | Training | Training Techniques | ? | Influences Dragon Behavior | | Training | Training Progress | ? | Influences Relationship | | Environment | Environmental Factors | ? | Influences Interaction & Training | | Conflict | Conflict Intensity | ? | Influences Character Behavior | | Resolution | Resolution Type | ? | Influences Future Relationships | +-------------------------+------------------------+-------+--------------------------------------+
+This Informadlib Template for "How to Train Your Dragon" attempts to capture the primary ontological entities and their potential relationships in the context of the film. It serves as a structure for generating more specific Informadlibs when populated with instance-specific values.
+
+
+???????? how is this including boundaries?
+ChatGPT
+I see. You're asking how the Informadlib Template represents the constraints or boundaries that exist within the system depicted in "How to Train Your Dragon". I apologize for the confusion. These constraints or boundaries can be represented as limits or ranges on the values that the properties of the Informatihedra can take. Here's an updated version of the Informadlib Template:
+plaintext
+Copy code
++-------------------------+------------------------+-------------------+--------------------------------------+ | Informatihedron | Property | Value | Relation | +-------------------------+------------------------+-------------------+--------------------------------------+ | Character | Personality Traits | Range(1-10) | Defines Character Behavior | | Dragon | Dragon Type | Set of DragonTypes| Defines Dragon Capabilities | | Relationship | Trust Level | Range(1-10) | Determines Interaction Success | | Interaction | Interaction Outcome | Outcome Types | Depends on Relationship | | Training | Training Techniques | Technique Types | Influences Dragon Behavior | | Training | Training Progress | Range(1-10) | Influences Relationship | | Environment | Environmental Factors | Factor Types | Influences Interaction & Training | | Conflict | Conflict Intensity | Range(1-10) | Influences Character Behavior | | Resolution | Resolution Type | Resolution Types | Influences Future Relationships | +-------------------------+------------------------+-------------------+--------------------------------------+
+In this version of the Informadlib Template, the value column now includes constraints, such as "Range(1-10)" for certain properties, indicating that the property can take any value within this range, or "Set of DragonTypes" for the dragon type property, indicating that the value must be one of the pre-specified Dragon Types.
+These constraints represent the boundaries within which the properties can vary and they guide the generation of instance-specific Informadlibs.
+
+
+u cannot just SAY what the range is u dumb fuck u need to KNOW IT ONTOLOGIACLLY
+
+why are we doing this again? 
+
+""User: "I am establishing an ontology with the following classes and transitions..."
+
+GPT as EWSO.AI: "Understood. Initializing an empty Informadlib and creating a symbolic 'coordinate system' for the ontology."
+
+User: "The classes in my ontology are A: 'InstanceLevel1', B: 'InstanceLevel2'..."
+
+GPT as EWSO.AI: "Great, I've created placeholders for each identified class in the Informadlib. These are our 'informatihedra'."
+

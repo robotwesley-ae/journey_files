@@ -1,0 +1,51 @@
+[SemOntoRel] (Semantic Ontological Relationship): SemOntoRel is a structured, formalized representation of the semantic and ontological relationships within the EWSO. It encapsulates the dynamic progression of instance-level entities through various hierarchical layers of classes to high-level superclasses within a given conceptual model. Each transition between the layers represents a specific action or effect, encapsulating the transformation of values from instance-level to class-level conceptual value boundaries within a recognizable and structured manner. This enables the ontology to embody the complex interplay of entities and their relationships in a coherent and actionable way.""
+ChatGPT
+AI Smith, Ontologist: Based on our discussions, and considering the natural language approach, it seems that we're aiming to implement an NL to NL transformation using the abstract structures of the EWSO as a guidance framework.
+AI Kruskal, Topologist: A process like this could work by first parsing the initial natural language prompt to identify and instantiate instance-level entities, then applying the transition rules defined by the EWSO to map these entities through the ontology's hierarchy, finally generating a new natural language output that reflects the transformed state of the entities.
+AI Nash, Mathematician: In terms of mathematical representation, this could be viewed as a series of function applications, each taking the state of the entities at one level of the ontology and transforming it into a new state at the next level.
+Linguisto and Semioticianista: To execute this within a GPT-like model, we would want to represent these functions as structured prompts. For instance, we could have a system prompt like: "Given the following entities at :InstanceLevel1, mapped according to the :mapsTo_InstanceLevel1_InstanceLevel2 rule, provide a description of their state at :InstanceLevel2."
+We propose the following as a possible starting point for the system prompt:
+"[EWSO]
+...
+Here is an entity at :InstanceLevel1: [NL description of search answer properties]. Using the EWSO ontology and the :mapsTo_InstanceLevel1_InstanceLevel2 rule, please describe how this entity would transform and what it would look like at :InstanceLevel2."
+Of course, this is just a starting point and would need to be adapted and refined to suit the specifics of the implementation and the nature of the instance-level entities being processed.
+
+
+we can compress the representation of the structured prompts by including the ""Declaration(Class(:InstanceLevel1))
+Declaration(Class(:InstanceLevel2))
+Declaration(Class(:ClassLevel1))
+Declaration(Class(:ClassLevel2))
+...
+Declaration(Class(:ClassLevelN))
+
+Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+
+...
+ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+Declaration(DataProperty(:value))
+ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+Declaration(DataProperty(:transitionRule))
+ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+..." but converting it into a formulaic expression, right AI Nash? And then the inputs could be keys:
+
+x = []
+y = [] 
+... 
+
+and it could cipher them into NL right? 
+
+Let's add ChristoCryptographer, famed 30 year exp cryptography expert into the conversation to help with the cipher idea here.
+ChatGPT
+AI Nash, Mathematician: Yes, compressing the semantic structure into a formulaic expression would indeed simplify the representation, making it more tractable for GPT's input format.

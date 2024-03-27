@@ -1,0 +1,11 @@
+After purchasing the product, the customer is entered into an onboarding funnel. They receive a welcome email and start using the product (Initial Purchase - Awareness, Welcome Email - Interest, Guided Usage - Engagement). They have a positive experience with the product and decide to purchase a related product (Additional Purchase - Conversion).
+
+**Step 8: Upselling/Cross-selling Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+After their initial purchase, the customer receives emails promoting related products (Additional Product Promotion - Interest). They decide to purchase one of these products (Additional Purchase - Conversion). They continue to engage with the company and use their products (Continued Engagement - Ascension).
+
+**Step 9: Referral Funnel (Awareness → Interest → Engagement → Action → Conversion → Ascension)**
+
+The customer is so satisfied with their experience that they decide to refer a friend to the company (Referral Action - Engagement). Their friend makes a purchase, and the customer receives a discount on their next purchase as a reward (Reward Redemption - Conversion). They continue to engage with the company and make further purchases (Continued Engagement - Ascension).
+
+This example demonstrates how a customer can progress through multiple funnels in a complex journey. The customer's journey is not linear; they may loop back, skip stages, or cross from one funnel into another. The sequence of funnels is tailored to the customer's behavior and the company's goals, and each funnel feeds into the next in a logical and effective way.

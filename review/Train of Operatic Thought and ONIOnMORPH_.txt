@@ -1,0 +1,54 @@
+Train of Operatic Thought and ONIOnMORPH: 
+Chains, Branes, and Automobiles
+
+OPera framework
+Cause-and-effect-feedback loop Chaining
+Chains
+Automobiles (chain nests)
+SDNA Defs
+SDNA Ladders
+SDNA Rung
+SDNA Subrungs
+SDNA Chains
+AriadneChain
+PoimandresChain
+OPeraChain
+Flowchain
+Workflow
+Skillchain
+Entitychain
+Stages of Construction
+SDNA Tracks
+SDNA Ladder for X
+SDNA Traincars
+SDNA Persona for X made out of SDNA tracks
+SDNA Trains
+SDNA Persona of X made out of Traincars
+CHOO 1 & CHOO 2 Stages
+CHOO 1: Planning
+Automobile for Chaining TaskGoal: Factory Planning via Breaking Goal into Requirements and Enumerating Automobiles from SDNA Defs for TaskRequirements.Steps.
+Automobile for Chaining Factory Establishment
+Worker Creation Planning
+SDNA Progeny
+Morph
+Vajra
+Specific Vajra
+Cross-Pollinatrix
+Self-reflection version
+K-NN version
+Fusion version
+Graph integration SDNA track
+Create new graphs with integrations for new flows for new Cross-Pollinatrix for new SDNA Progeny
+Create meta-track = traincar
+Create new graphs encapsulating the entire process into a single button that has a single graph that can connect to other graphs
+CHOO 2: Delivering
+InstanceDelivering: Assembly Line Run
+This step executes the Automobile from CHOO 1
+InstanceChaining: Assembly Line Progenation
+This step iterates CHOO 1 for drilldown after the CHOO2a step runs its entire automobile.
+ONIOnMORPH
+Is a system like autogen that incorporates personaTypes and ChainTypes.
+Is what is wrapped in the SANCREV OPERA website
+And anyone can license it
+OPera
+Is a prompting methodology that incorporates ONIOnMORPH and has personaTypes and chainTypes

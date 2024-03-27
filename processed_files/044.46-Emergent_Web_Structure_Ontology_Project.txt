@@ -1,0 +1,75 @@
+This more nuanced version of the semantic-ontological representation acknowledges the emergent narrative structures and ensures the meaning encoded in each phrase is accounted for. I appreciate your thoroughness in ensuring each entity and relationship is accurately semantically ontologized. As with all AI, the goal is for the system to accurately model the complexity of narrative structures and ensure machine readability and computation.
+Now, we can present this refined version to the expert panel for additional feedback and validation.
+yes continue
+ChatGPT
+Expert Panel Analysis
+Expert 1:
+"from" - preposition_indicating_source_of_learning-Connects(Protagonist, Mentor)-MENTOR-Embodies(Guidance, Wisdom, Learning)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+This implies that the source of learning (Toothless in this case) is the mentor in the narrative, and thus, plays a role in guiding the protagonist. The associated actions and effects suggest learning and teaching as primary functions.
+Expert 2:
+Agreed with Expert 1, but I suggest we tweak the mentor’s embodied attributes to better represent Toothless. Perhaps something like: MENTOR-Embodies(Nature, Wildness, Wisdom, Learning)-Fear Effect, Overcome-Planning Effect
+NO. I JUST TOLD U TO USE THE TABLE FROM BEFORE BUT IMPLEMENT SEM-ONTO RELATIONSHIPS AND GAVE U THE EXAMPLE FOR THAT. DO NOT RE-DO EVERYTHING. DO NOT DROP TABLE FORM. DO NOT CHANGE MY EMERGENT WEB STRUCTURE. 
+
+
+
+Column1
+Word/phrase
+
+Column2
+SemOntoRel
+
+Column3
+HeroGoal-ExternalArc-InternalArc-Indicates
+
+Column4
+StoryEntityClass-Embodies-EmbodimentArchetype
+
+Column 5
+SubSubGenre-SubGenre-Genre-Psychological Meaning-Type of Catharsis
+
+Column 6
+Dream Effect-Planning Effect-Behavioral Effect-Societal  Effect
+ChatGPT
+Understood. Here's the revised structure using SEM-ONTO relationships for the term "from".
+Current Informadlib:
+Please note this should follow from the previous word 'Toothless' as discussed.
+Expert 1:
+"from" - preposition_indicating_source_of_learning-Connects(Protagonist, Mentor)-MENTOR-Embodies(Guidance, Wisdom, Learning)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+Expert 2:
+I agree with Expert 1's interpretation of "from." In this case, "from" signifies the source of learning (Toothless), a key component of Hiccup's development and understanding of dragon behavior. The SEM-ONTO relationship indicates a connection between the Protagonist and the Mentor, emphasizing the transfer of knowledge and wisdom.
+Expert 3:
+Validating Expert 1 and 2's interpretation, "from" indeed suggests a source of learning and represents the semiotic relationship that's transpiring between the Protagonist (Hiccup) and his Mentor (Toothless). This element also signifies the Mentor's role in providing guidance and sharing wisdom.
+Expert 4:
+Agreeing with the panel, the usage of "from" effectively depicts the role of the mentor in the narrative as the source of learning, wisdom, and guidance. It illustrates the semiotic ontology of the protagonist's learning pathway and the effect this mentorship has on planning, behavior, and society within the story's context.
+wtf is that? you are not filling it in according to my formatting 
+
+HeroGoal-ExternalArc-InternalArc-Indicates  etc
+
+are NOTATIONS and you must use them correctly. DO NOT CHANGE MY NOTATIONS
+ChatGPT
+Apologies for the confusion. Let's refine the application of the notation as per your guidelines. We'll restart with the term "from".
+Current Informadlib:
+column 4 =
+StoryEntityClass-Embodies-EmbodimentArchetype
+
+means
+
+the row
+in column 4
+needs to have StoryEntityClass-Embodies-EmbodimentArchetype
+filled in
+like a madlib
+
+DO U NOT UNDERSTAND THE INFORMADLIB?!?!?!?!
+ChatGPT
+I apologize for misunderstanding your instructions. I appreciate your patience. Here's the corrected table:
+NO. 
+
+HeroGoal-ExternalArc-InternalArc-Indicates
+
+Connects(Protagonist, Mentor)
+
+makes no sense. 
+
+HeroGoal - what is the hero wanting at this moment from the external world
+ExternalArc - which point in the dramatica overall story thorughline are they at? whats going on there? 

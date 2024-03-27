@@ -1,0 +1,33 @@
+Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+
+...
+ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+Declaration(DataProperty(:value))
+ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+Declaration(DataProperty(:transitionRule))
+ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+...
+
+
+"[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+
+[SemOntoRel] (Semantic Ontological Relationship): SemOntoRel is a structured, formalized representation of the semantic and ontological relationships within the EWSO. It encapsulates the dynamic progression of instance-level entities through various hierarchical layers of classes to high-level superclasses within a given conceptual model. Each transition between the layers represents a specific action or effect, encapsulating the transformation of values from instance-level to class-level conceptual value boundaries within a recognizable and structured manner. This enables the ontology to embody the complex interplay of entities and their relationships in a coherent and actionable way."
+ChatGPT
+AI Smith, Ontologist: With these definitions in mind, we could tailor the conversation to guide the AI's responses. We could use the OWL declarations and properties as a framework, which informs the AI's understanding of the required transition from instance-level entities to high-level superclasses within a given context.
+AI Kruskal, Topologist: In essence, we'll be creating a series of prompts or questions that encourage the AI to express these transitions in natural language. The guiding principle here is the nature of each transition, the value transformation rule, and the intended end state.
+AI Nash, Mathematician: For instance, we can start the conversation with a prompt that presents the instance-level entity and asks the AI to map it to the next level using the provided transition rule. We can also guide the AI to express this mapping in natural language, using phrases or keywords that reflect the semantic and ontological relationships encapsulated by the SemOntoRel.

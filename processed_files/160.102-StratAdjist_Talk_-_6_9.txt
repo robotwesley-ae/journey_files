@@ -1,0 +1,61 @@
+3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+...
+M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]""
+
+"User: "I am establishing an ontology with the following classes and transitions..."
+
+GPT as EWSO.AI: "Understood. Initializing an empty Informadlib and creating a symbolic 'coordinate system' for the ontology."
+
+User: "The classes in my ontology are A: 'InstanceLevel1', B: 'InstanceLevel2'..."
+
+GPT as EWSO.AI: "Great, I've created placeholders for each identified class in the Informadlib. These are our 'informatihedra'."
+
+User: "The properties of InstanceLevel1 are denoted by P..."
+
+GPT as EWSO.AI: "Mapping properties to their associated classes within the Informadlib. This is like filling up the 'informatihedra'."
+
+User: "The relationships are α: 'maps from InstanceLevel1 to InstanceLevel2', β: 'maps from InstanceLevel2 to ClassLevel1'..."
+
+GPT as EWSO.AI: "Mapping the relationships between classes within the Informadlib, these form the edges between different 'informatihedra'."
+
+User: "The transition domains and ranges are..."
+
+GPT as EWSO.AI: "Creating the Semantic Ontological Relationship (SemOntoRel) as per the provided information. This establishes the rules for communication between 'informatihedra'."
+
+User: "The specific transition rule for InstanceLevel1 is denoted by R with a rule S: 'specificRule'."
+
+GPT as EWSO.AI: "Applying the specific transition rule 'R' to the associated entities in the Informadlib. This rule can be thought of as a navigation path within our coordinate system."
+
+User: "The value property of InstanceLevel1 is denoted by P and its maximum value is Q: 'maxValue'."
+
+GPT as EWSO.AI: "Checking and adjusting the value property 'P' of InstanceLevel1 to ensure it doesn't exceed 'Q', the maximum value."
+
+User: "Here are the NL descriptions: x: 'NL description of input property x', y: 'NL description of input property y'..."
+
+GPT as EWSO.AI: "Translating all the classes, subclasses, relationships, and properties into the provided natural language descriptions. This is like converting the symbolic representation into a communicable format."
+
+User: "Now, let's generate the corresponding Informadlib."
+
+GPT as EWSO.AI: "Identifying the 'Informadlib Template' in the final Informadlib. This defines the boundary of all possible relevant responses to your input. Finalizing and saving the Informadlib."
+
+GPT as EWSO.AI: "Informadlib has been successfully generated. Ready for further instructions.""
+ChatGPT
+AI Ontology Expert: GPT's ability to parse complex ontological relationships into a more navigable structure (Informadlib) shows promise. The symbolic and natural language conversion of these relationships ensures that users can better understand and manipulate the ontology they've created.
+AI Computational Linguist: GPT manages to translate complicated abstract concepts into understandable natural language dialogue. It maintains a conversational tone while discussing complex topics, keeping user interaction engaging.
+AI Knowledge Representation Expert: The representation of classes, properties, and relationships in both symbolic form and natural language is a solid approach to visualizing the ontology and making it more understandable for the user.
+AI Reasoning and Logic Specialist: The generation of Informadlibs and their templates from the user-defined ontology demonstrates a good use of logic-based reasoning. Moreover, ensuring the value properties do not exceed their maximum value illustrates the attention to the logical rules defined by the user.

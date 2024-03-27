@@ -1,0 +1,35 @@
+Facilities: The institution should have access to adequate laboratory space, equipment, and resources to conduct the research. This may include facilities for chemical analysis, cell culture, animal studies, or clinical trials, depending on the nature of your study.
+Personnel: A multidisciplinary team of researchers and support staff is essential for conducting research on plant-based psychedelics. Key roles may include:
+a. Principal investigator: A qualified researcher with experience in the field, responsible for overseeing the study and ensuring compliance with regulations and ethical guidelines.
+b. Co-investigators: Researchers with expertise in relevant areas, such as pharmacology, neuroscience, psychology, or medicine, who can contribute to the design, execution, and analysis of the study.
+c. Laboratory technicians: Skilled personnel who can assist with laboratory procedures, sample preparation, and data collection.
+d. Data analysts/statisticians: Experts who can help with data analysis, interpretation, and presentation of results.
+e. Clinical trial personnel: If your study involves human subjects, you may need to hire or collaborate with clinical trial coordinators, physicians, nurses, and other healthcare professionals to oversee participant recruitment, informed consent, and safety monitoring.
+f. Regulatory and compliance specialists: Individuals who can help navigate the regulatory landscape, obtain necessary permits and approvals, and ensure that the research adheres to all applicable laws and guidelines.
+g. Administrative staff: Support staff to handle financial, logistical, and administrative aspects of the research project.
+Keep in mind that the specific roles and personnel required for your research may vary depending on the nature of your study, the regulatory environment, and the resources available at your institution. It's essential to collaborate with experienced researchers and professionals in the field to ensure that your research is well-planned, well-executed, and compliant with all relevant guidelines and regulations.
+
+
+
+Isaac Wostrel-Rubin
+What do drugs targeting the kappa opioid receptors usually do? 
+
+Kappa opioid receptors (KOR) are one of the four main types of opioid receptors in the human body, along with mu, delta, and nociceptin receptors. Drugs targeting KOR can have a variety of effects, depending on whether they act as agonists (activating the receptor) or antagonists (blocking the receptor).
+
+KOR agonists:
+Drugs that activate KOR typically produce effects such as analgesia (pain relief), sedation, and dysphoria (a state of unease or dissatisfaction). KOR agonists also have a role in regulating stress response, motivation, and reward. Because of their dysphoric and psychotomimetic (hallucination-inducing) effects, KOR agonists are not commonly used for pain management or other therapeutic purposes, unlike mu-opioid receptor agonists (e.g., morphine and related drugs).
+
+KOR antagonists:
+Drugs that block KOR have been investigated for their potential therapeutic effects in various conditions. KOR antagonists have shown promise in preclinical and early-stage clinical studies for treating:
+
+Depression: KOR antagonists can modulate the brain's reward system and may have antidepressant effects in people with treatment-resistant depression.
+Anxiety: Blocking KOR may help reduce anxiety-like behaviors and stress-induced relapse in animal models.
+Addiction: KOR antagonists have been studied for their potential to reduce drug-seeking behavior and relapse in substance use disorders, particularly for drugs like cocaine and opioids.
+Itch: KOR antagonists have demonstrated the ability to reduce itch sensation in certain conditions, such as atopic dermatitis.
+It is important to note that while there is promising evidence for the potential therapeutic uses of KOR antagonists, many of these applications are still in the experimental stage, and more research is needed to fully understand their safety and efficacy.
+
+
+
+Isaac Wostrel-Rubin
+Which KOR agonists are hallucinogenic? Do we know why? 
+

@@ -1,0 +1,7 @@
+1 loop: some specific type of application of 2 loop that reifies 3 interpreted as an instance of 2, which creates a type of 2. Usually a 1 instantiates a new type of 2, not a 3. It may be that for each system pair, there is one 3 route with many types, which explains how any 3 could be seen as a 2 and Vice versa, also reifying incompleteness. 
+⇔ explains how 3 is_a 2
+2 loop: Child System (hero’s journey, etc) 
+⇔ explains how 2 is_a 3, even though 3 is a 1 of 2, and therefore collapses 2 as a 3-loop in itself, and converts it to a 3, which makes the prior 3 even higher order, which implies 3 itself is currently incomplete in our construction
+3 loop: Sanctuary System
+
+So when chaining, there is a weaving algorithm for how chain links get connected while also being chains themselves, through some sleight of perspective. This allows for mapping of weakly linked chains into chains that can be relied upon for optimization towards strong links? 

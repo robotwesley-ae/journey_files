@@ -1,0 +1,48 @@
+the current planned workflow in progress (@ taskdaemon_wip)
+Current workflow battlefield skirmish statuses (@ taskdaemon_overview)
+
+Interface for kanban = github + github visualizer on frontend
+
+==== Allows me to manage all my tasks on Github from the Orchestrator
+
+Collate UCO_1 and UCO_2 convos
+Check state of total UCO pipeline status
+
+Integrate UCO with OMNISANC
+
+==== Allows me to construct any chains in a uniform formalized way and use ontologies, RDF, OWL, etc via PCNL CORL pipeline
+
+Integrate Poimandres with Taskdaemon from UCO OMNISANC
+
+==== Allows complex decomposition and AI or Human task disambiguation
+
+Integrate UCO OMNISANC with files, embeddings, and DBs for Zettelkasten for my_docs
+Create ZkBrainBrane
+
+==== Allows all unstructured docs to be ZK’d and engineered into ontologies via GDS on neo4j
+
+Upload all my_docs to ZkBrainBrane pipeline
+Convert my_docs to ZkDB and ProjectBrainBrane
+Procreate ProjectTypeBrainBranes from Projects from ZkDB
+Procreate ProjectInstancingBrainBranes from ProjectTypeBrainBranes for Projects from ZkDB
+
+==== Allows all projects from ontologies to be executed by AI and disambiguated to human tasks, meaning AI can continually execute tasks and is only blocked by the human
+
+Optimizer
+==== Allows use of scientific method and complex optimization using BrainBrane and AutoProcreate and UCO ChainConstructor etc.
+
+==== Allows creation, simulation, and deployment of complex production applications from NL
+==== Allows creation of Sanctuary ontologies, Sanctuary Nexus, SANCTUM, and Crystal Ball
+
+
+
+
+
+NATURAL LANGUAGE PROGRAMMING, TRANSFER LEARNING
+
+Sanctuary Funnel:
+
+Read “The Sanctuary System”
+Read “Level10+”
+Read “Going to Sanctuary”
+What is your Sanctuary? The world in which you would never stop playing your own “game” with the world, no matter how offensive, stupid, horrible, terrifying, lovely, etc it got?

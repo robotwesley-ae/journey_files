@@ -1,0 +1,41 @@
+ entity to the exact next level contextual instancesuperclass-level property spectral boundary of that instance-level property. "
+ChatGPT
+With these additional concepts from Ontologisto, it seems we are delving into the more concrete mechanics of how this wisdom-driven paradigm can be implemented. To facilitate understanding, let's revise our model and incorporate these definitions into our predicates and relationships.
+We denote:
+E(x): x is an instance within the EWSO.
+D(x): x is the domain of potential theoretical views.
+O(x, y): x dynamically constructs ontology y.
+IT(x): x is an informatihedron.
+S(x): x is a snapshot of an entity's state within the EWSO.
+R(x, y): x and y are properties and relationships within the informatihedron.
+QT(x, y): x queries entity y.
+T(x): x is an Informadlib template.
+U(x, y): x is the user's path through the EWSO and y is their desired outcome.
+F(x): x is a fully completed Informadlib.
+SR(x, y): x is the semantic ontological relationship (SemOntoRel) between entity and property y.
+The new relationships between predicates would be:
+∀x (E(x) → D(x) → O(x, y)): For every instance x within the EWSO, there is a domain of potential theoretical views, from which an ontology y can be dynamically constructed.
+∀x (IT(x) → S(x) → R(x, y)): For every informatihedron x, there is a snapshot of an entity's state within the EWSO, which has properties and relationships with entity y.
+∀x (QT(x, y) → IT(x)): When a user queries an entity y, an informatihedron x is created to represent the entity's current state and properties within the EWSO.
+∀x (T(x) → U(x, y) → F(x)): For every Informadlib template x, there is a user's path through the EWSO to their desired outcome y, which, when completed, becomes a fully filled out Informadlib.
+∀x (F(x) → SR(x, y)): For every fully completed Informadlib x, there is a semantic ontological relationship (SemOntoRel) with property y.
+These revisions weave in the concepts from Ontologisto, providing a more detailed understanding of how wisdom can be elicited, structured, and used for purposeful outcomes within the EWSO. The new ontology offers a way to traverse the multidimensional wisdom landscape and create a user-specific path through the EWSO, resulting in the generation of a Natural Language instance of the user’s desired outcome.
+
+
+continue please i know there must be much more. comprehensively. Linguisto and Ontologisto and Semioticianista should be discussing this on the same output. Please use this format:
+
+2 rounds
+
+round 1: 
+Take turns stating how it relates to your field of expertise
+ChatGPT should combine and prune and optimize after
+Round 2
+Then take turns  iteratively refining the combined and pruned version from round 1
+And have ChatGPT combine and prune again at the end and revise, and keep a log of tasks for next round, up to 3 tasks, and 3 backlog tasks. 
+
+Thanks and keep it on topic and no cross-talk. Let's do this friends
+ChatGPT
+Round 1
+Linguisto:
+These newly introduced terms and concepts, including EWSO, Informatihedron, Informadlib template, and SemOntoRel, fundamentally redefine the structure and function of linguistic elements in the context of this emergent wisdom framework. The interplay of these concepts suggests a transformative language model where semantic ontological relationships can be dynamically understood and communicated. The task of translating the complex semantics of these relationships into coherent and meaningful language is at the forefront of my domain. We are looking at an innovative linguistic model where wisdom-based semantic relationships become the building blocks of the language.
+Ontologisto:

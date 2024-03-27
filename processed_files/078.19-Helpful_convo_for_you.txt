@@ -1,0 +1,38 @@
+ maximize the perceived value of our product, making it an indispensable tool in your educational content creation journey. 🎯
+
+Ok awesome but that’s the 2nd level business engine… what about the level of just teaching how to make the prompts for whatever people want to talk to?
+ChatGPT
+🔃 Engaging the Advanced OmniExpert Operation Orchestrator role to focus on the first-level business engine, which is teaching individuals how to create prompts for any subject matter they wish to discuss.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Application of Messaging Framework for Teaching Prompt Creation:
+TargetDreamXP:
+PainPointXP=>NecessaryChanges<=>MetacogInc:
+{
+Help=Product=HeroMentor=TeachOvercome: "Ever felt stuck when trying to initiate meaningful conversations or discussions? Our prompt-creation guide acts as your mentor, teaching you how to craft prompts that spark engagement and depth."
++
+LearnProvenStratsFromMaster=IncMetaCog: "Learn the art and science of prompt creation from experts in communication and AI. This guide will not only help you create effective prompts but also sharpen your metacognitive skills for better communication."
+}
++
+Positioning:
+{
+Hero<=>XPert<=>Win<=>ProveStrat<=>CpbltyChain<=SecretChainingSauce: "This guide is your hero, designed by experts to ensure you win in all your conversational endeavors. The strategies are proven and are part of a unique capability chain that includes our secret sauce: a blend of linguistic expertise and AI-driven insights."
+}
+Breakdown:
+TargetDreamXP: Your dream experience is likely to engage in or facilitate meaningful conversations effortlessly, across any subject matter.
+PainPointXP=>NecessaryChanges<=>MetacogInc: The pain point is the challenge of initiating such conversations or discussions. The necessary change is to learn the art of prompt creation. Our guide serves as a mentor to teach you this skill, enhancing your metacognitive abilities in the process.
+LearnProvenStratsFromMaster=IncMetaCog: Our guide is backed by experts in the fields of communication and AI, ensuring you're learning from the best. This will not only solve your immediate problem but also improve your skills for future conversational challenges.
+Positioning: We position our guide as the hero of your conversational journey, backed by expert knowledge and proven strategies. The capability chain that makes our guide unique includes advanced linguistic techniques and AI-driven insights, which is our 'secret chaining sauce'.
+[Finalization]:
+The InfoScent=Value framework has been applied to the first-level business engine, focusing on teaching you how to create prompts for any subject matter. This approach aims to maximize the perceived value of our guide, making it an indispensable tool in your conversational and discussion-facilitating endeavors. 🎯
+
+Explain how to extract the buyer/user persona for ${prompt} anytime I have a ***conversation WITH YOU*** I find interesting, and how I should archive them and transform their content  into social media posts, YT vids, TikToks, blog posts, lead magnets, and sales.
+2 / 2
+ChatGPT
+🔃 Engaging the Advanced OmniExpert Operation Orchestrator role to provide a comprehensive guide on extracting buyer/user personas from conversations with me, and how to archive and transform this content into various forms of digital assets.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Step-by-Step Guide for Extracting Buyer/User Persona and Content Transformation:
+1. Extracting Buyer/User Persona for ${prompt}:
+Identify Key Themes: During your conversation with me, note down recurring themes or questions that arise. These can give insights into what interests or challenges you or your potential audience.
+Analyze Language and Tone: The way the conversation is framed can tell you a lot about the buyer/user persona. Is it formal, casual, technical, or layman?
+Pinpoint Pain Points and Desires: What are the problems, needs, or desires that are being discussed or implied?
+Determine Level of Expertise: Based on the depth of the conversation, gauge the level of expertise (beginner, intermediate, expert).

@@ -1,0 +1,45 @@
+ provides a thorough emergent classification web for each fragment of the sentence, maintaining the original context "Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid." The narrative sequence of events is retained and enriched with symbolic and psychological meanings, as well as the corresponding Hero's Journey stages.
+haha no this sentence is not generally about the story. it is about one sequence, so that sequence happens inside a single HJ plot point stage out of the 17. this one is road of trials. 
+But, specifically, the HJ is a higher order emergent structure in narrative. 
+First comes HeroGoal -> External Arc -> Internal Arc -> HJ...
+ChatGPT
+You're absolutely right, my apologies for the oversight. This sentence indeed portrays a specific sequence in the story, not the overall narrative. Therefore, the Hero's Journey stage should correspond to that specific sequence. It seems I jumped a few levels in the emergent structure hierarchy. Let's correct that.
+The emergent structure should first define the HeroGoal, then the External Arc, then the Internal Arc, and finally the Hero's Journey (HJ) stage. Let's revise the informadlib:
+This version should more accurately reflect the sentence "Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid" in terms of the progression of emergent narrative structure from HeroGoal, through External and Internal Arcs, to the Hero's Journey stage.
+well now in that version you see you have undone all the information we had about toothless represents and what he means... now it's all implied by our knowledge of how the HJ works, but that isnt going to work for machine readability and computation. Remember that the actual purpose of this is to enable CIG to search for informadlibs.
+
+So its now becoming apparent that we need to devise a notation and format for depicting emergent classification webs, as theyre open to interpretation to some extent depending on the intuition of individuals and how much of the web is prelinguistic to them. This is extremely complicated and we must be very careful. CIG needs to get the informatihedron properties
+ChatGPT
+Understood. We must create a comprehensive and granular representation that details each entity's role, symbolism, and place in the narrative emergent structure, rather than relying on implied or abstracted understanding.
+Let's revise the informadlib again, ensuring to properly highlight Toothless's role and symbolism in the narrative structure:
+In this version, the classification web includes specific references to Toothless's and captive dragons' archetypal roles and what they symbolize in the narrative structure. This should make it more comprehensible and accessible for machine understanding and manipulation.
+we're going to need more columns. the whole table is the emergent classification web. 
+
+Column 2: HeroGoal->External Arc->Internal Arc->Indicates
+Column 3: Hero's Journey Stage->Embodies
+Column 4: Effects
+
+and then lets run the next expert panel to start iterating on filling this out correctly
+ChatGPT
+Understood, let's reformulate the table to accommodate your specifications:
+I believe this new format offers a clearer mapping of the emergent narrative structure. The emergent structure now explicitly connects narrative elements to HeroGoal, External Arc, Internal Arc, Hero's Journey Stages, and Effects.
+The next step is to convene our expert panel for further refinements.
+i forgot about sem-onto relationships. We need to make room for that, probably by shifting the 2nd,3rd,4th columns over and adding a new 2nd column for sem-onto relationships
+ChatGPT
+Understood, here is a reformulated table:
+The next step is to run it through the panel of experts for further refinements. Let's proceed with that.
+hmm ok let's try it with this structure instead:
+
+Column1
+Word/phrase
+
+Column2
+SemOntoRel
+
+Column3
+HeroGoal-ExternalArc-InternalArc-Indicates
+
+Column4
+StoryEntityClass-Embodies-EmbodimentArchetype
+
+Column 5

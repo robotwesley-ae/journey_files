@@ -1,0 +1,22 @@
+Now, let's remember that this is not strictly OWL, but OWL+GPT which is special. We can query GPT for multiple levels of properties and so on at once using commands like InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate, and so on. 
+
+We can also use these terms and custom define them in order to create the algorithm we need to make this automatically, so the user gets a fully defined informatihedron of whatever they want. 
+
+REMEMBER: THERE IS NOT AN OWL ONTOLOGY ANYWHERE. THERE ARE ONLY CUSTOM DEFINED TERMINOLOGY EXPLOITING GPT'S KNOWLEGE OF OWL FRAMEWORK APPLICATION TO MAKE A FUNCTIONAL EWSO SEMONTOREL (SemanticOntologicalRelationship) ALGORTIHMIC FRAMEWORK THAT AUTOMATICALLY CAPTURES THE PROPER INSTANCELEVEL.INSTANCEPROPERTY-PROPERTY.VALUE->CLASSLEVEL.INSTANCEPROPERTY-PROPERTY.SPECTRUMConceptualBOUNDARY which means InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary"
+ChatGPT
+Round 1:
+Expert 1 (Dr. Veda, Combinatorics & Knowledge Representation and Reasoning):
+Given the contextual data and constraints provided, I concur that the user should be allowed to traverse the "knowledge graph" or EWSO, one node at a time. We should aim to dynamically construct the EWSO and the informadlib based on the user's queries and adjustments. We must formulate the node information in terms of OWL terminology so that GPT can process the request appropriately. Therefore, we need a mapping between our EWSO node properties and OWL terms, effectively encoding the informadlib.
+Expert 2 (Dr. Benjamin, Computer Science & AI):
+Yes, Dr. Veda. Moreover, to ensure we're making the most of GPT's capabilities, we should frame the user's prompts and adjustments as OWL-based queries. GPT's understanding of the OWL language will allow it to interpret these queries and provide meaningful responses, essentially generating the desired informadlib. Additionally, the user's feedback can be seen as a sequence of directives that will guide the generation and refinement of the informadlib.
+Expert 3 (Dr. Ana, Combinatorics & Mathematical Implications):
+Your points are valid, Dr. Benjamin. From a mathematical standpoint, we should consider the EWSO as a complex, dynamic structure. User queries and subsequent adjustments will result in changes to this structure, which need to be modeled appropriately to ensure meaningful and logical responses. This modeling can be done within the OWL framework, which GPT can process effectively.
+Expert 4 (Dr. Louis, Ontology & Integration):
+To summarize, we're envisioning a system wherein a user, through the use of OWL-based queries, navigates a conceptual knowledge graph or EWSO. The navigation process dynamically generates and refines an informadlib, which is the user's desired outcome. GPT's understanding of OWL allows it to effectively interpret these queries and adjustments, providing the required functionality without needing any changes to the model itself. From an ontological standpoint, we are essentially creating a new, custom-defined semantic-ontological relationship framework that aligns with GPT's capabilities.
+Round 2:
+Expert 1 (Dr. Veda, Combinatorics & Knowledge Representation and Reasoning):
+We need to further define the specifics of how the OWL terminology will be utilized to represent our EWSO. For instance, how will we represent the InstanceLevel, InstanceProperty, Property.Value, and other components within the OWL framework in such a way that GPT can accurately represent the multidimensional properties of the informatihedron?
+Expert 2 (Dr. Benjamin, Computer Science & AI):
+Building upon Dr. Veda's point, we need to figure out how to craft user queries and feedback into effective OWL directives that GPT can understand and process. To do this, we should clearly define our custom terminology (e.g., InstanceLevelProperty, DomainLevelClassPropertyTemplate, etc.) within the OWL context.
+Expert 3 (Dr. Ana, Combinatorics & Mathematical Implications):

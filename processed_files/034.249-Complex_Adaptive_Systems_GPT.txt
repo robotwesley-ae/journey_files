@@ -1,0 +1,37 @@
+List the extracted entities, axiomatic statements, and non-axiomatic claims on a spreadsheet.
+Organize the spreadsheet data with appropriate headers for entities, properties, relationships, and classification.
+Use a wiki platform like MediaWiki, DokuWiki, or TikiWiki to create your wiki.
+Create a page for each entity, using the page title as the entity name.
+Fill the page content with the entity's properties, relationships, and classifications extracted from the documents.
+Add links on each page to connect the entities with their related entities and classification.
+Apply Markdown formatting to the text to create a clear structure and hierarchy.
+With these steps, you should be able to create a wiki using the data extracted from the documents.
+
+
+You don’t remember. I don’t do any work other than connecting parts. AI tools maximize everything.
+I apologize for the confusion. Here's a revised plan using AI tools to maximize automation in the process of creating the wiki:
+Use an AI tool like OpenAI's GPT model to scrape the document for entities, axiomatic statements, and non-axiomatic claims.
+Use a tool like Zapier or Integromat to automatically transfer the extracted data to a spreadsheet (e.g., Google Sheets).
+Use a script or automation tool to organize the spreadsheet data with appropriate headers for entities, properties, relationships, and classification.
+Use a wiki platform like MediaWiki, DokuWiki, or TikiWiki to create your wiki.
+Create an automation script or use a tool like Zapier to automatically generate pages for each entity, using the page title as the entity name, and fill in the page content with the entity's properties, relationships, and classifications.
+Use another automation script or tool to add links on each page connecting the entities with their related entities and classification.
+Apply Markdown formatting to the text using an automation script or tool to create a clear structure and hierarchy.
+This plan should minimize your manual work and utilize AI tools to help with the majority of the tasks involved in creating the wiki.
+
+
+Great specify it so I can actually do it all
+Here's a more detailed step-by-step guide using specific tools and platforms:
+Use OpenAI's GPT-3 (accessed via the OpenAI API) to process the document and extract entities, axiomatic statements, and non-axiomatic claims.
+Set up a new Google Sheets document to store the extracted data. Organize the data into different sheets: Entities, Axiomatic Statements, Non-Axiomatic Claims.
+Use Zapier to create an automation that connects the GPT-3 output with the Google Sheets. Create three separate Zaps, one for each type of data (Entities, Axiomatic Statements, Non-Axiomatic Claims). Each Zap should trigger when new data is extracted by GPT-3 and then add a new row to the corresponding sheet in Google Sheets.
+Choose a wiki platform, such as MediaWiki, and set up the basic structure of your wiki. Create templates for the entity pages with sections for properties, relationships, and classifications.
+Create a Python script using the Google Sheets API to read data from the sheets created in step 2. The script should iterate through the entities sheet, creating a new wiki page for each entity using the templates you created in step 4.
+While iterating through the entities, use the script to populate the properties, relationships, and classifications sections of each wiki page. For relationships, create links to the related entity pages within the wiki.
+Use the Python Markdown library to apply Markdown formatting to the text. This will ensure a clear structure and hierarchy in the wiki.
+Finally, set up a script to automatically update the wiki whenever new data is added to the Google Sheets document. This can be done using the Google Sheets API and a webhook to trigger the script when new data is added.
+By following these steps, you should be able to create and maintain your wiki with minimal manual work, utilizing AI and automation tools to handle the majority of tasks.
+
+
+2 / 2
+Let’s think about other tools I’ll need to make the Sanctuary system accessible to people that can be made with zapier plugins and chatGPT and gpt + pinecone and others

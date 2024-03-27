@@ -1,0 +1,38 @@
+Axiom 3: Financial trading bots make automated buy and sell decisions based on predefined rules and strategies.
+Premise 3: Strategies and rules can be defined using a combination of mathematical formulas and analysis of market data.
+Axiom 4: Maximizing profit is the primary goal of a financial trading bot.
+Premise 4: The trading bot must be designed with a focus on optimizing gains and minimizing losses.
+Axiom 5: Continuous surf refers to the strategy of riding upward trends and avoiding downward ones.
+Premise 5: The trading bot should implement a strategy that takes advantage of upward trends while avoiding downward ones, utilizing mathematical formulas and analysis of market data.
+Axiom 6: Trading fees and rate of change differences affect the profitability of a trading strategy.
+Premise 6a: The trading bot must take into account the impact of trading fees on profitability.
+Premise 6b: The trading bot should factor in the rate of change differences to avoid making unprofitable trades.
+By integrating the premises derived from these axioms, the trading bot should be designed using no-code tools and Zapier plugins to connect to financial platforms, incorporate GPT-4 APIs, implement predefined rules and strategies, focus on maximizing profit, employ a continuous surf strategy, and account for trading fees and rate of change differences.
+
+
+Revise according to my example:
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to various web apps and services.
+Web apps and services connected to Zapier according to my data that are related to this project include ____. 
+Premise 1: They can be connected like ____ to accomplish the aim.
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to various web apps and services.
+Web apps and services connected to Zapier according to my data that are related to this project include financial platforms like Alpaca, TD Ameritrade, Robinhood, and IEX Cloud.
+Premise 1: They can be connected to no-code tools like Bubble or Adalo through their respective APIs and then create workflows using Zapier to manage data flow and trigger actions, which will accomplish the aim of creating an automated trading bot.
+
+
+continue
+Axiom 2: GPT-4 can be integrated into applications via APIs.
+GPT-4 API allows developers to access and utilize the capabilities of GPT-4 within their applications.
+Premise 2: Integrating GPT-4 into the trading bot application can assist in decision-making, strategy optimization, and natural language understanding for processing market news and sentiment analysis.
+Axiom 3: Financial trading bots make automated buy and sell decisions based on predefined rules and strategies.
+Automated trading bots use algorithms, technical indicators, and other quantitative methods to execute trades.
+Premise 3: Designing a trading strategy that implements continuous surf and integrates it into the trading bot will enable it to ride upward trends and avoid downward ones.
+Axiom 4: Maximizing profit is the primary goal of a financial trading bot.
+Profit maximization involves optimizing the trading strategy, minimizing transaction costs, and effectively managing risk.
+Premise 4: To maximize profit, the trading bot should be designed with a focus on optimizing the continuous surf strategy, incorporating risk management, and minimizing trading fees.
+Axiom 5: Continuous surf refers to the strategy of riding upward trends and avoiding downward ones.
+Continuous surf strategy aims to capture gains in assets that are appreciating in value while avoiding or minimizing exposure to depreciating assets.
+Premise 5: By implementing a continuous surf strategy, the trading bot can increase the likelihood of generating positive returns and reduce the risk of losses.
+Axiom 6: Trading fees and rate of change differences affect the profitability of a trading strategy.
+Transaction costs can significantly impact the overall performance of a trading strategy, especially when frequently trading in and out of positions.

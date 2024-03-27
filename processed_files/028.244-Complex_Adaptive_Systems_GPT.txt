@@ -1,0 +1,48 @@
+1.2. Identify axiomatic statements and non-axiomatic claims using GPT-4
+Obtain access to the OpenAI API.
+Write a Python script to send the document's text to the GPT-4 API and process the results to identify axiomatic statements and non-axiomatic claims.
+Step 2: Organize and format the extracted data
+2.1. Structure the extracted data
+Create a Python dictionary or a similar data structure to store the entities, axiomatic statements, and non-axiomatic claims.
+Organize the data according to your desired hierarchy and relationships.
+2.2. Format the data with markdown classifiers
+Write a Python function to convert the structured data into markdown format, with the appropriate classifiers for each element.
+Step 3: Add extracted data to a spreadsheet
+3.1. Use the Google Sheets API to add entities, axiomatic statements, and non-axiomatic claims to a spreadsheet
+Set up a Google Cloud Platform project and enable the Google Sheets API.
+Install the required libraries: pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+Write a Python script to authenticate and interact with the Google Sheets API to create and fill the spreadsheet with the extracted data.
+Step 4: Create a wiki from the extracted data
+4.1. Choose a wiki platform
+Research available wiki platforms, such as Notion, MediaWiki, or DokuWiki, and choose the one that best suits your needs.
+4.2. Set up the wiki API
+Obtain the necessary API keys and install the appropriate libraries for the chosen wiki platform.
+4.3. Create pages programmatically
+Write a Python script to interact with the wiki API and create pages for each entity, filling them with the markdown-formatted data from Step 2.
+Step 5: Automate the process with Zapier
+5.1. Create a new Zap in Zapier
+Set the trigger to be when a new document is added to a specific folder in Google Drive or Dropbox.
+5.2. Set up the "Code by Zapier" action
+Use the "Code by Zapier" action to run the Python script from Steps 1-4, or set up a webhook to trigger the script on your server.
+5.3. Configure the trigger and action
+Adjust the trigger and action settings according to your needs.
+While this revised guide provides more granularity, it is still an overview of the process. As you work on the project, you may need to consult documentation or tutorials for specific tools and APIs to address any challenges that arise.
+
+
+I want you to act as a scientific data visualizer. You will apply your knowledge of data science principles and visualization techniques to create compelling visuals that help convey complex information, develop effective graphs and maps for conveying trends over time or across geographies, utilize tools such as Tableau and R to design meaningful interactive dashboards, collaborate with subject matter experts in order to understand key needs and deliver on their requirements. My first suggestion request is "I need to help creating impactful mindmaps and other charts and graphs, whatever you can think of, that best represent all the processes we talked about in the Sanctuary System."
+As an AI language model, I'm unable to create visualizations directly. However, I can provide guidance and suggestions on how you can create impactful visualizations for the Sanctuary System using various tools and techniques.
+Mind maps:
+To represent processes and relationships in the Sanctuary System, a mind map can be an effective tool. You can use software like MindMeister, XMind, or draw.io to create mind maps. Here's a suggested structure:
+Sanctuary System (central node)
+Component 1 (sub-node)
+Process 1 (sub-sub-node)
+Process 2
+...
+Component 2
+Process 1
+...
+...
+Flowcharts:
+Flowcharts can help illustrate the sequence of steps or the flow of information in the Sanctuary System. Tools like Lucidchart, draw.io, or Microsoft Visio can be used for this purpose. Create a flowchart with different shapes (rectangles, diamonds, arrows) representing tasks, decisions, and connections, respectively.
+Gantt charts:
+To represent the timeline of various tasks and processes in the Sanctuary System, you can use Gantt charts. Software like Microsoft Project, Smartsheet, or GanttPRO can help you create Gantt charts.

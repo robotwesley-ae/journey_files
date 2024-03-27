@@ -1,0 +1,59 @@
+Current language models fall short in understanding aspects of the world not easily described in words, and struggle with complex, long-form tasks. Video sequences offer valuable temporal information absent in language and static images, making them attractive for joint modeling with language. Such models could develop a understanding of both human textual knowledge and the physical world, enabling broader AI capabilities for assisting humans. However, learning from millions of tokens of video and language sequences poses challenges due to memory constraints, computational complexity, and limited datasets. To address these challenges, we curate a large dataset of diverse videos and books, utilize the RingAttention technique to scalably train on long sequences, and gradually increase context size from 4K to 1M tokens. This paper makes the following contributions: (a) Largest context size neural network: We train one of the largest context size transformers on long video and language sequences, setting new benchmarks in difficult retrieval tasks and long video understanding. (b) Solutions for overcoming vision-language training challenges, including using masked sequence packing for mixing different sequence lengths, loss weighting to balance language and vision, and model-generated QA dataset for long sequence chat. (c) A highly-optimized implementation with RingAttention, masked sequence packing, and other key features for training on millions-length multimodal sequences. (d) Fully open-sourced a family of 7B parameter models capable of processing long text documents (LWM-Text, LWM-Text-Chat) and videos (LWM, LWM-Chat) of over 1M tokens. This work paves the way for training on massive datasets of long video and language to develop understanding of both human knowledge and the multimodal world, and broader capabilities.
+
+
+
+Question Answering Over 1 Hour Video.
+Figure 1. Long video understanding. LWM can answer questions about over 1 hour YouTube video.
+
+
+Fact Retrieval Over 1M Context.
+Figure 2. Needle retrieval task. LWM achieves high accuracy across 1M context window and outperforms GPT-4V and Gemini Pro.
+
+Figure 3. Needle retrieval task. LWM achieves high accuracy for varying context sizes and positions in the context window.
+
+
+Long Sequence Any-to-Any AR Prediction.
+Figure 4. Any-to-Any Long Sequence Prediction. RingAttention enables the use of a very large context window for training across diverse formats such as video-text, text-video, image-text, text-image, pure video, pure image, and pure text. See the LWM paper for key features, including masked sequence packing and loss weighting, which allow effective video-language training.
+
+
+Modeling Diverse Videos and Books With RingAttention.
+Figure 5. Context Extension and Vision-Language Training. Expanding context size from 4K to 1M on books using RingAttention, followed by vision-language training on diverse forms of visual contents of lengths 32K to 1M. The lower panel shows interactive capabilities in understanding and responding to queries about complex multimodal world.
+
+
+Text-Image Generation.
+
+Figure 6. Text to Image. LWM generates images based on text prompts, autoregressively.
+
+
+Text-Video Generation.
+Fireworks exploding in the sky
+Waves crashing against the shore
+A bustling street in London with red telephone booths and Big Ben in the background
+Camera pans left to right on mago slices sitting on a table
+A ball thown in the air
+Slow motion flower petals falling on the ground
+A burning campire in a forest
+A boat sailing on a stormy ocean
+Figure 5. Text to Video. LWM generates videos based on text prompts, autoregressively.
+
+
+Image Based Conversation.
+Figure 6. Image understanding. LWM can answer questions about images.
+
+
+Video Chat Over 1 Hour YouTube Video.
+
+
+
+
+
+Figure 7. Long Video Chat. LWM answers questions about 1 hour long YouTube video even if state-of-the-art commercial models GPT-4V and Gemini Pro both fail. The relevant clips for each example are at timestamps 9:56 (top) and 6:49 (bottom).
+"
+ 
+
+whats the difference between the worldmodel and mixtral?
+ 
+
+what is a world model compared to a language model?
+ 
+

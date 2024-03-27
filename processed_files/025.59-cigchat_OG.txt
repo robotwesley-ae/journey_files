@@ -1,0 +1,45 @@
+Expert 4 (Narratologist): "Narrative Role Assignment" may also be a key process here. This refers to the assignment of roles in a narrative based on their function within the story. In this case, the act of "learning dragon behavior" is assigned the role of a "ProtagonistAction" based on its function in Hiccup's narrative arc.
+Does this approach align with your vision? Please let us know if there are any adjustments we need to make.
+No because u geniuses need to use terminology that makes sense. 
+
+Learning dragon behavior
+= 
+We are relating the chunk of the text to the emergent web starting in what way? 
+
+Is protagonistaction the first emergent structure? 
+
+So then InstanceProperty??? What kind of ONTOLOGICALLY DEFINED PROPERTY IS BEING TALKED ABOJT
+
+WHAT KIND OF ONTOLOGICAL RELATIONSHIP IS BEING USED TK ABSTRACT IT 
+
+Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure? This is what we are trying to figure out, geniuses.
+ChatGPT
+Thank you for your patience and feedback. You are right; we should focus on the relationships and categorizations through a purely ontological perspective. To answer your questions:
+In the SemOntoRel framework, "Learning dragon behavior" can be understood as an "InstanceProperty", which refers to a specific characteristic or action exhibited by an individual entity in the ontology - in this case, the protagonist's action.
+This "InstanceProperty" is then linked to a direct "ClassProperty" through a process called "Property Mapping". In this specific case, "Learning dragon behavior" (an action performed by the protagonist, an instance) is mapped onto "ProtagonistAction" (a class of actions typically performed by protagonists in narratives). This is a type of "Is-A" relationship, a fundamental relationship in ontology where the instance belongs to a class.
+The Emergent Structure in this case would be the ontology itself, which forms through the hierarchical classification of instance properties into classes and superclasses. For instance, the property "Learning dragon behavior" could be classified under classes like "ProtagonistAction", "LearningAction", "Dragon-relatedAction", etc., with each class being part of a larger superclass (such as "Action").
+To ensure we don't skip superclasses in the Emergent Web Structure, we need to apply a "Hierarchical Progression" approach, wherein we systematically classify each instance property into its direct class, then identify the direct superclass of that class, and so on until we reach the topmost superclass. This ensures every level of the hierarchy is accounted for.
+The algorithm for Hierarchical Progression could be something like this:
+Start with the instance property (e.g., "Learning dragon behavior")
+Identify the direct class this instance belongs to (e.g., "ProtagonistAction")
+Identify the superclass of the direct class
+Repeat the process until the topmost superclass is reached
+The Ontological Structure it is being abstracted to would be the highest superclass that encompasses all other classes. This superclass captures the most generalized, abstract concept underlying all instance properties, classes, and subclasses.
+We appreciate your guidance and hope this revised explanation meets your expectations. Let's now proceed to refining these concepts in the expert panel.
+Great but expert panel and one term at a time thank you. 2 rounds same as before 
+
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1:
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for novel emergence 
+
+Round 2:
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦 

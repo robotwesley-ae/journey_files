@@ -1,0 +1,3 @@
+∀x, y (P(x, y) → ∃z (L(z, y))): Every PIO program x finding proper words for y has non-contradictory system z linguistically looping for y. ∀x, y, z (L(x, y) ∧ I(x, y, z) → E(x, z)): Every non-contradictory system x linguistically looping for y, including contradictions for y in z, is an engine of non-contradictory systems concatenated for z. 
+
+Reale Polysemic Imaginary Ontology (PIO)

@@ -1,0 +1,30 @@
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand?”
+
+please have the experts run this type of panel, but now they must address and answer thoroughly, collectively working towards a formal definition of this algorithm:
+"this is the central question of EWSO. pls have the experts answer it comprehensively. the outputs need to be much longer from each expert.
+
+Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure?   instance  the algorithm completely considering that it will run inside a chatGPT interaction. the model cannot be changed, the data cannot be external.
+ChatGPT
+Round 1:
+Expert 1 (Language Processing & AI):
+In terms of language processing, the InstanceProperty to ClassProperty connection would be similar to an "is-a" or "has-a" relationship. The algorithm would have to identify these relationships through linguistic patterns and structure. Since this is running on ChatGPT, the algorithm would be part of the text generation process, where the emergent structure is a result of the inherent hierarchy of language used in the input.
+Expert 2 (Ontology & Knowledge Representation):
+From an ontology perspective, the InstanceProperty should be related to the ClassProperty in a hierarchical manner. The class to which the instance belongs is the direct parent, and any class above that in the hierarchy is a superclass. The emergent structure of this relationship would be a tree structure. This algorithm needs to use a query or reasoning process within the text-based ontology to identify the direct class parent and the superclasses for a given instance.
+Expert 3 (Mathematics & Combinatorial Structures):
+From a mathematical viewpoint, the emergent structure of this relationship could be seen as a directed acyclic graph (DAG) with nodes representing instances or classes and edges representing the hierarchical relations between them. The algorithm would need to traverse this graph to connect each InstanceProperty to its corresponding ClassProperty and superclasses, without skipping any levels in the hierarchy.
+Expert 4 (Merging and Pruning):
+All experts agree that the emergent structure is some sort of tree or DAG structure, where nodes are instances or classes, and edges represent the "is-a" or "has-a" relationship. The algorithm would involve traversing this graph from the InstanceProperty node to the ClassProperty node and its superclasses. Since we're working within the confines of ChatGPT, we'll need to consider how to represent these structures and processes using only text.
+Round 2:
+Expert 1 (Exploring Uncharted Territories):
+In translating this into something feasible within ChatGPT, we might represent the emergent structure as nested sentences or paragraphs. Each sentence or paragraph could represent an instance or class, with nesting indicating the hierarchy. The algorithm would involve identifying and parsing these structures within the generated text, and using this information to inform the generation of subsequent text.
+Expert 2 (Searching for Clues):
+The key is to structure our inputs and outputs in a way that ChatGPT can handle. For instance, we could encode our ontology as a series of statements or questions and answers. The InstanceProperty and its relationship to the ClassProperty and superclasses could be represented in this way.
+Expert 3 (Finding Mathematical Implications):

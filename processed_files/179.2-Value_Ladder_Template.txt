@@ -1,0 +1,45 @@
+                    | -- Action: Additional purchase.
+                    |    |
+                    |    └-- [CP Repeat]: Core Customer to Repeat Customer
+                    |
+                    └--> [👑PO AIDA]
+                          | -- Attention: Exclusive offers or membership access.
+                          | -- Interest: Personalized benefits and high value of PO.
+                          | -- Desire: Aspiration to join the highest tier of service.
+                          | -- Action: Commitment to PO.
+                          |    |
+                          |    └-- [CP Loyal]: Repeat Customer to Brand Advocate
+
+understand how the customer is interacting with the offers. it leverages the ADHD trigger cycle (exploitation of current resource vs foraging for new better one) via creating gold rush atmosphere out of abundant exchange (framing the transaction as a massive win win for everyone). this unlocks peoples' stupidity and makes them forego current behavior patterns in favor of the promise of better ones they develop for themselves on the basis of having a map to better resources that only appear if they learn how to create the resource that triggers ADHD cycles. So the value ladder leverages this ADHD cycle in order to make people courageous enough to go and search for the new resource, but also gives them a map to it (via the products in the offers, usually) so that when they encounter the new resource, they wont lose the pokemon battle to make it theirs (they will overcome the obstacle) and then return to the value ladder looking for the next step. Because the value ladder is proven to work, because the person who sold it to the customer also did it themselves before to find out about it
+[🧲LM AIDA] 
+  | -- Attention: Free value offering grabs attention, exploiting ADHD trigger for new resources.
+  | -- Interest: Content quality and 'gold rush' framing pique interest, promising abundant exchange.
+  | -- Desire: Recognition of additional needs and self-fulfillment potential.
+  | -- Action: Opt-in or registration for more information, leveraging the promise of a better resource.
+  |    | 
+  |    └-- [CP Entry]: Visitor to Engaged Lead, motivated by the promise of a new, better path.
+  |
+  └--> [🔗TW AIDA]
+        | -- Attention: Special offer captures attention, reinforcing the 'gold rush' atmosphere.
+        | -- Interest: The low price and high value increase interest, promising massive win-win.
+        | -- Desire: The offer creates desire by showcasing immediate value and unlocking stupidity.
+        | -- Action: Making the first purchase, stepping into the map to better resources.
+        |    |
+        |    └-- [CP Engaged]: Engaged Lead to First-Time Customer, emboldened to seek new resources.
+        |
+        └--> [💡CO AIDA]
+              | -- Attention: Direct promotion based on previous interactions, further exploiting ADHD cycle.
+              | -- Interest: Detailed explanation of how CO addresses deeper needs, providing a clearer map.
+              | -- Desire: Building a strong case for the value of CO, ensuring readiness for the 'pokemon battle'.
+              | -- Action: Purchase of CO, equipped to overcome obstacles and claim new resources.
+              |    |
+              |    └-- [CP Customer]: First-Time Buyer to Core Customer, having overcome initial obstacles.
+              |
+              └--> [🚀US AIDA]
+                    | -- Attention: Post-purchase offer shows related products, indicating next resource.
+                    | -- Interest: Highlighting benefits and additional value, reinforcing the success cycle.
+                    | -- Desire: Creating a need for the additional features or services, for next victory.
+                    | -- Action: Additional purchase, embarking on the next challenge with better tools.
+                    |    |
+                    |    └-- [CP Repeat]: Core Customer to Repeat Customer, returning for more maps and tools.
+                    |

@@ -1,0 +1,56 @@
+
+A lot of people ask me for a concrete demonstration of a use case for Personas and for CrystalBall. CrystalBall is a tool I made for mind mapping in increasing levels of complexity, so here’s one example where I am mapping a term I made up, so I can see how the AI is thinking of it, and then go from there to where I want to be.
+
+What is this imaginary term, you ask? I present to you the… 
+
+“ContentValueQualityPerceptionForcesInstantiationChain.”
+
+What is ContentValueQualityPerceptionForcesInstantiationChain, you ask? 
+
+I present to you the case study:
+
+
+“””
+Default GPT-4:
+
+User: “ContentValueQualityPerceptionForcesInstantiationChain”
+
+
+Assistant: “The phrase "Content Value Quality Perception Forces Instantiation Chain" seems to be a sequence of individual terms related to content creation, marketing, and user experience, rather than a single, recognized concept. However, I can explain each of these terms to provide clarity and possibly how they might connect in a process:
+
+1. **Content**: Material such as text, images, video, etc., provided to consumers or audiences through various platforms (websites, social media, television).
+
+2. **Value**: The significance or benefit that the content delivers to the user. Value is subjective and can range from educational to entertaining.
+
+3. **Quality**: This refers to the standard of something as measured against other similar entities. In content terms, high-quality content is well-produced, accurate, and effectively delivers its message or purpose.
+
+4. **Perception**: Perception is the way in which something is regarded, understood, or interpreted by the audience. In the case of content, this refers to how the audience views the quality and value of the content.
+
+5. **Forces**: These could be internal or external pressures that influence the creation and distribution of content, such as market demand, technological advances, or corporate strategy.
+
+6. **Instantiation**: This term refers to the realization or implementation of something. In a digital context, it might refer to the creation and publication of content.
+
+7. **Chain**: This often refers to a series of interconnected events or processes.
+
+If we were to create a concept out of the phrase "Content Value Quality Perception Forces Instantiation Chain," it might look something like this:
+
+In the context of digital content creation and distribution, the "chain" represents the successive steps that content goes through from conception to realization.
+
+1. The foundation starts with the creation of content that is intended to bring some value to the intended audience.
+2. The quality of the content is ensured through careful production and curation to meet certain standards.
+3. Upon release, the audience perceives this content, interpreting its value and quality.
+4. The forces in the industry, whether they are consumer expectations, technological capabilities, or business objectives, influence the way content is shaped.
+5. The instantiation is then the outcome of this process, as the content is actually published or made real for the audience to engage with.
+
+Therefore, we can hypothetically view this "chain" as the flow from content creation all the way to the content’s reception and the forces that act upon it throughout its lifecycle.
+“
+
+
+
+ChainConstructor_GPT (My CustomGPT with a chaining prompt [for Prompt Gym]):
+
+
+You
+ContentValueQualityPerceptionForcesInstantiationChain
+
+ChainConstructor_GPT

@@ -1,0 +1,48 @@
+Parallel Funnels: Other funnels might operate in parallel, targeting different segments of the audience or different goals simultaneously. For example, a business might run an SEO funnel to attract organic traffic, a PPC ad funnel to attract paid traffic, and a social media funnel to engage with the audience, all at the same time.
+
+Non-linearity of Funnels
+
+While the funnels are presented in a linear fashion for simplicity, it's important to note that customer journeys often loop back, skip stages, or cross from one funnel into another. For example, a customer may go from the 'Interest' stage in a 'Content Funnel' directly to the 'Action' stage in an 'Email Funnel'. This non-linearity should be recognized and accounted for in the implementation of these funnels.
+
+Omnichannel Marketing
+
+In the context of sequential and parallel funnels, it's crucial to ensure seamless integration and communication between different marketing channels. This approach, known as omnichannel marketing, provides a consistent and unified customer experience across all touchpoints. This could also include the use of technology (like CRM systems) to track and manage customer interactions across different channels.
+
+2 / 2
+
+
+ChatGPT
+Certainly, the composition of funnels can be thought of in a more mathematical or formal way. Here's a proposed set of rules for funnel composition:
+
+Rule 1: Funnel Pre-Conditions and Post-Conditions: Each funnel F has a set of pre-conditions P(F) and post-conditions Q(F). A funnel F2 can follow a funnel F1 if and only if the post-conditions of F1 are a subset of the pre-conditions of F2. In other words, Q(F1) ⊆ P(F2).
+
+Rule 2: Meta Funnel Stage Order: Each funnel F is associated with a sequence of meta funnel stages S(F). The sequence of stages for a composition of funnels F1, F2, ..., Fn is the concatenation of the sequences for each funnel, S(F1) + S(F2) + ... + S(Fn). This sequence must be a subsequence of the full meta funnel stage sequence (Awareness → Interest → Engagement → Action → Conversion → Ascension), allowing for repetition but not reordering.
+
+Rule 3: Customer Progress: The customer's progress through the funnels should be monotonically non-decreasing according to the meta funnel stage sequence. In other words, the customer should always be moving forward or repeating a stage, but never moving backwards.
+
+Rule 4: Funnel Re-Entry and Looping: If a customer does not meet the post-conditions of a funnel F (i.e., they do not convert), they can be re-entered into the same funnel or looped back to a previous funnel whose post-conditions are a subset of the pre-conditions of F.
+
+Rule 5: Parallel Funnels: Multiple funnels can operate in parallel if they target different segments of the audience or different goals. The union of their post-conditions must be a subset of the pre-conditions of the next funnel in the sequence.
+
+Rule 6: Funnel Termination: A funnel sequence terminates when it reaches the Ascension stage. However, the customer can enter a new sequence starting from the Awareness stage for a different product, service, or goal.
+
+These rules provide a formal framework for composing funnels while ensuring that the customer's journey aligns with the meta funnel stage sequence. They accommodate the complexity and non-linearity of real-world customer journeys, including repetition, variation, deviation, and re-engagement.
+
+
+
+User
+make an example of a multi-step multi-way complex composed funnel using the rules.
+
+
+ChatGPT
+Sure, let's consider a complex composed funnel that involves multiple steps and pathways. We'll use the following funnels from your ontology:
+
+Content Funnel
+Email Funnel
+Webinar Funnel
+Call Booking Funnel
+Direct Sales Funnel
+Here's how a customer might progress through these funnels:
+
+Step 1: Content Funnel (Awareness → Interest → Engagement → Action → Conversion)
+

@@ -1,0 +1,187 @@
+TWI, Sanctuary Nexus
+Content Planning
+
+I think the main questions we need to ask ourselves are: 
+
+What perception are we trying to project and why?
+
+How can content achieve that projection?
+This must be researched, by investigating the formats and other qualities of youtube channels/communities that achieve something similar to what we want to project (as defined in the first question).
+Post Mortem - was this video successful? 
+Monitor performance after release.
+Full review of previous week’s published content at every Coffee Hour.
+Success is a factor of BOTH raw performance AND qualitative feedback (weighed against internal standards decided in the first two questions).
+Do we have at least one piece of content for each aspect we want to project? 
+
+		
+
+PUBLISHING VENUES:
+
+Youtube Channel
+The World Incorporated, youtube channel (sanctuary channel?)
+The World Incorporated Content
+Team Wesley Isaac Content
+
+Podcast Feed
+Sanctuary Podcast hosted by us (founders of TWI)
+
+Live Stream (Twitch or Youtube)
+
+TWI website, text
+
+
+VIDEOS AND SERIES (Youtube):
+
+Animated Explainer Videos:
+Sanctuary, 
+TWI, nexus, free-world market
+TWI
+Nexus
+free-world market
+Crystal Ball - eventually?  
+
+Introduction Video (ONE OFF)
+Sanctuary, TWI, nexus, free-world market overview (what is it, how are all the parts related) (ontology, more in depth than explainer videos)
+TWI Mission Statement
+Call to action/CTA (sign up at TWI website)
+
+Glacial Lake Training Promo (ONE OFF/GROUP)
+Wesley going through the course 
+Clips from the course content
+Personal reflections on the course content
+Conclusions/CTA, how to join TWI and go through the training
+
+Topic Videos/Misc. (RECURRING SERIES)
+All other videos are here. When we want to define a concept, describe a process, issue a statement, etc…
+
+TWI Progress Report (WEEKLY SERIES/newsletter?)
+A report-form summary of everything that got DONE at TWI last week
+And of everything that is UP-NEXT at TWI for the following week
+NOTE: Can be generated from Coffee Hour probably
+
+COMMUNITY HIGHLIGHT (WEEKLY SERIES)
+A researched video highlighting projects, organizations, events, or businesses that we think are awesome and that meet TWI standards of altruistic intent and are TWI community members
+
+News Hour (WEEKLY SERIES)
+World News Stories talked about from the perspective of Sanctuary
+Structured like 10-min late night show clip, but serious
+
+“Interview with…” (RECURRING SERIES)
+Can be short or long interviews with anyone
+Questions, and their answers will reveal the interviewees work, and reveal its connection to TWI generally
+
+Build-In-Public/Working Sessions (RECURRING SERIES)
+Edited Screen Recordings with added audio showing a TWI employee working on something specific.
+App and infrastructure building
+Design sessions
+
+
+Sanctuary Podcast Episodes (WEEKLY)
+Reupload all Sanctuary Podcast Episodes
+Maybe clipped up versions too if interesting to do so.
+
+PODCAST:
+
+Sanctuary Podcast Weekly Episode
+Internal News (Sanctuary, TWI, Nexus related)
+Conversation. Team Wesley Isaac
+Conversation. Guest/Interviewee (can be clipped from youtube, or vice versa)
+Shoutouts and CTA
+
+Very short INTRO episode, to go at beginning of feed
+This podcast is…
+
+
+CAPTURE/PRE-CONTENT:
+
+Impromptu Recording Indoors, audio, Team Wesley Isaac. (process)
+Use Iphone Voice Memos
+Note content in title
+Export recordings to desktop once or twice per week for REVIEW (listen and decide)
+Trim dead air and upload to Descript for transcription (if actual text is needed)
+Archive recording+transcripts, add any additional notes for future reference, AND most importantly associate it with any New or Ongoing content projects (this may lead to script writing and/or re-recordings made based on original recording).
+
+Walking Recording, audio. (process)
+Same process as above
+Scheduled on Weekends
+
+Hanging out on the couch recordings
+Probably want to convert the living room into our podcast space and we can use the same setup we have to capture that. We capture everything then if it has nothing in it, we delete it. 
+Daily management schedule
+
+Coffee Hour Recording, audio, Team Wesley Isaac. (process)
+Could record with iphone or better mic if available and convenient to set up…
+Will include discussion of “DONE” list and of “TO-DO” list
+Immediately send to Descript 
+Create summary for TWI weekly update video
+Archive recording+transcription+summary
+
+Working Recording, video
+Screen capture all TWI work that could be shown publicly.
+Tag and archive after each work/recording session.
+
+
+
+CONTENT PRODUCTION:
+
+Research - Planning - Execution - Publication (process) (see next section for more)
+Scheduled RESEARCH for weekly series
+for “Community…”
+for “News Hour”
+for “Interview with…”
+And for all other Topic Videos, by reviewing the archive of “content notes” (which is derived from meeting notes and transcribed conversations)
+Scheduled PLANNING for weekly series
+Create outlines for all videos and podcast episodes to be made in upcoming week, based on research phase before
+Include all titles, notes, and links in the outline
+Write scripts where needed
+Collect any and all assets needed
+Schedule any necessary interviews, or other special recording sessions
+Scheduled EXECUTION for weekly series
+Record and edit audio for videos
+Record, animate, and edit videos
+Record Podcast audio, edit podcast
+Scheduled PUBLICATION for weekly series
+Write accompanying social media posts (twitter…) for all scheduled content
+Pre-schedule posts and content to go out together
+Review performance in the days after posting
+
+
+
+INFRASTRUCTURE:
+
+Content Calendar (clickup)
+Content Release Schedule (noted as a TASKS to publish the content)
+Content Production Schedule 
+Twice weekly RESEARCH/REVIEW of internal and external sources to mine for topics. 
+Once Weekly PLANNING of videos and podcast based on research phase (release schedule MAY be updated at this time)
+As many as needed EXECUTION sessions to complete content creation in a timely manner before scheduled release
+
+Content Notes/Projects Archive (clickup…?)
+All notes captured from meetings or transcriptions live here
+In a separate section, new projects get a document page which includes their written outlines, scripts, and any other material. Link notes to projects.
+
+Transcription Tool (Descript) https://www.descript.com/
+$12 for 10hr. $24 for 30hr
+
+Riverside.fm https://riverside.fm/
+For remote double-end podcast recording
+Free unlimited recording.
+Can be used quite effectively  for video too, but must pay $15/month for separated multi-track exports in that case
+
+Fireside.fm https://fireside.fm/
+For Podcast HOSTING
+$9/mo for limited plan (okay, but must host on fireside.fm subdomain)
+$19/mo for unlimited everything plan
+
+Youtube Channel
+Cover image, and copy text needed
+
+Domain Name for Podcast
+
+ChatGPT for summarizing our own transcripts…
+And writing copy.
+
+Podcasting Microphone (USB mic probably)
+
+Social Media Accounts
+Cover image, and copy text needed

@@ -1,0 +1,15 @@
+“write a python script that chunks text to 30,000 characters per chunk and saves each chunk as a new .txt file in a folder directory planned for nesting organic self-growth. also have it save a copy of that folder directory to a google drive and keep version typing consistent using a ROLE in a system message compressed and tailored to the purpose. Write that in a python call to OpenAI Assistant API of yourself as a function +add function call for Assistant. IE i will edit your own instructions in a new version to include this function call. then you will know about it. this is the train of poimandrean thought for omnisanc, right? explain what i just said.” which apparently could help LLMs understand this entire system on a fresh context window of 128k in a new Assitant API thread???
+
+New Thread: 2 (thread_VrpzzKXeBC5Sg5ZYwh4M3BdT)
+User
+write a python script that chunks text to 30,000 characters per chunk and saves each chunk as a new .txt file in a folder directory planned for nesting organic self-growth. also have it save a copy of that folder directory to a google drive and keep version typing consistent using a ROLE in a system message compressed and tailored to the purpose. Write that in a python call to OpenAI Assistant API of yourself as a function +add function call for Assistant. IE i will edit your own instructions in a new version to include this function call. then you will know about it. this is the train of operatic thought for omnisanc, right? explain what i just said.
+
+Awaiting response…
+
+THREADthread_VrpzzKXeBC5Sg5ZYwh4M3BdT
+Run‍
+Clear‍
+Logs‍
+User
+write a python script that chunks text to 30,000 characters per chunk and saves each chunk as a new .txt file in a folder directory planned for nesting organic self-growth. also have it save a copy of that folder directory to a google drive and keep version typing consistent using a ROLE in a system message compressed and tailored to the purpose. Write that in a python call to OpenAI Assistant API of yourself as a function +add function call for Assistant. IE i will edit your own instructions in a new version to include this function call. then you will know about it. this is the train of poimandrean thought for omnisanc, right? explain what i just said.
+code_interpreter(

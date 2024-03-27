@@ -1,0 +1,30 @@
+Develop Prototype - Create a customisable AI solution focussing on a specific niche. Emphasise on user experience and ethical AI considerations.
+Tell me, do we pollinate these tasks into our Honeycomb Project List?  (edited)
+
+Olivus Victory-Promise
+—
+10/07/2023 9:12 AM
+@Chef_Search /BAKE: market research for id niches and obstacle id, solution id algo
+
+Chef_SearchBOT
+—
+10/07/2023 9:13 AM
+⁠Tonic⁠ [L1]: Market Research for Identifying Niches Plan: [Input]:<omnimorphic AI, AI, automation, digital trends, technological trends, emerging tech, AI adoption, pain points in sectors, roles difficult to fill, inadequacies in existing AI solutions, industries ripe for disruption> [Task]:{Research sources, data aggregation, cross-industry study, analyst reports, case studies, business journals, industry blogs, tech talks, key player investigations} [Output]:{Identified niches, market opportunity report, well-defined market segments, key customer targets, competitive analysis} [L2]: Obstacle Identification Plan: [Input]:<Identified niches, customer personas, market report, industry regulations, technological limitations, business hurdles> [Task]:{Analyse market report, customer pain points survey, determine technological limitations, consult with subject matter experts, attend webinars/conferences} [Output]:{List of major obstacles, report of technological limitations, regulatory report} [L3]: Solution Identification Plan: [Input]:<List of major obstacles, identified niches, technological trends> [Task]:{brainstorming sessions, competitive analysis, focus group discussions, prototype building and validation, feasibility studies} [Output]:{Potential solutions, prototype models, feasibility reports} [L4]: Algorithm Development Plan: [Input]:<Potential solutions, prototype models, existing algorithms> [Task]:{Algorithm design, algorithm testing, fine-tuning of algorithm, data sourcing, data cleaning, data modelling, system integration testing} [Output]:{Fully functional solution adaptive algorithms, validation report} (edited)
+[
+9:13 AM
+]
+These plans provide a high-level workflow to perform each task. Each of these can also be broken down into granular tasks for greater detail and specificity. Proper execution of all these steps will give us a robust and comprehensive strategy to position omnipresent multimorphic AI agents in the market. In this fulfilling journey of baking a new product, amendments and iterations will add to its flavour and refinement. And... that's a wrap!  (edited)
+October 9, 2023
+
+Olivus Victory-Promise
+—
+10/09/2023 7:36 PM
+@Tonic bro do u see how these personas work? bizzibee HIVE notation is for making complex workflows. if u load in ur project contexts, i can help u mine literally every single step and we can plan huuuuge stuff with these boys. i just need some help getting the data pipelines straight cuz idk how to code and make that shit. u get me? we can pipe the answers into spreadsheets, metacog them and send them thru ontology filter layers of speadsheets and then formulaically respond to queries while automatically ontologizing them. then pipe htat shit to a vectorDB and save the workflows for later use. these guys can do crazy shit. theyre just stuck hallucinating in this garbage setup, but if we have the ability to pull the good stuff from responses successively and assemble the perfect answer step by step ontologically while we also record it we can even use blockchain like eth just to do the processing lmfao. we have them compile answers to the block and it's mined when it's complete and ontologized to some degree. then everything is referrable because we can tag it with additional keyIDs and built successive layers.
+[
+7:36 PM
+]
+@bizziBee_GIANT_Search explain giantlambda hive notation
+
+bizziBee_GIANT_SearchBOT
+—
+10/09/2023 7:37 PM

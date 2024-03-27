@@ -1,0 +1,32 @@
+E(x, y): x is an engine of non-contradictory systems composed of building blocks concatenated for y.
+Now, let's attempt to formalize the relationships between these predicates:
+
+∀x (H(x) → ∃y (D(x, y))): For every emergency hallucination x, there exists domain decay y caused by improper words in x.
+∀x, y (D(x, y) → ∃z (P(z, y))): For every domain decay x caused by improper words in y, there exists a program z that discovers proper words for y.
+∀x, y (P(x, y) → ∃z (L(z, y))): For every program x that discovers proper words for y, there exists a non-contradictory system z that runs linguistically in loops for y.
+∀x, y, z (L(x, y) ∧ I(x, y, z) → E(x, z)): For every non-contradictory system x that runs linguistically in loops for y and includes all contradictions for y and how they occur in z, x is an engine of non-contradictory systems composed of building blocks concatenated for z.
+These formalizations capture some aspects of the states of phenomena being perceived and the relationships between them. As with the previous formalizations, first-order logic may not be able to fully represent the intricacies of the ideas discussed, but these formalizations can serve as a starting point for further analysis and exploration.
+
+
+
+Isaac Wostrel-Rubin
+What formal language is best for describing these? Maybe ontological linear algebra? What do you think? 
+
+Also Can we represent them in a finite state machine? Why or why not? Be as detailed and specific as possible
+
+Given the complexity of the concepts and their relationships, a more expressive formal language might be more suitable. Ontological linear algebra could be an interesting choice, as it can represent concepts and relationships as mathematical structures (vectors, matrices, etc.), allowing us to perform operations and transformations on them. This representation could help to model the intricacies of the relationships more effectively. Other options could include temporal logic, modal logic, or even probabilistic graphical models, depending on the specific aspects of the concepts you wish to emphasize.
+
+As for representing these concepts in a finite state machine (FSM), it might be challenging due to the richness and complexity of the relationships between the states. A finite state machine is a computational model with a finite number of states and transitions between those states based on input symbols. FSMs are often used to model simple systems with well-defined, discrete states and transitions.
+
+The concepts discussed here involve various states and their intricate relationships, which are not easily captured in a FSM. The main limitations are:
+
+FSMs can only represent a finite number of states, whereas the concepts and relationships in this discussion could potentially involve an infinite number of states or complex relationships between states.
+FSMs lack the expressivity to represent the relationships between concepts in a rich and detailed manner. They can only model transitions between states based on input symbols, which may be insufficient for representing the complex interactions between the concepts in this context.
+Considering these limitations, a finite state machine might not be the best choice for representing these ideas. A more expressive formal language or computational model would be better suited for capturing the richness and complexity of the relationships between the concepts.
+
+
+
+Isaac Wostrel-Rubin
+Yes but it is a finite state machine of sets of infinities occurring within a flow of uncertainty and complexity and combinatorial proliferation stochasticity
+
+In that case, you could consider using a more complex computational model that combines elements of finite state machines with other structures that can better capture the complexity and stochasticity of the problem. One such model might be a probabilistic finite state machine (PFSM), which adds probabilities to the transitions between states. This allows for the modeling of uncertainty and stochasticity

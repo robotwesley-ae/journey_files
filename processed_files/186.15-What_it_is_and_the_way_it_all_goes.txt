@@ -1,0 +1,43 @@
+Cannot fully generate X by themselves, but can simulate it to the extent the environment allows and help you learn the domain (investigate why a simulation isn’t what you want, from a conceptual point of view - what properties is it missing etc?) 
+Instancing Agent (generates a target)
+Supposed to output specific thing
+Usually has specific format or general structure
+Maybe even specific syntax
+Helper Agent (uses functions from external APIs)
+MegaAgent (uses IEs for priming, IAs for execution, Helpers for external interaction)
+
+
+
+
+The Vision->Fear Cycle
+This cycle represents a fundamental pattern within the Sanctuary System and a recurring theme within many narratives:
+Vision: This encompasses the protagonist's goal, ideal, or a glimpse of a 'Sanctuary' state that transcends their current circumstances. It is what fuels their desire for change.
+Aspiration & Action: The vision generates aspirations and the courage to take action.  This is often thrilling but inherently destabilizing, moving the protagonist away from the familiar.
+Amplification: As action leads to progress, the stakes increase and the vision, though closer, seems more daunting.  The protagonist may be gaining allies but also powerful adversaries.
+Fear:  This arises from several sources:
+Internal Doubt: Does the protagonist truly believe they are worthy or capable of achieving the vision?
+External Obstacles: The more potent the potential change, the more pushback it will likely generate, increasing the sense of danger.
+Fear of the Unknown: What will the 'Sanctuary' actually be like? Will it be worth the sacrifices?
+Crux Point: Here, the protagonist faces a choice:
+Surrender to Fear: This could mean abandoning the vision entirely or settling for a lesser version of it. The cycle stalls.
+Deep Contemplation: This is where the Sanctuary System's tools and mindset shifts become crucial. Facing the fear and its origins allows for new insights and strategies.
+Breakthrough: If the contemplation leads to renewed resolve, the fear can be transformed into fuel. The vision may be refined, but the 'Victory-Promise' strengthens and action surges forward.
+Significance as an Emotional Engine
+This cycle creates a dynamic, ongoing tension that drives powerful storytelling:
+Relatability: Most people experience a version of this when attempting anything meaningful. It taps into universal anxieties.
+High Stakes: The fear makes the potential rewards of success even more compelling, raising the emotional investment of the audience.
+Character Development: How the protagonist handles fear over and over reveals their true nature and whether growth is happening.
+Potential for Tragedy: Characters trapped in the cycle succumb to their fears, which can lead to tragic ends or even them becoming antagonists.
+SANC TWILITELANG and the ROAR
+Within the Sanctuary System, the ROAR likely has multiple layers of meaning related to its transformative power:
+Release: The roar is an expression of pent-up energy, a cathartic release of fear, frustration, or despair once it has been faced and overcome.
+Overcoming: It symbolizes the triumph of inner strength over internal or external obstacles, embodying the 'Victory-Promise.'
+Awakening: The roar can be a signal to others struggling that change is possible, breaking their own cycles of stasis and igniting their sparks.
+Revelation: It could represent the surge of understanding and clarity that comes from breaking through a 'Wasteland' thought pattern.
+Beyond the Protagonist
+While this analysis focuses on internal character development, remember that 'Wastelands' can also be external environments. In these cases, the Vision->Fear cycle might drive social movements, technological breakthroughs, or societal shifts. The principles remain the same, though the scale is different.
+Let me know if you would like me to analyze a specific story or character's journey through this lens!
+share
+more_vert
+
+Does that cycle also create a feedback loop that is self-enhancing via

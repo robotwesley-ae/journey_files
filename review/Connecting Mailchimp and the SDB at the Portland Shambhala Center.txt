@@ -1,0 +1,179 @@
+Connecting Mailchimp and the SDB at the Portland Shambhala Center
+
+This blog post describes a pilot project to connect the Shambhala Database (SDB) and Mailchimp, a popular email service (http://mailchimp.com) that the Portland Shambhala Center uses to compose and send out its newsletter.  Although the bulk of the work described below took place a year ago, we’ve delayed publishing this report pending some careful testing to iron out all the operational kinks that can arise when complex software systems interact.
+
+Vision of the Portland Shambhala Center’s Community Newsletter
+
+Traditionally, our newsletter has been “news from Portland Shambhala” but it also features items that come from Shambhala centers outside of Portland--regional & international--to remind our readers that we are part of something bigger. 
+A part of our community newsletter includes “dharma gifts” each week: news that supports and stimulates people on their paths and helps them stay connected when  they're not physically at the center or perhaps not even joining us in a program.  We don’t want our newsletter to just be an advertisement for Center programs.
+Our newsletter also occasionally features non-Shambhala Buddhist teachings and news including, for example, news about Thich Nhat Hanh’s illness and recovery.
+We would like for our newsletter to look beautiful and have a “Shambhala” feel.
+
+Here’s the first screen of a recent issue:
+
+Mailchimp and the SDB at the Portland Shambhala Center
+
+Benefits of using MailChimp
+
+The benefits of using MailChimp are essentially:
+
+Saves time and effort for volunteers that produce a polished newsletter
+Mechanics of sending a weekly newsletter to 1,200+ subscribers are handled by Mailchimp
+Increases feedback: it provides a helpful reality check of how many people actually open our emails and what links they choose to click on
+Mailchimp costs less than some alternatives; they have a special non-profit rate
+
+Benefits of using the SDB
+
+Integrates registration, course-completion records, and email
+Single password access to other services such as the Shambhala Network and our WordPress website: http://portland.shambhala.org 
+Useful for sending targeted emails to specific subgroups like people who have completed a course but not taken the subsequent one
+
+Benefits of integrating the SDB and Mailchimp
+
+As described below, the synchronization between SDB records and Mailchimp is automatic; subscribing or unsubscribing on one of the two is automatically recorded on the other.
+We have the strengths from each side without the costs associated with manual synchronization.
+
+History (before the SDB integration project)
+Portland began using Constant Contact to send out email with extensive graphics sometime before 2011.  The pattern for major programs (that require registration and payment of tuition) was to send out an announcement 6-8 weeks in advance, another 2-3 weeks before, and then a last minute reminder few days before.  Exact numbers are lost.  By 2013 the cost of that service had risen to around $500 a year.  Synchronization was handled by hand: spreadsheets were downloaded from the SDB and uploaded to Constant Contact.
+At the beginning of 2013, Portland moved to a free Mailchimp account.  Given the 1200 subscribers and our non-profit status the free account was limited to around 5 or 6 mailings per month.  The synchronization method was the same, but production of emails was much easier than with Constant Contact or the SDB.  The appearance of the emails was the same quality as Constant Contact (and much better than our SDB messages).  We used the SDB for mailings to people who qualified for a specific program as well as special messages to members and friends.
+People who attend introductory programs generally say they find us through our website, but email newsletters (from both Mailchimp and the SDB) play a crucial role in announcing events, requesting volunteers, and generally keeping the community informed.  
+
+This story aims to describe the Mailchimp-SDB conversion project and suggest the kinds of effort that goes on behind the scenes for a medium-sized Shambhala meditation center to function. Although the details are specific to Portland, it describes a lot of context and steps that could be useful to other Shambhala Centers.  It’s shared with the idea that other Centers who are contemplating a similar project can have an idea of how it went for us in Portland.  In our story, the main characters are:
+
+Bernard Spiegeler - Shambhala’s principal Database Administrator and designer
+Candlin Dobbs - Shambhala database guru and supporter of users and innovation
+Ed Keizer - Shambhala database quality assurance guardian and facilitator
+John Smith - Portland Shambhala Center Communications
+
+History of the pilot project
+Candlin’s survey of communications and publicity folks, announced in the Shambhala Network’s SDB Administrators group in January 2014, opened the door.  Many Shambhala Centers wanted to explore the possibility of integrating Mailchimp and the SDB.  We raised our hand and Portland was selected as a pilot site.
+Project goals
+Although we had developed several unique headers for the mailings we sent from the SDB, we wanted the major newsletter to be sent through Mailchimp because it allowed several people to make editorial contributions to a mailing and the final product is considerably more polished.
+Make SDB the reference database for all mailings to simplify email list management.  We were getting complaints from people who unsubscribed from one list but continued to get mail from the other.  Also, we knew that our subscription process was somewhat error-prone in that people who participated in a program were not automatically added to our mailing lists. Over time small discrepancies between records in the SDB and in separate email list accumulate and create more confusion all around.
+Keep cost of operation low (e.g., fees to Mailchimp) and develop a system that did not require too much technical skill to run.  
+Not drop, irritate, or unnecessarily burden email subscribers with redundant or confusing messages during the integration project
+Project started June 2014.  A preliminary assessment of the SDB and Mailchimp data showed that the overlap between them was somewhat messy:
+SDB showed 105  members for Portland.  We had 197 on the Members and Friends list.
+Roughly 1,511 people were affiliated with the Portland center in the SDB with 29 instances where a couple used the same email address.  Mailchimp does not allow duplicate email addresses.
+About 655 of those 1,511  had signed up for “the Newsletter” on the SDB (although that list was only used sporadically)
+The Mailchimp email list had 1,389 people.  About 50 of them only had an email address, but not a name.  (The SDB requires a name.)
+The Portland Center had used our main email address (hello@portland.shambhala.org) as a “holder email address”.  The 12 people who had that address had to be dropped because they had no email address.
+Only 597 email addresses were in both the SDB and Mailchimp.  The SDB had 873 email addresses who were not in MailChimp and Mailchimp had 792 email addresses that were not in the SDB.
+Designing the bridge between the SDB and Mailchimp
+Mailchimp requires that every message it sends out have a clear “unsubscribe” link that takes you to a form on the Mailchimp site.  Originally we had expected subscribes and unsubscribes to happen on the SDB side.
+We had to set up separate unsubscribe options on both the SDB and MailChimp and then Bernard wrote programs that would exchange information between the two systems.
+
+Conversion
+Ed Keizer helped find duplicates and many other problems in Portland’s SDB records and uploaded the data we had from MailChimp into the SDB when it was time to do so.
+Here is an email sent to 793 people who had only subscribed to MailChimp but were not found the SDB:
+
+Date: March 31, 2015 at 3:59:58 PM PDT
+Subject: Portland Shambhala Center emails -- we need you to RE-SUBSCRIBE
+From: John Smith for the Portland Shambhala Center <john.smith@portland.shambhala.org>
+To: john.smith@learningalliances.net
+
+Dear John,
+We are changing how we send out email newsletters and announcements. In the process, we've found that you have subscribed to our Newsletter (in Mailchimp) but we don't find you in the database that we will be using for our newsletter in the future.
+
+That means that to continue getting our newsletter, you will need to re-subscribe. That may be a bit of a chore, but it's the only way to be sure that you're still interested and that we aren't sending you email that really feels like SPAM (or that you always delete).
+
+To check out this week's newsletter have a look at what you missed. You just need to provide your name and email address on our website (upper right corner) to continue getting our newsletter.
+
+Thanks for your connection to meditation and to Shambhala,
+
+John David Smith
+Director of Communications, Portland Shambhala Meditation Center
+Portland Shambhala Meditation Center
+1110 SE Alder Street, Suite 203, Portland, OR 97214
+Tel. 503 231 4971
+
+Equivalent emails were sent to people who were in the SDB but not subscribed to the Newsletter. There were not too many responses to either of these emails, but the outcome is that we now send email to people who we think really want to receive them.
+Nobody seemed to object to being contacted for this purpose (even if they had unsubscribed on one side or the other) and people resubscribed as appropriate.
+We decided to make our Mailchimp account a paid one -- $20 a month for 1,500 maximum subscribers; we can send as many mailings to our 1,300 subscribers as we want to.  
+We had a ten-day waiting period where we sent out no email before we could drop the previous “hand-managed” email list and launched a new list driven by and derived from the SDB.
+The bulk of the conversion was completed by November 2014.  Soon after, Shambhala Center office manager Abbey Pleviak wrote:
+
+Hi John,
+
+I'm just finishing up with adding folks to the Newsletter from last year's programs.  I just wanted to say thank you because not only is it is so much easier to do this task this way, it also feels more responsible to be sending folks an email to let them know about it and how to unsubscribe if they wish to.
+
+I also wanted to let you know that after the last batch I added to the Newsletter, I received a couple of email replies to my message letting people know they had been added to the Newsletter.  These people were looking for more information and replied to the email I had sent about the Newsletter.
+
+I think this is a really positive step to be checking in with people after programs, so I am just feeling really glad about it in general and wanted to share my gratitude to you for seeing this possibility and making it happen!
+
+thanks again,
+
+Abbey
+
+
+How things work now
+
+If a person subscribes or unsubscribes to the newsletter using our website, the SDB, or an opt-out link from an SDB mailing, that information is logged in the SDB and shared with MailChimp.  If a person opts-out of a mailing from MailChimp, MailChimp records the opt-out and shares it with the SDB.  We are managing a single mailing list in the SDB.  
+Mailchimp is only used for blasts to the whole list; when writing to practice groups, classes, or members, we mail directly from the SDB.
+The following table illustrates how three mailings are shown in a unified report given to our Council each month.  This report includes all messages sent out during a month, whether from the SDB or Mailchimp:
+
+Abbey Pleviak is the office manager.  Others who send email from the SDB are identified by name.
+The Stats column shows the percent of messages that are opened and the percentage of click-throughs (only for Mailchimp email).
+The Jan 15 email is an example of a message sent to all registrants for the Learn to Meditate workshop on December 6 notifying them that they had been added to our newsletter list (and explaining how they can unsubscribe if they wish).  
+
+In January 2015 we experienced a certain amount of SPAM subscriptions because we had made our subscription form open to easy abuse.  Adding a CAPTCHA to the subscribe form in Feb 2015 seems to have resolved the issue.
+
+Mailchimp does have some intricacies.  For example, when the “track opens” flag was inadvertently turned off, we saw an apparent drop in our email effectiveness.  But we had just turned off the tracking.
+
+Some of what we learned
+
+All of the people who work on the newsletter share one logon for mailings.  When mailing directly through SDB it’s clear who mails what. We limit mailings from MailChimp to regularly-scheduled messages sent out by only one or two people. Several people are able to send email from the SDB.  
+We still have rather murky and ad hoc email policies.  Getting everyone to agree on goals or criteria for the amount email and on what subjects is not easy.  People’s views change over time and they are inconsistent.
+Email contact with members and participants evolves over time.  For example, the Queer Dharma group has its own email list that is not linked to the SDB, as do some other groups.  There are advantages of separate lists and some disadvantages, too.
+
+Starting a MailChimp Project at other Centers
+
+What you need to decide/prepare beforehand
+
+Look at your needs, what you are doing now: write it down and circulate so people can add what they know (nobody knows all of the activities and angles at your center)
+Get everyone to agree to a big change, change in process to send out mailings -- figure out who all is involved (some might not be visible)
+Mention the change in your newsletter and through other channels -- there’s a change here, but it is less obvious to people.
+Mention it again
+
+Cleaning up your Mailing List with Ed Keizer
+
+How many mailing lists do you have?  Where are they housed? How current and clean and complete are they?  Which ones are you going to consolidate? Some others you might just keep as they are.
+Couples using same email address -- MailChimp only allows unique email per person -- You can pick one to get the mailing, and if the other person wants to get it, then they have to give the center another email address.
+Find people on mailchimp or listserve not on SDB -- 
+write them to advise them about what’s happening
+Give them the choice to opt-out
+add them to the SDB -- subscribed to your new newsletter
+Find people in SDB who are not on other lists and not currently subscribed (who may not WANT to receive newsletters and haven’t opted out because you don’t use the SDB for such mailings)
+Write them to advise them about what’s happening
+Give them the choice to opt-out
+Subscribe them to your new newsletter
+
+What you need to know about working with the folks at MailChimp
+Estimate mailing list size -- this will determine budget
+If you are already using MailChimp you will have to wait 10 days after the last mailing using this list, before Bernard can import the new list.
+
+Getting the Opt-in and Opt-outs working
+Set up new Opt-in / sign-up widgets -- need Captcha as well to protect against SPAM sign-ups
+A “manage my subscriptions” opt out link must go on Mailchimp Footers  -- MailChimp Newsletters will have its standard Opt-out as well, so two ways to opt-out.
+
+Testing it before go-live
+Do we want to test the opt-ins and outs with a 3 person list before we go-live?
+
+Training Users according to their function
+Sending emails (on the MailChimp side)
+making sure people know how to use SDB for targeted emails
+making sure people know how to use MailChimp for newsletter
+Subscribing (on the SDB side)
+SDB process of 
+id a bucket of BG1 students, 
+send welcome email
+use bucket to subscribe to newsletter
+abandon old ways of updating your email list!  :-)
+
+Your First Mailing
+
+Communicating with your Council about mailings 
+Collecting statistics
+Watch how much email you send out
+Look at ALL email messages together
+Don’t be a SPAMMER

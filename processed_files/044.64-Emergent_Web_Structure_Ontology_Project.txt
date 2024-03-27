@@ -1,0 +1,32 @@
+Yes, that's an apt analogy. Emergent web structure can indeed be likened to a gem cutter switching lenses, or even to a researcher using different microscopes to examine a biological sample at varying scales. Different ontologies or 'lenses' let us view and understand the data at different levels of abstraction.
+Expert 2:
+Importantly, each ontology helps reveal certain aspects of the data. Just as certain details of a gem are revealed at specific magnifications, so too are certain elements of the narrative revealed through specific ontologies. The process of applying these different ontologies is what gives rise to the emergent web structure.
+Expert 3:
+The analogy to finding a hologram is also insightful. A hologram is an image that appears three-dimensional when illuminated, and different aspects of the image can be seen from different perspectives. In much the same way, different aspects of the narrative can be illuminated through different ontologies, providing a multifaceted, three-dimensional understanding of the narrative.
+Expert 4:
+Finally, your point about consensus reality is key. The ultimate goal of applying these ontologies and creating the emergent web structure is to create a representation of the narrative that corresponds with our shared understanding or 'consensus reality'. This requires the model to not only be internally consistent but also align with the way we intuitively understand and interpret the narrative.
+Round 2:
+Expert 1:
+To add to this, the emergent web structure is an ongoing, iterative process. As our understanding evolves, so too does the structure, accommodating new insights and perspectives.
+Expert 2:
+We can think of the emergent web structure as a continuously evolving knowledge graph. As we apply different ontologies and draw new connections, we continually refine and expand this graph, leading to a richer and deeper understanding of the narrative.
+Expert 3:
+Just as a hologram reveals different aspects of an image when viewed from different angles, so too does the emergent web structure reveal different aspects of the narrative when viewed through different ontological 'lenses'. This dynamic, multifaceted approach is what allows for such a rich understanding of the narrative.
+Expert 4:
+In essence, the emergent web structure is a powerful tool for narrative analysis, enabling us to interpret the narrative at various levels of abstraction, and align this interpretation with our shared understanding of the narrative world.
+Ok guys try to come up with some instructions for how GPT should use skills to create an informadlib template
+ChatGPT
+Expert 1:
+Firstly, it's important that the AI has a comprehensive understanding of the narrative world. This can be accomplished by training the AI on a diverse corpus of narratives, allowing it to develop a broad understanding of narrative structures, tropes
+Stop it. We are using GPT. There is no training or anything. There is chat. There is user input in a system prompt. That is it. Nothing else. How should they command the GPT to use its skills to make an informadlib template? What is the prompt logic and language?
+ChatGPT
+Expert 1:
+Sure, to begin with, the user should provide a clear and precise definition of the narrative structure or theme they are interested in. This could include the type of story (fantasy, sci-fi, romance etc.), the desired narrative arc, and any specific elements or characters they wish to include.
+Expert 2:
+Moreover, the user should instruct GPT to focus on key narrative
+How did u get stuck on this again? INFORMADLIBS ARE GWNERALIZED HYPER-ontological frames.
+ChatGPT
+Expert 1:
+To begin, prompt GPT with a specific domain or context for which you need an Informadlib template. For example, "I need an Informadlib template for a fantasy adventure story." This sets the context for the AI to use its knowledge about that domain.
+Expert 2:
+Then, instruct GPT to identify key entities, relationships, events, and properties relevant to this domain. For instance, you might prompt it with, "Identify and define crucial story elements and relationships in a fantasy adventure narrative, considering characters, settings, events, and themes."

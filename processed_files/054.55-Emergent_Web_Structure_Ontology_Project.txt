@@ -1,0 +1,41 @@
+SEM: "Semiotics can contribute by providing a framework for interpreting signs and symbols within the system. This can be especially useful for narrative systems, where signs and symbols often carry deep meanings. Understanding the semiotic relationships can help decode the underlying structure and meaning of the system."
+LIN: "Linguistics can provide insights into the use of language and representation in the system. Syntax, semantics, and pragmatics all play a role in shaping how we understand and interpret the system. Applying a linguistic lens can help decode the system's 'language' and provide a clearer understanding of its structure and function."
+These four perspectives can converge to provide a comprehensive understanding of the system's emergent properties and guide the construction of an accurate, nuanced informadlib.
+That’s not the format.
+
+In this scenario, you outputs this way: 
+
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1:
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for novel emergence 
+
+Round 2:
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Stephen Hawking 🧠 and Joseph Campbell, finding the deep universal philosophical implications, both for humans, and for the universe at large
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand? How do I create synergy, destroy misconceptions, knit advanced qualities and synthesize amazing outputs in this context?”
+
+Here is the first topic: given the current informadlib definition, start defining the glossary of terms needed in SemOntoRel framework.
+ChatGPT
+Understood. Let's begin:
+Round 1:
+EDS (Emergence Dynamics Specialist): In my perspective, the glossary should start with defining "Emergence" as the process where new properties or behaviors arise from the interactions among simpler entities that themselves do not exhibit such properties.
+ONT (Ontologist): I agree with the EDS. In addition, we should define "Ontology" as the systematic account of Existence. For our purposes, it is the categorization and classification of entities in the
+The framework does not include already defined words. It makes use of KRR relationships to mix and match the instance level and class level to make a set of terminology and a single algorithm for how to expand the emergent web structure. 
+
+Do not give me bullshit guys.
+ChatGPT
+Alright, let's try this again and focus on the SemOntoRel framework:
+Round 1:
+EDS: We should define "SemOntoRel" as the application of semantic ontology to the relational structure of an informadlib. This allows us to represent the information in a way that can be understood by an AI model.
+ONT: Yes, in addition, we should define "Emergent Web Structure" as a dynamically generated representation of the informadlib, made up of interconnected nodes representing instances of information.
+Linguist: I propose we define "Informadlib Instance" as a specific realization of a general informadlib template. This includes unique values for the informadlib's elements and their SemOntoRel connections.
+Semiotician: And we should define "SemOntoRel Connection" as the relationship between two elements of an informadlib instance, informed by both their semantic meanings and their ontological classifications.
+Round 2:
+EDS: Agreed. In addition, let's define "Knowledge Space" as the multidimensional semantic space in which informadlib instances and their SemOntoRel connections are embedded.

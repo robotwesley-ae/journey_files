@@ -1,0 +1,26 @@
+An ontology can be used to provide a structured explanation of the primary causation stream for any given concept X, as you described. However, it is important to note that ontologies are not always designed to provide such linear walks or detailed explanations, but rather to represent knowledge within a specific domain.
+
+The two-level classification you mentioned can be a useful approach for ontologies, especially when applied to a specific purpose (P):
+
+Higher-order entities (ABC): In this level, the ontology defines and organizes the main concepts, properties, and relations involved in every instance of X for the given purpose P. This includes the linguistic set of properties and their amplitude boundaries (spectral), as you mentioned.
+Core minimum and maximum range for every X according to P: In this level, the ontology defines the constraints or boundaries for each property set of X. Instances of X that fall outside these boundaries are not considered part of the concept X for the given purpose P.
+This approach can help ensure that the ontology is comprehensive and well-defined for the specific purpose (P). However, there are some limitations and challenges to consider:
+
+Completeness: It can be difficult to ensure that the ontology covers all possible instances of X for the given purpose (P), as new instances or types may be discovered over time.
+Ambiguity: The linguistic properties and amplitude boundaries of concepts may be subject to interpretation, leading to potential ambiguity in the ontology.
+Complexity: As the number of concepts, properties, and relations increases, the ontology may become more complex and difficult to manage or understand.
+In summary, while an ontology can be designed to provide a linear walk for explaining the primary causation stream for any concept X, it is important to consider the limitations and challenges associated with this approach. Balancing the level of detail and complexity, as well as addressing potential ambiguities and incompleteness, is essential to create a useful and reliable ontology for a specific purpose.
+
+
+
+
+Isaac Wostrel-Rubin
+But if the ontology doesn’t provide a linear walk from “an X-like not-X” (which is what the entity P is always a description of), then it can’t be said to truly be representative of the knowledge of the domains involved in P, because it should be the case that: if we know P, we can assemble X by disambiguating P into ABC of P, and then specifying it into a generalized X. 
+
+This can then be a new starting point. Now P, as a query for the graph, is much more specific, but refining it only involves doing the same process for each subdomain. Then, eventually, we can see that D was not in ABC, not because it was incorrectly calculated but because it was not known. but if we add D, then when we find the right specification for DsubK we see XsubDsubK solves original P.  
+
+Your argument is based on the assumption that a complete and accurate ontology should be able to provide a linear walk from an "X-like not-X" (P) to the actual concept X by disambiguating P into the ABC of P and specifying it into a generalized X. While this is an ideal scenario, there are a few factors to consider that make this challenging in practice.
+
+Inherent complexity of knowledge domains: Some knowledge domains are incredibly complex, with a large number of concepts, properties, and relationships. Representing every nuance and detail within an ontology may not always be feasible, and some degree of abstraction or simplification is often necessary.
+Incompleteness and evolving knowledge: An ontology is often a snapshot of the current understanding of a domain. New information, discoveries, or updates to the domain knowledge may require revisions or expansions of the ontology. This means that at any given point in time, an ontology might not be completely representative of the knowledge domain.
+Ambiguity and subjectivity: Different experts or stakeholders in a domain might have different perspectives, interpretations, or definitions of concepts and relationships. An ontology might need to balance these conflicting viewpoints to be useful and widely accepted.

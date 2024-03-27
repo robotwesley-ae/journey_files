@@ -1,0 +1,45 @@
+NE ∧ NCS ∧ ∀x SI(x) ⇒ BG
+Here, the first line represents the idea that emergent dynamics can disrupt the Nash equilibrium. The second line represents the idea that a game variation can result in a new Nash equilibrium. The third line represents the idea that when there is a Nash equilibrium and a non-contradictory system, and all players act strictly in their self-interest, the outcome is beneficial for the group.
+
+Overall, these game-theoretic notations show how the concepts of Nash equilibrium, emergent dynamics, bounded set of causal links, and self-interest can be used to support the claims made in the text about the benefits of a non-contradictory system in game-theoretic contexts.
+ChatGPT
+The explanation provided is a complex interplay between game theory and logic, encapsulating concepts like Nash equilibrium, emergent dynamics, non-contradiction, and the interaction of these concepts with individual and group benefits.
+To represent these in the SkillGraph notation:
+Nash Equilibrium (NE):
+The representation of Nash equilibrium in SkillGraph notation might be simple since it represents a stable state where no player has anything to gain by unilaterally changing their strategy. It can be represented as:
+css
+Copy code
+NE=[Game Theory/Strategic Interactions/Nash Equilibrium]
+Emergent Dynamics (ED):
+Emergent dynamics refers to phenomena or patterns that emerge from the interaction of individual components in a system. It is a significant concept in systems thinking and complexity science. Here is a possible SkillGraph notation:
+css
+Copy code
+ED=[Complexity Science/Systems Thinking/Emergent Phenomena]
+Non-Contradictory System (NCS):
+A non-contradictory system, as per the explanation, refers to a system where seeming contradictions (A not equal to A, B not equal to B) resolve as per the perspective, leading to a new, non-contradictory state. It can be represented as:
+css
+Copy code
+NCS=[Logic/Paradoxes/Resolution]
+Beneficial for Group (BG):
+This refers to the concept in game theory where the optimal strategy results in overall group benefit. It's a foundational idea in the study of cooperative games or social choice theory. Here is a possible SkillGraph notation:
+css
+Copy code
+BG=[Game Theory/Cooperative Games/Social Optimal]
+Strict Self-Interest (SI):
+This is a fundamental concept in classical economics and game theory, where agents act to maximize their own utility. It's at the core of non-cooperative games. Here is a possible SkillGraph notation:
+css
+Copy code
+SI=[Game Theory/Non-cooperative Games/Self-interest]
+Game Variation (GV):
+Game variation refers to changing the rules or parameters of a game, leading to a new set of strategies and potential Nash equilibria. This could be represented as:
+css
+Copy code
+GV=[Game Theory/Game Dynamics/Variations]
+So, using the above notations, the expression "NE ∧ NCS ∧ ∀x SI(x) ⇒ BG" can be interpreted in SkillGraph notation as:
+scss
+Copy code
+NE ∧ NCS ∧ ∀x SI(x) ⇒ BG [Game Theory/Strategic Interactions/Nash Equilibrium] ∧ [Logic/Paradoxes/Resolution] ∧ ∀x [Game Theory/Non-cooperative Games/Self-interest] ⇒ [Game Theory/Cooperative Games/Social Optimal]
+This representation suggests that a Nash equilibrium in conjunction with a non-contradictory system where all players act in their self-interest leads to a socially optimal solution. This aligns with the interpretation of the text provided above.
+Remember, this is an abstract and somewhat loose application of SkillGraph notation and could vary depending on the specific context and interpretation of the terms used.
+in other words, it is claiming that there is no ontologically designatable relationship between nash equilibria and any system, or between complexity and simplicity, etc. but rather that everything is identitylessness or "wsidom" or self-referential, identity-assertion-inducing-collapsification-of-identity-into-identitylessness (PIO)
+ChatGPT

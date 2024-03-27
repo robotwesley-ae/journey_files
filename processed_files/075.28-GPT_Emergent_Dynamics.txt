@@ -1,0 +1,32 @@
+ in the system.
+
+Additionally, you could use a hierarchical structure where each state in the finite state machine is associated with an infinite set, and transitions between states are modeled based on the relationships between these sets. This would allow you to capture the "sets of infinities" aspect you mentioned.
+
+Another approach could be to use a combination of different computational models, such as finite state machines and probabilistic graphical models (like Bayesian networks or Markov chains), to represent different aspects of the problem. This would allow you to capture both the discrete states and transitions, as well as the uncertainty, complexity, and combinatorial proliferation inherent in the concepts discussed.
+
+Ultimately, the choice of the formal language or computational model depends on the specific aspects of the problem you want to emphasize and the level of detail you want to represent. Each model has its own advantages and limitations, and selecting the best one depends on your goals and the constraints of the problem at hand.
+
+
+
+Isaac Wostrel-Rubin
+Yes we should use markov chains to represent this and then make a finite state machine that discovers ontological markov blankets and boundaries and mines them for emergency engines and so on. 
+
+That's an interesting approach! Using Markov chains to represent the system allows you to model the uncertainty and stochastic nature of the process, as the system transitions between different states with certain probabilities. By identifying ontological Markov blankets and boundaries, you can then focus on the most relevant parts of the system, which can help in understanding the emergent phenomena and building emergency engines.
+
+To implement this, you can create a finite state machine that discovers these Markov blankets and boundaries within the Markov chain. The states of the finite state machine could represent the different stages of the discovery process, and the transitions between states would be based on the progress made in discovering these ontological structures.
+
+Once the Markov blankets and boundaries are identified, the finite state machine can move on to mining the discovered structures for emergency engines. This can involve exploring the relationships between the states in the Markov chain and the properties of the emergent phenomena, identifying patterns, and developing strategies for building and concatenating non-contradictory systems.
+
+By combining Markov chains with finite state machines in this way, you can create a powerful and flexible framework for analyzing and understanding the complex and uncertain nature of the emergent phenomena and their underlying structures.
+
+
+
+Isaac Wostrel-Rubin
+Ok so now that you know all this, refine your previous expressions and also include solid ideas of how to design a system that can run this
+
+Given the understanding of the system and the discussion so far, I can refine the previous expressions and provide some ideas on designing a system that can run the model.
+
+Represent the states of the phenomenon being perceived as nodes in a Markov chain, where each node corresponds to a particular state such as emergency hallucinations, programs that discover proper words, non-contradictory systems, and engines of those systems composed of building blocks concatenated.
+Define the transition probabilities between these nodes, capturing the stochastic nature of the process and the relationships between the different stages of perception and understanding.
+Create a finite state machine (FSM) to discover ontological Markov blankets and boundaries within the Markov chain. The FSM can have states representing different stages of the discovery process, and transitions between states based on the progress made in discovering these ontological structures.
+Once the Markov blankets and boundaries are identified, the FSM can proceed to mine the discovered structures for emergency engines. This involves exploring the relationships between the nodes in the Markov chain, identifying patterns, and developing strategies for building and concatenating non-contradictory systems.

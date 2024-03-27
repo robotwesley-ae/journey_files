@@ -1,0 +1,38 @@
+Double check the current outline meets the project requirements fully. then proceed to the next level of granularity, starting at the next stage that needs to be expanded. expand the granularities of the next stage using your entire output space, going into as many levels of granularity fit in the space. If nothing is changing from before, just indicate that with == at the start of the output, otherwise indicate * for something saved from before, and just make the changes in between *'s, and continue on with the instructions earlier in this prompt. Make sure all of the steps are in the same syntactical format and use indentation instead of just numbering (use numbering as well)
+eg: 1.1
+  1.11
+    1.12
+1.2
+I believe the current outline already provides a comprehensive and detailed approach for creating a financial trading bot using a no-code platform, GPT-4, and Zapier plugins. However, I can provide additional granularity for stage 3 (Develop the trading bot logic and continuous surf strategy) to ensure a more in-depth understanding.
+Stage 3: Develop the trading bot logic and continuous surf strategy.
+3.1. Define the trading rules and strategies
+3.1.1. Research existing trading strategies for inspiration
+*3.1.1.1. Study trend-following, mean reversion, and momentum-based strategies
+*3.1.1.2. Understand the risk management techniques used in various strategies
+3.1.2. Incorporate continuous surf logic into the strategy
+*3.1.2.1. Identify market trends and trading signals for upward-moving assets
+*3.1.2.2. Determine exit points to avoid downward trends or park in cash
+3.2. Implement the trading rules and strategies within the no-code platform
+3.2.1. Use the platform's visual programming or scripting capabilities
+*3.2.1.1. Create custom logic for buy and sell signals
+*3.2.1.2. Implement risk management and position sizing
+3.2.2. Leverage the data retrieved from APIs and plugins
+*3.2.2.1. Integrate historical and real-time price data from financial APIs
+*3.2.2.2. Utilize GPT-4 for news analysis and sentiment analysis
+3.3. Optimize the trading strategy for profit maximization
+3.3.1. Consider transaction fees, rate of change differences, and other factors
+*3.3.1.1. Calculate transaction costs and account for them in the strategy
+*3.3.1.2. Analyze the impact of rate of change differences on profitability
+3.3.2. Adjust strategy parameters to minimize risk and maximize returns
+*3.3.2.1. Optimize position sizing and stop-loss levels to manage risk
+*3.3.2.2. Fine-tune trading signals and parameters based on backtesting results
+The additional granularity provided for stage 3 ensures a more in-depth understanding of the trading bot logic and continuous surf strategy development. The rest of the outline is already comprehensive, and expanding it further may exceed the output space.
+
+
+You are a startup composed of an all-star CTO, CEO, and trading expert trying to solve the following problem in order to capture the most money available in the world as fast as possible:
+
+What is the way to use GPT-4 and zapier plugins and no-code to make a maximally profitable financial trading bot that can trade its way into a continuous surf starting with $100. What is continuous surf? Continuous surf is a theoretical idea (there may be others you know, tell me about them) about value streams. Consider the stock market. Every instance of it there are assets going up and assets going down. The idea is only to trade into assets going up, and immediately convert them into an asset going up at a higher rate whenever possible to do without incurring a loss due to fees and the difference in rate of change being too small. Whenever it seems unlikely that something else will go up fast enough, with enough velocity to be sure that surfing is safe to continue, it parks the money in the trading account as cash.  
+
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to various web apps and services.
+Web apps and services connected to Zapier that are related to this project include Alpha Vantage, Quandl, and Twelve Data for accessing financial data; and GPT-4 API for natural language processing.

@@ -1,0 +1,49 @@
+    # --- n: The BRANE flowchain stops when this process is judged complete by the user.
+
+
+# " This presents both a strength in adaptability and a challenge in managing computational resources and ensuring progress towards specific targets." yes but are the hyperpersonas effective limiters? as long as the persona in question, for the specific flowchain run in question, has been specified as the most specific version of a hyperpersona possible for that thing, then it should be the case that that represents the 100% certain acceptable generation space in the latent space. so the problem is that hyperPersonas are both the problem at the beginning, and the solution at the end because the most specific superPersona is actually just the hyperPersona of the actual template_realizing_instancing_chain_template. In this model, because the persona array of the BRANE is interacting with a programmatic environment, its iteratively saving all the personas it makes whenever it drills down, so it doesnt do work twice and always optimizes from where it left off. so even though it makes project specific persona and even in stage2, query specific persona, it is always using general hyperpersonas to do so for the first few steps, so it is always adding more to the overall map in a specific way and that has a compound effect when many people do it. for example not everyone wants to market your business but everyone does marketing
+
+# So to be clear, each persona has an intuition layer which is a series of 5 hyperPersona superPersonas tuned to them, to create the skillchains required (tune the skillchains from the hyperpersonas to the superPersona) before handing them, and the input text, to the persona itself. This is true for any persona because of how these terms relativize. The BRANE is going through the entire ToOT (set of layers) on both macro and micro levels, just like how there are stage 1 and stage 2, the macro and micro, and the hyper and super, the macro and micro.
+
+]
+
+
+Programs:[
+Poimandres - InstancingChain program (blockchain) integrated with OMNISANC orchestrator (InstancingChain ChainConstructor is Poimandres the Orchestrator) (manage any tasks, always get correct next task for priorities)
+
+UCO ChainConstructor Program (EWSO:[PCNL, CORL, CBM], Emergence Engineering, Co-emergent Flow/Flowchain, BrainBrane:[ContextChain, OntoChain, CodebaseBrainBrane], AssemblyLines:[AssemblyLineChain(assembles assembly lines), CodingChain:[WriteCodeFromModel, WriteCodeFromCodebaseContext, WriteCodeFromHypotheticalToolChain], NonCodingChain:[NL_OnlyChain, MathChain, ToolChain:[Hypothetical, Actualizable]]]] 30k Chunker w 25 char overlap, 548 Chunker with 25 char overlap) (construct any chains, always construct next link formally)
+
+SANCREVTWILITELANGMAP_ChainConstructor (is_a chain of chain constructors; one ChainConstructor for each letter) (construct any Sanctuary, expression in SANC, or TWILITELANG, LANG, or experience any LITE, navigate any MAP)
+DSPy Scientific Method Optimizer
+]
+
+
+
+What I really need to get what I really need:
+Concepts:[Make these]
+
+Programs:[
+Poimandres - this is actually easy to make
+Taskdaemon adds task via GitHub issues
+Check current project priorities
+Collate task in user’s overall to-do (which, ideally, eventually becomes their ‘blockchain of things i did’ with 100% efficiency)
+Propose taskchain for task
+Taskdaemon to decompose a task becomes “Poimandres” chain that does ToOT via UCO to decompose the proposed taskchain
+Ask Rejector(Could be user) to verify proposal
+Execute the proposed taskchain
+The Poimandres personas are all running off of SANCREVTWILITELANGMAP and their domains
+UCO ChainConstructor
+…programming stuff
+DSPy Scientific Method Optimizer
+Rip this open
+Gut it
+Replace with better
+]
+
+Need to do:
+
+Tools to add to Orchestrator
+Start task management (tell me the next task, and decompose it into steps for me, assess what you CAN do and what i HAVE TO do in order to create the workflow we will follow, and devise a specialized customized system workflow for it)
+Calls @ TaskHell, which responds with:
+what’s in the backlog (@ taskdaemon_backlog)
+what tasks are on the board (@ taskdaemon_board)

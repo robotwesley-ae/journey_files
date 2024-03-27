@@ -1,0 +1,46 @@
+1) Rolling Loud Workflow Suite
+STC Beat Sheet Generator Suite
+Is a workflow of prompts (agent)
+Personas geared for individual aspects (You are a FUN AND GAMES 1 assistant, etc.)
+Is Product 1
+Jeremy Workflow Suite
+You are a “Assistant that gives options like Jeremy did for X, etc.”
+Is product 2
+2) Company: Jeremy buys STC -> combine w my Screenwriting graph
+3) Company: I build this for Jeremy, he is the first client for MentorUs/Whatever, and he can call other friends to do it in the film satellite (and he is part of the company)
+
+
+Too many companies. Need to go slow and get market share with repeatable process.
+
+
+
+
+
+
+Sanctuary Revolution 
+Personas
+Show SDNA progenitor Persona Creator demo
+Needs at least a Flowise where i can just get a result
+Needs a flowise suite -> Persona Generator, SancRev and OmniSanc Component generator.
+Place to save personas and call them
+Show BizziBeehive Demo
+Cross-Pollinatrix agent demo
+Basic Chat
+Agentized chat
+New Expert creator for Xpoll
+Custom Agentized Chat
+Tutorials
+Bizzi App
+Prompt Gym
+How to use SDNA progenitor
+Different types of personas
+Different types of components
+Different types of agents
+Different types of applications
+Omnimorphic
+OmniSanc engineering
+SancJourney Academy
+Learn Hero’s Journey
+
+
+So now you can see what I’m planning.

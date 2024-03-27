@@ -1,0 +1,53 @@
+Let S be a Sanctuary system with a set of rules R and a set of actors A. Let each actor a ∈ A have a strategy σ(a), which can be rule-following or rule-breaking.
+
+Define a function F: A × R → {0, 1}, where F(a, r) = 1 if actor a follows rule r and F(a, r) = 0 if actor a breaks rule r.
+
+Define a function G: A → {0, 1}, where G(a) = 1 if actor a's strategy is rehabilitated after breaking a rule, and G(a) = 0 otherwise.
+
+Define a function H: A × R → {0, 1}, where H(a, r) = F(a, r) or G(a), meaning that for a rule r and an actor a, either the actor follows the rule, or the actor is rehabilitated after breaking the rule.
+
+The Sanctuary system S is non-contradictory if ∀a ∈ A, ∀r ∈ R, H(a, r) = 1. In other words, in a non-contradictory Sanctuary system, each actor either follows the rules or is successfully rehabilitated after breaking the rules, thereby ensuring the stability and integrity of the system.
+
+
+
+Isaac Wostrel-Rubin
+Can you explain all the relevant background information to that formalization, including the other statements necessary to reach this conclusion?
+
+To understand the formalization and the relevant background information, let's first review the key concepts and ideas discussed previously:
+
+Non-contradictory Sanctuary system (NCSS): This is a theoretical system in which rule-following and rule-breaking behaviors are in equilibrium, such that the stability and integrity of the system are maintained.
+Nash Equilibrium (NE): A concept from game theory, which refers to a stable state of a system involving multiple decision-makers (players), where no player can gain an advantage by unilaterally changing their strategy, given that other players' strategies remain the same.
+Sanctuary state (SS): A state in which refuge is granted to all living beings inside a system, and rule-breakers are rehabilitated and reintegrated into the system.
+Rule breakers (RB) and rule followers (RF): Actors within the system who either follow the established rules or attempt to break them.
+The formalization builds upon these concepts and attempts to define a NCSS in terms of rule-following and rule-breaking behaviors, as well as the rehabilitation process. The key idea is that in a NCSS, rule breakers are either transformed into rule followers or rehabilitated in a way that doesn't harm the stability of the system.
+
+The formalization introduces several functions to describe the relationship between actors, rules, and the system:
+
+Function F: Describes whether an actor follows or breaks a rule.
+Function G: Indicates if an actor is rehabilitated after breaking a rule.
+Function H: Combines the outcomes of functions F and G, representing the system's response to an actor's behavior.
+By defining these functions, the formalization establishes the conditions necessary for a non-contradictory Sanctuary system, in which all actors either follow the rules or are rehabilitated after breaking them. This ensures the system's stability and integrity while allowing for the possibility of rule-breaking behaviors and their consequences.
+
+
+
+Isaac Wostrel-Rubin
+Formalize a non contradictory system in first order logic. Ask me to clarify anything you need to accomplish this. 
+
+To formalize a non-contradictory system in first-order logic, let's define the predicates and variables we'll be using:
+
+R(x): x is a rule.
+A(y): y is an actor.
+F(y, x): Actor y follows rule x.
+B(y, x): Actor y breaks rule x.
+Rehab(y): Actor y undergoes rehabilitation.
+SS(): The system is in a Sanctuary State.
+Now, we want to express that the system is non-contradictory when all actors either follow the rules or are rehabilitated after breaking them. Here's the formalization in first-order logic:
+
+∀x∀y (R(x) ∧ A(y) → (F(y, x) ∨ (B(y, x) ∧ Rehab(y)))) ∧ SS()
+
+This statement can be read as follows: For all x and y, if x is a rule and y is an actor, then either actor y follows rule x, or actor y breaks rule x and undergoes rehabilitation, and the system is in a Sanctuary State.
+
+This formalization represents a non-contradictory system, where all actors either follow the rules or are rehabilitated after breaking them, ensuring the stability and integrity of the Sanctuary State.
+
+
+

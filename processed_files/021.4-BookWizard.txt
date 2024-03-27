@@ -1,0 +1,49 @@
+        "DomainAnalysis2": "Value2",
+        "SelfHelpInsight1": "Value1",
+        "SelfHelpInsight2": "Value2",
+        "CustomerJourney1": "Value1",
+        "CustomerJourney2": "Value2",
+        "EffectivePrompt1": "Value1",
+        "EffectivePrompt2": "Value2",
+        "TrainingData1": "Value1",
+        "TrainingData2": "Value2",
+        "FineTuning1": "Value1",
+        "FineTuning2": "Value2",
+        "ModelPerformance1": "Value1",
+        "ModelPerformance2": "Value2",
+        "ModelArchitecture1": "Value1",
+        "ModelArchitecture2": "Value2",
+        "HyperparameterTuning1": "Value1",
+        "HyperparameterTuning2": "Value2",
+        "EnsembleMethods1": "Value1",
+        "EnsembleMethods2": "Value2",
+        "PerformanceEfficiency1": "Value1",
+        "PerformanceEfficiency2": "Value2",
+        "ModelOutputEvaluation1": "Value1",
+        "ModelOutputEvaluation2": "Value2",
+        "ModelIteration1": "Value1",
+        "ModelIteration2": "Value2",
+        "FeedbackIncorporation1": "Value1",
+        "FeedbackIncorporation2": "Value2",
+        "GeneralizationRobustness1": "Value1",
+        "GeneralizationRobustness2": "Value2"
+      }
+    }
+  },
+  "dynamicInputWorkflow": {
+    "name": "Dynamic Input Workflow",
+    "algorithm": "dynamic_input_workflow",
+    "input_data": {
+      "prompt": "user_prompt"
+    }
+  },
+  "dynamicOutputWorkflow": {
+    "name": "Dynamic Output Workflow",
+    "algorithm": "dynamic_output_workflow",
+    "input_data": {
+      "subtle_intentions": "subtle_intentions",
+      "context": "context"
+    }
+  }
+}
+

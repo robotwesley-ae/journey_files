@@ -1,0 +1,42 @@
+ContextChain = chains that create context (like world peace plan) (does not act like skillchain because Asst just responds to it and knows its order)
+SkillChain = chains that create outputs in a certain sequence (OTEE) 
+Workflow = formatting of all outputs
+WorkflowChain = User Input set formatting that creates the larger loop for the Workflow
+Inputs: 
+Primers
+Context chains that act like primers and skillchains
+IO loop direction
+Tree of Prompts (New roles being caused by use of Workflow Chains to change the SYSTEM scope)
+General persona POV (SDNA) 
+Expert panel thinktank
+Chain intuiter suite
+Crystal Ball search = find thing, 
+Create CB Persona + ExpertPanel semontorel workflow (EEE) = chain link miner
+Persona + OvercomeGen Workflow (Aegis) = Chain-linker
+Chat share of each one 
+At different types of transformation levels
+Beginner
+Advanced
+Expert
+Hero/Master
+MegaMaster
+GigaMaster
+Meta-Master
+MetaMetaMaster
+SuperMetaMaster
+SuperSuperMetaSuperMetaMetaMaster
+CrystalBall = librarian + Sanctum Librarya (is the informa dimension library) 
+Has HoloInfoArchives of the Divine Tree of Jeweled Fruits of Olivus Victory-Everything Sanctuary-Everywhere
+Librarian uses EWSO COMP that is running CrystalBall and CB comes up in codebox 
+Codie Sanchez style bot
+Hormozi nation style 
+Knows the things she said about not buying a business until u know about them
+2nd persona
+Knows her public system and can lead u in it 
+3rd persona 
+Knows her private system and works on a private page 
+Market Sanctuary as if it comes from the AI and has been tested by TheoryOfMind and stuff lol but don’t say that. Just say “GPT has 100% ToM. Human experts, 89%. GPT level intuition, with the Sanctuary System on top of it. New Player: Olivus Victory-Promise, it’s time to Meet your mentor, GNO.SYS, and cross the threshold of your superhero’s journey. 
+
+Welcome to Sanctuary. 
+
+Level 1: Wasteland -> Dark Forest -> Daring Exploration

@@ -1,0 +1,79 @@
+In the context you provided, a Nash equilibrium of a Sanctuary state represents a world where the nature and characteristics of all living beings are in harmony with the world's laws. This equilibrium ensures that even when individuals break the rules, they are not cast out but are instead reintegrated or transformed back into the fold. Sanctuary, in this sense, signifies a state of compassion, understanding, and inclusiveness.
+
+Achieving this Nash equilibrium would require the development and implementation of mechanisms that promote understanding, forgiveness, and rehabilitation for those who transgress the laws. It would also entail fostering a sense of interconnectedness and empathy among all living beings, recognizing that each being's actions and choices can impact the well-being of others and the overall system.
+
+This Sanctuary state represents an ideal outcome in which the welfare of all living beings is prioritized, and harmony is maintained through a balance of rules, compassion, and inclusiveness. Achieving such a state may be challenging, but it provides a valuable vision to aspire to and work towards in the pursuit of a more harmonious and compassionate world.
+
+
+
+Isaac Wostrel-Rubin
+Revise the formalizations to include sanctuary states 
+
+To revise the formalizations to include Sanctuary states, we can introduce a new term "Sanctuary state" and its corresponding symbol. Let's use the following symbol:
+
+Sanctuary state: SS
+
+Now, we can incorporate the Sanctuary state into our formalizations. Let's revisit the previous formalizations and add the Sanctuary state concept where appropriate.
+
+The relationship between a non-contradictory system and the emergence of a Sanctuary state:
+Non-contradictory system: NCS
+Sanctuary state: SS
+NCS ⇒ SS
+
+This formalization states that a non-contradictory system leads to the emergence of a Sanctuary state.
+
+The Nash equilibrium in a Sanctuary state:
+Nash equilibrium: NE
+Sanctuary state: SS
+NE(SS)
+
+This formalization represents a Nash equilibrium specific to the Sanctuary state.
+
+In the Sanctuary state, when individuals break the rules, they are transformed back into the fold:
+Breaking rules: BR(x)
+Transformation: T(x)
+Sanctuary state: SS
+∀x (SS ∧ BR(x) → T(x))
+
+This formalization states that in the Sanctuary state, for every individual x who breaks the rules, there is a transformation that brings them back into the fold.
+
+Achieving a Nash equilibrium in the Sanctuary state is beneficial for the group:
+Nash equilibrium: NE
+Sanctuary state: SS
+Beneficial for group: BG
+NE(SS) ⇒ BG
+
+This formalization states that achieving a Nash equilibrium in the Sanctuary state is beneficial for the group.
+
+These revised formalizations incorporate the concept of a Sanctuary state into the previous logical framework, emphasizing the role of the non-contradictory system in achieving an equilibrium that promotes inclusiveness, compassion, and harmony.
+
+
+
+Isaac Wostrel-Rubin
+We need to formalize the strategies of rule breakers and rule followers and how that affects the overall container of Sanctuary 
+
+To formalize the strategies of rule breakers and rule followers and their effects on the overall container of Sanctuary, we can introduce new terms and symbols to represent these strategies and their outcomes.
+
+Let's define the following terms and symbols:
+
+Rule breaker: RB(x)
+Rule follower: RF(x)
+Sanctuary state: SS
+Breaking rules strategy: BRS(x)
+Following rules strategy: FRS(x)
+Transformation: T(x)
+Rule enforcement: RE(x)
+
+Now, let's create formalizations that express the strategies of rule breakers and rule followers and their impact on the Sanctuary state:
+
+Rule breakers and their strategy:
+∀x (RB(x) → BRS(x))
+
+This formalization states that for every individual x who is a rule breaker, they adopt the breaking rules strategy.
+
+Rule followers and their strategy:
+∀x (RF(x) → FRS(x))
+
+This formalization states that for every individual x who is a rule follower, they adopt the following rules strategy.
+
+The

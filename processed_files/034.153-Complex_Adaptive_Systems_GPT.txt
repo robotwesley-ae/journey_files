@@ -1,0 +1,30 @@
+Start with the original graph space, where each coordinate represents a specific perspective or viewpoint.
+Identify the relationships, properties, and metadata associated with each node in the graph space.
+Develop an encryption scheme that maps these relationships and properties to combinations of letters and punctuation marks, as previously discussed.
+Apply the encryption scheme to the graph space, effectively compressing the relationships and properties while preserving their contextual information.
+When navigating the graph space, use the encryption scheme to expand the compressed data, revealing the relationships and properties relevant to the current position. This allows for a dynamic exploration of the graph space, where information becomes available based on the chosen perspective or viewpoint.
+This approach ensures that the essential relationships, properties, and metadata associated with each node are preserved, while also allowing for efficient storage and retrieval of the data. As you navigate the graph space and explore different perspectives, the encryption-based compression can adaptively reveal the relevant information, providing a richer and more contextualized understanding of the knowledge domain.
+
+
+by original graph space, there, you mean the original knowledge graph that contains all of the processes we are describing entity-by-entity, such that it can be run as an algorithm to classify data we already have, such that it can be run as an algorithm to find new data in the parts of the encryption space that we dont know how to decrypt, right? otherwise what you said doesnt seem to be talking about what we are tlkaing about per se
+Apologies for the confusion. Let me clarify the approach in the context of the original knowledge graph that contains all of the processes we are describing entity-by-entity:
+Start with the original knowledge graph, where each node represents an entity or process, and edges represent relationships between them.
+Identify the relationships, properties, and metadata associated with each node in the knowledge graph.
+Develop an encryption scheme that maps these relationships and properties to combinations of letters and punctuation marks, as previously discussed.
+Apply the encryption scheme to the knowledge graph, effectively compressing the relationships and properties while preserving their contextual information.
+When navigating the knowledge graph, use the encryption scheme to expand the compressed data, revealing the relationships and properties relevant to the current position. This allows for a dynamic exploration of the knowledge graph, where information becomes available based on the chosen perspective or viewpoint.
+With the compressed representation, you can run algorithms to classify the data you already have, as well as search for new data in the parts of the encryption space that you don't know how to decrypt.
+By incorporating the original knowledge graph into the approach, we ensure that the essential relationships, properties, and metadata associated with each node are preserved. The encryption-based compression allows for efficient storage and retrieval of the data and adapts as you navigate the graph space, providing a richer and more contextualized understanding of the knowledge domain.
+
+
+No no no...
+
+we are starting with a single knowledge graph 
+that knowledge graph contains the ontology of the polysemic linguistic program we are talking about, the cryptographic classifier and visualizer stack. 
+
+Then it has a GUI
+Whenever we query the GUI with a sufficiently defined context:
+the encryption algorithm is used to encrypt the query
+this key provides entities to embed
+the embedding transforms according to the search purpose
+the result is the "decryption" of the matrix of the search x the search purpose

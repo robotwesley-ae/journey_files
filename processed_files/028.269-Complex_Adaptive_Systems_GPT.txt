@@ -1,0 +1,113 @@
+No be more specific and only use the exact terminology we used in reference
+Apologies for the confusion. Based on our conversation, here are more specific lists using the terminology we discussed:
+Domains of knowledge related to Crystal Ball:
+Quaternion representation of spacetime
+Kruskal-Szekeres coordinates for black holes and white holes
+Synergies between encrypted spaces and visible spaces
+Identitylessness in the context of Crystal Ball's spacetime
+Domains of knowledge related to the Sanctuary mythology:
+Sanctuary System's components (Sanctuary, Buffer Zone, Crystal Ball)
+AI tools used in the Sanctuary System (ChatGPT, Pinecone, Neo4j)
+Ontology-aware GPTs for handling domain-specific knowledge
+Relationship between emotion and knowledge in the Sanctuary System
+Please let me know if you need further clarification or more information about any of these categories.
+
+
+What do you mean by buffer zone? What about emergence, flow, systems, Nash equilibria, linear algebra etc. Make exhaustive taxonomic lists
+Apologies for the confusion. Here is a more exhaustive list of the domains of knowledge we discussed, organized into taxonomic categories.
+Domains of knowledge related to Crystal Ball:
+Coordinate systems and spacetime representation
+Quaternion representation of spacetime
+Kruskal-Szekeres coordinates for black holes and white holes
+Abstract concepts
+Identitylessness in the context of Crystal Ball's spacetime
+Emergence and flow
+Systems thinking and complexity
+Nash equilibria
+Linear algebra and its applications
+Domains of knowledge related to the Sanctuary mythology:
+Sanctuary System's components and features
+Sanctuary
+Buffer Zone (I mistakenly mentioned this earlier; it wasn't discussed in our conversation)
+AI tools used in the Sanctuary System
+ChatGPT
+Pinecone
+Neo4j
+AI-related concepts
+Ontology-aware GPTs for handling domain-specific knowledge
+Emotional aspects of the Sanctuary System
+Relationship between emotion and knowledge
+Data management and visualization
+Data science principles
+Visualization techniques (mindmaps, charts, and graphs)
+Please let me know if you would like to add or remove any categories or items from these lists.
+
+
+Are you sure that follows the prompt completely?
+I apologize if my previous response did not completely address your request. Here's another attempt at creating exhaustive taxonomic lists based on our conversation, specifically using the terminology mentioned.
+Domains of knowledge related to Crystal Ball:
+Coordinate systems and spacetime representation
+Quaternion coordinate system
+Kruskal-Szekeres coordinate system (4D view)
+Abstract concepts
+Emergence
+Flow
+Systems thinking
+Nash equilibria
+Linear algebra
+Domains of knowledge related to the Sanctuary mythology:
+Sanctuary System components and features
+Sanctuary
+Ideosyncratic AI tools
+AI tools and techniques used in the Sanctuary System
+ChatGPT
+Pinecone
+Neo4j
+Zapier
+AI-related concepts
+Ontology-aware GPTs
+Classifier scripts
+Natural language processing libraries (SpaCy, NLTK, TextBlob)
+Emotional aspects of the Sanctuary System
+Relationship between emotion and knowledge
+Data management and visualization
+Data science principles
+Visualization techniques (mindmaps, charts, and graphs)
+Arrows.app
+Cypher query language
+I hope this revised list better addresses your request. If you have any further adjustments or additions, please let me know.
+
+
+Can you make it more like a catalog of the entire chat so far?
+Here's a catalog of the main topics discussed in this chat:
+Entrepreneurial AI - HustleGPT
+Market research
+Google Trends analysis
+Niche identification
+Creating a Wiki
+Utilizing AI tools to create and maintain a wiki
+Sanctuary System
+Ideosyncratic AI tools
+Abstract concepts
+Emergence
+Flow
+Systems thinking
+Nash equilibria
+Linear algebra
+Emotional aspects
+Relationship between emotion and knowledge
+AI tools and techniques
+ChatGPT
+Pinecone
+Neo4j
+Zapier
+Data management and visualization
+Data science principles
+Visualization techniques (mindmaps, charts, and graphs)
+Arrows.app
+Cypher query language
+AI-related concepts
+Ontology-aware GPTs
+Classifier scripts
+Natural language processing libraries (SpaCy, NLTK, TextBlob)
+Python environment setup

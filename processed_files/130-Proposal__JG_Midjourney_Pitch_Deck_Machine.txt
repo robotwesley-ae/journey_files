@@ -1,0 +1,25 @@
+Project: JG Midjourney Pitch Deck Machine
+
+Stages: (I am involved in 1a-d, you will need an engineer for 2a-c)
+Data collection and processing
+I need to go through every Midjourney prompt version in the sequence from the very first one to the very last one for each image and extract the transformation semantics from the image-to-natural-language translation tool MJ has, for each image in the pitch deck. 
+I need to map every image used in the pitch deck to its scene in the script and its overall sequence in the Hero’s Journey in order to map the metaphorical traits of the scene to the shot list in the pitch deck.
+I need to map the changes of the prompts to a semantic transformation workflow
+I need to encapsulate that workflow via prompt personas and specialized input prompts.
+I deliver you a persona for each aspect of the workflow, which is usable to get MJ prompts for each image needed for a pitch deck. You then need to pay an engineer to put this into an application format. This can definitely be done “no-code” and an engineer could just make the website on bubble.io. Personas can be hosted on the site via botpress.
+Personas will need to be hooked into data pipelines for users (vectorDB/pinecone api will do this).
+Membership site will need to be set up.
+Then you will have a fully functioning MVP of the product where people can input an STC beatsheet and get a pitch deck.
+Marketing launch campaign (I’m happy to create this for you at a revshare agreement of 30% and run it with your social media people).
+
+Considerations: 
+It is possible that Midjourney gets blown away by some competitor that does text-to-video and makes this tool obsolete. In that case, we can reformat it to create the text-to-video pitch deck. 
+
+True value: the Personas are valuable because they have knowledge encapsulated in them. Have you ever seen the direct mapping between story attributes, trailers, shot lists, and so on? I bet not. That’s what I would have to make in order for this to work consistently. In my opinion, that is a very valuable dataset that can serve you beyond just this tool. Actually, I would consider this tool as an application built on top of that dataset. The fact that I can extract that data from your work and then generalize it so anyone can get a pitch deck for their movie from it means that you know that the data is good a priori. Now, it may work out that we’re only able to generalize into the genre of comedy, but that would still be a tool with a very broad market, and I would be able to expand it with other writers (as we talked about, there’s a whole potential thing going on there once it can be expanded from the Minimum Viable Product). Let’s say here the MVP is: a pitch deck function machine that works for JG scripts.
+
+
+Offer: $25k total across delivery stages ($5k upfront) is what I need minimum to work on something like this (my consulting fee is usually $1k/hr). This is a huge discount on what I plan to charge for something like this project. To create a product, I would usually at least require revshare if not equity. I am making this offer because 1) I want to jump start my business, 2) I want to do a trial with you to see if we can work together as partners in the future, 3) I have the capabilities to help you build this product.
+
+Payment schedule: start = $5k, delivery of stage 1a-d = $20k on delivery. If you want help with marketing, I will run the entire campaign with your social media people for 30% revshare and launch your product in time for Christmas. There are a lot of ways to price a product like this, it could be $27/mo or it could be $599/lifetime. I think you will have better luck selling the lifetime with false scarcity using a $97/mo offer.
+
+I expect it could be done by the start of December and MVP released, with a public launch for christmas. I would aim to complete it by thanksgiving to give 6 weeks for the marketing campaign.

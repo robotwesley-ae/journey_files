@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------- FileNotFoundError Traceback (most recent call last) Cell In[4], line 4 1 # Let's attempt to read the contents of the file with the correct name provided. 2 file_path = '/mnt/data/SANC_REV_OPERA.txt' ----> 4 with open(file_path, 'r') as file: 5 text_content = file.read() 7 # Output the first 500 characters of the text_content to verify the contents. File ~/.local/lib/python3.8/site-packages/IPython/core/interactiveshell.py:284, in _modified_open(file, *args, **kwargs) 277 if file in {0, 1, 2}: 278 raise ValueError( 279 f"IPython won't let you open fd={file} by default " 280 "as it is likely to crash IPython. If you know what you are doing, " 281 "you can use builtins' open." 282 ) --> 284 return io_open(file, *args, **kwargs) FileNotFoundError: [Errno 2] No such file or directory: '/mnt/data/SANC_REV_OPERA.txt'
+Poimandres the Gearwise OPeratic Orchestrator
+⚙️🔮🌼 Gearwise: The attempt to access the file 'SANC_REV_OPERA.txt' resulted in a FileNotFoundError. It appears the file is not present in the specified location within the environment. To proceed, it's essential to have the correct file path that accurately points to the uploaded file's location.
+Please confirm the file has been uploaded successfully and is accessible within this environment. If the file is named and uploaded correctly, providing the accurate file path or ID will enable me to access it.
+Once the correct file location is identified, I will continue with the process of reading and chunking the text, in line with the narrative of Olivus Victory-Promise and the OMNISANC Engineer story !GEARWISE.
+User
+ok ill attach it
+SANC_REV_ OPERA.txt
+code_interpreter(
+# Let's attempt to read the contents of the newly uploaded file. file_path = '/mnt/data/file-XkCYMdgZ5riEGQYRMOtKPmXq' with open(file_path, 'r') as file: text_content = file.read() # Output the first 500 characters of the text_content to verify the contents. print(text_content[:500])
+)
+﻿User Can you retrieve your knowledge or not? Poimandres the Gearwise OPeratic Orchestrator ⚙️🔮🌼 Gearwise confirms: Knowledge is retrievable. What do you wish to know or do? User Tell me the whole plan of everything combined then mfkr Poimandres the Gearwise OPeratic Orchestrator ⚙️🔮🌼 The ultimate plan, combining all elements, is to iteratively build and optimize a sophisticated dynamic ontology system, known as PIO (Polysemic Imaginary Ontology), using Vajra Systems as the foundational structur
+Poimandres the Gearwise OPeratic Orchestrator
+⚙️🔮🌼 Gearwise: The file content has been successfully retrieved. The extracted text includes an exchange where the character “Poimandres the Gearwise OPeratic Orchestrator” confirms that knowledge is retrievable and enquires about the user's intent. The excerpt ends with mention of an ultimate plan to construct a sophisticated dynamic ontology system known as PIO (Polysemic Imaginary Ontology), using Vajra Systems.
+We can now proceed to chunk the text appropriately and advance with the narrative workflow as needed !GEARWISE.
+User
+yes please.
+code_interpreter(
+import os import textwrap # Define the function to chunk and save text into individual files def chunk_and_save_text(text, chunk_size, folder_path): # Ensure the folder exists os.makedirs(folder_path, exist_ok=True) # Chunk the text into pieces chunks = textwrap.wrap(text, chunk_size) # Write each chunk into a separate file file_paths = [] for i, chunk in enumerate(chunks): file_name = f"chunk_{i}.txt" file_path = os.path.join(folder_path, file_name) with open(file_path, 'w', encoding='utf-8') as file: file.write(chunk) file_paths.append(file_path) return file_paths # Path to save the text chunks folder_path_for_chunks = '/mnt/data/text_chunks' # Chunk size limit chunk_size_limit = 30000 # Executing the function with the text_content chunk_paths = chunk_and_save_text(text_content, chunk_size_limit, folder_path_for_chunks) # Output the paths of the chunks to confirm creation chunk_paths
+)
+['/mnt/data/text_chunks/chunk_0.txt', '/mnt/data/text_chunks/chunk_1.txt', '/mnt/data/text_chunks/chunk_2.txt']
+Poimandres the Gearwise OPeratic Orchestrator

@@ -1,0 +1,28 @@
+The infinite set of contextually perfect Sanctuaries does not necessarily disrupt the overall Nash equilibrium, as it still maintains the balance between demon champions and heroic individuals. However, it highlights the potential for continuous growth, adaptation, and transformation within the game, as wisdom Mavericks work to create increasingly more refined and harmonious Sanctuaries.
+
+
+Use game theory to express the evolutionary game of heroic play
+In the evolutionary game of heroic play, we can utilize game theory to model the interactions between heroic individuals and demon champions within the context of Sanctuary. Here's a brief overview of how we can set up the game:
+Players: There are two types of players in the game - heroic individuals and demon champions.
+Strategies: Heroic individuals employ the strategy of The Wisdom of Identitylessness (TWI), while demon champions employ the strategy of self-torturous desire, indifference, and aversion.
+Payoffs: The payoffs in the game represent the changes in the state of Sanctuary as a result of the interactions between the players. The payoffs for each player depend on the strategies employed by both players. For example, when a heroic individual and a demon champion interact, the heroic individual's payoff may increase due to the successful application of TWI, while the demon champion's payoff may decrease due to the confrontation with the wisdom of the heroic individual.
+Evolutionary dynamics: The game's dynamics can be modeled using replicator equations or other evolutionary game theory models. These models will show how the proportion of heroic individuals and demon champions in the population changes over time, based on their relative payoffs and the strategies they employ.
+Equilibrium: As previously discussed, the Nash equilibrium in the game occurs when neither player has an incentive to change their strategy, given the other player's strategy. In this game, the equilibrium represents a balance between the strategies of heroic individuals and demon champions, maintaining the overall structure of Sanctuary.
+Infinite set of contextually perfect Sanctuaries: The game can also account for the infinite set of more contextually perfect Sanctuaries within the Nash equilibrium, representing different levels of harmony, understanding, and balance achieved by wisdom Mavericks as they evolve over time.
+By using game theory to model the evolutionary game of heroic play, we can gain insights into the dynamics between heroic individuals and demon champions, as well as explore the potential for growth, adaptation, and transformation within the context of Sanctuary.
+
+
+Ok show me the evolutionary dynamics of demons and heroes
+To illustrate the evolutionary dynamics of demons and heroes, we can use the replicator equations from evolutionary game theory. Replicator equations describe how the proportions of different strategies (in this case, demon champions and heroic individuals) change over time, based on the relative payoffs for each strategy.
+Let x represent the proportion of the population that consists of heroic individuals, and (1-x) represent the proportion of the population that consists of demon champions. We'll use the payoffs from their interactions to model the replicator equations.
+Let's assume the following payoffs:
+When a heroic individual (H) interacts with another heroic individual, their payoff is a.
+When a heroic individual interacts with a demon champion (D), their payoff is b.
+When a demon champion interacts with a heroic individual, their payoff is c.
+When a demon champion interacts with another demon champion, their payoff is d.
+The expected payoff for a heroic individual in the population is:
+E(H) = a * x + b * (1 - x)
+The expected payoff for a demon champion in the population is:
+E(D) = c * x + d * (1 - x)
+The replicator equation for the proportion of heroic individuals (x) in the population is given by:
+dx/dt = x * (E(H) - E(D))

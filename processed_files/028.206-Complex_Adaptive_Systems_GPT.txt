@@ -1,0 +1,39 @@
+Deploy and scale: Once you're satisfied with the functionality of your ChatGPT, deploy the app and make it available to your target audience. As you gather more users and data, you might need to optimize your app for scalability and performance.
+Remember, while no-code tools and Zapier can help you build a functional Sanctuary Alignment ChatGPT, there may be limitations in terms of customization and scalability. As your platform grows, you might need to consider transitioning to a custom-coded solution or incorporating more advanced AI models.
+
+
+Let's try this out. Instead of using your normal output format, only list axioms related to the output and then provide a conclusion. 
+
+What is the way to use GPT-4 and zapier plugins and no-code to make a maximally profitable financial trading bot that can trade its way into a continuous surf starting with $100. What is continuous surf? Continuous surf is a theoretical idea (there may be others you know, tell me about them) about value streams. Consider the stock market. Every instance of it there are assets going up and assets going down. The idea is only to trade into assets going up, and immediately convert them into an asset going up at a higher rate whenever possible to do without incurring a loss due to fees and the difference in rate of change being too small. Whenever it seems unlikely that something else will go up fast enough, with enough velocity to be sure that surfing is safe to continue, it parks the money in the trading account as cash. 
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Axiom 2: GPT-4 can be integrated into applications via APIs.
+Axiom 3: Financial trading bots make automated buy and sell decisions based on predefined rules and strategies.
+Axiom 4: Maximizing profit is the primary goal of a financial trading bot.
+Axiom 5: Continuous surf refers to the strategy of riding upward trends and avoiding downward ones.
+Axiom 6: Trading fees and rate of change differences affect the profitability of a trading strategy.
+Conclusion: To build a maximally profitable financial trading bot using GPT-4, Zapier plugins, and no-code tools, one must create an application that integrates GPT-4 for decision-making, leverages no-code tools for rapid development, and incorporates Zapier plugins for seamless integration with trading platforms. The bot should employ a continuous surf strategy, constantly moving funds into assets with increasing value while minimizing losses due to trading fees and rate of change differences. It should park funds as cash during periods of uncertainty or when there are no profitable opportunities.
+
+
+Ok so I think you can refine that with a lot more axioms to add specificity. Lets talk about it:
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to ____
+___ connects to ___ .... 
+____ connects to [financial tools]
+Premise 1: ______
+
+Please complete the rest like that example. Here is feedback on the others.
+
+Axiom 2: GPT-4 can be integrated into applications via APIs.
+[Check we could get all the APIs we need]
+Axiom 3: Financial trading bots make automated buy and sell decisions based on predefined rules and strategies.
+Axiom 4: Maximizing profit is the primary goal of a financial trading bot.
+Axiom 5: Continuous surf refers to the strategy of riding upward trends and avoiding downward ones.
+What are the axioms involved? Doesnt a strategy rely on a mathematical formula involving the greeks?
+Axiom 6: Trading fees and rate of change differences affect the profitability of a trading strategy.
+Additional axioms about this like above.
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to various web apps and services.
+Web apps and services can include financial tools and platforms.
+Premise 1: Zapier plugins can connect no-code tools to financial platforms for creating a trading bot.
+Axiom 2: GPT-4 can be integrated into applications via APIs.
+Premise 2: APIs for GPT-4 are available and can be incorporated into the trading bot.

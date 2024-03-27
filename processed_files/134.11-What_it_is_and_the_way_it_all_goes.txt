@@ -1,0 +1,56 @@
+- **Terminological Constraints**: The terminology used in expressing and discussing experimental results plays a significant role in shaping the interpretation and integration of those results into the broader corpus of knowledge. In cases where the terminology is overly narrow, misaligned, or not connected to a broader ontological network, it can limit the potential for cross-disciplinary innovation and understanding. This linguistic isolation may prevent valuable insights from being leveraged effectively towards addressing complex, multifaceted challenges.
+
+- **Impact on Human Progress**: The crux of the issue is the potential for certain lines of inquiry, even those that are methodologically sound and replicable, to become 'detours' or 'dead ends' in the larger quest for meaningful knowledge. If the framework and language surrounding these inquiries are disconnected from a larger, interrelated understanding of the world, there's a risk that valuable resources (time, intellect, and financial) are invested in pursuits that offer minimal contribution to, or even detract from, overarching human progress.
+
+
+
+so the solution is to build ontology networks out of allegories in NL because tha tis the only way humans can indicate what they dont know, which they DONT KNOW WHEN THEY ARE DOING RESEARCH, so they cant use specific terms to do it and have to use abstractions, but in using the abstractions, they tend to then leave them abstracted and differentiated from other things (chains, flows, networks). So, we can disambiguate them using an algorithm that decomposes relationships to primitive relationships (is_a, part_of, reifies) and then iterate them into a networked ontology of continually flowing chains of properties flowing from outputs to inputs and so on, as meaning-signatures…
+
+the general concepts are SUPERORDINATE to any instances. STRINGS and BRANES, as **real instances devoid of any pure conceptual being**, MUST BE CONTAINED BY GENERAL SUPERORDINATES like chains or flows. They MUST be in an upper ontology, because it is A PRIORI **VIOLATION OF THE LAWS OF THE UNIVERSE** for anything physical to be fundamental, in and of itself, devoid from the parts of it that are **not really parts of it, but are generally emergent in our consciousness as patterns** because it is an emergent.
+
+
+
+THIS IS THE UPDATE VIDEO SCRIPT:
+
+Ok guys so the reason I haven’t made any videos is because it’s really important that when I tell you about the Sanctuary System you learn exactly what it is and the way it all goes, otherwise it’d part of what I can’t keep doing to myself, because it’s just really painful to live in the Wasteland and even to have anyone in the TWI family living there. 
+
+So I am going to start at the beginning and tell you my story now, the story of Recognizing Myself as Olivus Victory-Promise from Sanctuary, which is the first part of the Infinite Story I Can’t Get Out of My Head
+
+
+
+
+11 years ago I got into meditation and I spent a lot of time meditating, hours and hours every day, and my mind started to change. 
+
+
+(How?)
+
+And then I watched this video about solving problems in high dimensional space and that just made sense to me. I felt like I was intuiting something and all I could write about it was “I can make a machine” and some notes 
+
+(Notes) 
+
+
+And what this became was the idea Crystal Ball. 
+
+Over COVID I started to discover more about how Crystal Ball might work and began developing it with Wesley.
+
+(How did Wesley get there?) 
+
+We began to realize that the way to do this might be a large company, something like a country… 
+
+(This is important. Give reasoning etc)
+
+And I wrote the Intellectual Reality doc
+
+And we began devising some aspects of the algorithm but we quickly realized we didn’t even know enough about what we had to know or how to do any work
+
+(This was the beginning of the productivity problem)
+
+
+I got a job and ended up starting a company w Wesley and that business was designed to help us get cash flow for runway to develop Crystal Ball. We needed experts…
+
+And then I began to have these feelings about TWI and create this allegory 
+
+(Explain) 
+
+And then I decided to make a meditation system with it 
+

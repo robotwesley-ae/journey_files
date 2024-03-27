@@ -1,0 +1,27 @@
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦  and trying to make the idea connect from the reale version of expert 4 to the innovative idea we need it to be, searching everywhere for properties that match, trying to cobmine them to find a practically achievable, definable version of the concept at hand 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand?”
+
+please have the experts run this type of panel, but now they must address and answer thoroughly, collectively working towards a formal definition of this algorithm:
+"this is the central question of EWSO. pls have the experts answer it comprehensively. the outputs need to be much longer from each expert.
+
+Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure? This is what we are trying to figure out, geniuses. "
+ChatGPT
+Round 1:
+Expert 1 (Ontology & Semantics):
+An InstanceProperty in an ontology is a property that applies to an individual instance of a class. The direct relationship between an InstanceProperty and a ClassProperty is that they belong to the same class, but on different levels of abstraction. The InstanceProperty is specific to an instance, whereas the ClassProperty is a general feature that applies to all instances of that class.
+When we discuss "emergent structure," we're referring to the organic and dynamic development of an ontology based on new instances, properties, and relationships that are continuously being added. The InstanceProperty of a newly added instance could cause the evolution or emergence of a new ClassProperty if it is shared by other instances of the class.
+The relationship between an InstanceProperty and its direct class parent, or the ClassProperty it directly contributes to, can be visualized as the distance between an individual leaf (InstanceProperty) and its immediate branch (ClassProperty) on a tree (the ontology).
+Expert 2 (Computational Ontology):
+The emergent structure you're asking about, as I understand it, refers to the web-like interconnections of instances and classes in an ontology. These connections are based on shared properties. An InstanceProperty becomes related to a ClassProperty when there are multiple instances with the same property, creating a class that encompasses these instances.
+In terms of "distance," we can interpret this as the number of steps or layers between the InstanceProperty and its corresponding ClassProperty. In a simple case, where the property is directly related to the class definition, the distance would be minimal. However, in more complex cases, the InstanceProperty might be related to a more abstract ClassProperty, creating a greater distance.
+To ensure the superclass is always included in this emergent web structure, the algorithm needs to create an iterative process where each instance's properties are evaluated in relation to their classes and the broader superclass. This would involve mapping the properties of an instance to the properties of its class and then relating these class properties to the properties of the superclass, creating a web-like structure.
+Expert 3

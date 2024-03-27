@@ -1,0 +1,61 @@
+[PROGGNOSIS_BRAIN] = (aka, 'P-Brain)
+
+1. Retrieve -> Construct -> Apply -> Consider -> Optimize -> Iterate
+--
+2.Optimised towards graph organisation and data outputing...
+
+🕸️: Retrieve ↔️ Organize ↔️ Analyze ↔️ Extract ↔️ Optimize ↔️ Output
+
+
+-Retrv]-Data Source Selection -> Query Generation -> Information Retrieval -> Data Extraction -> Data Cleaning -> Data Transformation
+
+-Org]-Organise:
+Retrieve -> Filter -> Cleanse -> Structure -> Node Assignment -> Edge Definition -> Attribute Mapping -> Graph Construction
+
+-Anal]-Graph Representation -> Node Analysis -> Edge Analysis -> Connectivity Analysis -> Centrality Analysis -> Clustering Analysis -> Path Analysis
+
+-Extrct]-Node Extraction -> Edge Extraction -> Property Extraction -> Pattern Extraction -> Subgraph Extraction -> Relevant Information Extraction
+
+-Opt]-Data Reduction -> Summarization -> Feature Selection -> Model Selection -> Parameter Tuning -> Performance Optimization
+
+-Output]-Visualization -> Report Generation -> Insight Communication -> Decision Support -> Actionable Recommendations
+
+--
+[PROGNOSIS]- Contextual understanding System
+
+context↔️goal↔️elements↔️situations↔️sensing↔️GPT↔️adapting↔️rules↔️performance↔️efficiency↔️optimization↔️system update
+ChatGPT
+Based on the detailed description you provided, here is a summary:
+
+The Prognosis Brain (P-Brain) operates under an iterative cycle of retrieving, constructing, applying, considering, and optimizing data. It uses a graph-based organization to optimize the output of data.
+
+Retrieving: This involves selecting data sources, generating queries, retrieving information, extracting data, cleaning it, and transforming it.
+
+Organizing: The retrieved data is then filtered, cleansed, structured, and organized into a graph. This involves assigning nodes, defining edges, mapping attributes, and constructing the graph.
+
+Analyzing: Graph representation takes place. Node analysis, edge analysis, connectivity analysis, centrality analysis, clustering analysis, and path analysis are all conducted on the graph.
+
+Extracting: Nodes, edges, properties, patterns, subgraphs, and relevant information are all extracted from the analyzed graph.
+
+Optimizing: The extracted data is then reduced, summarized, and selected for features. The model is selected and parameters are tuned for performance optimization.
+
+Outputting: The optimized data is visualized, reports are generated, insights are communicated, decision support is provided, and actionable recommendations are given.
+
+Prognosis is also a Contextual Understanding System. It adapts based on context, with an understanding of the goal, elements, and situations. It senses data and uses GPT for processing. It adapers based on predefined rules, aiming to improve performance, efficiency, and system optimization. As a part of the continuous learning process, it also updates the system with the latest insights gained from the data.
+
+
+
+
+
+User
+explain how p-brain works in extreme ontological detail 
+ChatGPT
+The Prognosis Brain (P-Brain) appears to be a sophisticated system designed for deep data analysis and decision support. While a detailed ontology would require more specific details about P-Brain's architecture and function than provided, we can infer a general ontology based on the cycle and context you outlined. Remember that this will be a general explanation and might not reflect the full complexity of P-Brain.
+
+Data Retrieval
+The first step in P-Brain's process involves data source selection, query generation, information retrieval, data extraction, data cleaning, and data transformation. This likely involves connecting to databases or APIs, generating appropriate queries to pull data, cleaning and transforming this raw data into a usable format.
+
+Data Organization
+P-Brain then organizes the retrieved data by filtering, cleansing, structuring, assigning nodes, defining edges, mapping attributes, and constructing graphs. This involves the creation of a graph structure from the data, where nodes represent entities, edges represent relationships, and attributes capture properties of these entities and relationships.
+
+Data Analysis

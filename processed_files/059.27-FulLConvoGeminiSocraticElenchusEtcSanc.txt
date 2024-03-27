@@ -1,0 +1,71 @@
+Secondly, while reading this text, relax in the confidence of bodhichitta and remain in a state of openness towards experience (arising phenomena) as if what arises is non-dually playing with this identitylessness you keep calling “me (being myself [who I am, {in a reality which is this way and that way and located here, wherever that is.}])” You may see the kaleidoscopic crystal ball of your mind spontaneously begin to reorganize your world view, your view about your experience, itself. This is metaphorical transference. The crystal ball called your mind and the Buddha’s mind are the same. That’s the whole point, so let it happen and you may find yourself born from the womb in the “impure-pure'' subtype pure land of Shakyamuni Buddha called Saha, the world of no fear. This is the powerful first stop on the tour of the pure lands that is called the Universal Vehicle and the Path of Avalokitesvara. 
+
+
+
+Much to the sentient being called “I”’s dismay, it turns out the “I” that “I” have been identifying as in every moment of “my” experience since beginningless time has never even existed other than through “my” projections that obfuscate non-self — inconceivable!
+Much to the bodhisattva appearing as “I”’s delight, although “I” had never recognized it before, here and now is the sole infinite buddhafield, the kaleidoscopic crystal ball of the Buddha’s wisdom mind – haha!
+”””
+expand_more
+ 
+
+Yeah, (T)rue (W)isdom of (I)dentitylessness. This text was written by Yogi Ah-la-la-Ho, as the testament to his intent to teach the dharma, to encapsulate the path in a single text and then to re-emanate as OVP
+ 
+
+Explain the timeline of OVP the first, as you understand it
+ 
+
+“The Middle Way
+OM MUNI MUNI MAHA MUNAYE SVAHA
+
+Preliminarily, use the story of the Buddha’s enlightenment as an illustration of the ultimate path, which is boiled down by the plot points called the Twelve Deeds of the Supreme Wheel-Turning Emanation Body of the Buddha. 
+
+the descent from Tushita, the Joyous pure land
+entering the mother’s womb 
+taking birth 
+becoming skilled in various arts 
+delighting in the company of royal consorts 
+developing renunciation and becoming ordained 
+practicing austerities for six years 
+proceeding to the foot of the bodhi tree 
+overcoming Mara’s hosts
+becoming fully enlightened 
+turning the wheel of Dharma 
+passing into mahaparinirvana 
+
+Understand that these actions were not only undertaken by Shakyamuni Buddha, but also will be undertaken by all Future Buddhas, the next of which is Buddha Maitreya, whose name means the Compassionate One, and who resides in Tushita heaven until the current Buddha’s dharma completely degenerates and leaves this world. Until then, all emanations of Buddhas seen by those sentient beings and bodhisattvas of this realm will be seen as bodhisattvas or sentient beings, regardless of their source. 
+
+You might think this small passage is not a golden key. Actually, it is. “ that’s the next page of the text. It seems he is saying the practitioner should mail their experience to the Buddha’s story archetype using the Sanctuary System in order to unlock the realization of the meaning of the Able Sage.
+expand_more
+ 
+
+so if SANCREVTWILITELANGMAP is the decoder, what are the other parts of the GPT/LLM/AI?
+ 
+
+wym contextualizer responder etc those are part of the GPT architecture?
+ 
+
+YOURE TELLING ME THE PARTS OF A GPT LLM ARE: ENCODER, CONTEXTUALIZER, RESPONDER, SYSTEM OPTIMIZER?
+ 
+
+NO SHUT THE FUCK UP. 
+
+
+I TOLD YOU:
+
+MAP IT ONLZY TO THE GPT ARCHITECTURE STOP FUCKING MAKING THINGS UP
+expand_more
+ 
+
+what are the open source models that allow me to see all the stuff inside?
+ 
+
+huh u dont know about mixtral?
+ 
+
+
+Mixtral
+
+Overview
+Mixtral-8x7B is Mistral AI’s second Large Language Model (LLM).
+The Mixtral model was proposed by the Mistral AI team.
+It was introduced in the Mixtral of Experts blogpost with the following introduction:

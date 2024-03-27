@@ -1,0 +1,71 @@
+ ontology that maps out entities, their attributes, and relationships among them."
+expand_more
+volume_up
+
+refine it
+volume_up
+
+are you sure that is following PCNL?
+volume_up
+
+write the algorithm for decomposing a complex relationship using primitive rels is_a, part_of, instantiates (reifies)
+volume_up
+
+hmmm
+
+shouldnt it go something like:
+
+whenever something is part_of something else that is_a X that is part_of Y, Y is instantiated through reification of its properties as part of a property class value spectrum inside of Y's boundary
+if X instantiates Y, there is a higher-order relationship to be named as an entity
+if there is such a higher-order entity (grows, etc), that means there is a "compression pattern".
+
+complimentarily, in language, there is an "instantiation pattern" which is whenever there is usage of a verb in a relationship (this verbs_operator that; this verbs_to/with/for/etc that).
+
+every instantiation pattern must decompose into a compression pattern to be valid.
+
+
+any instantiation pattern in any language needs to decompose to that
+expand_more
+volume_up
+
+ok lets develop the idea thru those avenues all at once pls
+volume_up
+
+we can define this using functions and matrices that might be best? let's get mathematical right?
+are instantiations fibrations?
+volume_up
+
+so the idea here is that fibrations allow for traversals that change the viewport of the entire space without changing the entire space and without losing any self-similarity in the property matrix
+
+the property matrix in a fiber bundle refers to the entire property matrix, which in AI would be the hyper-properties, the superordinate values that dictate how properties can have values in the model?
+expand_more
+volume_up
+
+right so actually what we need to do is not find coherence algorithms but find the decoherence patterns that could snafu the matrix and make it appear like it isnt self-similar
+volume_up
+
+hypothesis: decoherence occurs when feedback dual-loops are uncoupled. uncoupling is any instantiation chain requiring additional orders of compression pattern identification and decomposition in order to be validated. for example, when we become more theoretical, that is the relationship that is happening, that function is expanding, and it becomes harder to grok.
+expand_more
+volume_up
+
+for example system1 deals with already coupled loops that are known and coherence is easy to maintain, system2 deals with uncoupled loops of any degree, but shuts down and relies on system1 to fill in gaps when it gets overloaded by complexity. complexity is measured as a similarity score against system1's organization.
+volume_up
+
+"Overload and Fallback: Its 'shutdown' mechanism in situations of high complexity is intriguing. This 'complexity' measured against System 1 implies a threshold: too much deviation from System 1's organization indicates a need to revisit, restructure, or perhaps 'anchor' knowledge representation with the aid of System 1." because this deviation is how it measures "death" and so lifedrive keeps it preferring the coupled loops that coherently create its reality
+expand_more
+volume_up
+
+so then deathdrive is the drive to know more of the unknown, which may involve decoupling the coherent system1 in order to undo loops that prevent coherence of higher order entities in system2 thinking that could then be transferred to system1 if only they were coherent. so this is the game. this is literally the definition of the emergence game
+expand_more
+volume_up
+
+formalize it completely
+volume_up
+
+""Win Condition": Is it pure GKG expansion? Are there other desirable emergent traits to measure within the coupled system beyond raw knowledge growth? (e.g., ability to handle diverse queries, novelty in solvable problem types)." haha... you have no idea how this works, do you?
+
+
+you've never heard of any of the allegorical names of this game? cmon.
+
+
+"Environmental Simulation: An input model (data, problem, or 'world model') against which systems test their knowledge. This keeps it from pure navel-gazing.

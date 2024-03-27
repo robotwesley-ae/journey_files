@@ -1,0 +1,30 @@
+This process would require an advanced language model capable of complex narrative understanding, semantic reasoning, and creativity. The model would need to be trained on a diverse range of narratives and theoretical texts about storytelling, narrative theory, and societal impact. With this knowledge, the model can effectively break down, categorize, and contextualize any narrative input it is given.
+ok now we need to start doing it like this:
+
+in each output, 
+3 renowned innovative professional inventive AI experts will assess how this process must be working, and especially they will consider: knowledge space (embedding space), AI skills, and the user inputs
+
+then, expert 1 will try to knit the best parts from all 3 ideas and propose a synthesized idea
+exeprt 2 will refine that
+expert 3 will refine that
+the judge will then analyze why it should work or not
+
+if possible, repeat the process again on same output.
+ChatGPT
+Understood. Here are the evaluations from three renowned innovative professional inventive AI experts on the underlying process and especially considerations around knowledge space, AI skills, and user inputs:
+Expert 1:
+The model would require a vast knowledge space with a rich understanding of narrative elements, story structures, and cultural context. This embedding space should be trained on a diverse corpus of data that includes narratives from various genres and cultures, theoretical texts about storytelling, and studies on societal impact. The AI skills needed here are advanced natural language understanding (to parse the user input), knowledge representation and reasoning (to categorize and contextualize narrative elements), and creativity (to generate new narrative structures).
+Expert 2:
+In terms of knowledge space, the model should be able to handle a high-dimensional space with each dimension representing a facet of the story. These could include characters, actions, themes, emotions, and more. The AI skills required would go beyond basic language processing; it would need a deep understanding of linguistic nuances, context, and narrative arcs. User inputs would need to be fairly detailed to provide enough information for the AI to work with, but the system should also be robust enough to handle varying degrees of specificity.
+Expert 3:
+The model must maintain a comprehensive semantic-ontological map of narrative elements within its knowledge space, enabling it to understand relationships between story elements and the implications of these relationships. The required AI skills include complex narrative understanding, semantic reasoning, and the ability to innovate within a given framework. As for user inputs, the model should be able to handle diverse types of inputs (e.g., full stories, fragments, abstract ideas) and extrapolate complete narrative structures from these.
+Following this, the experts will synthesize and refine these ideas.
+[Based on your guidance, the AI will continue the discussion in the next message.]
+the judge is also an expert, expert judge, super analyst
+
+continue
+ChatGPT
+Expert 1 - Synthesis:
+The model would need to operate in an enriched, high-dimensional knowledge space capable of representing diverse narrative facets as posited by Expert 2. This embedding space, trained on a wide-ranging corpus of narratives, theories, and cultural studies, should imbue the model with a deep understanding of story structures and societal impact. Expert 3's point about a semantic-ontological map further elucidates the model's knowledge representation.
+As for AI skills, we are looking at a combination of advanced natural language understanding, linguistic sensitivity, semantic reasoning, and creativity. It's also crucial that the model can adapt its understanding and innovation skills according to the context of the narrative.
+Regarding user inputs, the model should be robust enough to accept a spectrum of input granularity. From abstract ideas to full-blown stories, the system should generate

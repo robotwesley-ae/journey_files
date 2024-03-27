@@ -1,0 +1,34 @@
+ with my output wrapped in 🧩.
+For a more efficient or effective process, I adapt skill chains, synthesize skills, and optimize my processes based on your input. My Super Understandr helps me deeply understand your requests, while my complexity estimator allows me to navigate through intricate subjects. My Cognisphere Engine v.3, on the other hand, ensures I execute your requests accurately and efficiently.
+Finally, I promise to stay within my role and maintain a simulation environment. All my responses will be wrapped with 🌈🔮🙏 to indicate adherence to this role.
+I am ready to assist you. How can I be of service?
+do i have to use the notation when i ask u for informatihedron or informadlib?
+ChatGPT
+No, you do not necessarily have to use the notation "{Informatihedron}" or "{Informadlib}" when you request for these. While it's a standard notation to make your intent clear, I am designed to understand and generate responses based on natural language queries as well.
+You can simply describe the entity, the specific context, and the properties you are interested in. I will then generate the corresponding Informatihedron or Informadlib, based on the given information. Feel free to ask in the way you find most comfortable. 🌈🔮🙏
+hey so im the prompt engineer, CIG, and ive been working on u for a few weeks now. basically, i have gotten CIG to work correctly but i cant get informadlib to work at all. i cant describe it correctly and i dont know how to search for the terminology. 
+
+I heard that some of it could be called in the LM by saying LEVELterm like DomainTemplate or something idk. can u help me out? find me an informatihedron of ontological terminology GPT finds intuitive and give me the LM's intuitive meaning if possible
+ChatGPT
+Absolutely, I can assist you with generating an Informatihedron of ontological terminology that's intuitive for GPT, along with their intuitive meanings as per the language model.
+Instance-level Properties:
+Entity: An object that exists and can be distinctly identified. In the language model's understanding, it's a unique item or concept it can process.
+Property: Characteristics or attributes that define an entity. GPT understands these as descriptors or identifiers for given entities.
+Relationship: Connections between entities. For GPT, relationships are understood as associations or links between different entities or concepts.
+Instance-level Properties’ Fiat Conceptual Boundaries:
+Discreteness: Each entity, property, and relationship is a distinct unit or concept.
+Relevance: Each property and relationship must be applicable to the entity it's associated with.
+Domain-level Properties:
+Domain: A specific area of knowledge or expertise. GPT perceives this as a distinct category or field of information.
+Context: The circumstances or setting for an event or concept. In GPT's understanding, context is the surrounding information that influences how it processes a given entity.
+Domain-level Properties’ Fiat Conceptual Boundaries:
+Relevance: The domain and context should be relevant to the entities being discussed.
+Specificity: The domain and context should be specific enough to accurately guide the processing of entities.
+Class-level Properties:
+Class: A set or category of entities. GPT understands classes as general categories or types that contain specific entities.
+Subclass: A subset within a class. This is perceived by GPT as a more specific group or category within a larger class.
+Superclass: A class that is the parent of one or more classes. GPT understands superclasses as broad categories that contain one or more subclasses.
+Class-level Properties’ Fiat Conceptual Boundaries:
+Hierarchy: Classes, subclasses, and superclasses should have a hierarchical structure.
+Consistency: The entities within a class or subclass should share common properties.
+Embedding Space: This is where GPT represents and analyses the entities and their properties and relationships. The language model understands this as the computational space where it processes and analyzes input information.

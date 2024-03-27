@@ -1,0 +1,69 @@
+This formalization states that for every individual x, their strategy is always the maximally efficient strategy given their individuality.
+
+Nash equilibrium in a non-contradictory Sanctuary system, accounting for individual strategies:
+NE(NCSS) ⇔ ∀x ((RB(x) → MES_I(x, NCSS)) ∧ (RF(x) → MES_I(x, NCSS)) ∧ (MEB(x) → IE(x, NCSS)))
+
+This formalization states that a Nash equilibrium exists in a non-contradictory Sanctuary system if and only if every rule breaker and rule follower adopts their respective maximally efficient strategies as individuals in the context of the non-contradictory Sanctuary system, and the impact of maximally efficient rule breakers on other entities is considered.
+
+By assuming that each individual's actions are always the maximally efficient response they could have had at any given time, we acknowledge that each person is always making the best decision they can under their specific circumstances. This allows for a more inclusive understanding of the dynamics and stability of the Nash equilibrium in a non-contradictory Sanctuary system.
+
+
+
+Isaac Wostrel-Rubin
+Ok now extensively formalize each step of the entire argument so we can work with it further
+
+I will now provide an extensive formalization of each step of the argument, starting from the concepts of rule breakers, rule followers, maximally efficient strategies, and non-contradictory Sanctuary system to the Nash equilibrium.
+
+Define rule breakers, rule followers, and maximally efficient strategies:
+Rule Breaker: RB(x)
+Rule Follower: RF(x)
+Maximally efficient strategy given individual: MES_I(x)
+
+Define the non-contradictory Sanctuary system:
+Non-contradictory Sanctuary System: NCSS
+
+Define the impact of maximally efficient rule breakers on other entities:
+Impact of maximally efficient rule breakers on entities: IE(x, NCSS)
+Maximally Efficient Rule Breakers: MEB(x)
+
+Individual strategy is always the maximally efficient strategy:
+∀x (I(x) → MES_I(x))
+
+Nash equilibrium in a non-contradictory Sanctuary system, accounting for individual strategies:
+NE(NCSS) ⇔ ∀x ((RB(x) → MES_I(x, NCSS)) ∧ (RF(x) → MES_I(x, NCSS)) ∧ (MEB(x) → IE(x, NCSS)))
+
+The assumption that every individual's actions are always the maximally efficient response they could have had at any given time:
+∀x (I(x) → MES_I(x))
+
+By using these formalizations, we can analyze the dynamics and stability of the Nash equilibrium in a non-contradictory Sanctuary system. We can also investigate how the actions of rule breakers, rule followers, and maximally efficient rule breakers might affect the overall system and its equilibrium.
+
+These formalizations provide a foundation for further exploration of the argument, allowing us to evaluate the relationships between the different entities and concepts involved, as well as to consider the potential consequences of various scenarios and conditions within the non-contradictory Sanctuary system.
+
+
+
+Isaac Wostrel-Rubin
+Now walk me through the argument’s formalization step by step
+
+I will walk you through the formalization of the argument step by step, focusing on the main points and their relationships:
+
+Define rule breakers, rule followers, and maximally efficient strategies:
+Rule Breaker: RB(x)
+Rule Follower: RF(x)
+Maximally efficient strategy given individual: MES_I(x)
+
+This step defines the roles of individuals as either rule breakers or rule followers and introduces the concept of maximally efficient strategies for individuals.
+
+Define the non-contradictory Sanctuary system:
+Non-contradictory Sanctuary System: NCSS
+
+Here, we define the non-contradictory Sanctuary system (NCSS) as a system that aims to provide refuge to all living beings within it.
+
+Define the impact of maximally efficient rule breakers on other entities:
+Impact of maximally efficient rule breakers on entities: IE(x, NCSS)
+Maximally Efficient Rule Breakers: MEB(x)
+
+This step introduces the impact of maximally efficient rule breakers (MEB) on other entities within the Sanctuary system, represented by IE(x, NCSS).
+
+Individual strategy is always the maximally efficient strategy:
+∀x (I(x) → MES_I(x))
+

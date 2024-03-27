@@ -1,0 +1,23 @@
+Isn’t integer factorization analogous to finding scalar values of a node in a search?
+Yes, you can draw an analogy between integer factorization and finding scalar values of a node in a search. Integer factorization is the process of breaking down a composite number into smaller non-trivial divisors, which are its prime factors. In the context of a search problem, you could view these factors as nodes, and the composite number as the target value.
+However, this analogy does not necessarily imply that Shor's algorithm can be directly applied to solve ontological linear algebra equations or general search problems. Shor's algorithm is specifically designed for the purpose of factoring large integers and solving discrete logarithm problems, which are critical in the field of cryptography.
+To apply quantum computing techniques to ontological linear algebra equations or other search problems, it would be necessary to develop new quantum algorithms or adapt existing ones to suit the specific problem domain. Nevertheless, the analogy you've drawn highlights the potential for cross-domain connections and interdisciplinary thinking in problem-solving.
+
+Can you show me shors algorithm
+Shor's algorithm is a quantum algorithm designed by Peter Shor for efficiently factoring large integers, which has significant implications for cryptography. The algorithm consists of two main parts: a quantum part for finding the period of a function and a classical part for using the period to factor the integer.
+Here's a high-level outline of Shor's algorithm:
+Choose a random integer a between 2 and N-1, where N is the integer you want to factor.
+Compute the greatest common divisor (GCD) of a and N using Euclid's algorithm. If the GCD is not equal to 1, then you've found a non-trivial factor of N.
+Use the quantum part of the algorithm to find the period r of the function f(x) = a^x mod N.
+If r is odd or a^(r/2) ≡ -1 (mod N), go back to step 1.
+Compute the factors using the classical part of the algorithm: gcd(a^(r/2) - 1, N) and gcd(a^(r/2) + 1, N).
+The quantum part of the algorithm relies on quantum Fourier transform and the ability of quantum computers to maintain a superposition of states. This part is responsible for the significant speedup compared to classical integer factorization algorithms.
+Please note that this is just a high-level overview of the algorithm. The actual implementation involves more complex quantum circuitry and mathematical details. If you are interested in learning more about the specific implementation, I recommend reviewing literature on quantum computing and Shor's algorithm.
+
+Oh that’s not what I’m thinking of. What is this part of g^r=mN+1
+It seems you are referring to a part of the number theory involved in Shor's algorithm. In the context of Shor's algorithm, g^r = mN + 1 is related to the period-finding step, where g is a randomly chosen number (the base), r is the period (order) of g modulo N, m is an integer, and N is the number you want to factor.
+The relationship g^r = mN + 1 is derived from the fact that if r is the period of g modulo N, then g^r ≡ 1 (mod N). This means that g^r - 1 is divisible by N, which can be rewritten as g^r = mN + 1 for some integer m.
+Shor's algorithm uses this relationship to find the period r and subsequently compute the factors of N. If r is even and g^(r/2) ≢ -1 (mod N), then gcd(g^(r/2) ± 1, N) can be used to find the non-trivial factors of N.
+
+Ok yes and those non-trivial factors are the core scalars of different types of instances of a specific class
+In the context of integer factorization and Shor's algorithm, the non-trivial factors refer to the divisors of the number N that are neither 1 nor N itself. They are important for breaking down a number into its prime factors, which has applications in cryptography, such as RSA encryption.

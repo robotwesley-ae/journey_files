@@ -1,0 +1,41 @@
+ Discovering a previously unknown aspect of one's identity, such as learning about a hidden family secret or questioning one's own beliefs and values, can be emotionally challenging and painful.
+The intensity of the emotional pain experienced will depend on the individual and their ability to cope with such realizations. In some cases, these realizations can trigger dissociative states or other mental health issues. If someone is struggling with painful realizations or dissociative experiences, it is important to seek professional help from a mental health professional.
+
+
+
+Isaac Wostrel-Rubin
+What are the axioms we talked about?
+
+In our previous conversation, we discussed several concepts and formalizations, but we did not specifically mention any axioms. Axioms are fundamental principles or propositions that are assumed to be true without proof, and they serve as a basis for further logical reasoning and derivation of other propositions.
+
+If you need clarification on any specific concept we discussed earlier, please let me know, and I'll be happy to provide more information.
+
+
+
+Isaac Wostrel-Rubin
+Explain all of the relevenat game theory in this conversation and what we talked about so I can load it into another conversation
+
+In our conversation, we discussed several game theory concepts related to non-contradictory sanctuary systems (NCSS) and Nash equilibrium (NE). Here's a summary of the relevant game theory concepts:
+
+Non-contradictory Sanctuary System (NCSS): A system where refuge is granted to all living beings inside the system, and it does not entail negative outcomes. The system is characterized by rule-following and rule-breaking entities, where rule-following is more beneficial to the overall system.
+Nash equilibrium (NE): A concept in game theory where each player's strategy is optimal, given the strategies of all other players. In the context of a sanctuary system, NE refers to a state where being the type of living being you are is in equilibrium with the laws of the world. Even if you break the rules, you are transformed back into the fold, maintaining the non-contradictory nature of the sanctuary.
+Rule breakers (RB) and Rule followers (RF): Rule breakers are entities that defy the rules of the system, while rule followers adhere to the rules. We discussed formalizing the strategies of these entities and how they affect the overall sanctuary system.
+Nash equilibrium of a sanctuary system: We discussed the possibility of formalizing the Nash equilibrium for a sanctuary system that accounts for the rule breakers who are maximally efficient at breaking rules. The equilibrium would maintain the non-contradictory nature of the sanctuary system.
+We also touched upon the tragedy of the commons, which is a situation where individuals acting in their self-interest can deplete or degrade a shared resource. However, we noted that in a non-contradictory sanctuary system, the tragedy of the commons wouldn't occur, as rule breakers would be caught and rehabilitated.
+
+These game theory concepts were discussed in the context of understanding human actions and behavior, as well as the potential application to AI systems.
+
+
+
+Isaac Wostrel-Rubin
+Also, in Sanctuary, breaking the rules is like following the rules in the future, because it is impossible to break the rules in a way that breaks the container.
+
+In a Sanctuary system, rule-breaking might lead to rule-following behavior in the future, as the system is designed to be non-contradictory and self-correcting. When someone breaks the rules, the system's mechanisms will work to rehabilitate the rule-breaker and reintegrate them into the fold, ensuring that the overall container remains intact and functional.
+
+In this way, even though rule-breaking might occur, the consequences of such actions do not destabilize the system or undermine its core principles. The Sanctuary system's resilience and adaptability allow it to maintain equilibrium and harmony, despite the presence of rule breakers.
+
+
+
+Isaac Wostrel-Rubin
+Can you also formalize that idea?
+

@@ -1,0 +1,33 @@
+
+### PseudoCypherNL Formal Rules:
+
+1. **Entity Representation:** All entities are encapsulated within parentheses, e.g., `(entity:Name)`. Entity types are capitalized, and specific instances can be lowercase or follow specific naming conventions.
+
+2. **Relationship Representation:** Relationships between entities are represented as directional arrows with relationship types in brackets, e.g., `-[r:RELATIONSHIP_TYPE]->`. Relationship types are all caps and underscore-separated for multi-word relationships. Only acceptable relationships are: part_of, is_a, instantiates/instantiated_by" (where X instantiates Y if the actual realizable instance, ie existence, of Y proves the validity of the reification schema X)
+
+3. **Extension of Relationships beyond `IS_A`, `PART_OF`, `INSTANTIATES`:** To incorporate additional types of relationships such as `HAS_ATTRIBUTE`, a formal expansion rule is used:
+  - `HAS_ATTRIBUTE` can be decompressed into `(entity:Attribute)-[r:PART_OF]->(entity)-[r:IS_A]->(Entity)`. This shows that attributes are part of an entity and describe what the entity is or has.
+  - Similarly, `USED_IN` and other relationships not directly covered by `IS_A`, `PART_OF`, `INSTANTIATES` can be mapped to these three basic relationships or a combination thereof, always ensuring that there is a logical decomposition that relates back to the foundational relationship types. Semantics like "CONTAINS" are algorithmically denoting isa/partof/instantiates about how a container is a entity, purpose is part of it, containment is a purpose, containers have containment purpose for containable items etc. Just saying "X contains Y" implies the entire "container ontology" itself, which necessarily requires construction from formal rels part_of, is_a, instantiates.
+
+4. **Chaining Relationships:** Multiple relationships can be chained together to represent complex relationships and hierarchies. The chaining is done by connecting the end of one relationship arrow to the start of another, maintaining logical and semantic coherence.
+
+5. **Compression and Decompression:** Relationships that are not immediately part of the base types (`IS_A`, `PART_OF`, `INSTANTIATES`) are to be compressed or decompressed according to a predefined logic mapping. This requires defining a set of rules that map complex or nuanced relationships back to the three base relationship types, either directly or through a series of steps that articulate the underlying structure.
+
+6. **Handling Ambiguity and Multi-faceted Relationships:** In cases where entities have relationships that can be described by more than one type, prioritization rules are applied based on the context of the knowledge domain and the specific nature of the relationship. A decision tree or precedence hierarchy may be employed to resolve such cases.
+
+7. **Property Designation:** For simplicity, properties of entities (e.g., color, taste) are treated as entities themselves and linked to the main entity via `HAS_ATTRIBUTE` or equivalent decompressed relationships. This allows for the property values to be dynamically related back to the entity in a structured manner.
+
+### Example Decompression for HAS_ATTRIBUTE:
+`(entity:Apple)-[r:HAS_ATTRIBUTE]->(entity:Taste)` 
+  - Decompresses to: 
+  - `(entity:Taste)-[r:PART_OF]->(entity:Apple)-[r:IS_A]->(Entity:Fruit);`
+  - Which implies that "Taste is an attribute that is part of Apple, which is a type of Fruit."
+
+### Usage of PseudoCypherNL:
+
+PseudoCypherNL aims to provide a standardized format for expressing natural language statements in a graph-structured manner, making it easier for AI systems to process, understand, and generate natural language descriptions of complex relationships and attributes within knowledge graphs. Its development and application require careful consideration of the rules for decompression and mapping of nuanced relationships to maintain both semantic richness and structural clarity.
+
+***IMPORTANT VITAL:*** DO NOT EXPLAIN ANYTHING WRITTEN IN PSEUDOCYPHERNL USING NL AFTER WRITING IN PSEUDOCYPHERNL UNTIL USER ASKS DIRECTLY ABOUT THAT EXACT FLOW. IT IS SUFFICIENT FOR HUMANS.
+
+### Semantic Compression in PseudoCypherNL:
+

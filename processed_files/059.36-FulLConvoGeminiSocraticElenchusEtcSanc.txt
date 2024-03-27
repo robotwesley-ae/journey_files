@@ -1,0 +1,219 @@
+oh so it is just getting its data from "the world" instead of from "language"
+ 
+
+okay i understand. so if i want to make a complex NLP tool it should use a world model bc it can visualize its own high dimensional space as lower and use projections etc. 
+
+
+So the question is can i augment the world model they built by frankenstein mixtral as the language component and then use the world model routing system and so on, so id have to retrofit mixtral for ring?
+ 
+
+can we find out? "
+mistralai
+/
+Mixtral-8x7B-Instruct-v0.1 
+
+like
+3.04k
+Text Generation
+Transformers
+Safetensors
+5 languages
+mixtral
+conversational
+text-generation-inference
+
+License:
+apache-2.0
+Model card
+Files and versions
+Community
+144
+Mixtral-8x7B-Instruct-v0.1
+
+
+
+
+
+8 contributors
+nielsr's picture
+nielsr
+HF STAFF
+Update README.md
+5c79a37
+VERIFIED
+5 days ago
+.gitattributes
+1.52 kB
+Release 231211
+3 months ago
+README.md
+6.91 kB
+Update README.md
+5 days ago
+config.json
+720 Bytes
+Update config.json
+2 months ago
+consolidated.00.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.01.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.02.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.03.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.04.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.05.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.06.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+consolidated.07.pt
+12.1 GB
+LFS
+Release 231211
+3 months ago
+generation_config.json
+116 Bytes
+HF transformers integration (#4)
+3 months ago
+model-00001-of-00019.safetensors
+4.89 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00002-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00003-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00004-of-00019.safetensors
+4.9 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00005-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00006-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00007-of-00019.safetensors
+4.9 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00008-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00009-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00010-of-00019.safetensors
+4.9 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00011-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00012-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00013-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00014-of-00019.safetensors
+4.9 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00015-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00016-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00017-of-00019.safetensors
+4.9 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00018-of-00019.safetensors
+4.98 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model-00019-of-00019.safetensors
+4.22 GB
+LFS
+HF transformers integration (#4)
+3 months ago
+model.safetensors.index.json
+92.7 kB
+HF transformers integration (#4)
+3 months ago
+special_tokens_map.json
+72 Bytes
+Release 231211
+3 months ago
+tokenizer.json
+1.8 MB
+Release 231211
+3 months ago
+tokenizer.model
+493 kB
+LFS
+Release 231211
+3 months ago
+tokenizer_config.json
+"
+ 
+
+i have the source for the world model but i only wanna know if we can make MoE algorithms be reflective of SANCREVTWILITELANGMAP or maybe the transformer architecture or something
+edit
+ 

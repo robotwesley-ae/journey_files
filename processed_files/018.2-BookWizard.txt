@@ -1,0 +1,134 @@
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "SelfHelpInsight1": "Value1",
+              "SelfHelpInsight2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Considering the Customer Journey",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "CustomerJourney1": "Value1",
+              "CustomerJourney2": "Value2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prompt Engineering Workflow",
+      "steps": [
+        {
+          "name": "Designing Effective Prompts",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "EffectivePrompt1": "Value1",
+              "EffectivePrompt2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Generating Training Data",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "TrainingData1": "Value1",
+              "TrainingData2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Fine-tuning Language Models",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "FineTuning1": "Value1",
+              "FineTuning2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Evaluating Model Performance",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "ModelPerformance1": "Value1",
+              "ModelPerformance2": "Value2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Model Selection and Optimization Workflow",
+      "steps": [
+        {
+          "name": "Choosing the Right Model Architecture",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "ModelArchitecture1": "Value1",
+              "ModelArchitecture2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Hyperparameter Tuning",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "HyperparameterTuning1": "Value1",
+              "HyperparameterTuning2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Ensemble Methods",
+          "algorithm": "ToT-DFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "EnsembleMethods1": "Value1",
+              "EnsembleMethods2": "Value2"
+            }
+          }
+        },
+        {
+          "name": "Optimizing Performance and Efficiency",
+          "algorithm": "ToT-BFS",
+          "context_rules_generator": "dynamic_context_rules_generator",
+          "input_data": {
+            "event": "update_rules",
+            "new_rules": {
+              "PerformanceEfficiency1": "Value1",
+              "PerformanceEfficiency2": "Value2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evaluation and Iteration Workflow",
+      "steps": [
+        {
+         

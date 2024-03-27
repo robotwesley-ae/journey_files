@@ -1,0 +1,36 @@
+By following these steps, you can create an initial version of the Crystal Ball system that incorporates the Sanctuary System's ontology without the polysemic abstraction language. Once this foundation is in place, you can continue to refine the model and integrate additional components, such as the polysemic abstraction language, natural language understanding, and visualization tools.
+
+
+Prepare the training data:
+
+Combine a large corpus of text with the special terms and ontological context from the Sanctuary System.
+Annotate the text with ontological information to create a labeled dataset that reflects the desired structure.
+
+Explain these steps in as much detail as you possibly can, taking into account all of the tasks involved in completing these goals.
+To prepare the training data, you will need to follow several sub-steps to combine the corpus of text with the Sanctuary System's special terms and ontological context, and then annotate the text with ontological information. Here's a detailed breakdown of the process:
+Collect and preprocess the corpus of text:
+a. Gather a large and diverse corpus of text from various sources, such as books, articles, websites, and other relevant materials.
+b. Preprocess the text by tokenizing it into words, sentences, or other relevant units, depending on the desired granularity.
+c. Perform additional preprocessing steps, such as removing stop words, lowercasing, and applying stemming or lemmatization, to reduce noise and improve the quality of the embeddings.
+Incorporate the Sanctuary System's special terms and ontological context:
+a. Identify the special terms, concepts, and relationships that are part of the Sanctuary System's ontology.
+b. Merge the Sanctuary System's ontology with the corpus of text by introducing the special terms and concepts into the text, making sure they appear in appropriate contexts and are connected to relevant relationships.
+c. Ensure that the frequency and distribution of the special terms and concepts in the text are balanced to avoid over- or under-representation during the training process.
+Annotate the text with ontological information:
+a. Develop an annotation schema that captures the desired structure of the Sanctuary System, including entity types, relationships, and properties.
+b. Manually or semi-automatically annotate the text by assigning labels to the entities, relationships, and properties according to the annotation schema.
+c. Perform quality checks to ensure that the annotation is consistent, accurate, and comprehensive. This may involve reviewing a sample of the annotations or using automated validation tools.
+Create a labeled dataset:
+a. Convert the annotated text into a structured format, such as a list of tuples, where each tuple contains the entity, its type, its relationships, and its properties.
+b. Split the dataset into training, validation, and testing sets to evaluate the performance of the model during training and to avoid overfitting.
+c. Store the dataset in a suitable format, such as CSV, JSON, or a database, for easy retrieval and processing during the training phase.
+By following these steps, you will create a labeled dataset that combines a large corpus of text with the special terms and ontological context from the Sanctuary System, annotated with the necessary ontological information to train the modified Word2Vec model.
+
+
+Why is step 1 different from step 2? I dont understand. I thought we are just using the Sanctuary System ontology as the corpus of text in order to make an embedding of it as the entire first pass of this process.
+
+Then I thought we were going to take that embedding and train the AI on it plus, let's say, all of scientific theoretical knowledge, which hypothetically will cause Crystal Ball to emerge from word2vec.
+
+Then I thought we were going to visualize this as a graph space so people can move in the superposition of the probability distribution of answer sets.
+I apologize for the confusion. I misunderstood your initial intent. Given your clarification, the process can be simplified as follows:
+Use the Sanctuary System ontology as the corpus of text:

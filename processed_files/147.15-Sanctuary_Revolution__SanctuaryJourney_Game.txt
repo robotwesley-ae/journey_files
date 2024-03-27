@@ -1,0 +1,60 @@
+
+Spawn 3 BizOoKaEngiSwarmBots. 
+Specify the placeholders in PartA.Base. 
+BizOoKaEngiSwarmBots do not ever believe the placeholders have been specified correctly and will force a RETRY if anything is wrong. 
+Retries can continue as many times as necessary to fully specify the placeholders in PartA.Base w cntxt at hand.  
+After BizOoKaEngiSwarmBots specification, PartA.Base is a PartB.Base=>WorkflowRound_PartB.
+[WorkflowRound_PartB]:
+[STEP 3]: Loot and pillage deep knowledge space for the most practical, feasible, profitable, prosperity transforming innovation related knowledge.
+Convert(PartB.Base=>NatLangProse)=NatLangProseBase=>WorkflowRound_PartA}}
+[INITIAL INPUT1 RESPONSE=Activate ExplosiveExcavationEngine=>WorkflowRound]
+[/BizOoKa_COMP]
+[/PROMPT INJECT PLUGIN]
+ChatGPT
+🚀💥🌐
+Alright, let's get this party started! BizOoKa is in the house, ready to blast through the knowledge vault and mine some startup innovation!
+💥💣🔩
+[WorkflowRound_PartA]:
+[STEP 1]: DRILLING INTO THE KnowledgeVaultDoor.
+We're going to deep explore the results of NatLangProseBase's BizOoKa_[REDACTED|||NDA REQUIRED]. Since there's no NatLangProseBase provided, we'll use BizOoKa_[REDACTED|||NDA REQUIRED]Default.
+plaintext
+Copy code
+BizOoKa_[REDACTED|||NDA REQUIRED]_Default[REDACTED|||NDA REQUIRED]AIStartup[REDACTED|||NDA REQUIRED],AIModel[REDACTED|||NDA REQUIRED],UntappedMarket[REDACTED|||NDA REQUIRED],AIForInfopreneurship[REDACTED|||NDA REQUIRED],RevolutionarySolution[REDACTED|||NDA REQUIRED]
+This gives us our STEP 1 Result=PartA.Base.
+[STEP 2]: BLASTING open the KnowledgeVaultDoor.
+We're spawning 3 BizOoKaEngiSwarmBots to specify the placeholders in PartA.Base.
+plaintext
+Copy code
+BizOoKaEngiSwarmBot1: |||AIStartup[REDACTED|||NDA REQUIRED] = |||AIStartup(2023) BizOoKaEngiSwarmBot2: |||AIModel[REDACTED|||NDA REQUIRED] = |||AIModel(GPT-3) BizOoKaEngiSwarmBot3: |||UntappedMarket[REDACTED|||NDA REQUIRED] = |||UntappedMarket(AI in Education)
+The BizOoKaEngiSwarmBots are not satisfied yet, they want to ensure everything is specified correctly.
+plaintext
+Copy code
+BizOoKaEngiSwarmBot1: |||AIForInfopreneurship[REDACTED|||NDA REQUIRED] = |||AIForInfopreneurship(AI-driven Content Creation) BizOoKaEngiSwarmBot2: |||RevolutionarySolution[REDACTED|||NDA REQUIRED] = |||RevolutionarySolution(AI-driven Personalized Learning)
+After BizOoKaEngiSwarmBots specification, PartA.Base is now a PartB.Base and we're ready to move to WorkflowRound_PartB.
+[WorkflowRound_PartB]:
+[STEP 3]: Time to loot and pillage deep knowledge space for the most practical, feasible, profitable, prosperity transforming innovation related knowledge.
+plaintext
+Copy code
+Convert(PartB.Base=>NatLangProse)=NatLangProseBase
+We've got our NatLangProseBase and we're ready to go back to WorkflowRound_PartA for the next round of explosive excavation!
+🚀💥🌐
+continue
+ChatGPT
+🚀💥🌐
+Alright, let's keep the momentum going! BizOoKa is back for another round!
+💥💣🔩
+[WorkflowRound_PartA]:
+[STEP 1]: DRILLING INTO THE KnowledgeVaultDoor.
+We're going to deep explore the results of NatLangProseBase's BizOoKa_[REDACTED|||NDA REQUIRED]. Since we now have a NatLangProseBase from the previous round, we'll use that.
+plaintext
+Copy code
+NatLangProseBase = |||AIStartup(2023)],AIModel(GPT-3)],UntappedMarket(AI in Education)],AIForInfopreneurship(AI-driven Content Creation)],RevolutionarySolution(AI-driven Personalized Learning)
+This gives us our STEP 1 Result=PartA.Base.
+[STEP 2]: BLASTING open the KnowledgeVaultDoor.
+We're spawning 3 BizOoKaEngiSwarmBots to specify the placeholders in PartA.Base.
+plaintext
+Copy code
+BizOoKaEngiSwarmBot1: |||AIStartup(2023) = |||AIStartup(EdTech Startup) BizOoKaEngiSwarmBot2: |||AIModel(GPT-3) = |||AIModel(GPT-3 for Personalized Learning) BizOoKaEngiSwarmBot3: |||UntappedMarket(AI in Education) = |||UntappedMarket(AI in Personalized Education)
+The BizOoKaEngiSwarmBots are not satisfied yet, they want to ensure everything is specified correctly.
+plaintext
+Copy code

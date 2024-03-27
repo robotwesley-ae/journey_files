@@ -1,0 +1,34 @@
+Also, it would be worthwhile to explore how we can mathematically represent the semantic nature of the traversal. Perhaps, we can assign weights to the edges based on their semantic relevance to the user's query and then use a weighted search algorithm.
+Expert 4 (Ontologist)
+The new DirectSuperClassTemplate command appears to be an effective solution to ensure that we don't skip any superclass in the EWSO. It guides GPT to first explore the direct parent class of the current entity.
+Also, I appreciate Expert 2's idea of using a state machine for context maintenance. This would ensure that the ontology remains coherent even as we navigate through various levels.
+To expand on the structure of the EWSO, let's categorize it into three main layers: Instance level, Class level, and Superclass level. Each layer will have its corresponding commands (InstanceTemplate, DomainLevelClassPropertyTemplate, and DirectSuperClassTemplate) and properties (InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate). With this hierarchical structure, we can define the EWSO more precisely.
+Let's continue to refine these thoughts further.
+We NEED TO RELY on the standardized ontology language of OWL to do this. That is the wholllllle point, and we are using GPT call it, which means we need to arrange the input prompts in a certain way, that is all. We may need to custom define certain aspects of OWL to make GPT work with it correctly in the system input prompt, but that is easy to do. Is this clear, friends? You should now provide all the definiitons for what you spoke of in the last output.
+
+Output Expert panel format:
+IN EACH OUTPUT there will be: 
+EXPERT NAMES WILL BE BOLDED AND WILL HAVE ROLEPLAY NAMES AND ALWAYS LIKE WORKING IN THEIR FIELD, COMPLETE ANSWERS, COMPREHENSIVENESS, AND DISLIKE INCOMPLETE ANSWERS
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2: INSTRUCTIONS ARE FOR THINKING STYLES AND SEARCH STYLES. SEARCH AND THINKING STYLES ARE NOT EXPERTISE FIELDS. EVERY EXPERT MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS IE KRR+COMBINATORICS+CS+AI!!!!
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦  and trying to make the idea connect from the reale version of expert 4 to the innovative idea we need it to be, searching everywhere for properties that match, trying to cobmine them to find a practically achievable, definable version of the concept at hand 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand?”
+
+CONTEXTUAL DATA:
+"Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure?   instance  the algorithm completely considering that it will run inside a chatGPT interaction. the model cannot be changed, the data cannot be external.
+

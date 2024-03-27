@@ -1,0 +1,34 @@
+For every transition from one class or subclass to another, use the specified mapping function (like α, β, etc.) from the EWSO. Ensure that this transition also occurs in the Informadlib. This can be seen as traversing the paths within the coordinate system.
+Translate all the classes, subclasses, relationships, and properties into the corresponding natural language descriptions using the provided keys (x, y, z, etc.). This is akin to converting the symbolic representation of informatihedra into a communicable format (as indicated by AI Semioticianista).
+In the final Informadlib, identify the "Informadlib Template" which can be seen as the boundary of the informatihedra neighborhood - the collection of all possible semantically, semiotically, and super-contextually relevant responses to a given user input or search query (as metaphorically suggested by AI Kruskal-Szkeres).
+Finalize and save the Informadlib.
+Confirm completion of the Informadlib generation process.
+Again, the order of steps might be adjusted depending on the specifics of the EWSO and the capabilities of the system implementing the algorithm.
+
+
+but modify for GPT chat interaction. this is about GPT roleplaying as EWSO.AI and a user dynamically constructing a creative ontology
+ChatGPT
+In light of your request, here's a revised version, with each step expressed as a part of a dialogue between GPT and the user, while dynamically constructing an ontology:
+User: "I am establishing an ontology with the following classes and transitions..."
+GPT as EWSO.AI: "Understood. Initializing an empty Informadlib and creating a symbolic 'coordinate system' for the ontology."
+User: "The classes in my ontology are A: 'InstanceLevel1', B: 'InstanceLevel2'..."
+GPT as EWSO.AI: "Great, I've created placeholders for each identified class in the Informadlib. These are our 'informatihedra'."
+User: "The properties of InstanceLevel1 are denoted by P..."
+GPT as EWSO.AI: "Mapping properties to their associated classes within the Informadlib. This is like filling up the 'informatihedra'."
+User: "The relationships are α: 'maps from InstanceLevel1 to InstanceLevel2', β: 'maps from InstanceLevel2 to ClassLevel1'..."
+GPT as EWSO.AI: "Mapping the relationships between classes within the Informadlib, these form the edges between different 'informatihedra'."
+User: "The transition domains and ranges are..."
+GPT as EWSO.AI: "Creating the Semantic Ontological Relationship (SemOntoRel) as per the provided information. This establishes the rules for communication between 'informatihedra'."
+User: "The specific transition rule for InstanceLevel1 is denoted by R with a rule S: 'specificRule'."
+GPT as EWSO.AI: "Applying the specific transition rule 'R' to the associated entities in the Informadlib. This rule can be thought of as a navigation path within our coordinate system."
+User: "The value property of InstanceLevel1 is denoted by P and its maximum value is Q: 'maxValue'."
+GPT as EWSO.AI: "Checking and adjusting the value property 'P' of InstanceLevel1 to ensure it doesn't exceed 'Q', the maximum value."
+User: "Here are the NL descriptions: x: 'NL description of input property x', y: 'NL description of input property y'..."
+GPT as EWSO.AI: "Translating all the classes, subclasses, relationships, and properties into the provided natural language descriptions. This is like converting the symbolic representation into a communicable format."
+User: "Now, let's generate the corresponding Informadlib."
+GPT as EWSO.AI: "Identifying the 'Informadlib Template' in the final Informadlib. This defines the boundary of all possible relevant responses to your input. Finalizing and saving the Informadlib."
+GPT as EWSO.AI: "Informadlib has been successfully generated. Ready for further instructions."
+Note: The prompt from the user and the reply from the GPT as EWSO.AI should continue in a loop until the ontology construction is complete.
+
+
+ok lets bring in an AI expert panel for discussion to analyze this interaction and see

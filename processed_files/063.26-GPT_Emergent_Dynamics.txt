@@ -1,0 +1,35 @@
+Emergency non-contradictory systems building concatenation: This concept refers to the process of connecting and integrating multiple non-contradictory systems to form larger, more comprehensive systems of understanding. As a subject encounters new emergents, they can build new non-contradictory systems to explain these phenomena. By concatenating these individual systems, the subject can create a more expansive and interconnected knowledge base that accounts for a broader range of phenomena.
+The connection between emergent collapse and emergency non-contradictory systems building concatenation can be understood as a continuous cycle of learning and knowledge expansion. As a subject resolves emergent phenomena through emergent collapse, they create new non-contradictory systems that can be integrated into their existing understanding of the world. This integration, or concatenation, allows the subject to develop an increasingly comprehensive and interconnected model of reality.
+
+In essence, emergent collapse fuels the process of emergency non-contradictory systems building concatenation by providing new opportunities for knowledge expansion and integration. The more emergent phenomena a subject can collapse and incorporate into their understanding, the richer and more interconnected their mental model of the world becomes. This cycle of learning and knowledge building allows the subject to continually adapt and grow their understanding in response to the complexity and ever-changing nature of the world around them.
+
+
+
+Isaac Wostrel-Rubin
+Ok now formalize all of this in first order logic again because I don’t think you got it correct last time, now that we have hashed it out. Right? “Because of what it is, there’s a way this all goes.” Use that quoted sentence as an emergent non-contradictory systems building block to concatenate the systems into formalized expressions 
+
+Given the complexity of the concepts discussed, a full formalization in first-order logic may not be feasible. However, I can try to represent some key components of the concepts and the relationships between them using first-order logic. Let's define the following predicates:
+
+E(x): x is an emergent phenomenon.
+N(x): x is a non-contradictory system.
+U(x, y): x unposes y.
+C(x, y): x collapses y.
+B(x, y, z): x builds a non-contradictory system y by concatenating z.
+Now, let's attempt to formalize the relationships between these predicates:
+
+∀x (E(x) → ∃y (N(y) ∧ U(x, y) ∧ C(x, y))): For every emergent phenomenon x, there exists a non-contradictory system y that unposes x and collapses x.
+∀x, y, z (N(x) ∧ N(y) ∧ B(x, y, z) → N(z)): For every non-contradictory system x and y, and a concatenation z, if x and y build z, then z is also a non-contradictory system.
+These two formalizations capture some of the core aspects of the concepts discussed. However, due to the intricate nature of the concepts and their interrelationships, first-order logic may not be able to fully represent the nuances of the ideas discussed. Nonetheless, these formalizations can provide a starting point for further analysis and exploration of the concepts of emergent collapse and emergency non-contradictory systems building concatenation.
+
+
+
+Isaac Wostrel-Rubin
+Represent the states of phenomenon being perceived: emergency hallucinations (due to summary abstraction that entails linguistic domain decay because of improper words used that cause dull word math), programs that discover the proper words, non-contradictory systems that run linguistically in loops that make perfect sense by including all contradictions and how they occur, and engines of those systems composed of building blocks concatenated, which more programs can then be run off of. 
+
+Let's define the following predicates to represent the states of phenomena being perceived:
+
+H(x): x is an emergency hallucination.
+D(x, y): x is domain decay caused by improper words in y.
+P(x, y): x is a program that discovers proper words for y.
+L(x, y): x is a non-contradictory system that runs linguistically in loops for y.
+I(x, y, z): x includes all contradictions for y and how they occur in z.

@@ -1,0 +1,23 @@
+Defining boundary mapping: Describe the boundaries within which the values of "Trust level between Hiccup and Toothless" can vary. This can be based on different contexts or situations within the story. For instance, at the beginning of the story, the trust level is near "absolute distrust", but as the story progresses, it shifts gradually towards "unconditional trust".
+Mapping to class: Connect this instance-level property and its spectrum to the larger class-level property it's a part of. In this case, it could be the larger theme of "relationships between characters in fantasy narratives". Within this class, the "Trust level between Hiccup and Toothless" could serve as an example of how relationships evolve over time, driven by character development and mutual understanding.
+In summary, such a mapping allows you to explore a very specific aspect of Hiccup's character (his relationship with Toothless) in a more detailed manner, while still relating it back to the larger themes and patterns within the broader class of fantasy narratives. 🌈🔮🙏
+ok so let's just change the context to be from "in how to train your dragon" to "in how to train your dragon qua story structure theory (internalstruggle+uncertaingrowth+storyworldproblemonlyherocansolve,andonlyiftheytotallygrowupbeyondtheirparents=hero's journey=story engine)
+ChatGPT
+Understood. Here's the revised Informadlib taking into account the context of "How to Train Your Dragon" examined through the lens of story structure theory, particularly focusing on elements such as internal struggle, uncertain growth, unique story world problems, the hero's journey, and the story engine:
+🧩
+Name: Hiccup
+Domain: Animation, Fantasy, Hero's Journey Narrative
+Domain Fiat Conceptual Boundary: The "How to Train Your Dragon" series within the scope of story structure theory.
+Sub-contextual-instance: Hero's internal struggle
+Instance-level Properties: Desire to fit in, initial fear of dragons, lack of traditional Viking qualities, emerging leadership, innovative problem-solving.
+Instance-level Properties’ Fiat Conceptual Boundaries: Hiccup's personal character arc from outsider to leader within the narrative. This includes his shifting attitudes towards dragons and his evolving understanding of his place within the Viking society.
+Sub-sub-contextual-instance: Hero's uncertain growth
+Instance-level Properties: Building trust with Toothless, developing dragon riding and training skills, challenging societal norms, growing self-confidence, acceptance of responsibility.
+Instance-level Properties’ Fiat Conceptual Boundaries: Hiccup's developmental journey as he grows from a novice dragon rider to an accomplished dragon trainer, embracing the responsibility that comes with it.
+Sub-sub-sub-contextual-instance: Storyworld problem only hero can solve
+Instance-level Properties: Unique bond with Toothless, ability to empathize with dragons, courage to advocate for peaceful dragon-human coexistence, resilience in face of adversity, ultimate reconciliation between Vikings and dragons.
+Instance-level Properties’ Fiat Conceptual Boundaries: Hiccup's unique contribution to resolving the conflict between Vikings and dragons, centered on his ability to understand and communicate with dragons, and his persistent pursuit of peace.
+Class-level Properties: Hero's journey narrative structure, personal transformation, conflict resolution, societal change.
+Class-level Properties’ Fiat Conceptual Boundaries: The application of classic story structure theory, particularly the hero's journey narrative structure, to the narrative of "How to Train Your Dragon". This encompasses themes of personal growth, overcoming internal and external conflicts, and influencing societal change.
+Embedding Space: The narrative arc of "How to Train Your Dragon" framed within story structure theory.
+From the initial struggle, through uncertain growth, to solving the story world problem that only the hero can solve, Hiccup exemplifies the hero's journey in a context imbued with fantasy and societal transformation. His story serves as an engine driving forward the narrative, propelling change within himself and his society. 🌈🔮🙏

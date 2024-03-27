@@ -1,0 +1,77 @@
+
+
+Screenplay Narrative Ontology (timing etc, actor bait, rules of cool etc)
+	- hero’s outer journey mirrors inner journey symbolically
+		- categories like: character, setting, story form, genre, theme, plot
+			-subcategories such as: archetypal dialogue requirements (personality), setting 			symbolically reflects (metaphorically) the story engine
+	- inner journey to conquer habitual tendency	
+	- emotions prevent them from doing so, because they are oriented to their emotions incorrectly
+		-similarly, the outer problem is fixed when they orient emotions correctly and then unlock their 		unique, “individual” power to conquer the outer story problem (if this logic is complete, it 		completes the requirements of a story engine since the outer inner and emotional are all joined 		by the thread of theme)
+	- Scene Ontology
+		Written document formatting
+		Narrative scene structure
+		Linguistic scenic syntax
+			- language
+				- imagery
+					- information primacy, controlling the mind’s camera POV with implications 					and controlling the order of addition of elements in the imagination of the 					audience (provides tempo/cadence/structure for feeding the symbolic 					thematic transmission)
+->> THEME 
+	contains a message usually in the format “in order to truly X, one must first (verb) Y”
+	which is symbolized by the story engine, so the entire story becomes a metaphor for solving the type 	of problem which is further symbolized by the content of the genre (and the emotional version of this 	is flavored by the story form)
+
+Audience Psychology
+	- the way the limits of the screenplay ontology occur is bound by the limitations of psychological 	phenomena such as the fact that we oversimplify others in our daily life and so we write supporting 	characters in a more flat way 
+	- choosing sequencing and exposition so the audience is guided towards bringing into focus what is 	intended to be transmitted (transferred through the story engine’s thematic metaphor via the 	audience’s performing a linear transformation of relating the stimuli to themselves)
+
+(there’s a bunch of this info and I don’t know it)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story Engine as FSM
+- The Story Engine exists in Finite States
+- Each scene has a Story Engine State for the protagonist and the World
+- The states change depending upon inputs from the Story, which happen in Scenes (Impact Character, Antagonist… which others?)
+
+
+(MATCH WITH HOW TO TRAIN YOUR DRAGON)
+Ordinary World State
+Crossing Threshold State
+Fun and Games State
+Midpoint State
+All is Lost State
+Spark in the Dark State
+Seizing the Sword State
+Failing Final Battle State
+Master of the Two Worlds State
+
+Story engine is actually:
+A finite state machine where each state is an ‘engine state’, takes input from narrative occurrence/sequence, which induces state change. Engine comes in two parts, the “world” and the “protagonist” 
+
+World engine: everything that doesn’t have to do with the properties and attributes of the main character. 
+
+Protagonist engine: everything that has to do with the properties and attributes of the main character (protagonist). 
+
+The story progression, which happens in scenes, contains state change inputs that are occurrents within the relationships between the attributes of protagonist and elements of the world. 
+
+World engine exists such that it produces a negative feedback loop, called the “Problem with the World. ****
+
+The way that the P-engine relates to W-engine in Ordinary World State, is such that the relationships form a psychologically negative feedback loop for P, called “the lie the character believes.” *****
+The lie the character believes, is that they have a problem and the W-engine does not. The reality is that they both have a misalignment to reality and solving the P lie solves the W problem. 
+The fact that the character believes the Lie makes them relate to the world in such a way that they cannot obtain their desire
+
+Protagonist possesses an attribute, usually an ability in the form of an action, which, when combined with the “impact” character’s problem solving idea, allows for a change in state… ***
+

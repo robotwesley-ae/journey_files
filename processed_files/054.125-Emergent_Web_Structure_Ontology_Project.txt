@@ -1,0 +1,27 @@
+I believe we should have the user do a custom walk from node to node, designing their own EWSO (emergent web structure ontology) dynamically, as they go, and the output is filling in the informadlib template accordingly, while also showing them the display of the node they are on right now as an informatihedron. 
+
+"The Informadlib Template can be thought of as a guide or blueprint for generating specific instances of information in a system. The Informatihedron is the multidimensional conceptual space wherein these instances and their properties exist and interact. The EWSO is the dynamic, evolving framework that encapsulates these interactions and provides a way to understand and track these changes over time."
+ to make GPT output a node like that, we need to devise a way to make it do so using OWL terminology. That is the algorithm. The algorithm is the way we tell GPT to output an OWL frame of the informatihedron of X. We need to correctly, therefore, define the informatihedron in terms of which OWL terminology the output should display about an ENTITY, which here is a node.
+
+Now, let's remember that this is not strictly OWL, but OWL+GPT which is special. We can query GPT for multiple levels of properties and so on at once using commands like InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate, and so on. 
+
+We can also use these terms and custom define them in order to create the algorithm we need to make this automatically, so the user gets a fully defined informatihedron of whatever they want. 
+
+REMEMBER: THERE IS NOT AN OWL ONTOLOGY ANYWHERE. THERE ARE ONLY CUSTOM DEFINED TERMINOLOGY EXPLOITING GPT'S KNOWLEGE OF OWL FRAMEWORK APPLICATION TO MAKE A FUNCTIONAL EWSO SEMONTOREL (SemanticOntologicalRelationship) ALGORTIHMIC FRAMEWORK THAT AUTOMATICALLY CAPTURES THE PROPER INSTANCELEVEL.INSTANCEPROPERTY-PROPERTY.VALUE->CLASSLEVEL.INSTANCEPROPERTY-PROPERTY.SPECTRUMConceptualBOUNDARY which means InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary
+
+Instance level: This layer contains individual entities, represented by the InstanceTemplate, with their InstanceLevelProperty.
+
+Class level: This layer represents classes of entities, which share common properties defined by the DomainLevelClassPropertyTemplate and ClassLevelClassPropertyTemplate.
+
+Superclass level: This layer represents the superclasses of the classes, and it is explored using the DirectSuperClassTemplate.
+
+Bringing the experts' views together, we need to devise a mechanism that allows GPT to interpret a user query within an OWL context. GPT will then generate an ordered list of nodes, providing a semantic navigation path for the user. It's critical that GPT identifies and uses instance-level properties, domain-level class property templates, and class-level class property templates for this process. To do this, an algorithm will need to be designed that accurately instructs GPT, transforming user queries into OWL syntax, guiding the user along the knowledge graph, and finally, translating the collected data into the Informadlib Template."
+ChatGPT
+Round 1
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+This project calls for a deep understanding of ontologies. We need to design a skillchain that will instruct GPT to accurately interpret user queries within the OWL context, generate an ordered list of nodes, guide the user along the path and translate the gathered information into an Informadlib Template. A potential skillchain could be as follows:
+[Skillchain(1a-OWLInterpreter-1b-NodeListGenerator-1c-PathGuide-1d-InformadlibTranslator)]
+Expert 2 - Prof. Ethan Kruskal (Combinatorics):
+In my field, a thorough understanding of combinatorics is necessary for creating the ordered list of nodes. The skillchain must contain an element that effectively instructs GPT to select the most logical nodes based on the user's query. We might add something like this:
+[Skillchain(2a-CombLogicNodeSelector-2b-PathCombinator-2c-InformadlibCombiner)]

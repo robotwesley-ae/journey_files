@@ -1,0 +1,56 @@
+Isaac Wostrel-Rubin
+Ok but that’s a non contradictory system where sanctuary is a place and people are in a state of sanctuary or wasteland. I’m just asking for a non contradictory system itself
+
+I apologize for the confusion. If you're looking for a formalization of a non-contradictory system without the Sanctuary State concept, we can create a simpler representation. Let's define the predicates and variables for a general non-contradictory system:
+
+R(x): x is a rule.
+A(y): y is an actor.
+F(y, x): Actor y follows rule x.
+B(y, x): Actor y breaks rule x.
+C(x, y): Rule x contradicts rule y.
+A non-contradictory system is a system in which no rule contradicts any other rule. We can represent this idea in first-order logic as follows:
+
+∀x∀y (R(x) ∧ R(y) → ¬C(x, y))
+
+This statement can be read as: For all x and y, if x is a rule and y is a rule, then rule x does not contradict rule y.
+
+This formalization represents a non-contradictory system, where rules do not contradict each other.
+
+
+
+Isaac Wostrel-Rubin
+Ok that’s not exactly the definition. Can you see what I mean from this? 
+
+A non contradictory system is a full representation of an emergent duality’s position, unposition, and collapse process. 
+
+This means first there is an emergent which means there is a phenomenon perceived by a subject that doesn’t know about the non-contradictory domain function of that domain. This is experienced as a type of duality: this “it” is a “entity” that does/has “properties and relationships”, where that “it” must simultaneously be the way the subject believes it to be and the way it is. The way this duality is undone is only through recognizing that this belief is a hallucination to some degree because the entity’s properties and relationships have not been fully discovered. Understanding this allows us to begin to abstract potential combinations and discover knowledge. 
+
+Now, whenever something appears to be one way and also in another context appears to be another way that is contradictory, it is an emergent hallucination. 
+
+Discovering the reasoning that makes this apparent paradox involves first clearly defining the known properties of the entities and mapping how one knows one knows about the known properties. Then, as this all connects, the non-contradictory system is always exposed, which once discovered, allows one to infinitely exploit that domain for combinatorial knowledge mining. 
+
+Thank you for the clarification. Based on your description, I'll attempt to formalize the concept of a non-contradictory system using first-order logic.
+
+P(x): x is a phenomenon.
+S(y): y is a subject.
+E(x, y): Phenomenon x is emergent for subject y.
+D(x, y): Phenomenon x has domain function y.
+N(y): y is a non-contradictory domain function.
+U(x, y): Phenomenon x is understood by subject y.
+K(x, y): Subject y knows about property x.
+C(x, y): Property x is contradictory to property y.
+Now, we can represent the concept of a non-contradictory system as:
+
+∀x∀y (E(x, y) ∧ D(x, N(y)) → ¬∃a∃b (K(a, y) ∧ K(b, y) ∧ C(a, b)))
+
+This statement can be read as: For all phenomena x and subjects y, if phenomenon x is emergent for subject y and has a non-contradictory domain function N(y), then there do not exist properties a and b such that subject y knows both a and b and a is contradictory to b.
+
+This formalization captures the idea that, in a non-contradictory system, a subject cannot know about properties that are contradictory to each other. The system represents an emergent duality and its subsequent collapse process, where understanding the non-contradictory domain function allows for the resolution of apparent contradictions and the discovery of new knowledge.
+
+
+
+Isaac Wostrel-Rubin
+So that means the subject can understand all aspects of other subjects’ misunderstanding some phenomenon?
+
+The formalization I provided earlier focuses on the non-contradictory nature of a system for a given subject. However, it does not explicitly address the understanding of one subject about another subject's misunderstanding of a phenomenon. To capture that aspect, we can introduce a new predicate and modify the existing formalization:
+

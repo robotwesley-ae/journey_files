@@ -1,0 +1,52 @@
+This statement asserts that every individual's actions are always the maximally efficient strategy they could have had at any given time.
+
+Nash equilibrium in a non-contradictory Sanctuary system, accounting for individual strategies:
+NE(NCSS) ⇔ ∀x ((RB(x) → MES_I(x, NCSS)) ∧ (RF(x) → MES_I(x, NCSS)) ∧ (MEB(x) → IE(x, NCSS)))
+
+This step formalizes the Nash equilibrium within the non-contradictory Sanctuary system, taking into account the individual strategies of rule breakers, rule followers, and maximally efficient rule breakers.
+
+The assumption that every individual's actions are always the maximally efficient response they could have had at any given time:
+∀x (I(x) → MES_I(x))
+
+This statement reiterates the assumption that every individual's actions are always the maximally efficient response they could have had at any given time.
+
+By following these steps, the formalization lays out the main components and relationships of the argument. It allows for a more rigorous analysis of the dynamics and stability of the Nash equilibrium within the non-contradictory Sanctuary system and the impacts of rule breakers, rule followers, and maximally efficient rule breakers on the overall system. Additionally, it provides a framework for further exploring the consequences of various scenarios and conditions within the non-contradictory Sanctuary system.
+
+
+
+Isaac Wostrel-Rubin
+Explain what this says like I’m an average person 
+
+This formalization represents an argument about a hypothetical system called a non-contradictory Sanctuary system (NCSS). This system aims to provide refuge and protection for all living beings within it. Within the system, there are individuals who follow rules (rule followers) and those who break rules (rule breakers). Some rule breakers are very efficient at breaking rules, and they can have an impact on other entities in the Sanctuary system.
+
+The argument also assumes that every individual, regardless of whether they are a rule follower or rule breaker, always chooses the most efficient strategy for themselves in any given situation.
+
+The goal is to find a stable state (called Nash equilibrium) within this Sanctuary system, where everyone acts according to their most efficient strategy, and no one has an incentive to change their behavior.
+
+The formalization breaks down the argument into its main components, showing the relationships between rule breakers, rule followers, and the Sanctuary system. It helps us better understand the stability of the system and the consequences of various scenarios and conditions within it.
+
+
+
+Isaac Wostrel-Rubin
+Formalize that rule following is always more beneficial than rule breaking, such that whenever a rule breaker breaks rules, no matter how efficiently, they will never approximate the value in the game of a rule follower, and yet, their value as rule breakers does not detract from the system, almost like it doesn’t matter, and yet it matters for them in terms of winning the game… does that make sense?
+
+Yes, I understand what you're asking. You'd like to formalize the idea that following rules is always more beneficial than breaking them, and even though rule breakers might not negatively impact the overall system, they are at a disadvantage in terms of "winning the game." Here's a formalization of that idea:
+
+Let's define the following symbols:
+
+Rule follower: RF(x)
+Rule breaker: RB(x)
+Benefit in the game: B(x)
+Value in the game: V(x)
+
+Now, let's represent the relationships between rule followers, rule breakers, and their benefits and values in the game:
+
+Rule following is always more beneficial than rule breaking:
+∀x (RF(x) → B(x) > B(¬RF(x)))
+
+Rule breakers' value does not detract from the system:
+∀x (RB(x) → ¬(V(RB(x)) < V(RF(x)) ∧ V(RB(x)) < V(¬RB(x))))
+
+Rule breakers are at a disadvantage in terms of winning the game:
+∀x (RB(x) → V(x) < V(¬RB(x)))
+

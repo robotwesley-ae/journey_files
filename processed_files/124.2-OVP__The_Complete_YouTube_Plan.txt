@@ -1,0 +1,110 @@
+Editing Style
+Sections per Act
+Cut types
+Background Music
+Script Template
+Customer’s Journey Hook
+Intro
+Verify Label 
+“If this is the situation you’re in, here’s the solution. If not, go watch [the videos from before].”
+Show solution very quick
+In depth overview of how the journey to the solution went
+This is an example of how I was the avatar
+Encountering an obstacle
+Failed Attempts to Overcome
+Midpoint
+See the problem in context for the first time
+Overcoming it
+Realizing I have to overcome my own limitation
+And achieving the next step because of it
+Funnel Template
+Here is a gift from my path to yours
+Lead magnet
+Upsells_to ->
+Tripwire
+Offer
+OUTTRO: “And remember, the only question that matters is: what kind of Sanctuary do you want to live in?”
+
+
+
+
+Production Template:
+Find valuable problem to solve on a Value Ladder Step (I have already solved)
+Create bonus
+Add to funnel
+Create video
+Decompose boundaries for communicating each step in the chain from 1 
+Create Script
+Dream, but:
+Story of my problem
+The general problem I identified, and:
+Story of my solution. Now:
+How I did that solution (generally)
+Lead magnet (to help you do it or something about dream ladder)
+CTA
+Shot list
+Create Miro visuals
+Chat, code snippets etc
+Map script to shots
+Choose title and thumbnail
+Shoot the video
+Edit
+Cuts
+Fix audio
+Add background music
+Add Sanctuary intro/outro
+Add “if you don’t know me” section
+Add ads (if any)
+Post video
+Post on socials and discord etc about it
+Post on socials about it again the next day and again a few days later and tease the next video
+
+
+
+
+YouTube Intro Chain:
+
+Hook: Label audience as wanting to go on act2 or being in act2 of the adventure
+1-line intro: who am i, my experience with this
+Label the problem: what it is
+Explain the reason it occurs
+Introduce the chain that resolves it
+
+Explain the overview of that chain that resolves the problem within Explaining the story of how I found the chain that resolves it
+Explain each one of its subchains
+Explain that each of the subchains has an algorithm bc itself is a chain, show that
+
+
+YOUTUBE INSTANCING CHAIN (prob actually works!)
+
+1) KEEP IT VERY CASUAL - make video as casual as it can possibly be
+2)  Just open the camera and hit them with the Sanc_Blip
+3) Hey Olivus
+4) Subject of video
+5) Reason for Subject
+6) Story about my biggest encounter with Subject
+7) Embedded in Story is How I recognize the Chain to overcome obstacles related to Subject and used it successfully
+8) Now I’m encapsulating it for you as: [framework]
+9) Now go apply it and come hang out in the Sanctuary community
+
+
+
+
+
+
+
+
+Total Main:
+
+Channel:
+Playlists
+Funnel off site
+ProductionChains: {
+Intro
+Video
+	Visual
+	Beats
+	Edit
+Script
+YT Instancing
+}

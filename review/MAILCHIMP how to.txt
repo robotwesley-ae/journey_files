@@ -1,0 +1,53 @@
+Login to mailchimp
+
+
+Go to campaigns
+
+replicate a new newsletter or click edit
+
+
+In SETUP tab, edit the subject, google analytics (change date) etc
+
+The size for the images that are large should not exceed 600 pixels. I have found that 580px in width is the best size for our featured programs.
+
+In DESIGN tab
+Add the upcoming programs
+Check the monthly calendar. Add the intro programs unless specified from communications lead what to add.
+Check that the BLOG posts are current
+
+IN CONFIRM tab
+Click on PLAIN-TEXT EMAIL, Regenerate from HTML and SAVE
+Click on EDIT  for SOCIAL CARDS enter a short new description. Update the photo. Click on NEXT to choose a new photo.
+
+CLICK SCHEDULE button
+Let mailchimp decide when best time to send. 
+
+
+
+
+DESIGN TAB NOTES
+
+To replace an image, click on pen icon
+
+
+Then REPLACE. Also update the LINK if necessary as well as ALT (= the text that will appear if the images won’t appear in message)
+
+
+When you copy and paste from the website, it embeds the formatting. To get rid of that you select the text and click “CLEAR STYLES”
+
+
+
+Make sure the photos are linked to the program
+
+you can click and drag the different blocks (=text, buttons, images)
+
+To copy, just click on the plus icon.
+
+
+When you have added the information below please send me and Jenny a test email
+
+
+
+PLEASE NOTE
+
+The template has already set fonts 

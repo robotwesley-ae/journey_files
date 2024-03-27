@@ -1,0 +1,99 @@
+Lightning Protection Checklist 
+
+
+1. Are all system components tight and electrically continuous?
+					TIGHT			CONT.
+Frame Cable Loop, 2 Clamps		___			___
+Base Assembly 1, 2 Clamps		___			___
+Base Assembly 2, 2 Clamps		___			___
+Base Assembly 3, 2 Clamps		___			___
+Base Assembly 4, 2 Clamps		___			___
+Air Terminal Assembly 1		___			___
+Air Terminal Assembly 2		___			___
+Air Terminal Assembly 3		___			___
+Air Terminal Assembly 4		___			___
+Grounding Cable 1			___			___
+Grounding Cable 2			___			___
+Frame-to-Ground Clamp 1		___			___
+Frame-to-Ground Clamp 2		___			___
+Ground Rod Clamp 1			___			___
+Ground Rod Clamp 2			___			___
+Grounding Rod 1			___			___
+Grounding Rod 2			___			___
+Bonding Cable			___			___
+Frame-to-Bonding Clamp		___			___
+Bonding Flat Clamp			___			___
+
+
+2. Are the air terminals a minimum of 10” above the object being protected?
+TERM 1				Y/N
+TERM 2				Y/N
+TERM 3				Y/N
+TERM 4				Y/N
+
+3. Are the air terminals within 2’ of every outside edge or corner?
+TERM 1				Y/N
+TERM 2				Y/N
+TERM 3				Y/N
+TERM 4				Y/N
+
+4. Is the spacing of air terminals 20’ or less (if object is longer than 20’)?
+TERM 1				Y/N
+TERM 2				Y/N
+TERM 3				Y/N
+TERM 4				Y/N
+
+5. Are there a minimum of 2 Ground Rods (10’ x ⅝”) installed?
+Ground Rod 1				Y/N
+Ground Rod 2				Y/N
+
+6. Are the Ground Rods driven completely into the earth? Any amount of rod left protruding from the ground must be covered with a safety cone.
+Ground Rod 1				Y/N
+Ground Rod 2				Y/N
+
+7. Are the Ground Rods connected to the frame via a tightened clamp and with a minimum of Class 1 lightning protection cable as the connecting material?
+Ground Rod 1				Y/N
+Ground Rod 2				Y/N
+Grounding Cable 1			Y/N
+Grounding Cable 2			Y/N
+
+8. Is the lightning protection conductor protected from incidental damage?
+Cable 1				Y/N
+Cable 2				Y/N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intercept Lightning Protection LLC hereby declares this lightning protection system inspected and approved and the object in consideration protected if the above 10-point checklist is filled out with 100% yeses, as well as that the inspected LPS will be in compliance with the minimum standards set forth by NFPA 780 and LPI-175. While the object in consideration may not be classified as a “structure” as written by NFPA 780, and thus some requirements may not be applicable, it is our professional and expert opinion that the proper completion of the above checklist ensures the same amount of protection as would be certifiably gained through following the standard criteria of NFPA 780 and LPI-175 required for “lightning protection for structures.” This declaration serves to certify the installation has been properly installed and substantially reduces or mitigates the risks associated with the occurrence of lightning attachment to the object in the zone of protection of the LPS.
+
+Inspection Date				Project
+_____________ 				_____________
+
+
+Inspection Time				Location of Installation
+_____________				_____________
+
+
+
+
+Inspector Name				Inspector Signature
+_____________				________________

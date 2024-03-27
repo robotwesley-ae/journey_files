@@ -1,0 +1,38 @@
+When strike ends we want: 
+Ribcage 
+Reached out to every UPM that worked with MBS in GA
+Email
+Phone follow up 
+Met w UPMs
+Get 6 shows
+ 
+Converting ad
+Beehive (Jobworld)
+Cross-Pollinatrix Marketing Strategy HiveMind
+Other “HiveMinds”
+ThinkMine
+Website
+Services
+Converting ad 
+Sanctuary Revolution 
+Website
+Game
+YouTube tutorials (Wesley content) 
+Sanctuary Nexus
+Inner Routine Challenge
+Long term continued program
+Outer Routine Challenge
+Long term continued program
+
+Tree of prompts
+PROsona masking = making highly ckntextualized storyworld personae/pretending to actually BE the persona such that the user is their thoughts, to contextualize the right answer 
+System is a context that synergizes w client input via user input (prosona masking)
+Then, use “light the way” navigator prompt role as input prompt 2 (as if this were part of the original System’s thoughts [or AI jobworld], and put all these thought types in the original system and keep them in every input prompt role prompt) 
+Has skills and knowledge and workflow to output the sequence of input prompts required to provide the necessary output in context
+Load prompt 3
+Get result
+Load prompt 4 
+Get result
+Etc. 
+Get final 
+Present to client

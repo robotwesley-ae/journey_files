@@ -1,0 +1,26 @@
+With further depth, I suggest these revised and combined skillchains:
+[Skillchain(22a-OWLInterpreter-22b-OntologicalAbstractionAnalyst-22c-DirectClassParentIdentifier-22d-InstanceClassSuperclassStateManager-22e-NodeListGenerator-22f-PathGuide-22g-UserQueryOWLTransformer-22h-InformadlibTranslator)]
+[Skillchain(23a-InstancePropertyClassPropertyRelator-23b-OWLPlusGPTCommander-23c-UserDrivenEWSOExplorer-23d-ComplexPropertySpectrumConceptualizer-23e-InformatihedronGenerator-23f-InformadlibTemplateFiller-23g-OWLFrameOutputter-23h-CustomCommandInventor-23i-PropertyArrayValueEvaluator-23j-InformadlibTemplateAutomator)]
+The depth of these skillchains is greatly increased, which provides comprehensive coverage for building the functional first version of the prompt.
+We are now ready to move forward with a detailed plan, using the refined and deepened skillchains. This should enable us to successfully instruct GPT to provide an OWL frame of an informatihedron for any entity, within the user-driven design of the EWSO.
+friends please list the names of the skillchains, instead of saying "skillchain" at the beginning.
+ChatGPT
+I apologize for the misunderstanding. Here are the skillchains with assigned names for clarity:
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+OWLInterpreterChain: [16a-OWLInterpreter-16b-OntologicalStructureDecoder-16c-InstanceClassPropertyRelator-16d-InstanceSuperclassTraversal-16e-DirectClassParentIdentifier-16f-OWLTermClassificator-16g-NodeListGenerator-16h-PathGuide-16i-InformadlibTranslator]
+EWSOConstructorChain: [17a-EWSOConstructor-17b-InstanceClassSuperclassStateManager-17c-InformatihedronGenerator-17d-InformadlibTemplateFiller-17e-OWLPlusGPTCommander]
+Expert 2 - Prof. Ethan Kruskal (Combinatorics):
+3. UserDrivenEWSOChain: [18a-UserDrivenEWSOExplorer-18b-DynamicPathCombinator-18c-PropertySpectrumBoundaryEvaluator-18d-InformatihedronPresenter-18e-ComplexPropertySpectrumConceptualizer]
+CustomCommandChain: [19a-CustomCommandInventor-19b-OWLFrameOutputter-19c-PropertyArrayValueEvaluator-19d-InformadlibTemplateAutomator]
+Expert 3 - Dr. Ada Lovelace (Computer Science):
+5. InstanceLevelPropertyManagerChain: [20a-InstanceLevelPropertyManager-20b-DomainLevelClassPropertyTemplateHandler-20c-ClassLevelClassPropertyTemplateHandler-20d-UserQueryOWLTransformer-20e-CommandInterpreter-20f-OWLSyntaxTransformer-20g-InformadlibCommandHandler]
+InstanceTemplateExecutorChain: [21a-InstanceTemplateExecutor-21b-ComplexCommandHandler-21c-InformadlibTemplateAutomator-21d-InformatihedronGenerator-21e-EWSOConstructor]
+Expert 4 - Dr. Hans Euler (AI and Ontology):
+7. OWLInterpreterAdvancedChain: [22a-OWLInterpreter-22b-OntologicalAbstractionAnalyst-22c-DirectClassParentIdentifier-22d-InstanceClassSuperclassStateManager-22e-NodeListGenerator-22f-PathGuide-22g-UserQueryOWLTransformer-22h-InformadlibTranslator]
+InstancePropertyClassPropertyRelatorChain: [23a-InstancePropertyClassPropertyRelator-23b-OWLPlusGPTCommander-23c-UserDrivenEWSOExplorer-23d-ComplexPropertySpectrumConceptualizer-23e-InformatihedronGenerator-23f-InformadlibTemplateFiller-23g-OWLFrameOutputter-23h-CustomCommandInventor-23i-PropertyArrayValueEvaluator-23j-InformadlibTemplateAutomator]
+These skillchains cover all the tasks required in the semantic ontological relationship algorithm development process.
+please provide a revised copy of each skillchain, without changin them at all, where the word "skillchain" is replaced by the name of the skillchain. Also, underneath each skillchain, provide an NL description of what it does please and remember there are 23 skillchains and each one must be in the output accordingly. No expert panel is needed for this. Assistant can do it themselves by including all of the expert skills in itself for this task. Please go ahead now. 
+
+[Skillchain(1a-OWLInterpreter-1b-NodeListGenerator-1c-PathGuide-1d-InformadlibTranslator)]
+[Skillchain(2a-CombLogicNodeSelector-2b-PathCombinator-2c-InformadlibCombiner)]
+[Skillchain(3a-CommandInterpreter-3b-OWLSyntaxTransformer-3c-InformadlibCommandHandler)]

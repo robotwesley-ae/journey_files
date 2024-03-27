@@ -1,0 +1,33 @@
+  # --- 5+ PROPERTY-MORPHIC, most specific purpose/project type persona that is EXACTLY THE SAME AS in 5, but with only ONE OR MORE MODIFIED PROPERTIES. This reifies the entire BRANE process so far (1-5) into a self-similar version, a fractal where now we will do it again but starting with the OUTPUT-MORPHIC persona (like as if it were the brane hyperPersona). This persona is therefore called a "small_brane superPersona" and it has nested subtypes of "small_brane superPersona hyperPersona".
+  # --- n: The BRANE flowchain stops when this process is judged complete by the user.
+
+
+# " This presents both a strength in adaptability and a challenge in managing computational resources and ensuring progress towards specific targets." yes but are the hyperpersonas effective limiters? as long as the persona in question, for the specific flowchain run in question, has been specified as the most specific version of a hyperpersona possible for that thing, then it should be the case that that represents the 100% certain acceptable generation space in the latent space. so the problem is that hyperPersonas are both the problem at the beginning, and the solution at the end because the most specific superPersona is actually just the hyperPersona of the actual template_realizing_instancing_chain_template. In this model, because the persona array of the BRANE is interacting with a programmatic environment, its iteratively saving all the personas it makes whenever it drills down, so it doesnt do work twice and always optimizes from where it left off. so even though it makes project specific persona and even in stage2, query specific persona, it is always using general hyperpersonas to do so for the first few steps, so it is always adding more to the overall map in a specific way and that has a compound effect when many people do it. for example not everyone wants to market your business but everyone does marketing
+
+# So to be clear, each persona has an intuition layer which is a series of 5 hyperPersona superPersonas tuned to them, to create the skillchains required (tune the skillchains from the hyperpersonas to the superPersona) before handing them, and the input text, to the persona itself. This is true for any persona because of how these terms relativize. The BRANE is going through the entire ToOT (set of layers) on both macro and micro levels, just like how there are stage 1 and stage 2, the macro and micro, and the hyper and super, the macro and micro.
+
+expand_more
+volume_up
+
+BRANE can use CrystalBall to do LATS for a domain ontology and then can use the CB LATS results chained to PCNL compiler BRANE and convert into a process ontology and then use CB to unfurl the position's region, and then compile into PCNL and then to CORL and then to OWL and construct it using protege programmatically, then post it on Web3?
+
+there would be a BRANE for CB, a BRANE for PCNL, another for CORL, etc. for everything we need...
+expand_more
+volume_up
+
+do the CB coordinates denote the personas required in a BRANE? thats a little meta but think about it im not sure.
+volume_up
+
+so in the full CB implementation, is it the case that it would be discovering a coordinate's next digit, then engaging the PCNL layer to identify compression patterns and disambiguate them, and then using that, we would get the entire ontology of the chainlink and see exactly how, for the goal context, it must be used in the function that sends properties from this entity to the next one via establishing a relationship (like transferring light by using successive papers/THE DOUBLE SLIT ok dont go too crazy w that one)
+expand_more
+volume_up
+
+so CB proposes an epxnasion digit, verifies it using PCNL validation, then converts it to CORL and then to OWL annd then has it encapsulated on web3 and retrievable globally forever?
+
+what is the EASIEST domain to use to verify this algorithm?
+
+CB is built on LLMs. CB is an array of LLMs being highly orchestrated with a lot of guardrails to make them output the format correctly
+expand_more
+volume_up
+
+the easiest domain would be an imaginary one or one we could imagine is complete or partially complete or prove its partial completeness a priori

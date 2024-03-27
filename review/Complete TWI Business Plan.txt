@@ -1,0 +1,65 @@
+Avatar: avatar properties from general to specific: 
+
+early adopter who wants to be more involved with AI 
+
+knowledge worker who wants to learn how to collaborate with AI 
+
+Small business owner or executive who wants to implement AI collaboration
+
+Dream Avatar: Multi Million profitable business owners with lots of cash on hand and want to learn the Sanctuary System, implement OMNISANC engineering in their life and workplace by themselves or with help from my team
+has SOPs and operations involving workers that can actually benefit from AI chains that are only instant experts or tools, ie low-grade executors (and not complex ones because the use cases are too complicated but that will change over time)
+
+
+
+Wesley - wants to learn inner and outer system for free because they are just starting out
+	DemonChampion: Ignorance. 
+		Inner: cannot conceive of the extent of compassion required for victory-promise. Does not understand what it means to apply compassion to their own ignorance (by seeing OEVESE vision). Does not understand how to keep OEVESE vision.
+			OEVESE vision causes flowchain
+		Outer: Cannot conceive of amount of effort required or what it looks like
+Jeremy - wants to learn/implement Prompts and Poimandres. Is already successful and wants a curated solution.
+	DemonChampion: Ignorance
+		Inner: Greed. Needs to learn.
+		Outer: Already has a career and wants to spend money not time 
+Jenny - wants to learn/implement AI via their own free time, but is also interested in Sanctuary
+	DemonChampion: Ignorance
+		Inner: Feels a connection to Sanctuary but doesnt understand the teachings yet
+Needs a funnel w opportunity to learn The Sanctuary System
+		Outer: needs to be convinced that Sanctuary is really worth it
+Needs Level10+ to help overcome demons of separateness and nihilism
+Princeps - wants to learn/implement OMNISANC via their own business
+	DemonChampion: Ignorance
+		Inner: Feels a connection to Sanctuary but doesnt understand the teachings yet
+Needs a funnel w opportunity to learn The Sanctuary System
+
+|
+IsaacWR(IS_A AnarchoCryptoWisdomistRevolutionary (IWR))=embodies=OVP/OVA - wants to ascend all beings to the Sanctuary System
+|
+Idolizes
+|
+OEVESE = the Buddha
+Avatars are the above because the PRODUCT is:
+
+AI persona styles:
+
+Instant Expert Agent (talks about X)
+Cannot fully generate X by themselves, but can simulate it to the extent the environment allows and help you learn the domain (investigate why a simulation isn’t what you want, from a conceptual point of view - what properties is it missing etc?) 
+Instancing Agent (generates a target)
+Supposed to output specific thing
+Usually has specific format or general structure
+Maybe even specific syntax
+Helper Agent (uses functions from external APIs)
+MegaAgent (uses IEs for priming, IAs for execution, Helpers for external interaction)
+
+
+AvatarFunnel  1: Early Adopters & Knowledge Workers
+Pain Points: Frustration with current AI tools, desire to gain mastery, curiosity about collaboration, a feeling of 'playing catch-up'.
+Messaging: Focus on empowerment, demystifying AI, emphasizing "learning the language of AI" for more control.
+Offer Path: Free content (blog posts, webinars) -> OVP 1 -> OVP 2 -> ChainConstructor, Premade Libraries -> Cohort
+AvatarFunnel 2: Small Business Owners/Executives
+Pain Points: Efficiency, cost-saving, competitive edge, overwhelmed by the AI landscape, fear of missing the right tools.
+Messaging: Emphasize practical use cases, speed of implementation, ROI. Highlight that they don't need to become experts themselves
+Offer Path: Case studies -> OVP 1 (for in-house staff) or paid collaboration -> Cohort (for strategic decision-making)
+DreamAvatarFunnel: Multi-Million Business Owners
+Pain Points: Not only about solving immediate problems, but leveraging AI for truly transformative results. Seeking innovation at scale, desire for deeper understanding of AI's potential.
+Messaging: Exclusivity, cutting-edge concepts, emphasis on systems-level thinking, alignment with the 'Sanctuary System'.
+Offer Path: Highly curated content (invite-only webinars, reports) -> Direct outreach (tailored to their business) -> Cohort or customized consulting.

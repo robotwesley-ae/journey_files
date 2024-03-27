@@ -1,0 +1,134 @@
+### Video Script for Demoing the Interface
+
+#### Top Navigation
+
+- Logout
+  - "To log out of your account, click on the 'logout' button located in the top navigation bar."
+
+- Settings
+  - "The 'settings' option in the top nav directs you to a page where you can update your API key."
+
+
+#### Bottom of the Page
+
+- New Window Button
+  - "Click the 'new window' button at the bottom to dynamically open a new, independent chat window right below the last one."
+
+- Saved Window Dropdown Menu
+  - "The ‘saved window' dropdown allows you to open a new chat window based on previously saved configurations. Selecting an option dynamically creates a chat window with those settings."
+
+#### Diving into the Chat Window
+
+- Header Features
+  - Chat Title
+    - "The chat title, found at the top of the chat window, is editable. Simply double-click to customize it."
+  - Chat History
+    - "Use the 'chat history' dropdown to navigate through your previous chat sessions."
+  - Memory Toggle
+    - "The 'memory toggle' switches the view between standard history and memory history transcript view."
+  - Memory History
+    - "Within the 'memory history' dropdown, select from all histories generated in the background within the scope of the chosen standard chat history."
+  - Download
+    - "Click 'download' to save the transcript of any currently viewed history."
+  - Save Window
+    - "The 'save window' button lets you save the current window's settings for future use. Saved properties include title, radio buttons, border color, and selected history."
+  - Close Button
+    - "The 'close button' appears on chat window number 2 and onwards for closing the window."
+
+- Main Chat Area
+  - New Chat
+    - "Start a fresh conversation with the 'new chat' button."
+  - Send Message
+    - "Type your message and hit 'send' or use ctrl/cmd + enter to dispatch your message to the selected assistant."
+  - Assistants Dropdown Menu
+    - "Select which agent/assistant to engage with from the 'assistants' dropdown menu."
+  - Add/Remove Button
+    - "Use the 'add' button to dynamically create a new radio button for the assistant. The 'remove' button lets you delete the selected radio button."
+  - Assistant Radio Buttons
+    - "Radio buttons allow quick switching between assistants, overriding the dropdown selection."
+
+
+
+#### Chat Settings Area
+
+- Inner Thoughts Toggle
+  - Activate this toggle to open the inner thoughts configuration area and enable a detailed brainstorming workflow.
+    - "Activating this toggle diverts all messages through a 5-step inner thoughts brainstorming process, temporarily locking the thread to further messages until completion."
+    - "As the process unfolds, transcripts of these inner thoughts are compiled and can be accessed in the 'Memory History' dropdown."
+
+- Screenplay Mode in Inner Thoughts Configuration
+  - This switch transitions the inner thoughts personas and templates to screenplay-specific settings.
+    - "Engaging screenplay mode adapts the brainstorming workflow to follow a structured, 5-part screenplay beat sheet generation workflow."
+
+- Hyperpersona + Superpersona Dropdowns
+  - Customize the default inner thoughts personas with any assistant for a tailored brainstorming session.
+    - "These dropdowns allow for the replacement of default personas with any assistan."
+
+#### Workflow Customization
+
+- Workflows Toggle and Dropdown
+  - Access the workflows configuration area and select from custom workflows to initiate.
+    - "Toggle here to configure custom workflows and expose the Workflow Dropdown menu. When a specific workflow is selected, the user can ask the default orchestrator agent to use their ‘run_workflow’ tool, to execute the specified workflow, incorporating a depth of context from the current chat, adjustable by the 'context_depth' number indicated in the chat request."
+    - "Asking the orchestrator agent to add a 'context_note' injects specific context directly into the workflow."
+
+- Add/Edit Workflow Button
+  - Open the workflow builder for creating or editing workflows.
+    - "Use 'add workflow' to craft new sequences. 'Edit workflow' lets you modify and update an existing workflow."
+
+- Color Picker Swatch
+  - Customize each chat window with a color of your choice.
+    - "Located at each chat window's bottom right, the color picker swatch allows for the customization of border color, adding a personal touch to the workspace."
+
+
+
+### Workflow Builder Modal Interface
+
+- Add Step Button
+  - "Click the 'add step' button to introduce a new step into your workflow."
+
+- Save Button
+  - "Press 'save' to store the custom workflow, making it accessible for use within chats."
+
+- Delete Button
+  - "The 'delete' button, visible in edit mode, permanently removes the current workflow you're editing."
+
+- Close Interface (X)
+  - "Click the 'X' to exit the interface without saving changes."
+
+- Loop and Max Iterations
+  - "Use 'loop' and 'max iterations' to set a sequence of steps to repeat, with 'max iterations' defining how many times the loop will execute. Loops can be exited early based on 'stop conditions.'"
+
+- Step Configuration
+  - Delete a Step (X Button)
+    - "Remove a specific step from your workflow with the 'X' button next to it."
+  - Type Dropdown
+    - "The 'type' dropdown allows selection between different step types: thought, action, or workflow."
+  - Select for Looping Checkbox
+    - "Mark steps with the 'select for looping' checkbox to include them in a loop. These can be organized into loop groups, editable via the interface."
+
+- Thought Type Steps
+  - Message Template
+    - "Define the template for each assistant's response in 'message template'. Use {current_message} to include the workflow's input context in a specific location within the first step (or it will be automatically added). If adding a thought step AFTER a workflow step, explicitly include {current_message} to reintegrate it into the surrounding workflow's context."
+  - Stop Conditions
+    - "Specify strings in 'stop conditions' to search for in step outputs, allowing early termination of the workflow or loop."
+
+- Workflow Type Steps
+  - Workflow Dropdown
+    - "Select a pre-saved custom workflow to embed within the current workflow, running on a separate thread with its context initiated with the main workflow’s context so far, at the start."
+  - Context Dropdown
+    - "Choose a memory history as context for the nested workflow, overriding default context piping behavior."
+  - Use Both Checkbox
+    - "Combine contexts from both the parent workflow and a selected memory history for the nested workflow's initial context."
+
+- Action Type Steps (Future functionality)
+  - "Future updates will introduce action steps, including selecting functions to run, setting custom variables, and choosing between synchronous or asynchronous execution."
+
+
+#### Highlighting Other Capabilities
+
+- Procreate Chat Tool
+  - "Invoke the 'procreate' chat tool to generate new assistant profiles for specified domains."
+
+- In-Chat Lacing
+  - "Switch between assistants within a single session, allowing them to contribute to a shared context."
+

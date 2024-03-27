@@ -1,0 +1,44 @@
+InternalArc - which point in the KM Weiland internal arc are they at? whats going on there?
+Indicates - what does this indicate to the audience?
+
+similarly, every single term i used has to be unpacked like that when you write out the instance-emergent web classification value. i am just giving u categories. u need to say what they are inside them and u need ot synthesize it correctly.
+ChatGPT
+I understand now, I apologize for the confusion and I appreciate your patience. Let's try again with the term "from".
+thats not what FROM means. and also u dont need to do this for that type of word. u need to do it for the story-theoretic-meaningful instances represented by fragments in the sente.ce 
+
+Original Sentence for Context:
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid."
+ChatGPT
+Apologies for the misunderstanding. Let's continue with the term "Toothless".
+ok? add all rows
+ChatGPT
+I apologize for the confusion earlier, and thank you for your patience. Here's the complete table based on our discussion:
+why arent u putting the HJ stage on "indicates" value?
+ChatGPT
+I apologize for the oversight. Thank you for pointing it out. Here's the correct version:
+continue
+ChatGPT
+Certainly, continuing:
+ok cig lets bring the expert panel back and try to figure out the best way to describe this easily to a LLM.
+ChatGPT
+Certainly. Dear expert panel, based on our previous discussions, we've been working to create a table that semantically ontologizes a movie summary, specifically a sentence from "How to Train Your Dragon." Here's the structure we've been working with and the current state of our work:
+The goal of this table is to enable us to generate a more precise and extensive emergent classification web for narrative fragments, by specifying the roles and meanings of different elements in the sentence at several levels of abstraction.
+We're now seeking your feedback on how to communicate this idea more effectively to a lay audience. In particular, we would appreciate any suggestions on how to describe the purpose and usage of the table, the meaning of its columns, and the process of filling it in.
+continue 
+
+ok now we need to start doing it like this:
+
+in each output, 
+3 experts will each propose a way to define this to an AILANGMDL
+then, expert 1 will try to knit the best parts from all 3 ideas and propose a synthesized idea
+exeprt 2 will refine that
+expert 3 will refine that
+the judge will then analyze why it should work or not
+
+if possible, repeat the process again on same output.
+ChatGPT
+Alright, let's proceed.
+Expert 1: The table functions as a multi-dimensional framework to semantically ontologize narrative fragments. Each cell identifies a specific aspect of a narrative element or concept and associates it with a category, based on which we can generate and classify emergent narrative structures.
+Expert 2: In essence, we are converting a narrative sentence into a semantic network, represented as a table. Each entry in the table maps a story element to multiple dimensions of its role and meaning within the story, as well as its effects on the audience and society.
+Expert 3: It's about taking a piece of narrative and dissecting it into its constituent parts, assigning each part to an ontology category that reflects its significance in the narrative, its associated arc, the story entity it represents, and the emotional and societal impact it has.
+Expert 1 (synthesis): This table serves as a tool to convert narrative sentences into multi-dimensional semantic networks. It allows us to dissect a narrative into its constituent parts, each of which is then mapped onto various dimensions, including its role in the narrative, its significance, its association with different arcs and entities, and its emotional and societal impact. This in turn enables the generation and classification of emergent narrative structures.

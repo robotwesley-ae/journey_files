@@ -1,0 +1,58 @@
+Loops: The ability for a chain to loop back on itself as part of being its own being, creating repetitive processes or feedback mechanisms and so all chain outputs input the result to their optimization chains (next tries, as a new template).
+Triggers: Events, conditions, or signals that initiate the chain's operation.
+Termination: Conditions or events that signify the end of the chain's operation.
+
+How do output chains connect to new chain triggers elsewhere? Chaining occurs whenever links synergize
+
+Link:[attr:[SyncTypes]]: synchronous (one must complete before the next starts) or asynchronous (triggers a sidechain, which can be considered its own chain or not depending on formal preference).
+
+Universal Lens: Each domain is composed of EntityDefinitionChains composed of PropertyClassChains and EntityInstancingChains composed of PropertyValuationChains
+
+Cohesion: the spectrum of possible measurements derived by the observer about whether or not the chain constructs an entity (which either collapses the entity into being or not); chains with weak cohesion can only be seen from certain positions and chains with strong cohesion are immediately apparent from more positions than only their own domain
+
+Resonance: the spectrum of possible synergy measurements
+
+Empowerment: Map to Graph Theoretic Chaining, Quantum Resonance, Amplituhedrons, Hopf Fibrations, Markov Shields, Tessellation Automata AND other concepts
+
+
+Create a visual language: Diagrams representing different chain structures would be very helpful.
+
+Here's how we can develop a visual language to represent the chain structures.
+
+Core Elements
+
+Elements (Nodes):
+
+Shapes: Use different shapes to easily distinguish element types. For instance:
+Rectangles: Base / Foundational chains
+Circles: Action chains
+Hexagons: Iteration chains
+Diamonds: Decision points/branching nodes
+Color: Utilize color to further categorize elements (e.g., different base chains could have different colors).
+Links (Arrows):
+
+Line Style:
+Solid Lines: Strong Links
+Dashed Lines: Weak Links
+Arrowheads:
+Single Arrow: Unidirectional
+Double Arrowhead: Bidirectional
+Thickness: May represent link strength or importance.
+
+thats interesting but we can also create ABSTRACT SYNTAX NOTATION TYPES for this and thats a prereq step for what you just did, if we are really formalizing, right? so we need to make
+
+UniversalChainingOntology (UCO) which is what we are working on already with the formally written language i showed u already
+
+UniversalChainingNotationTypeGenerator (UCN) which follows the rules of UCO programmatically using LLMs (this is not actually difficult to make at all it's just as easy as you creating the syntaxes above but from a programmatic user message instead of one from me), so we just have to DECIDE first on a GENERAL CHAIN NOTATION which is the ABC for UCN and then let users create their own custom notations, and they'll all be formalized already bc theyre made inside of UCN upper ontology via the ABC
+
+and 
+
+UniversalChainingNotationEncodingSyntax (UCNES) which is the rules for how to compress the notation into taxonomical ids so that it can be referenced in a UniversalChainLibrary
+
+and
+
+UniversalChainingNotationEncodingOmniSyntaxCompiler (UCNEOSC)
+
+
+**Remember, everything must be representable by an LLM in a line of text/symbols/numbers that flows, so that it acts as a SparsePrimingRepresentation system for LLMs, giving them pre-cognition of the chains in the forms of concepts they need or templates they need to solve a problem**
+

@@ -1,0 +1,73 @@
+Maybe each ledger update -> export as excel and send to 2nds, they mark whatever is not an asset, used, destroyed, etc, and also take photos of each thing and send back to me
+I reconcile transactions and upload photos
+
+Introductory email
+Intro email should clearly state that asset hub is required for all
+Intro email should give clear instructions to CC the asset manager on all sales conversations with vendors
+Canned “INTRO EMAIL”
+Overall flowchart of the entire process of asset management from the crew perspective to send them with reminder email
+Inviting to Asset Hub
+Always invite the HODS and 2nds to AH and assign them this way
+Example
+BI-WEEKLY Ongoing update emails coinciding with ledger updates
+Canned “LEDGER UPDATE EMAIL”
+Track down every high ticket asset as it comes in on AH and add photos 
+Send individual reminders/talk to people until they put the photos up for each high ticket item
+Canned “INDIVIDUAL REMINDER EMAIL”
+This is how many transactions you have pending
+This is how many reconciled transactions you have that need photos
+Automated email filler
+Create integration that pulls from Google Sheets and populates the Canned “INDIVIDUAL REMINDER EMAIL” accordingly
+See if there is an Asset Hub API that can be integrated to auto-populate the spreadsheet and dynamically update it
+Reminder email process
+Create spreadsheet titled “PROGRESS_REPORT”
+Make rows for pending transactions, photos, and final dispositions
+Make columns for each prep, production, and wrap week
+	EITHER
+Check transactions pending for each department
+Mark in spreadsheet
+Check assets for photos
+High ticket items need photos
+Mark in spreadsheet
+OR
+Use third party integration tools to automate according to 3aii
+Halfway reminder
+Canned “HALFWAY REMINDER EMAIL”
+Two-four week notice
+Canned “ASSET WRAP NOTICE EMAIL”
+Mtg w each department
+Sales convo finalizes plans
+Asset unload logistics finalized w Prod Coord
+Flow chart
+Wrap -> unload logistics to departments
+Meet the departments at the unload spot to inventory assets 
+Make sure nothing leaves on the truck
+Mark the department as returned and bulk update the dispositions of their assets accordingly
+Sales
+Individual vendor sale conversations come to fruition as sales or no-goes
+Sell to crew
+Individual requests
+Fire sale
+Sell to vendor
+Individual outreach
+Vendors fire sale
+Liquidate
+Individual outreach
+Donate 
+Look for Benevity approved organizations
+
+
+
+
+
+
+Overall notes:
+
+1) Assets + Costumes needs their own process whereby costumes photographs everything that comes in and sends the photos to BOX. 
+	Assets can get from BOX and put on AH with info
+2) Assets + Set Dec needs their own process whereby Set Dec uploads continuity to BOX and 
+Assets can see any items seen on camera that need to be asseted because theyre difficult to replace
+
+Automation notes:
+1) Canned emails
+2) Chatbot that explains everybody’s role and how to do all of their job lol

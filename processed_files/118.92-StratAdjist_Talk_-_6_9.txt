@@ -1,0 +1,20 @@
+Certainly, let's represent this process in natural language:
+Construct an Informadlib: An Informadlib is created which holds properties or features. Each property in an Informadlib is tied to a specific class or subclass within the Emergent Web Structure Ontology (EWSO), and has a particular value. This value is extracted from the current state of the entity that the Informadlib represents.
+Normalize the Properties: Each property value of the Informadlib is normalized, i.e., it's adjusted based on some maximum value for that property. The purpose of this step is to ensure that property values from different classes can be compared directly.
+Create an Informadlib Template: This acts as a blueprint for creating Informadlibs. It's a collection of classes that describes what kind of properties an Informadlib can have and how they relate to each other. This template determines the dimensions of the coordinate system.
+Assign Coordinates to the Informadlib: For each class or subclass in the Informadlib Template, we extract the corresponding normalized property value from the Informadlib. These values are then mapped to the corresponding axes in the coordinate system. Each coordinate corresponds to a specific class in the Informadlib Template, and the value at that coordinate represents the state of that class within the Informadlib.
+Store the Informadlib in the EWSO: After assigning the coordinates, the Informadlib is stored in a holoinfo archive within the EWSO. The coordinates of the Informadlib serve as the key for accessing the Informadlib in the holoinfo archive.
+Through this process, each Informadlib gets a unique position in a multidimensional space defined by the Informadlib Template. This position is a vector of coordinates, each of which corresponds to the normalized value of a property of the Informadlib. This representation allows us to understand the Informadlib's state within the EWSO and to compare it with other Informadlibs.
+
+
+do not simplify. all instructions must be written. all subtasks must be explicit. 
+
+""[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+
+[SemOntoRel] (Semantic Ontological Relationship): SemOntoRel is a structured, formalized representation of the semantic and ontological relationships within the EWSO. It encapsulates the dynamic progression of instance-level entities through various hierarchical layers of classes to high-level superclasses within a given

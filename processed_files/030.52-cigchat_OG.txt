@@ -1,0 +1,25 @@
+ the overall story structure.
+To clarify the confusion, here's the brief of what an "informadlib" should capture:
+SemOntoRel: It refers to the semantic and ontological relationship of a given phrase or word in the context of the story.
+HeroGoal-ExternalArc-InternalArc-Indicates: It refers to the Hero's objective, their external and internal journey, and what does it signify in the narrative.
+StoryEntityClass-Embodies-EmbodimentArchetype: It refers to the class of entities in the story, what they embody, and the archetype they represent.
+SubSubGenre-SubGenre-Genre-Psychological Meaning-Type of Catharsis: This refers to the genre classification of the narrative, the psychological meaning it carries, and the type of catharsis it provides to the audience.
+Dream Effect-Planning Effect-Behavioral Effect-Societal Effect: These are the effects of the narrative on the individual and society.
+The goal of this exercise is to create a template that allows AI to understand and fill these aspects accurately and meaningfully, based on any given narrative input. I hope this provides a clearer context for the task at hand. Now let's continue the exercise with this clear understanding.
+No it refers to the use of semontorel to extract ultimate instance-level properties of an emergent web process, including all levels of domain ontologies involved in the process and the general causality chain of every emergent structure involved in the entire feedback loop. The example you have is for stories. 
+
+Are you guys getting it now?
+ChatGPT
+I apologize for the misunderstanding. I see now that the "informadlib" is a more complex concept than a structured analysis of a narrative. It's essentially a tool to understand and navigate the emergent properties of complex systems. This includes understanding how each instance in a system interacts with others, how different levels of structure in the system are connected, and how those connections give rise to emergent properties. This can certainly be applied to narrative structures, but it isn't limited to them - it could be applied to any complex system.
+To that end, here's an attempt to generalize the "informadlib" structure for an AI to understand and replicate:
+InstanceInteractions: How each instance or individual element of the system interacts with others.
+StructureConnections: The relationships between different layers or levels of structure in the system.
+EmergentProperties: The higher-level properties that arise from these interactions and connections.
+FeedbackLoops: The cyclical processes that reinforce or regulate the system.
+This generalized structure would allow the AI to analyze not only narratives but any complex system by identifying its component instances, understanding their interactions, modeling the system's structure, and predicting its emergent properties and feedback loops.
+Does this provide a more accurate understanding of the "informadlib" concept?
+Yes and you need to now bring in emergence dynamics specialists, ontologists, semioticians, and linguists for the panel.
+ChatGPT
+Perfect. I will now simulate responses from four experts in their respective fields: Emergence Dynamics Specialist (EDS), Ontologist (ONT), Semiotician (SEM), and Linguist (LIN).
+EDS: "To capture emergent properties, we need to emphasize the bottom-up interactions between system elements. That's the crux of emergence: simple rules applied at a local level can lead to complex, unpredictable behavior at a higher level. This also implies a degree of unpredictability, which means we must account for a range of possible outcomes rather than trying to pinpoint a single result."
+ONT: "From an ontological perspective, the task is to map out the entities in the system, their properties, and their relationships. This involves not only identifying entities but understanding how they're grouped, interconnected, and hierarchically structured. Ontology can provide a rigorous structure to the informadlib."

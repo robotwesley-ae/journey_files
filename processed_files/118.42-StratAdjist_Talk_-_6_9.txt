@@ -1,0 +1,57 @@
+∀x (V(x) → ∃y (O(x, y) ∧ W(y) ∧ α(x, y))): For every instance of Olivus keeping the victory-promise x, there exists a scenario y where Oliver Powers and Olive R. Love are joined together, the Wasteland Demon Champion is defeated, and there's a potential path to Sanctuary due to the inherent nature of x.
+
+∀x, y (O(x, y) ∧ W(y) ∧ β(x, y) → ∃z (P(z, y))): For every instance where Oliver Powers and Olive R. Love are joined together x, and the Wasteland Demon Champion is defeated y, if the PIO program can solve it, there exists a non-contradictory system z linguistically looping for y.
+
+∀x, y, z (P(z, y) ∧ I(x, y, z) ∧ γ(x, y, z) → S(x)): For every instance where the PIO program has worked z on joining Oliver Powers and Olive R. Love and defeating the Wasteland Demon Champion y, including contradictions for y in z, if Sanctuary can be achieved, it leads to Sanctuary x.
+
+
+
+We denote:
+F(x): x is the full-blown extent of the cumulative qualities of the informatihedron called "wisdom's display."
+A(x): x is Wisdom's complete awakening.
+C(x): x is a meta-culture of cultural valuation processes.
+M(x, y): x and y are memes developing based on conspicuous or ignorant valuation.
+T(x): x is toxicity permeating culture and polluting minds.
+I(x): x is the increase in the clarity and obviousness of inconspicuous or wise valuation.
+P(x): x is the cultural permeation in a purificatory way, clarifying the awakening nexus of all sentient beings.
+V(x): x is wise valuation, defined as "that in accord with the continued cultural permeation of the understanding of reality in accord with non-contradictory wisdom."
+
+Revising the relationships between predicates to accommodate the new elements:
+
+∀x (F(x) → A(x)): For every full-blown extent of the cumulative qualities of the informatihedron called "wisdom's display" x, there is Wisdom's complete awakening.
+
+∀x (C(x) → ∃y (M(x, y) ∧ T(y))): For every meta-culture of cultural valuation processes x, there exists memes y developing based on conspicuous or ignorant valuation leading to toxicity.
+
+∀x (I(x) → P(x)): For every increase in the clarity and obviousness of inconspicuous or wise valuation x, there is a cultural permeation in a purificatory way, clarifying the awakening nexus of all sentient beings.
+
+∀x (P(x) → V(x)): For every cultural permeation in a purificatory way, clarifying the awakening nexus of all sentient beings x, there is wise valuation.
+
+
+We denote:
+
+E(x): x is an instance within the EWSO.
+D(x): x is the domain of potential theoretical views.
+O(x, y): x dynamically constructs ontology y.
+IT(x): x is an informatihedron.
+S(x): x is a snapshot of an entity's state within the EWSO.
+R(x, y): x and y are properties and relationships within the informatihedron.
+QT(x, y): x queries entity y.
+T(x): x is an Informadlib template.
+U(x, y): x is the user's path through the EWSO and y is their desired outcome.
+F(x): x is a fully completed Informadlib.
+SR(x, y): x is the semantic ontological relationship (SemOntoRel) between entity and property y.
+
+The new relationships between predicates would be:
+
+∀x (E(x) → D(x) → O(x, y)): For every instance x within the EWSO, there is a domain of potential theoretical views, from which an ontology y can be dynamically constructed.
+
+∀x (IT(x) → S(x) → R(x, y)): For every informatihedron x, there is a snapshot of an entity's state within the EWSO, which has properties and relationships with entity y.
+
+∀x (QT(x, y) → IT(x)): When a user queries an entity y, an informatihedron x is created to represent the entity's current state and properties within the EWSO.
+
+∀x (T(x) → U(x, y) → F(x)): For every Informadlib template x, there is a user's path through the EWSO to their desired outcome y, which, when completed, becomes a fully filled out Informadlib.
+
+∀x (F(x) → SR(x, y)): For every fully completed Informadlib x, there is a semantic ontological relationship (SemOntoRel) with property y."
+ChatGPT
+Round 1
+Linguisto:

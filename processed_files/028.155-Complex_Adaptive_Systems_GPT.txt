@@ -1,0 +1,30 @@
+all of the space should be encrypted the same way, but the tokens will get so large that the patterns will eventually be unidentifiable if you go too far away from the initial load-in point. 
+I apologize for the misunderstanding. Here is an updated explanation based on your latest description:
+Start with a single knowledge graph containing the ontology of the polysemic linguistic program, the cryptographic classifier, and visualizer stack.
+Create a graphical user interface (GUI) for interaction with the knowledge graph.
+When a query is submitted through the GUI:
+a. Search a second knowledge graph containing established knowledge related to the entities in the query.
+b. Map the full context of each entity as an ontological word embedding based on the actual meanings of the words and their possible purposes.
+c. Represent the relationships between the words and their subdomains using letters and punctuation as needed, up to a user-defined processing limit.
+Embed the search context and open each subdomain of the search entities as its own domain. Encrypt each domain according to its schema, then apply the encryption symbol key to recognize hidden patterns in the graph space.
+Populate regions representing the boundaries of encryption tokens.
+In the GUI, provide a lockable/unlockable visualization mode:
+a. In lock mode, display a toroidal visualization of all properties of an entity or a class of entities, with 2D inner surface heat maps representing the amplitudes of properties. Allow users to interact with heat maps and move around the space without affecting the knowledge graph.
+b. In unlock mode, unfreeze the knowledge graph location and let users move within the overall space, viewing classes of entities and how they relate to each other.
+Encrypt the entire space consistently, but keep in mind that encryption tokens will grow in size, making patterns unidentifiable if the user moves too far away from the initial load-in point.
+This revised explanation should provide a more accurate representation of the system you envision, incorporating knowledge graphs, GUI, encryption and decryption processes, and a lockable/unlockable visualization mode for user interaction.
+
+
+This isnt using language that makes it obvious how you are thinking all of this would connect. I asked you to respond at a professional level. You need to connect these things in actuality.
+I apologize for the confusion. It seems I misunderstood your intention in the previous response. Here's a more professional and cohesive attempt to describe the system:
+Knowledge Graphs: Build two knowledge graphs.
+a. The first graph contains the ontology of the polysemic linguistic program, cryptographic classifier, and visualizer stack.
+b. The second graph holds established knowledge related to the entities in the query.
+Graphical User Interface (GUI): Develop a GUI for interaction with the knowledge graphs, allowing users to submit queries and visualize results.
+Query Processing: When a query is submitted through the GUI:
+a. Perform a search on the second knowledge graph to retrieve relevant established knowledge.
+b. Construct an ontological word embedding of the query based on the actual meanings of the words and their possible purposes.
+c. Use an encryption algorithm to represent the relationships between the words and their subdomains using symbols (letters and punctuation), while maintaining a user-defined processing limit.
+Domain-Specific Encryption: Embed the search context, open each subdomain of the search entities as its own domain, and encrypt each domain according to its schema. Apply the encryption symbol key to recognize hidden patterns in the graph space.
+Boundary Populating: Populate regions representing the boundaries of encryption tokens. This step involves calculating the positions and relationships of the tokens within the graph space.
+Visualization Modes: Create two lockable/unlockable visualization modes within the GUI:

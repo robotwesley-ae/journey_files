@@ -1,0 +1,33 @@
+Cloud computing resources for running the trading bot: $50 to $500 per month, depending on the scale and complexity of the trading bot.
+Model training and fine-tuning (if using GPT-4 for assisting in trading bot development or other tasks): $500 to $5,000 for training and fine-tuning.
+With these estimates, the additional non-human costs for developing and integrating a trading bot into the trading strategy project could range from approximately $1,500 to $11,000 per year, depending on the choice of tools and platforms and the extent of GPT-4 usage.
+
+Taking into account all non-human costs (trading strategy development, ontology alignment, and trading bot integration), the total budget for the project could range from approximately $4,500 to $33,000 per year.
+
+Please note that these estimates are still rough and could vary depending on the specific requirements, the choice of tools and platforms, and the extent of GPT-4 usage. Additionally, human intervention might still be necessary to verify, validate, and fine-tune the various project components, which could potentially add human costs back into the budget.
+
+
+
+
+Isaac Wostrel-Rubin
+That’s true. Let’s consider this: 
+
+What % of predictions need to be right in order to make money using a trading bot? 
+
+There isn't a fixed percentage of correct predictions that guarantees profitability when using a trading bot, as it depends on various factors, such as the trading strategy employed, risk management, market conditions, and transaction costs (including trading fees and slippage). However, a few points to consider are:
+
+Risk-reward ratio: The risk-reward ratio measures the potential profit for each trade relative to its potential loss. A higher risk-reward ratio implies that you can make more profit with fewer winning trades. For example, if your average winning trade has a 2:1 risk-reward ratio, then you only need to be right about 33.3% of the time to break even.
+Position sizing and money management: Proper position sizing and money management are crucial to the overall success of a trading strategy. Ensuring that you are not risking too much of your capital on a single trade can help maintain profitability even if your win rate is relatively low.
+Trading costs: Transaction costs, such as trading fees and slippage, can significantly impact your profitability. A high win rate alone does not guarantee profitability if trading costs are substantial. Therefore, it is essential to factor in these costs when assessing the performance of a trading strategy.
+In summary, the percentage of correct predictions required for a trading bot to be profitable depends on the interplay of various factors. A trading strategy with a high win rate but low risk-reward ratio and high trading costs might still be unprofitable, while a strategy with a lower win rate but favorable risk-reward ratio and lower costs could be profitable. It is essential to consider all these factors when evaluating a trading strategy.
+
+
+
+
+Isaac Wostrel-Rubin
+The strategy is to only trade from one bullish asset to another with higher upward velocity, and to end the trade streak if market sentiment is making stochasticity too high 
+
+The trading strategy you've described involves switching from one bullish asset to another with higher upward velocity, and to stop trading when market sentiment increases stochasticity. Here are some key considerations for implementing this strategy:
+
+Identifying bullish assets: You'll need a method to identify assets that are in a bullish trend. This can be achieved using technical indicators such as moving averages, trendlines, or other trend-following indicators.
+Measuring upward velocity: To compare assets and determine which has a higher upward velocity, you can use indicators like the rate of change (ROC), relative strength index (RSI), or simply compare the percentage price change over a specific time frame.

@@ -1,0 +1,43 @@
+You can use GPT-4 to help you identify axiomatic statements and non-axiomatic claims in the document. You'll need to use the OpenAI API to communicate with GPT-4 and process the text. Once you have identified the statements and claims, add them to the spreadsheet using the same API as before.
+Convert the scraped data into a wiki format:
+For this step, you can use a Python script or a service like Notion API to create pages programmatically. Loop through the entities, properties, and relationships you've extracted and create pages for each entity. You can use the extracted data to generate the content for each page in markdown format, following the structure you've described.
+Set up the automation with Zapier:
+Once you have the Python script or service set up, you can use Zapier to automate the process. For example, you can create a Zap that triggers when a new document is added to a specific folder in Google Drive or Dropbox. The action for the Zap will be to run the Python script or interact with the service you've set up in the previous steps.
+To summarize, while GPT-4 cannot directly create automations with Zapier, you can use GPT-4 in conjunction with other tools, services, and scripts to build the automation you're looking for.
+
+
+Walk me through this step by step
+I'll provide a high-level step-by-step guide on how to achieve your desired automation. Note that this is an overview, and you may need to consult documentation or tutorials for specific tools and APIs as you go along.
+Step 1: Extract entities, axiomatic statements, and non-axiomatic claims from the document
+1.1. Use a Python library like spaCy or nltk to extract entities:
+Install the library: pip install spacy
+Download a language model: python -m spacy download en_core_web_sm
+Write a Python script to read the document, load the model, and extract entities.
+1.2. Use GPT-4 to identify axiomatic statements and non-axiomatic claims:
+Obtain access to the OpenAI API.
+Write a Python script to send the document's text to the GPT-4 API and process the results to identify axiomatic statements and non-axiomatic claims.
+Step 2: Add extracted data to a spreadsheet
+2.1. Use the Google Sheets API to add entities, axiomatic statements, and non-axiomatic claims to a spreadsheet:
+Set up a Google Cloud Platform project and enable the Google Sheets API.
+Install the google-auth and google-api-python-client libraries: pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+Write a Python script to authenticate and interact with the Google Sheets API to create and fill the spreadsheet with the extracted data.
+Step 3: Create a wiki from the extracted data
+3.1. Use a service like Notion API to create pages programmatically:
+Sign up for a Notion account and obtain your API key.
+Install the notion-client library: pip install notion-client
+Write a Python script to interact with the Notion API and create pages for each entity, filling them with the extracted data in markdown format, following the desired structure.
+Step 4: Automate the process with Zapier
+4.1. Create a new Zap in Zapier:
+Set the trigger to be when a new document is added to a specific folder in Google Drive or Dropbox.
+Use the "Code by Zapier" action to run the Python script from Step 1, 2, and 3 or set up a webhook to trigger the script on your server.
+Configure the trigger and action according to your needs.
+This high-level guide should help you get started with your automation. However, you'll need to dive deeper into the specific tools and APIs, consult their documentation, and potentially seek out additional tutorials as you progress.
+
+
+are you sure that's all the general steps at that granularity?
+Apologies for any confusion. Upon reevaluating the steps, I realize that I could provide more granularity for some parts of the process. Here's a revised step-by-step guide:
+Step 1: Extract entities, axiomatic statements, and non-axiomatic claims from the document
+1.1. Extract entities using spaCy
+Install the library: pip install spacy
+Download a language model: python -m spacy download en_core_web_sm
+Write a Python script to read the document, load the model, and extract entities.

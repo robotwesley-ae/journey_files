@@ -1,0 +1,64 @@
+Custom GPTs
+Are no-code, immediate, manual MVPs
+first make the GPT MVPs - Wednesday
+SDNA Progenitor
+References SDNA Profile from its own prompt
+Either has fixed Numbering or has CRSTLBLL MPPNG instead - can use CBRN numbering from BizziBee Vajra version?
+References Components via Files it retrieves
+SancRev Component
+OmniSANC component
+Vajra Component (needs to be added | BB vajra CB version???)
+Goes thru CRSTLBLL MPPNG at the end (maybe)
+BizziBee - Wednesday
+References BizziBee Meta-BBH from its own prompt
+Provides downloadable BBH of X files that you can save yourself
+BizziBee BBHs for X (BBH maps like :1.a=X, 1.b=Y, 1.c=P, 1.d=...)
+Can retrieve BBH of X files
+BizziBee BBHs for X (BBH maps like :1.a=X, 1.b=Y, 1.c=P, 1.d=...)
+Cross-Pollinatrix - Thursday
+References EXPERT BEE PROFILE from its own prompt
+References workflow from its own prompt
+Uses Xpoll or Meta-BBH workflow
+Mode = ExpertPanel = Can go thru Xpoll -> Rounds + TaskList
+Mode = BizziBeehive = Can go thru BBH gears per round of output
+Makes BizziBee Expert conversations
+Retrieves up to 1000(?) characters of Bee specs from files
+BizziBee BBHs for X (BBH maps like :1.a=X, 1.b=Y, 1.c=P, 1.d=...)
+Then make videos - Thursday/Friday
+This is what the GPT I built does and this is how i built it and this is it doing the thing and this is how you get it
+Update the Websites - Thursday/Friday
+Revise YC App - Friday
+
+
+
+
+Then make OPera custom GPTs
+New final OPera persona prompt
+Workflow sections broken into 500 character files 
+Output flow = Receive Task ⇔ Component: Retrieval Skillchain ->  1. Retrieve -> 2. Chaining for task -> 3. Delivering for task ⇔ SDNACs -> 4. Complete ⇔ FeedbackLoop
+OPera Constructs OPera that Writes its Whitepaper 
+Release on GitHub
+Send to Joshua Cohen
+Host on website
+Convert OPera MVP to Assistant API version
+Does it Align w Liam Ottley stuff? Why or why not
+Does it Align w PolySANC? Why or why not
+Build 2-MVP if aligns w either system
+Create SANC Knowledge Base/Sanctum Librarya (TWI HoloInfoArchive)
+Folder of all files
+Table of Contents (Align w CBRN)
+basic integration = retrieval in 2000 token chunks via Train of Thought prayer
+Create SANC Knowledge Base Neo4j DB
+Organize files by CBRN
+File names by CBRN
+File contents by CBRN as well
+Total integration = retrieval by exact necessity and can create its own entries in a manual system
+Text -> 1-Neo4j nodes, ticketing system
+Ticketing system -> Hyperkanban
+Hyperkanban -> done, 2-neo4j nodes
+2-neo4j nodes -> retrieval -> 2-neo4j nodes -> output -> 1-Neo4j nodes, 2-Ticketing System
+2-Ticketing system -> Hyperkanban
+Hyperkanban -> done, 2/3-Neo4j nodes
+3-Neo4j nodes -> retrieval -> 2/3-neo4j nodes -> output -> 2/3-neo4j nodes, 3-ticketing system
+3-ticketing system -> hyperkanban
+Hyperkanban -> done, 3-neo4j nodes

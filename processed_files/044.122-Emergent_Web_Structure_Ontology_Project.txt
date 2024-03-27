@@ -1,0 +1,21 @@
+ InstanceLevel (This person) Instance Property (Has_property.array) Property Value (Array values) 
+-> ClassLevel (all people) InstanceProperty (with such property array values)  PropertySpectrumConceptualBoundary"
+ChatGPT
+Round 1
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+The user input, essentially a query for instance X, should be framed in a way that GPT can interpret within the OWL context. GPT must then generate a stepwise navigation prompt, allowing the user to move from node to node within the knowledge graph. In terms of the OWL framework, we need GPT to identify instance-level properties, domain-level class property templates, and class-level class property templates, and to construct a semantic path from these properties. The user can then follow this path to fill out the Informadlib Template.
+Expert 2 - Prof. Ethan Kruskal (Combinatorics):
+Once we've figured out the required OWL terminology, we can devise a way to combine these terms to form a navigation path for the user. This path will determine the sequence of nodes that the user will traverse to fill the Informadlib Template. In doing so, we need to carefully consider the hierarchical and network structures inherent in our ontology to ensure we capture all relevant semantic relationships.
+Expert 3 - Dr. Ada Lovelace (Computer Science):
+For the Informadlib Template, we'll need GPT to present a specific instance's information in a structured manner. This includes defining an instance's properties, values, and their associated class-level context. To achieve this, we need to create an algorithm to correctly instruct GPT, which should involve transforming user queries into the correct OWL syntax, guiding the user through the knowledge graph, and translating the collected data into the Informadlib Template.
+Expert 4 - Dr. Hans Euler (AI and Ontology):
+Bringing the experts' views together, we need to devise a mechanism that allows GPT to interpret a user query within an OWL context. GPT will then generate an ordered list of nodes, providing a semantic navigation path for the user. It's critical that GPT identifies and uses instance-level properties, domain-level class property templates, and class-level class property templates for this process. To do this, an algorithm will need to be designed that accurately instructs GPT, transforming user queries into OWL syntax, guiding the user along the knowledge graph, and finally, translating the collected data into the Informadlib Template.
+Round 2
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+We'll need to devise a comprehensive OWL primer and a GPT prompt design. The primer should define the custom terms we're using, along with their functional relationships. With this primer, the GPT prompt will enable the generation of an OWL frame of the Informatihedron for any entity, guiding the user along a path that fills in the Informadlib Template.
+Expert 2 - Prof. Ethan Kruskal (Combinatorics):
+An ideal scenario would be if GPT could infer the best path on its own. Given a specific instance X, the system should calculate and present the shortest or most meaningful semantic path through the network to complete the Informadlib Template. The tricky part is deciding which path is 'best' – we may need to devise some heuristic measure to determine this.
+Expert 3 - Dr. Ada Lovelace (Computer Science):
+I agree with Prof. Kruskal. If GPT can be trained to understand the semantic importance of different paths, it could provide the user with the most efficient or most meaningful path through the network. We can make this process more interactive by letting GPT explain why it's choosing certain paths, which can provide insights into the semantic relationships in the knowledge graph.
+Expert 4 - Dr. Hans Euler (AI and Ontology):
+Bringing together the suggestions of the other experts, we need to devise a combined OWL primer and GPT prompt design. The primer should include our custom terms and

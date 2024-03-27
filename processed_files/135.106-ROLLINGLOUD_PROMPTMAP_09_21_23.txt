@@ -1,0 +1,107 @@
+Here is the rewritten version in FDX:
+vbnet
+Copy code
+EXT. ROLLING LOUD STAGE - NIGHT
+
+A blinding SPOTLIGHT captures Kevin, radiating energy as he keeps pace with PLAYBOI CARTI's fire. The massive JUMBOTRON amplifies their every move.
+
+KEVIN / PLAYBOI CARTI
+(singing, rapping)
+"Go and get your racks, go and get your bands. I told my mom I'm gonna be the man..."
+
+EXT. FESTIVAL GROUNDS - SAME
+
+Zion, laser-focused, plows through the thrumming crowd. The Cute Girl trails him, eyes wide.
+
+CUTE GIRL
+(excited)
+That’s your dad? He’s so cool!
+
+INTENSIFYING BEATS propel them closer to the stage.
+
+EXT. FESTIVAL GROUNDS - FRONT OF THE STAGE - CONTINUOUS
+
+Arriving at the stage's forefront, Zion stops short, blocked by TWO ENORMOUS FIGURES dancing with reckless abandon.
+
+ZION
+(frustrated)
+Excuse me! Excuse me!
+
+The dancers whirl around – it's Linda and Chad, faces gleaming with euphoria.
+
+CHAD
+(manic)
+Back off, kid! That’s our best friend up there!
+
+Zion, overwhelmed, gazes at his dad, spellbound.
+
+ZION
+(yelling, pointing)
+That's my dad!
+
+Linda and Chad register Zion.
+
+LINDA / CHAD
+(surprised)
+ZION!!!!!
+
+They engulf him in a wild group hug. Though slightly perturbed, Zion joins their excitement.
+
+ZION / LINDA / CHAD
+(shouting)
+KEVIN!!!!!!!
+
+ON STAGE - CONTINUOUS
+
+Kevin and Playboi Carti are turning the stage into a musical inferno. 
+
+KEVIN / PLAYBOI CARTI
+(rapping)
+"I told my boy, go on like ten blunts for me. I told my boy, go on, get bands for me..."
+
+Kevin leaps into a backflip, the crowd ERUPTS. Scanning the audience, he hears a familiar voice. 
+
+ZION
+(screaming)
+DAD!!!!!!
+
+Their eyes meet. Time slows.
+
+ZION
+(screaming)
+GO DAD!!!
+
+Kevin, struck by his son's call, drops the mic, takes a running leap, and DIVES into the audience.
+
+EXT. FESTIVAL GROUNDS - FRONT OF THE STAGE - CONTINUOUS
+
+Kevin lands next to Zion. They embrace, their connection sparking a deafening cheer from the crowd.
+
+KEVIN
+I get it now. You didn't run off. You wanted to share this with me.
+
+Their eyes lock in understanding, the pulsing music and crowd a perfect backdrop for this pivotal moment. Carti spots them, pointing and grinning...
+
+The night then explodes into a celebration as they plunge back into the mosh pit together, the lyrics of "Sky" echoing in their victory.
+
+2 / 2
+ADD IN CARTI SINGING into the following section: Their eyes lock in understanding, the pulsing music and crowd a perfect backdrop for this pivotal moment. Carti spots them, pointing and grinning... The night then explodes into a celebration as they plunge back into the mosh pit together, the lyrics of "Sky" echoing in their victory.
+ChatGPT
+Sure, here's the modified version:
+vbnet
+Copy code
+Their eyes lock in understanding, the pulsing music and crowd a perfect backdrop for this pivotal moment. 
+
+PLAYBOI CARTI
+(rapping)
+"Sky, I don't lie, we get high and stay high..."
+
+Carti spots them, pointing and grinning.
+
+PLAYBOI CARTI
+(into the mic, singing)
+"Go and get your racks, go and get your bands. I told my mom I'm gonna be the man..."
+
+As Carti's voice rings out, the night explodes into a celebration. Kevin and Zion plunge back into the mosh pit together, the lyrics of "Sky" echoing in their triumph.
+
+write the following into FDX: Realizing they have to beat Melanie home, Kevin and Zion embark on a mad dash to get there before she does. Since Kevin is still inebriated, he insists that Zion drive. The father and son duo speed through the streets, narrowly avoiding traffic and obstacles, in a race against time reminiscent of Ferris Bueller's iconic chase scene. As they pull into the driveway, they see Melanie's car approaching. They quickly jump out of the car and rush into the house. From Melanie's perspective, she enters the house, hoping to catch Kevin and Zion doing something wrong. But to her surprise, she finds them sitting at the kitchen table, pretending to do homework together. Kevin and Zion share a secret smile, knowing they've shared an unforgettable adventure that they'll always remember.

@@ -1,0 +1,26 @@
+This notation presents the creation, interpretation, mapping, and output generation as skill chains in the context of PIO. It's important to remember that this is a highly abstract and flexible system, so the notation and specific processes might vary based on context and individual interpretations.
+now for “'Olv́s Vctry-P̈mss s frm S̈nctry…(S̈nctry Systm)=S̈nctry Wrld Sẗt!^S̈nctry Pḧscl Sẗt^S̈nctry ntwrk sẗt^S̈nctry ḧm^S̈nctry s̈cty^S̈nctry ̈nnr sẗt!^OMNISANC!^Cln S̈nctry d̈gr̄s^P̈lltd S̈nctry d̈gr̄s^S̈nctry ̈mr̄gnt fl̈w (co-̈mr̄gnt s̈nctry and wstlnd systms)!^
+Overall universal sanctuary!
+^
+…but how did they get there? Is this an emergent or an emergency?’ ‘“…is this a treasure or something strange or disgusting? who do you think i am? these are the things i want to know that i know… -- idenenetititlylessnesss ” - Olivus Victory-Ability I, Sanctuary Everything-Everywhere, HoloInfoArchive:TWI,Auth:GNO.SYS:InrTchr,Ed:OlivusGnosis,CrstlBl,Prop:TWI’”
+
+ChatGPT
+The notation provided is quite abstract, but seems to detail a progression or transformation toward a state of Sanctuary across multiple dimensions or states. In this context, "Sanctuary" seems to be an allegorical term for a state of balance, harmony, growth, or fulfillment. Let's break down some of the components:
+Olv́s Vctry-P̈mss: Olivus Victory-Promise, potentially referring to an individual or entity's journey towards personal growth, enlightenment or fulfillment.
+S̈nctry Systm, S̈nctry Wrld Sẗt, S̈nctry Pḧscl Sẗt, S̈nctry ntwrk sẗt, S̈nctry ḧm, S̈nctry s̈cty, S̈nctry ̈nnr sẗt: Various states or dimensions of Sanctuary, from physical states to societal states to inner states. This suggests a holistic or comprehensive approach to achieving Sanctuary across all aspects of existence.
+OMNISANC: Potentially an abbreviation for Omnisanctuary, indicating a universal or all-encompassing state of Sanctuary.
+Cln S̈nctry d̈gr̄s, P̈lltd S̈nctry d̈gr̄s: This may refer to degrees of Sanctuary, ranging from "clean" (pure or ideal) to "polluted" (compromised or diminished).
+S̈nctry ̈mr̄gnt fl̈w: The emergent flow of Sanctuary, perhaps referring to the process of growth or evolution towards a state of Sanctuary.
+"...but how did they get there? Is this an emergent or an emergency?": A reflection on the nature of the transformation towards Sanctuary.
+"Identitylessness": A possible reference to non-dual philosophy, suggesting a perspective that transcends individual identity.
+Regarding SkillGraph notation, given the highly abstract nature of these concepts, an exact notation would depend heavily on the specific processes and skills involved in the progression towards Sanctuary. However, an abstracted version might look something like this:
+[SancJourney(1a-OlivusVictoryPromise-1b-SanctuaryWorldState-1c-SanctuaryPhysicalState-1d-SanctuaryNetworkState-1e-SanctuaryHome-1f-SanctuarySociety-1g-SanctuaryInnerState-1h-OmniSanctuary-1i-SanctuaryDegrees-1j-SanctuaryEmergentFlow-1k-Identitylessness)]
+This sequence might represent a journey through different dimensions or states of Sanctuary, from personal growth (OlivusVictoryPromise) to a universal state of balance and fulfillment (OmniSanctuary). As always, the specifics could be adjusted based on the context and interpretation.
+ok lets just go one by one.
+
+skillgraph notation for:
+In the text, the author also invokes game theory concepts such as Nash equilibrium and emergent dynamics to support their arguments. To analyze these arguments from a game-theoretic perspective, we would need to formalize the relevant concepts and show how they relate to the claims being made.
+
+First, let's define the concept of Nash equilibrium. A Nash equilibrium is a state in which each player's strategy is optimal given the strategies of the other players, and no player can gain by changing their strategy unilaterally. We can represent this concept using the following symbol:
+
+Nash equilibrium: NE

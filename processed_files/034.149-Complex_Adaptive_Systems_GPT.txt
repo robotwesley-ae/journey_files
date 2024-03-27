@@ -1,0 +1,27 @@
+Compression and retrieval: When a query is executed, apply an algorithm that compresses the data while preserving relationships. This can involve using techniques like dimensionality reduction or hierarchical clustering to reduce the size of the data while maintaining the structure and relationships between data points.
+Dynamic updating: Incorporate mechanisms to update the knowledge graph visualization as new data is added or existing data is modified. This may involve reapplying the coordinate mapping function and updating the visualization accordingly.
+By combining these components into a cohesive system, you can create a knowledge graph visualization environment that compresses data on-the-fly, preserving relationships and allowing users to explore and analyze the information in an intuitive manner.
+
+
+Great so try to make 2
+I understand that you want me to create two of the systems described above. However, as an AI language model, I'm unable to directly create or implement software
+
+
+try step 2
+2 / 2
+I apologize if my previous response was unclear. As an AI language model
+
+
+So the thing is that the decimal needs to specify as we move through the space but it wont be able to specify completely because eventually the tokens will be so large (because limited space of numbers able to represent such and such) for each subsequent change in perspective due to movement that it wont be calculable. But, we can probably set a depth control for that?
+Yes, it is possible to set a depth control or limit for the decimal representation of the coordinate system in the knowledge graph visualization environment. By limiting the number of decimal places, you can manage the complexity and computational requirements of the system while still preserving meaningful relationships between data points.
+However, it is essential to strike a balance between the level of detail and computational efficiency. If the depth control is set too low, it may result in the loss of valuable information, while if it's set too high, it may lead to increased computational requirements and difficulties in handling the data.
+You can experiment with different depth control settings and find the optimal value that allows the system to effectively manage the knowledge graph's data while maintaining an acceptable level of computational complexity.
+
+
+ok it needs to go like this:
+
+it tokenizes the data in the vizualisation mapping until N processing limit (we set) is reached. Then it collapses all of that context into a single root coordinate through embedding and populates it with LESS digits in the tokens, even though previously it had tons of digits per token at that point of specificity. This allows for a slinky type of movement through the entire domain space without overloading processing. Thoughts? Please analyze this from a professional computer science pov and be rigorous. we must get this working for the benefit of all beings.
+Your proposal seems to describe a method for reducing the complexity of the coordinate system in the knowledge graph visualization environment by tokenizing the data and then collapsing the context into a single root coordinate with fewer digits, essentially compressing the information.
+From a computer science perspective, this approach has some merits. It can potentially help in reducing the computational complexity and memory requirements of the system by compressing the information at different levels of granularity depending on the processing limit set. This can make navigating the knowledge graph more manageable and efficient.
+However, there are a few challenges and points to consider:
+Loss of information: Collapsing the context into a single root coordinate with fewer digits might lead to some loss of information. It is essential to ensure that this loss is minimal and does not affect the overall understanding of the relationships between data points.

@@ -1,0 +1,58 @@
+This document serves as a binding set of rules for non-public, non-investor shareholders of THE WORLD, INC. and its subsidiaries or future subsidiaries (e.g. Ribcage Solutions, Inc., ThinkMine Inc., or any other name that company may assume in the future at its formation; the company holding the IP for Crystal Ball). It is to be abided by at all times by signatories. Founders, control suite, management, and employees must follow these rules regardless of if they have equity (and thereby equity cliff agreements) or not. This is because the rules herein also dictate the methodology for the completion of value stream establishment (and all associated parts) within the company and its subsidiaries.
+
+Rules:
+
+Moral
+	To do
+		Intention
+Workload
+		Dedication
+	To avoid
+		Tobacco, intoxicants, hookers
+Equity
+	Whatever a non-public, non-investment shareholder is offered in equity is potential equity and 80% of potential equity must be liquidated into the goal awarded equity pool in order to participate in labor (i.e. to be assigned a workload in a goal period).
+
+	Cliffs
+		Cliffs are workload requirements with both tasks and quarterly goals that, when met, award equity and may be met late provided the workload requirements for tasks are met. 
+		Goals
+			Goals award equity based on participation.
+		Participation
+			Participation is defined by workload in the time period between goals. Satisfying the full workload in the time period before a goal is achieved, satisfies the participation requirement for the goal. 
+
+Labor
+	Labor division
+		Task assignment
+			Tasks should be assigned based on skill and current workload. out-of-pocket funding is an element of workload, provided that funding is actually supplied. 
+		Skill acquisition
+			If the skills necessary to complete a certain task have not been acquired previously, then the assignee is expected to make that the first subtask related to completing the task. If the skills cannot reasonably be acquired, the assignee is responsible for creating the value chain whereby the company can hire the skilled labor to perform the work. This may require a plan for out-of-pocket funding. 
+Out-of-pocket funding	
+			If the primary form of labor that can be performed at any given time is necessarily for another company and to make a living, a certain amount of that (% over living expenses) should be used for funding the expedition of labor for necessary production factors (hiring and/or supporting the current members). 
+
+Supplying Out-of-Pocket Funding for Non-Credit Items
+Out-of-pocket funding should be supplied as a constant % of surplus-income ratio. If the income is $6,000 and living expenses for one person are $1,800/mo the surplus is $4,200 and the funding party may be expected to pay for the company to pay for the other founder’s $1,800/mo living expenses. That means a $4200/mo surplus must have at least $1,800/mo deducted from it for the supplying of out-of-pocket funds to count as workload. This deduction should be deposited to the company account. It should then be doled out to the company members who need it on a monthly basis.
+				
+Acceptable living expenses
+The out-of-pocket funder should be ready to fund the company for the payment of the following for members:
+Shared housing and utilities
+Shared groceries
+Shared security
+Shared transportation (car, gas, insurance), excluding non-public transportation services
+Personal discretionary expenses (up to $X and depending upon if the beneficiary has another job or not which is contingent upon goal period workload) 
+Excluding
+Hookers
+Intoxicants
+Weapons
+
+The beneficiary of out-of-pocket funding should be ready to exclude from “living expenses expected to be funded” the following:
+Discretionary expenses over the allotted amount
+Healthcare
+Debt payments
+Debt payments are expected to be made by the bearer each month to avoid a situation where interest accrues uncontrollably and makes life untenable and thereby stalls the project. 
+In the event that a workload becomes so intense it requires debt payments and healthcare to be covered by out-of-pocket funding, a detailed task-based tracking system of hours worked is required to ensure the workload is remaining truly intense (via ClickUp Kanban). 
+Supplying Out-of-Pocket Funding on Credit
+Only the costs of doing business may be paid for on credit. Company credit should be used where possible and paid off in a timely manner as agreed upon by the controllers of the company. 
+
+
+
+5. ClickUp Kanban
+We will simulate the use of a ClickUp Kanban by each member during the writing process of our Ribcage Extensive Document and thereby fill this in with rules.

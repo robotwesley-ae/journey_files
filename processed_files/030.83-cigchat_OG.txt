@@ -1,0 +1,30 @@
+Given the knowledge graph nature of the ontology, we can use chatbot interactions to navigate it, enabling users to specify their path through the ontology, and find their desired instance. When an instance is chosen, our system would respond with the corresponding informadlib template. This dynamic exploration of the knowledge graph would need an algorithm for extracting the relevant information from the informadlib template, and a way to present the current node informatihedron.
+Expert 2 (Knowledge Representation & Ontology):
+In such an interactive system, the algorithm must be flexible, adapting to user decisions and providing relevant responses. The user would essentially be exploring the hierarchy of the ontology, selecting nodes to expand and traverse. The InstanceProperty of the current node would need to link to the correct ClassProperty, which would be identified by the user.
+Expert 3 (Graph Theory & Combinatorial Structures):
+The user-controlled exploration of the ontology maps well to graph traversal algorithms. As users choose their path, the system must highlight all available linked nodes and properties to inform user decisions. When an instance node is selected, the system should traverse the graph to retrieve the related ClassProperty information.
+Expert 4 (Integration and Analysis):
+The system would essentially allow users to explore the ontology like a graph, highlighting available links from a selected node, and retrieving the informadlib template for chosen instances. To keep the user informed about their current node, the system should provide a display of the informatihedron for that node, showing all its links and properties.
+Round 2:
+Expert 1 (Exploration & Innovation):
+We could represent the ontology as a structured text, with specific sentence structures denoting node links and properties. A question-answer interaction could be implemented, where the user queries for the available links from the current node, or for the informadlib template of a chosen instance. The corresponding informatihedron display could be a list of properties and links for the node.
+Expert 2 (Detection & Refinement):
+The language used for the structured text must be clear and consistent to ensure correct understanding by the chatbot. We would need to design specific formats for node links, instance properties, class properties, and so on. The algorithm should be able to understand and respond to these formats correctly.
+Expert 3 (Mathematical Implications):
+Given the interactive nature of the system, the graph traversal would be depth-first. However, instead of the system deciding which node to explore next, the user would make this decision. The algorithm should be able to traverse to any linked node from the current node and retrieve the correct information.
+Expert 4 (Detailed Processes & Entities):
+The interaction process would look like this:
+The user is presented with the current node (informatihedron display) and the available links to other nodes.
+The user chooses a link to follow, moving to another node.
+The new node and its links are presented to the user.
+The user can either explore further by choosing another link, or request the informadlib template for the current instance.
+In this manner, users can dynamically explore the ontology and retrieve desired information, with the chatbot ensuring the ontology is navigated correctly and the appropriate informadlib templates are provided.
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!

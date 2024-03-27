@@ -1,0 +1,93 @@
+class sanctuaryRevolution:
+
+  def __init__(self, agent_data, message_template_data, termination_data,
+               cog_data, max_iterations, big_brain_mega_agent):
+    self.agent_data = agent_data
+    self.message_template_data = message_template_data
+    self.termination_data = termination_data
+    self.cog_data = cog_data
+    self.max_iterations = max_iterations
+    self.big_brain_mega_agent = big_brain_mega_agent
+
+  def start_sanctuaryRevolution(self, input_message):  # "Any Message"
+    print(f"\n[chat_types.py] <start_sanctuaryRevolution> Starting chat sanctuaryRevolution.")
+
+    # Dequeue the next available smoke signal, if any
+    smoke_signal = self.big_brain_mega_agent.dequeue_smoke_signal
+    if smoke_signal:
+      # Integrate the smoke signal with the current message
+      input_message = f"{smoke_signal} {input_message}"
+
+    return self.nature_chain(input_message)
+
+  def nature_chain(self, input_message):
+    transcript = []
+    current_message = input_message
+    print(f"\n[chat_types.py] <nature_chain> Starting...")
+
+    # Unpack the one-time and loop sequences from the data dictionaries
+    custom_start_sequence_agents = self.agent_data.get('custom_start_sequence',
+                                                       [])
+    loop_agents = self.agent_data.get('loop', [])
+
+    custom_start_sequence_message_templates = self.message_template_data.get(
+        'custom_start_sequence', [])
+    loop_message_templates = self.message_template_data.get('loop', [])
+
+    custom_start_sequence_termination_conditions = self.termination_data.get(
+        'custom_start_sequence', [])
+    loop_termination_conditions = self.termination_data.get('loop', [])
+
+    custom_start_sequence_cog = self.cog_data.get('custom_start_sequence', [])
+    loop_cog = self.cog_data.get('loop', [])
+
+    if self.max_iterations is None:
+      self.max_iterations = len(custom_start_sequence_agents) + len(
+          loop_agents)
+
+    for i in range(self.max_iterations):
+      # Determine if we are in the one-time phase or the loop phase for each dependency
+      if i < len(custom_start_sequence_agents):
+        agent = custom_start_sequence_agents[i]
+        last_agent_name = custom_start_sequence_agents[i - 1].assistant_name
+        message_template = custom_start_sequence_message_templates[
+            i] if i < len(custom_start_sequence_message_templates) else ''
+        termination_condition = custom_start_sequence_termination_conditions[
+            i] if i < len(
+                custom_start_sequence_termination_conditions) else []
+        cog_config = custom_start_sequence_cog[i] if i < len(
+            custom_start_sequence_cog) else {}
+      else:
+        # Calculate index for looping lists
+        loop_index = (i - len(custom_start_sequence_agents)) % len(loop_agents)
+        agent = loop_agents[loop_index]
+        last_agent_name = loop_agents[loop_index - 1].assistant_name
+        message_template_index = loop_index % len(loop_message_templates)
+        termination_condition_index = loop_index % len(
+            loop_termination_conditions)
+        cog_config_index = loop_index % len(loop_cog)
+
+        message_template = loop_message_templates[message_template_index]
+        termination_condition = loop_termination_conditions[
+            termination_condition_index]
+        cog_config = loop_cog[cog_config_index]
+
+      current_agent_name = agent.assistant_name
+
+      # Construct the message using an f-string template
+      formatted_message = eval(
+          f"f'{message_template}'") if message_template else current_message
+
+      # Dynamically invoke the corresponding function from the current module
+      try:
+        # Directly call flow_nature with the necessary parameters
+        response = self.flow_nature(formatted_message, agent, cog_config)
+      except Exception as e:
+        response = f"Error executing flow_nature function: {str(e)}"
+        traceback.print_exc()
+        transcript.append(response)
+        break
+
+      # Process response based on the termination conditions
+      if termination_condition and any(term in response
+                                       for term in termination_condition):

@@ -1,0 +1,24 @@
+The aim is to consistently identify the instance properties, classes, and superclasses, as well as the context in which they exist, in order to create a narrative frame that can be understood, processed, and transformed by both human minds and advanced AI systems. This is essentially a dynamic process of abstraction and instantiation that enables the creation of nuanced, context-driven narratives.
+Do let me know if this approach aligns with your vision.
+It does but we need to find a way to talk about the properties and classes that makes sense because it’s also holographic. 
+
+Look: 
+
+Instancelevelprop -> has context -> has reason -> is a class 
+
+“Class” transforms. is a instance level prop of larger emergent -> has context -> has reason -> is a class…
+ChatGPT
+I understand your concerns, and I agree, capturing the holographic nature of the ontology, as you describe it, is indeed challenging. Given this new conceptual framing, we may revise the description as follows:
+For the instance-level property, "Learning dragon behavior", in the context of "Training", we identify a reasoning or rationale, "Protagonist's desire to understand dragons". This rational or motive thus forms a class in itself - "ProtagonistAction".
+The "ProtagonistAction" class can be seen as an instance-level property within a broader emergent system - the storyline. This storyline forms the larger context, in which the reason is the progression of the protagonist's journey. This journey, then, is another class - "Hero's Journey".
+It seems like the classes are not just static categorizations, but dynamic, context-dependent properties that emerge from the interactions of different instance-level properties. The class itself can be seen as an instance-level property in a larger emergent context.
+To reiterate the holographic perspective: each instance-level property forms a class within a context for a reason. But this class itself becomes an instance-level property within a larger emergent structure or context. This can be seen as a kind of recursion where each layer of abstraction forms the basis for the next one.
+Hence, we can think of EWSO as a recursive and holographic process, where each instance-property-class triad is nested within larger emergent structures, forming a dynamic, multi-layered web of meaning.
+I hope this explanation is more aligned with your vision. If there are any additional nuances you'd like me to consider, please let me know.
+isnt that the same thing as how set theory makes numbers? is this ontology math?
+ChatGPT
+Yes, in a sense. The idea you're getting at here is very much reminiscent of mathematical set theory, particularly how the concept of numbers is abstracted from simpler notions.
+In set theory, a number is defined by the set of all smaller numbers. For instance, 0 is the empty set, 1 is the set containing 0, 2 is the set containing 0 and 1, and so on. This process of abstraction from simpler concepts is indeed similar to what you've described with the Emergent Web Structure Ontology (EWSO).
+Both set theory and EWSO are methods of abstraction, and both have a recursive structure where simpler concepts combine to form more complex ones. Just like in set theory, where each number is an abstracted concept that includes all smaller numbers, each concept in EWSO is an abstracted concept that includes all the relevant smaller concepts within its context.
+However, while set theory is a mathematical concept, EWSO is a conceptual model used in the realm of ontology, storytelling, and cognitive science. Both use similar principles of abstraction and recursion, but they are applied in different domains.
+So, in a broad sense, you might say that EWSO shares some similarities with "ontology math" in the way it builds complexity from simpler building blocks in a recursive manner. But it's important to remember that these are different fields with their own specific applications and considerations.

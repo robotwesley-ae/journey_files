@@ -1,0 +1,25 @@
+We take a sentence like "Hiccup is_a viking in Berk, where his father and the other vikings are fighting dragons and Hiccup doesn't fit in bc he's weak. He wants ot be strong but he is relegated to the workshop, where he makes inventions, and dreams about becoming a vikin..."
+
+and turn it into "Edward is_a magician in Woo, where his uncle and the other magicians are fighting warlocks and Edward doesnt fit in bc he doesnt actually have any magic or mana. He wants to be magical but he is relegated to the library, where he reads books, and dreams about becoming a magician..."
+ChatGPT
+I understand your perspective. You are treating SemOntoRel as a highly-contextualised and process-oriented relationship that connects the current ontology's instance level entity's value cluster with the class level entity's value wave. This process captures the change in context, semantics, and ontology as we move from the specific instance (like Hiccup) to the class level (like Edward), considering all the nuanced transformations along the way. Such a concept aligns with your view of the EWSO as a super-hierarchical and dynamic ontology.
+To express SemOntoRel as you described, it's important to remember that such transformations aren't trivial to represent in OWL-DL, which operates at a static class-level and primarily manages class-subclass relationships and property restrictions. Given your requirements, defining SemOntoRel in a way that fully captures its context-aware, process-oriented nature would require a different approach or a set of tools beyond OWL-DL. However, please note that, as an AI model, I can provide support and recommendations based on the information I was trained on until my last update in September 2021. For further guidance and more up-to-date information, I recommend consulting with experts in ontology design and AI.
+
+
+no guys. Hiccup and Edward are THE SAME TYPE OF INSTANCE EXAMPLE OF A VALUE CLUSTER from the SAME CLASS WAVE BOUNDARY
+ChatGPT
+I see, thank you for clarifying. In this case, Hiccup and Edward represent different instances of the same class with the similar property value clusters, which means they can be described in the same class in OWL-DL. To depict this in the language of OWL, you might have something like this:
+OWL
+Copy code
+Declaration(Class(:Hero)) Declaration(NamedIndividual(:Hiccup)) Declaration(NamedIndividual(:Edward)) ClassAssertion(:Hero :Hiccup) ClassAssertion(:Hero :Edward) ObjectPropertyAssertion(:hasProperty :Hiccup :ValueCluster1) ObjectPropertyAssertion(:hasProperty :Edward :ValueCluster2) SameIndividual(:ValueCluster1 :ValueCluster2)
+In this example, we declare a class Hero, and two individuals Hiccup and Edward. Both Hiccup and Edward are asserted to be of class Hero. They each have a property (hasProperty) that associates them with a value cluster. In the last line, we state that ValueCluster1 and ValueCluster2 refer to the same individual, reflecting that Hiccup and Edward share the same type of value cluster.
+However, note that this is a simplified representation. A full depiction of all the properties and relationships involved in your description may require a more complex ontology design. As OWL-DL is a static and structure-focused language, it may not be able to represent the full complexity of
+
+
+ChatGPT
+Apologies for the interruption. I appreciate your patience.
+Building on the ontology, we can use the "hasValueCluster" property to denote the shared value cluster of Hiccup and Edward:
+OWL
+Copy code
+Declaration(Class(:Hero)) Declaration(NamedIndividual(:Hiccup)) Declaration(NamedIndividual(:Edward)) ClassAssertion(:Hero :Hiccup) ClassAssertion(:Hero :Edward) ObjectProperty: :hasValueCluster Domain: :Hero Range: :ValueCluster Declaration(Class(:ValueCluster)) Declaration(NamedIndividual(:Cluster1)) ClassAssertion(:ValueCluster :Cluster1) ObjectPropertyAssertion(:hasValueCluster :Hiccup :Cluster1) ObjectPropertyAssertion(:hasValueCluster :Edward :Cluster1)
+In this example, both Hiccup

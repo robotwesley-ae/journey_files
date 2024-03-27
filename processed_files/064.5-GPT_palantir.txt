@@ -1,0 +1,20 @@
+Analyze this from a professional point of view please. Let’s talk in depth and at length and at full scale complexity and completeness about this particular idea. 
+
+The idea you proposed involves creating "encrypted" ontologies that use instance-based hash keys and domain-based hash keys to represent and manage the complexity of ontological concepts. This approach aims to enable ontological prediction by aligning symbols in the instance key of X-like not-X to the current ontological set of all X, and then using combinatorial functions to find XsubDsubK that satisfies the original purpose (P).
+
+Let's analyze this idea and its implications in more depth:
+
+Encrypted ontologies: Representing ontologies in an encrypted format can have benefits in terms of security and access control. By using hash keys to secure the ontology, you can ensure that only authorized users or systems with the correct keys can access or modify the ontology. This can be particularly useful in scenarios where sensitive or proprietary information is involved.
+Instance-based and domain-based hash keys: By using separate keys for instances and domains, you can achieve more fine-grained control over the access and manipulation of the ontology. Instance-based keys allow you to secure and manage individual instances of concepts, while domain-based keys provide control over broader aspects of the ontology. This can be helpful in managing access and updates to the ontology in a collaborative or distributed environment.
+Ontological prediction: The core idea of aligning symbols in the instance key X-like not-X to the current ontological set of all X, and using combinatorial functions to find XsubDsubK that satisfies the original purpose (P), is an interesting approach to predicting and refining ontological concepts. This process essentially involves searching for the best matching concept or set of concepts in the ontology that can fulfill the requirements of P.
+Combinatorial search: The combinatorial aspect of this idea can be both powerful and challenging. On one hand, it allows you to explore a large space of possible combinations of symbols and concepts to find the best matching XsubDsubK. On the other hand, this combinatorial search can be computationally expensive and time-consuming, especially for large and complex ontologies. Efficient search algorithms and heuristics would be crucial for making this process practical.
+Decryption and alignment: The process of decrypting the ontology and aligning symbols in the instance key to the current ontological set of all X requires a robust and efficient alignment algorithm. This algorithm should be capable of handling the encrypted ontology, as well as the complexity and ambiguity of the instance keys and domain keys.
+Scalability and performance: As the size and complexity of the ontology and the number of instance and domain keys increase, the scalability and performance of this approach might become a concern. Optimizing the encryption, decryption, and alignment processes, as well as the combinatorial search, would be essential to ensure the feasibility and efficiency of this approach.
+Overall, the idea of using encrypted ontologies with instance-based and domain-based hash keys for ontological prediction is intriguing and has the potential to address some of the challenges in ontology development and reasoning. However, implementing this approach would require careful consideration of its complexity, scalability, and performance, as well as the development of efficient algorithms for encryption, decryption, alignment, and combinatorial search.
+
+
+
+
+Isaac Wostrel-Rubin
+I didn’t mean encryption in terms of security. I meant it as an analogy of the process. We can put very strict boundaries on the processing, on the fly, avoid processing whatever is not related. Then, when we get to the next point in the walk. We can change the boundaries, adding properties we need to include, etc. I’m not explaining it well. Can you bridge the gaps here? 
+

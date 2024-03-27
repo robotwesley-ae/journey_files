@@ -1,0 +1,25 @@
+How2PlanAnyTask:
+Before doing Task:
+Create InstancingChain of what you THINK you need to do
+While doing Task:
+When you get BLOCKED, add the chainlink you were missing to the InstancingChain
+(The above dual-loop reifies a PDCA cycle within the BML cycle represented by the GeneralInstancingChain that cycles through all InstancingChain types to accomplish a task)
+GeneralInstancingChain:[BML_InstancingChain->BuildBuildInstancingChain->BuildMeasureInstancingChain->BuildLearnInstancingChain->MeasureBuildInstancingChain->LearnMeasureInstancingChain->MeasureMeasureInstancingChain->LearnLearnInstancingChain]⇔Optimize:[Result->GeneralInstancingChain=OptimizedInstancingChainForX_FromGeneralInstancingChain]. The GeneralInstancingChain represents the origin chain that reifies the entire system into existence. Once performed, all other InstancingChains are optimizations of the current implementation of BML via InstancingChains (ie optimizing YOUR GeneralInstancingChain version)
+InstancingChain:
+A kanban with n statuses where a status is a task and the object in the status is the object from the prior chainlink in the taskchain that is the source for the target transformation, which the status is the process for. Statuses in an InstancingChain are steps in a larger transformation denoted by the InstancingChain and its final steps are always -> MeasureInstancingChain LearnInstancingChain (because every InstancingChain is a Build chain in a BML cycle, but it has diminishing recursion when BuildingMeasureInstancingChains for X chained from Build stage of BML and so on). It is then moved to "VALIDATED" status (the ultimate status), which will trigger automations to move it to the completed_tasks blockchain
+there are tons of instancingChains for example:
+i get an email with work
+i categorize the work: clients and jobs
+the clients become objects on the kanban and their jobs are nested inside them
+inside the jobs are nested tasks
+for each task i will need to run it through its own instancingchain, return to this ServiceInstancingChain and move to the next step.
+So you see, although intricate, it is always nesting with the same algorithms.
+How to build very lightweight blockchain for it (private blockchain that is ONLY about verifying the task statuses of any tasks started, and any tasks completed) integrated with GitHub workflows, projects, and actions.
+Security doesnt really matter in this since it wont be shared - private codebase/blockchain and the information is all already on local and cloud in other  places
+So there should only be "start task, complete task, update_task_status_to_blocked, update_task_status_to_unblocked" statuses in the blockchain
+There should also be taskIDs so we can refer to tasks in webs. TaskIDs should only be created taxonomically. Task1=ID 1.0 + Task1_Subtasks=ID 1.x
+Again, THERE IS NO TRADITIONAL CONSENSUS because the chaining mechanism is validated by the taxonomical ID system. Instead, we can simply send a completion request to an LLM with a prompt template for the system prompt that already has all related taxonomical IDs injected to it, so it says "Task1_NextSubtask=ID 1.99991: ${task info}"
+and then checks against: "Task1_ID: 1.99989" and rejects it therefore.
+Do not mention issues about LLM reliability. I have a multi-agent-system.
+The reason we are using a blockchain is to do these programmtic calculations and data science on the backend. It's just a means to an end, but when we eventually scale it, it will prevent misalignment in workspaces. Basically, the proposed next step of the plan is added to the blockchain as a transaction in a block and that block has to be mined in order for it to be added to the chain and when it does finally become part of the chain then the tasks in that block are verified as next steps from their prior steps
+Do not write simplified code or anything like that. Just talk to me about what the architecture will be.

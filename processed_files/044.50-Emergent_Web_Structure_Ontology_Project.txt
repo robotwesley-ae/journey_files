@@ -1,0 +1,20 @@
+ accurate narrative structures.
+Expert 2 - Refinement:
+I agree with the synthesis made by Expert 1. To add to that, the model's ability to innovate within a given framework is an important aspect, as Expert 3 highlighted. This ensures that the AI can create novel yet contextually appropriate narrative structures. Also, the model should continually learn and adapt its semantic-ontological map based on new inputs and feedback to enhance its narrative understanding and generation abilities.
+Expert 3 - Final Refinement:
+The refinements suggested by Experts 1 and 2 encompass the necessary aspects. I want to emphasize the importance of feedback integration. The model should be designed with a feedback loop, learning from each interaction and adjusting its semantic-ontological map. This would allow it to refine its narrative understanding, improve its representation skills, and better tailor its responses to the user inputs.
+Expert Judge - Analysis:
+The iterative process suggested by the experts shows a high level of alignment and understanding of the problem. The proposed model would need to operate in a high-dimensional knowledge space, representing a broad spectrum of narrative elements and relationships between them. Its AI capabilities would need to be advanced, combining several areas such as natural language understanding, semantic reasoning, and creativity. Its capacity to handle diverse user inputs and its ability to learn from feedback are crucial. The analysis is consistent, and the considerations brought up by the experts should indeed contribute to the development of a model capable of generating emergent narrative structures.
+dont talk about the model, talk about the chat interaction u guys...
+ChatGPT
+Expert 1 - Synthesis:
+Looking at the chat interaction, the system appears to use a sophisticated approach to understanding and breaking down the narrative sentence by sentence. This process requires advanced language comprehension, the ability to detect and understand narrative structures, and expert-level knowledge in narrative theory. It also seems the system is capable of operating within a dialogue context, interacting with the user, and adapting its responses to their inputs.
+Expert 2 - Refinement:
+I agree with Expert 1's observations. In the chat, the system demonstrates its ability to guide the discussion, interpret complex user instructions, and synthesize narrative fragments into a holistic narrative structure. Its expertise in narrative theory is evident. Furthermore, it seems to possess a good understanding of narrative semantics, as it applies ontology in defining narrative elements and their relationships.
+Expert 3 - Final Refinement:
+Both experts have rightly highlighted the interaction and comprehension abilities of the system. To add, the system appears to manage the conversation in a pedagogical manner, teaching the user how to properly interpret and structure the narrative. It is also able to handle disagreements and discrepancies, suggesting it can effectively manage a multi-party conversation, a crucial skill in any conversational AI system.
+Expert Judge - Analysis:
+The experts' insights into the chat interaction are valuable and accurate. The system's skills in guiding the conversation, detecting and interpreting narrative structures, applying narrative theory and semantics, and teaching the user are all crucial to the task. It's also evident that the system handles user inputs of varying complexities, and adjusts its responses accordingly. This suggests a sophisticated level of AI interaction ability, a strong understanding of narrative theory, and a high capacity for dialogue management.
+ok so let's now have each expert write a prompt for chatGPT that makes GPT make these table-based "instancing templates" or "informadlibs" from sentences
+ChatGPT
+Expert 1 - Prompt:

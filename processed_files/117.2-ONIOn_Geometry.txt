@@ -1,0 +1,60 @@
+The possibilities of Intellectual reality, however, are perfected in two ways, according to what the subject knows at any given time and according to the actual manifold of all possible combinations of information. 
+
+Intellectual reality, however, has the feature that it can be accurately expanded and simulated in impossible ways and possible ways at the same time. 
+
+Although it’s not possible to know what can’t be known, it is possible to display the entire “currently possible worlds of intellectual reality.
+
+Further,
+
+What’s effected is exactly what, specifically is caused during the specification of action over time. 
+
+What’s caused is only what must happen according to the current conditions of possibility. What’s possible is only according to the limits of those conditions. 
+
+Physical reality simply cannot arise in impossible ways. 
+
+The possibilities of Intellectual reality, however, are perfected in two ways, according to what the subject knows at any given time and according to the actual manifold of all possible combinations of information. 
+
+Intellectual reality, however, has the feature that it can be accurately expanded and simulated in impossible ways and possible ways at the same time. 
+
+Although it’s not possible to know what can’t be known, it is possible to display the entire “currently possible worlds of intellectual reality.” 
+
+]
+expand_more
+volume_up
+
+So does that all imply that even though we might not know it, it is the case that if we try to explain a CAFR of X (CAFR of AdCopy, for example) at all, it produces a chain that is able to combine with what we already know to find a potential next highest emergent thing we didnt know?
+
+And to get even higher order amounts of possibilities ad infinitum related to what we knew, from any distance, it can loop for n?
+
+
+**EXPLAIN WHAT A "CAFR OF X" WOULD BE LIKE FIRST**:[
+
+**HOW IT WORKS: 1) The next point in the line of the spiral is always the next step in a chain of X, where following all the logic required for putting the next link (metaprogrammatic logic lets say) is the equivalent of actually keeping the line formed at all. 2) as fibonacci spiral optimizatoin loop occur, the elevation increases the normal elevation from the original elevation; one cycle = back to normal elevation**
+]
+Could this be called super-meta-logic? Logic that is about logic constructing logic about logic constructing itself?
+expand_more
+volume_up
+
+So if we found the CAFR of ontology we would be able to mine? But this CAFR would need a helix that is not only domains of ontology, but also domains of ontologies about everything about ontology engineering, which means a process ontology and a meta-ontology ontology? I hope not, because if so then this would make it a different type of CAFR than all other CAFR of X.
+expand_more
+volume_up
+
+So we need: CAFR<=>Ontology  -> Ontology of CAFR of Knowledge
+volume_up
+
+That nested notation, please write it out formally, and call it ONIOn: Ontology Nested Informatihedron Ontologies Notation
+volume_up
+
+and now we also need a flow notation to make a complete abstract syntax notation for denoting movements of CAFR via ONIOn. We can use any pseudocode. It would probably be connected to UARL and 1.4 IDs
+
+
+"""
+The Universal Chain
+A chain, in its most fundamental form, is a sequence of interconnected elements. These elements can be physical objects, conceptual steps, data units, or any other entity capable of being linked. Understanding the nature of a chain requires analyzing the following:
+Elements: The individual building blocks that comprise the chain. These can be tangible or intangible.
+Chain links are between chains and subchains and they are always either strong or weak, weak is where it could also be another chain, it could be another view, you could use a differnt process, and a strong one is a shield
+
+Directionality: How information or execution flows through the chain:
+Unidirectional: Flow proceeds in a single, predetermined direction.
+Bidirectional: Flow can move in both directions between elements.
+Branching: The potential for a chain to split into multiple paths based on decisions or conditions.

@@ -1,0 +1,63 @@
+To: Rod Schrock
+From: Isaac Wostrel-Rubin
+1/30/2018
+Re: Notes on UI/UX Case Study: Playlist Radial Interaction (1/30/2018)
+https://medium.muz.li/ui-ux-case-study-playlist-radial-interaction-57df95287ea1
+
+
+General Positives:
+The article presents a clear method of undertaking a project, designing the project, arriving at and designing product prototypes, and product testing. It also presents a comprehensive guide to product ideation and product design.
+
+General Negatives: 
+The article mistakenly believes the beginning of the optimal solution design process as the end of the optimal solution design method itself. 
+
+As a concept for a streaming music player, the radial interaction design is not novel but makes sense - it is largely based on the familiarity and nostalgia of using the iPod wheel motion to select from a menu of lists, although the author claims its design is derived from the gramophone. The gramophone does help give marketing value and I could see a version where there are multiple visual themes or skins. The radial design automatically has negative aspects on a computer without a touch screen and using the radial design does not fix the initial problem in the thesis. The thesis states that since taste is relative users eventually have to skip songs and would like a way to skip songs without ever “skipping too far.” To remedy this the radial design needs new features or maybe the app would have different modes such as radial/gramophone theme and scrubber/cassette theme or something entirely new like a sandbox music player with all types of interactive commands built in and editable. 
+
+Specific Positive Attributes:
+Understanding the project:
+Music is universal but taste is relative. This is the thesis of the app. 
+How does the innovative pattern of the choice of music selection appear?
+how does the user make the choice to select new music to play?
+	A1. played via list
+			album
+			playlist
+			all library shuffle
+			genre shuffle
+		A2. played via individually created list
+		genres, albums, and/or songs selected or opted-in by the user
+       3. Understand types of users - age, genre demographics
+       4. Analyze who the users are - users are music lovers who also enjoy the aesthetic and UX of the app
+Coming up with a new solution:
+       5. Project challenges and constraints (attractive to all user groups, modified UX aspect so it’s not the same as other apps, interactive, light and easy to use)
+       6. Design principles (the design constraints filtered by the following values to create optimal solution generation space)
+                 a. Fitt’s law - buttons should be easy to navigate to and size/distance from point of origin are the measurements for facility
+	     b. Mimicry/similarity - common properties and design/UX threads and mocking of successful ones to effectuate benefits of new version of same type of thing/app
+	     c. aesthetic usability effect 
+       7. Optimal solution - goal of optimal solution is the target of ideation being designed and to find a high quality design that solves the problem presented by the target - to do this you first need quantity over quality. 
+“Improve your UI design solutions by considering many ideas before settling on any one of them. A solid ideation methodology broadens your idea-generation capacity” 
+- AURORA HARLEY
+       8. Design principles of actual app (color, shape, size, mimicry/similarity, fascinating aspects, fitt’s law)
+       9. The 5 E’s of User Understanding:
+Entice, Enter, Engage, Exit, Extend
+		X
+User Goal, Touch Points, Thoughts, Feelings, Actions
+
+Specific Negative Attributes:
+1. Misunderstanding the power of the Optimal Solution:
+The article does not realize the latent creative potential within the ideation-generation methodology known as the optimal solution. Once you have created an optimal solution framework the iterations can be used to redefine and sharpen the most important aspects of the project as defined by the optimal solution. In other words, by iterating ideas through a filter over and over again, data can be extrapolated from the filtered products to refine how the filter works - changing what the filtered product looks like according to guidelines that affect entire aspects of the design, as discovered from examining the previous filtered products.  We do not need to sift through our different variations of optimal solutions and find the idea we like best. Instead, we can use our variations to refine the constraints of the template and drive our creativity to produce a highly specific optimal solution, which is the same thing as the perfect end variation of our beginning optimal solution. 
+
+So, first you need an ideation-generation methodology, which is your optimal solution, which is at the beginning always intangible and does not yet exist but has a shadow framework that can be built on in many iterations. With an optimal solution you can then iterate design ideas and then narrow down the contributing factors of the optimal solution until they generate better iterations of the design aspects that are considered most important to the goal. Then you take those better design aspects and make them the new constraints to create a more specified optimal solution and repeat the process until all the aspects of the optimal solution are specified completely. 
+
+2. No mention of monetization:
+The article does not offer any information on how to monetize an app in the near-future of widespread blockchain adoption.
+So a question to ask may be:
+“How does this integrate with blockchain?”
+We can rephrase and specify this question as:
+“How does currency get transacted on this platform and what work is done that is paid for in this currency?”
+We might also ask: 
+“How does this platform/currency change economic dynamics?” 
+“How does transacting this way change how work is done and paid for?”
+
+3. Article fails to understand the inherent problem within radial scrolling interactions
+The mission of the case study is to create a music app that can create playlists, uses radial interaction, and has a functional but precise design that allows the user to select a song from the playlist without scrolling too far. 
+The glaring problem is radial interaction inherently involves scrolling too “far,” since it involves an acceleration function and acceleration values are very difficult/nigh impossible for users to learn, and clicking each notch on the radial axis detracts from the ability to scroll far enough effectively. A way to deal with this problem may be to add a zoom function to the radial interactivity that allows the user to zoom in and out of the menu spaces rather than have to move all over the place and navigate many different radial interactions. 

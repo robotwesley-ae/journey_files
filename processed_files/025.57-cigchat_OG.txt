@@ -1,0 +1,24 @@
+No you guys. Why aren’t you listening? First of all, this isn’t how the expert panel works. You will discuss ONE TYPW OF INSTANCE TERM THAT WAS MAPPED TO THE INFORMADLIB AND YOU WILL TRY TO ABSTRACT HOW IT WAS DONE, IN ONTOLOGICAL  and exact terms.
+ChatGPT
+I apologize for the confusion. Let's focus on one type of instance term mapped to the informadlib. Let's consider "Hiccup" from "How to Train Your Dragon" mapped to "Protagonist" in the informadlib.
+Round 1:
+Expert 1 (Emergence Dynamics Specialist):
+The mapping process involves recognizing "Hiccup" as the central figure whose actions and decisions drive the narrative. This recognition involves perceiving the dynamic role Hiccup plays within the emergent story structure, and how his actions influence and are influenced by other elements of
+Show me the informadlib template u idiots are referring to right now!
+ChatGPT
+I apologize for the misunderstanding. Here's a basic example of an informadlib template that might apply to "How to Train Your Dragon":
+Informadlib Template:
+Story-Title:
+Protagonist:
+Antagonist:
+Mentor:
+Allies:
+Hero's-J
+Informadlib template:
+
+Word/Phrase	SemOntoRel	HeroGoal-ExternalArc-InternalArc-Indicates	StoryEntityClass-Embodies-EmbodimentArchetype	SubSubGenre-SubGenre-Genre-Psychological Meaning-Type of Catharsis	Dream Effect-Planning Effect-Behavioral Effect-Societal Effect
+"Learning dragon behavior"	ProtagonistAction	Desire to Understand Dragons-Discovery of Dragons' Sensitivity, Learning to Bond with Dragons-Beginning of Personal Transformation-Indicates Progression in Hero's Knowledge and Understanding, HJ Stage: Approach to the Inmost Cave	Protagonist's Action-Embodies(Quest for Knowledge, Growth)	Fantasy-Adventure-Myth-Embodies(Exploration, Discovery, Transformation)-Type of Catharsis(Enlightenment)	Curiosity Effect, Engage-Planning Effect, Learn-Behavioral Effect, Share Knowledge-Societal Effect
+"from Toothless"	UniqueNameFor_MentorDragon	Learn from Dragon Mentor-Discovery of Dragons' Sensitivity, Learning to Bond with Dragons-Experiencing Consequences of the New Situation-Indicates Strong Bond between Hero and Dragon, HJ Stage: Approach to the Inmost Cave	Dragon Mentor-Embodies(Guidance, Wisdom, Mystical Power)	Fantasy-Adventure-Myth-Embodies (Exploration, Discovery, Transformation)- Type of Catharsis (Enlightenment)	Curiosity Effect, Engage-Planning Effect, Learn-Behavioral Effect, Share Knowledge-Societal Effect
+"Hiccup"	UniqueNameFor_Protagonist	Desire to Understand Dragons-Discovery of Dragons' Sensitivity, Learning to Bond with Dragons-Beginning of Personal Transformation-Indicates Progression in Hero's Journey, HJ Stage: Approach to the Inmost Cave	Protagonist-Embodies(Quest for Knowledge, Growth)	Fantasy-Adventure-Myth-Embodies(Exploration, Discovery, Transformation)-Type of Catharsis(Enlightenment)	Curiosity Effect, Engage-Planning Effect, Learn-Behavioral Effect, Share Knowledge-Societal Effect
+"is able to"	ProtagonistPotentiality	Demonstrate Ability to Interact with Dragons-Test, Allies, Enemies, Learning to Bond with Dragons-Experiencing Consequences of the New Situation-Indicates Protagonist's Growth and Increased Capability, HJ Stage: Approach to the Inmost Cave	Protagonist's Potential-Embodies(Possibility, Potential, Capability)	Fantasy-Adventure-Myth-Embodies (Exploration, Discovery, Transformation)- Type of Catharsis (Enlightenment)	Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect
+"subdue the captive dragons"	ProtagonistActionWithConsequence	Subdue Dragons-Approach to Inmost Cave, Learning to Bond with Dragons-Fear of the Unknown-Indicates Protagonist's Mastery and Control over Dragons, HJ Stage: Approach to the Inmost Cave	Protagonist's Action-Embodies(Mastery, Control, Leadership)	Fantasy-Adventure-Myth-Embodies (Exploration, Discovery, Transformation)- Type of Catharsis (Enlightenment)	Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect

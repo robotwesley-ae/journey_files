@@ -1,0 +1,29 @@
+Installing Python and necessary libraries
+Coordinate systems and spacetime representation
+Quaternion coordinate system
+Kruskal-Szekeres coordinate system (4D view)
+Crystal Ball spacetime
+Black holes and white holes
+Encrypted space and inaccessible knowledge
+Taxonomy and cataloging of chat discussion topics
+Please note that this catalog is an overview of the main topics and may not capture every single detail discussed in the chat. If you have any specific areas you'd like me to expand upon, please let me know.
+
+
+What about all the instruction sets in this chat? Can you make a list of them?
+Here is a list of instruction sets provided in this chat:
+Identifying market trends and niches using Google Trends.
+Creating a wiki with the help of AI tools.
+Setting up a Python environment and installing necessary libraries.
+Pre-processing a memoir document:
+a. Extracting entities and relationships using NLP libraries (SpaCy, NLTK, TextBlob).
+b. Parsing the extracted data into a format suitable for Neo4j (CSV or JSON).
+Importing data into Neo4j:
+a. Creating nodes and relationships.
+b. Writing and executing Cypher queries.
+Please note that this is an overview of the main instruction sets provided in the chat. There might be more detailed instructions within each step. Let me know if you need any further clarification or expansion on any of these instruction sets.
+
+
+Great now make a detailed outline of a funnel for Isaac to coach people in the Sanctuary System, keeping in mind we need to make about $10m dollars to get Nexus going, according to $100m offers by Alex hormozi. 
+
+Here are his specific steps 
+

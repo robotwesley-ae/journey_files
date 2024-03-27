@@ -1,0 +1,40 @@
+ Amazon Neptune
+Knowledge extraction and updating: Custom pipeline using AI models, APIs, and web scraping
+Natural Language Understanding and Processing:
+Pre-trained language models: GPT-3 or BERT
+Word embeddings: Word2Vec or GloVe
+Ontological word embeddings: Custom module (new knowledge needed)
+Polysemic Encryption Algorithm:
+Homomorphic encryption: Existing libraries, e.g., Microsoft SEAL or PySyft
+Polysemic encryption: Custom algorithm (new knowledge needed)
+Intent Limiter and Access Control:
+Intent classification: Pre-trained models like BERT or custom classifiers
+Outcome prediction: Bayesian networks, decision trees, or reinforcement learning
+Access control and permission management: Custom module integrating with the knowledge graph and user authentication system
+GUI and Visualization:
+Front-end web/mobile application: React, Angular, or Vue.js
+Toroidal visualization: Custom visualization library (new knowledge needed)
+Interaction with the knowledge graph: GraphQL or custom APIs
+Backend Services and APIs:
+Server-side programming: Node.js, Django, or Flask
+APIs for data ingestion, processing, and querying: RESTful or GraphQL APIs
+Data processing pipelines: Apache Kafka, RabbitMQ, or Amazon Kinesis
+User Authentication and Authorization:
+Authentication: OAuth, OpenID Connect, or custom authentication system
+User management: Custom user database or integration with existing systems
+Integration with Existing AI Technologies:
+GPT for natural language understanding
+Pinecone for vector search
+Word2Vec for word embeddings
+This technology stack provides a foundation for the Crystal Ball system, but additional research and development will be needed to create the custom algorithms, modules, and integrations required for specific aspects of the system, such as the polysemic encryption algorithm and ontological word embeddings.
+It's also important to consider scalability, maintainability, and security when implementing the system, ensuring that it can handle large data sets, complex ontologies, and user interactions effectively.
+
+
+ok lets work on ontological word embeddings. Write out the way a word embedding algorithm works and I will show you how I think it can be ontological and you can then refine my idea. Speak professionally so that this works correctly, paying special attention to making sure you explain every step of word embedding algorithm such as word2vec
+Word2Vec is a popular word embedding algorithm that learns dense vector representations of words in a continuous space. These vector representations capture semantic and syntactic relationships between words, allowing for efficient processing and analysis of natural language data. Word2Vec operates using two main architectures: the Continuous Bag of Words (CBOW) model and the Skip-Gram model. Here, I'll describe the Skip-Gram model in detail, but note that the CBOW model works similarly, just with a different input-output configuration.
+Skip-Gram Model:
+Initialize: Start with a large corpus of text. Define the size of the embeddings (e.g., 300 dimensions) and the context window size (e.g., 5 words on each side of the target word). Randomly initialize the embedding matrix and context matrix with dimensions (Vocabulary_Size x Embedding_Size), where Vocabulary_Size is the total number of unique words in the corpus.
+Preprocessing: Tokenize the text into words, and optionally perform stemming or lemmatization to reduce the vocabulary size. Assign a unique integer index to each word in the vocabulary. Optionally, subsample frequent words and apply negative sampling to improve training efficiency and quality.
+Iterate through the corpus: For each word in the corpus, find the words within the context window. For each context word, treat the target word and the context word as a training pair.
+Convert words to one-hot vectors: Convert the target word and context word into one-hot vectors of size Vocabulary_Size.
+Forward pass: Multiply the target word's one-hot vector by the embedding matrix to obtain the target word embedding. Multiply the context word's one-hot vector by the context matrix to obtain the context word embedding.

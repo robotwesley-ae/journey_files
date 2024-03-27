@@ -1,0 +1,122 @@
+        transcript.append(response)
+        break
+
+      # Default processing (if termination_condition is None or empty)
+      transcript.append(response)
+      current_message = response
+
+    return transcript
+
+  def flow_nature(self, message, agent, cog_config):
+    cog_transcript = []
+    current_message = message
+    print(f"\n[chat_types.py] <flow_nature> Starting...")
+
+    cog_steps = cog_config['cog_step']
+
+    for i in range(len(cog_steps)):
+      cog_step = cog_steps[i]
+
+      # Get cog type from cog_config
+      cog_type = cog_step['cog_type']
+
+      if cog_type == 'tool_chain':
+        tool_names = cog_step['tool_names']
+        chain_length = len(tool_names)
+        tool_args = cog_step['tool_args']
+
+        for i in range(chain_length):
+          tool_index = i % len(tool_names)
+          tool_name = tool_names[tool_index]
+          arguments = tool_args[tool_index]
+
+          # Dynamically retrieve the method from the class based on cog_type
+          func = getattr(tool_functions, tool_name, None)
+
+          if func:
+            try:
+              # Call the method retrieved from the class, assuming it expects the same arguments
+              response = func(arguments, self.big_brain_mega_agent)
+            except Exception as e:
+              response = f"Error executing {cog_type} method: {str(e)}"
+              break
+          else:
+            response = f"Error. Method named '{tool_name}' not found in the sanctuaryRevolution class. Ensure the method exists and is named correctly."
+            break
+
+          cog_transcript.append(response)
+          current_message = response
+
+      elif cog_type == 'inference':
+
+        assistant_ids = cog_step.get('assistant_ids')
+        message_templates = cog_step.get('message_templates')
+        thread_ids = cog_step.get('thread_ids')
+        termination_conditions = cog_step.get('termination_conditions')
+
+        max_iterations = cog_step.get('max_iterations')
+        if max_iterations is None:
+          max_iterations = len(assistant_ids)
+
+        for i in range(max_iterations):
+          assistant_index = i % len(assistant_ids)
+          message_template = message_templates[assistant_index]
+          thread_id = thread_ids[assistant_index]
+          assistant_id = assistant_ids[assistant_index]
+          termination_condition = termination_conditions[assistant_index]
+
+          message = eval(f"f'{message_template}'"
+                         ) if message_template else current_message
+
+          # Call client.handle_assistant_run with the extracted information
+          response = self.big_brain_mega_agent.client.handle_assistant_run(
+              thread_id=thread_id,
+              messages=message,
+              assistant_id=assistant_id,
+              big_brain_mega_agent=self.big_brain_mega_agent)
+
+          # Process and combine the response
+          response = utils.get_combined_response(response)
+
+          # Check termination condition
+          if termination_condition and any(term in response
+                                           for term in termination_condition):
+            break
+
+          cog_transcript.append(response)
+          current_message = response
+
+      else:
+        response = f"Error. Cog type '{cog_type}' not recognized."
+        cog_transcript.append(response)
+
+    return cog_transcript
+
+
+class OrchestratorChat(sanctuaryRevolution):
+
+  def __init__(self, big_brain_mega_agent):
+    # Setting default values specific to BodysanctuaryRevolution
+
+    agent_data = {
+        "custom_start_sequence": [big_brain_mega_agent.orchestrator_agent],
+        "loop": []
+    }
+
+    message_template_data = {
+        "custom_start_sequence": ["{current_message}"],
+        "loop": []
+    }
+
+    termination_data = {"custom_start_sequence": [None], "loop": []}
+
+    max_iterations = 1
+
+    cog_data = {
+        "custom_start_sequence": [{
+            "cog_step": [{
+                "cog_type":
+                "inference",
+                "thread_ids": [big_brain_mega_agent.body_brainbrane],
+                "assistant_ids":
+                [big_brain_mega_agent.orchestrator_agent.assistant_id],

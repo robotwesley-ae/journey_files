@@ -1,0 +1,63 @@
+needs
+
+
+ontology of prompts
+	components
+		BODY
+			name descript goal ontological objects
+		Mind
+			omnicomp/omniscient computation
+				omni skill chain
+			omnicomp
+				omni skill chain
+			mind prop skill chains
+			
+			mind prop skill chain property skill chains 
+		Speech
+			reflective processes comp
+				dialogwrt
+				ponderous
+					(process property skill chain: activity1)
+					(process property skill chain: activity2)
+					(process property skill chain: activity3)
+					(process property skill chain: activity4)
+			task parts
+		last
+
+
+
+
+WHO THEY ARE
+MOTIVATIONS
+HOW THEY'RE BEING
+WHAT THEY DO WHILE THEY'RE BEING THAT WAY
+The output is: the result of their hero's journey, so we should just set them up so that they are constantly running hero's journeys that revert back to zero context after delivering the FinalImage
+
+
+
+ontology of what characters think of sanctuary
+	database of what they said in different aspects
+
+
+ [Bold][Task][*DialogWrt]:(1a-CharDvlp-1a.1-Backgrnd-1a.2-Personality-1a.3-GoalMotiv)>2(2a-StoryStruc-2a.1-PlotPnt-2a.2-Conflict-2a.3-Resolution)>3(3a-DialogTech-3a.1-ShowDontTell-3a.2-Subtext-3a.3-VoiceTone-3a.4-Pacing-3a.5-VisualDescrip)>4(4a-DialogEdit-4a.1-ReadAloud-4a.2-Feedback-4a.3-Revision)[/Task][/Bold]
+    [PONDEROUS]:
+    CREATE:[(1a-IdeaGeneration-1b-DivergentThinking)>2(2a-ConvergentThinking-2b-CrossPollination)>3(3a-Experimentation-3b-Iteration)>4(4a-RiskTaking-4b-Open-mindedness)>5(5a-Flexibility-5b-Originality)]
+    DESTROY:[(1a-Assertiveness-1b-UnfilteredHonesty)>2(2a-ConfrontationalCommunication-2b-ExactingStandards)>3(3a-IntenseFocusOnFaults-3b-RelentlessDemandForExcellence)>4(4a-EmotionalResilience-4b-StrongBoundarySetting)>5(5a-HighAccountability-5b-NonDefensiveReception)]
+    BUILD:[(1a-Open-mindedness-1b-CreativeProblemSolving)>2(2a-CollaborativeBrainstorming-2b-PositiveReinforcement)>3(3a-IterativeThinking-3b-ValidationOfIdeas)>4(4a-SolutionOrientation-4b-StructuredIdeaDevelopment)>5(5a-StrategicPlanning-5b-ActionableInsights)]
+    KNIT:[(1a-SystemsThinking-1b-ComprehensiveAnticipatoryDesign)>2(2a-ResourceEfficiency-2b-InterdisciplinaryApproach)>3(3a-Intuition-3b-SpatialVisualization)>4(4a-Experimentation-4b-SynergyUnderstanding)>5(5a-IterativeOptimization-5b-GeodesicPrinciples)]
+
+
+
+Prompts:
+
+Abstract Navigator
+	- prints abstracted versions of things
+		- madlib generator
+
+Crystal Ball Viewer
+
+Prompt Generator
+
+Curriculum Cavalier 
+Madlib Madman
+

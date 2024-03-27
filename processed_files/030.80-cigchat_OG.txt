@@ -1,0 +1,40 @@
+The algorithm's challenge lies in representing the traversal of this hierarchy within the constraints of ChatGPT's text-based outputs. A possible approach is to leverage combinatorial structures and the inherent sequence nature of language. The hierarchy can be represented through a sequence of statements, with each statement describing an InstanceProperty's relation to a ClassProperty.
+Expert 4 (Detailing Processes and Entities):
+The process, then, could look like this:
+Input is processed as text by ChatGPT.
+InstanceProperty, ClassProperty, and superclass relationships are extracted from the input text.
+A text-based hierarchy representation is generated, indicating the structure of these relationships.
+The output is a text-based representation of the emergent web structure, which can be further processed or interpreted.
+The key challenge in implementing this algorithm within ChatGPT lies in the transformation of hierarchical structure into a text-based format that can be interpreted by the model.
+IN EACH OUTPUT there will be: 
+Four experts and 2+ discussion rounds 
+Round 1: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 formulates their response
+Expert 2 formulates their response
+Expert 3 formulates their response
+Expert 4 combines the three, prunes and iteratively refines the best and most promising ideas, diving deep like a submarine pinging its radar for incorrectness and illogical applications, making sure to bring up any contradictions and skeptical uncertainty, making everyone aware of it, bringing everything  back to reality 
+
+Round 2: INSTRUCTIONS ARE FOR THINKING STYLES. EVERYONE MSUT HAVE EXPERTISE IN PROPER CONTEXTUAL FIELDS!!!!
+Expert 1 then prunes if necessary and iteratively refines by exploring uncharted territories with a wide searchlight 🔦  and trying to make the idea connect from the reale version of expert 4 to the innovative idea we need it to be, searching everywhere for properties that match, trying to cobmine them to find a practically achievable, definable version of the concept at hand 
+ Expert 2 then prunes and iteratively refines like Sherlock Holmes 🔎 looking for a clue “what is the best idea 💡 here?”
+Expert 3 then prunes and iteratively refines like Nash 🧠  and Kruskal, finding the deep mathematical implications
+Expert 4 then comprehensively details every valid process and entity discussed, like Barry Smith, world renowned ontologist and categorizes ontological truths in a nice hierarchical structure
+
+All experts continually ponder “what is the best way to help this discussion go even further into new heights of explanation and comprehension of the matter at hand?”
+
+please have the experts run this type of panel, but now they must address and answer thoroughly, collectively working towards a formal definition of this algorithm:
+"this is the central question of EWSO. pls have the experts answer it comprehensively. the outputs need to be much longer from each expert.
+
+Does this InstanceProperty get related to a ClassProperty? Yes but what type of emergent structure? How far is it? 
+
+It must be the DIRECT CLASS PARENT 
+
+AND WHAT TYPE OF ONTOLOGICAL STRUCTURE IS IT BEING ABSTRACTED TO? 
+IS IT THE SUPERCLASS? Ideally we are just doing this and not skipping. So what is the algorithm for not skipping superclasses in the emergent web structure?   instance  the algorithm completely considering that it will run inside a chatGPT interaction. the model cannot be changed, the data cannot be external.
+
+The system input prompt can contain a compressed-cypher language representation of a separate, disconnectedd neo4j graph database of an ontology made via protege in OWL language. 
+
+Now, let's consider what the algorithm will be, considering we will be using OWL. the system input prompt will also contain an OWL primer, as well as definitions for EWSO, informatihedron, informadlib, and any custom ontology language we need to devise to get the function to work, as well as the algorithm for SemOntoRel (thats this that we are talking about). Pls continue friends
+ChatGPT
+Round 1:
+Expert 1 (AI and Semantic Processing):

@@ -1,0 +1,69 @@
+Silicon Valley Spec -- “Targeted Market”
+Asmita Paranjape 
+
+1. INT. BREAM HALL 
+Monica and Laurie introduce Cole Spencer, a legend from the early days of the Internet, as an executive advisor to Pied Piper, to help identify new markets, new partnerships, new ways to reach existing markets. Jared is resistant to Cole’s addition, since that is his job description.  But with Peter Gregory gone and Gavin Belson against him again, Richard is excited have such a powerful luminary on his side. 
+
+Monica and Laurie tell Richard to move data off of smart fridges, and that they’ve secured servers for Richard to build his network on. Richard refuses, and says he wants to collect mobile storage. Jared pulls him aside, asking why he won’t use servers, since it’s the better business choice. Richard tells Jared about his conversation with Gavin (season 4, episode 10), in which he promised to make Hooli and server rental businesses obsolete. Now he can’t risk looking weak. Now, Richard needs to find a million cell phones, and fast.
+
+2. INT HACKER HOSTEL
+Richard and Jared bring Cole back to the house and introduce him to an already excited Dinesh and Gilfoyle.The two immediately start fighting for Cole’s attention. 
+
+Jared tries to convince Cole that he has a handle on securing cell phones. He tells Richard and Cole that he’s set up focus groups with various demographics whom he and Richard will try to recruit.
+
+4. INT. HACKER HOSTEL
+Richard and Jared report back to Cole and the guys -- they have no leads. Richard’s completely distraught. As Jared tries to reassure Richard and brainstorm new solutions, Cole overhears. He tells them he knows exactly how to fix their problem. Jared protests, but Richard overrules him. Cole takes Jared off of this problem, and puts him in charge of *gasp* social media.
+
+Cole invites Dinesh to hang out. Dinesh’s eyes go wide with excitement. Once Cole leaves, Dinesh rubs it in Gilfoyle’s face.
+
+5. INT. BIG HEAD’S OFFICE
+A student, Nina, comes to Big Head’s office hours, because she is struggling in school, despite her passion for CS. She asks him for advice, wondering how she could emulate his success, and be more like him (which is ironic, given that he’s an idiot). As she speaks, he struggles to plug in a USB drive correctly. 
+
+6. FOCUS GROUP ROOM 
+Cole walks Richard and Jared toward the room of new potential users, assuring them that this group of people is all about freedom of speech and a decentralized internet. Cole fences Jared out of the meeting at the last minute, as a power move. Richard doesn’t notice, he’s just excited to meet a group of people that finally support his vision. The meeting goes well, though the users are a bit odd. As the group exits, the users pass Jared, and seem to really like his “look.” 
+
+7. INT. COLE’S HOUSE
+Cole shows Dinesh around his house, sharing stories of grandeur. Though Dinesh takes interest in the Internet-history-relics, Cole leads Dinesh towards a picture of an outdoor adventure. He recounts a story of the pelvic injury that came with it, and hands Dinesh an X-ray...of his penis. He insists Dinesh hold onto it. Dinesh is weirded out, but agrees.
+
+8. INT. STANFORD CLUB WORKSPACE/CLASSROOM
+A Stanford admin walks Big Head down the hall, explaining that a female student gave him a really positive review, which is big because they are trying to retain their female students. He walks Big Head into the room, tasking him with mentoring a “Girls Who Code”-like club aiming to close the gender gap in tech. The room has only five female CS majors. 
+
+9. INT. HACKER HOSTEL
+Dinesh shoves how much attention Cole pays him in Gilfoyle’s face. Jared starts pointing out suspicious activity on the Twitter feed, while conducting Pied Piper’s social media. Richard doesn’t care. Jared sees on Twitter that they are planning a town hall, and suggests they go.
+
+Cole enters to check on how things are going. Before Jared can have a chance to bring up his Twitter-related concerns, Richard starts asking Cole questions, to deflect. Cole asks Dinesh to accompany him. Gilfoyle witnesses Cole’s hand lingering on Dinesh’s lower back, and Dinesh recoiling. 
+
+10. INT. COLE’S HOUSE 
+Cole tells Dinesh he’s the smartest guy in the company and that he should be developing something on his own, with Cole’s help. Dinesh is ecstatic. Cole asks Dinesh to follow him into his office, continuing the conversation as he moves into the bathroom. Dinesh resists, but Cole insists he’s not going to shout -- forcing Dinesh to watch him pee. He turns around to face Dinesh as he talks with his hands and exposes himself to Dinesh without breaking eye contact. Dinesh, stunned and desperate, doesn’t stand up for himself, but tries to keep the conversation going.
+
+11. INT. TOWN HALL
+A full blown alt-right circle-jerk. Speakers go up and condemn multiculturalism, throw up ‘Heils” and pass around alt-right meme-swag (e.g. Pied Pepe, a parody of the adoption of the Pepe meme). They laud Pied Piper as an ally to the white race, to have their voices heard.
+
+12. EXT. JARED’S CAR  / INT. COLE’S HOUSE
+Jared calls Cole after leaving the town hall, telling him he knows what he’s doing and thinks it’s morally wrong. Cole, still with Dinesh, misunderstands Jared, thinking he is talking about his behavior with Dinesh. Cole looks to Dinesh, his face falling to a more sincere look of betrayal... 
+
+13. INT. COLE’S HOUSE -- SAME
+Cole turns to Dinesh. He starts apologizing for misjudging him, but in an oddly threatening way, claiming he’d overestimated their relationship. Dinesh is confused. He speaks in innuendo “Maybe I’m working you too hard”, “I saw something inside you and I thought, ‘I wanna be there, inside you.’” And finally threatens to end their professional mentorship. Dinesh says no to pacify Cole, inadvertently agreeing that he does...want...Cole inside him too. Cole’s smile returns. He slaps Dinesh on the butt as they leave. 
+
+14. INT.  STANFORD CLUB WORKSPACE/CLASSROOM
+The female students start asking Big Head increasingly difficult questions that are totally over his head. Their questions about his career make Big Head realize that his every promotion has been about using him as a pawn. Eventually Big Head confesses he’s a total fraud -- that he’s lucked into every opportunity he’s ever gotten. An awkward beat. One by one, the female students stand up in support of who they think is a fellow victim of Imposter Syndrome.
+
+15. INT. HACKER HOSTEL
+Gilfoyle starts to press Dinesh’s buttons, making fun of how strange Cole is, and how someone would have to be strange to like Dinesh so much. Dinesh continues to boast about Cole’s attention, but accidentally starts revealing the things Cole has done to him. Gilfoyle changes his tone, explaining to Dinesh that that’s not normal guy-bonding-stuff. This conversation is intercut with...
+
+Jared arrives from the town hall. He tells Richard that they have to shut down the platform. Richard resists. Jared explains what he saw at the rally, and how it’s not only bad for Pied Piper’s brand as a new company, but that it’s also a moral obligation not to give these people a platform. Richard launches into a self-righteous rant about giving a voice to the voiceless, and how they are trying not to be like the Twitters and Facebooks of the world that delete these alt-right accounts and censor free speech. Richard insists they’re not just going to become a cliched headline like every other tech company, when…
+
+Dinesh audibly explodes when he realizes he’s facing sexual harassment by the leadership, no matter how hard he’s worked or how high he’s climbed. (Guess they are like every other tech company).
+
+16. INT. BREAM HALL 
+Monica and Laurie fire Cole, berating him for praying on Dinesh. Richard pretends he’s just as outraged, and is completely for the firing. Jared stares daggers at Richard. Cole, backed into a wall, does what every other predator does when confronted: denying and denying before issuing a meaningless non-apology. He chooses this moment to “express his fluid sexuality”, and accuses Bream Hall and Pied Piper of being intolerant and quick to make assumptions. 
+
+16. INT. HACKER HOSTEL
+Richard struggles to let go of cell phone network. Jared shows him a video of an Alex Jones-like user. Richard moves the network off the cell phones and onto servers. Gilfoyle jokes about having showed them pictures of the “gay Muslim” working on their new internet, with pictures of Dinesh. Jared notes that now Pied Piper is hated both by the right and by the left, due to the alt-right affiliations and the sexual harassment scandal.
+
+Big Head returns home completely oblivious of Pied Piper’s latest pitfall. Tone-deaf, he talks about how awful men in the tech world can be for women, and how they all could never understand what women go through. He then asks if Pied Piper is looking to hire some of the women in his club as interns. 
+
+
+
+
+

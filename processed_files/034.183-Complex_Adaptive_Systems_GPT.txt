@@ -1,0 +1,66 @@
+Develop a predictive analytics tool or service that uses the principles of Crystal Ball to generate insights into the financial markets.
+2 / 2
+Title Slide:
+The Wisdom Institute (TWI): Building a Virtuous Future Through Nexus & Crystal Ball
+Slide 1: Overview
+Introducing TWI: A virtue tech company
+Our mission: To create transformative technologies and experiences that empower individuals and communities
+Core projects: Sanctuary Nexus and Crystal Ball
+Slide 2: Sanctuary Nexus
+A groundbreaking, immersive game experience
+Focused on personal growth, empowerment, and community building
+Features a rich narrative centered around Olivus Victory-Promise
+Slide 3: Crystal Ball
+A revolutionary AI-driven platform
+Leverages advanced NLP and machine learning techniques
+Aims to uncover hidden wisdom and connections within vast sets of information
+Slide 4: Financial Market Applications
+Predictive analytics tools and services for financial markets
+Using Crystal Ball concepts to generate valuable insights
+Potential for high profitability and rapid growth
+Slide 5: The Path Forward
+Building an audience through engaging YouTube content
+Fostering a community of like-minded individuals with shared values
+Offering Sanctuary Trainings at TWI to empower and educate
+Slide 6: Funding & Partnerships
+Seeking strategic partnerships and investment opportunities
+Accelerating the development of Nexus and Crystal Ball
+Ensuring the success and growth of our mission-driven organization
+Slide 7: Join Us on Our Journey
+Help us build a virtuous future through transformative technologies
+Become a part of the TWI community and experience the power of Nexus & Crystal Ball
+Contact us today to learn more and explore collaboration opportunities
+
+
+build this out
+
+Slide 1: Overview
+
+Introducing TWI: A virtue tech company
+Our mission: To create transformative technologies and experiences that empower individuals and communities
+Core projects: Sanctuary Nexus and Crystal Ball
+Slide 1: Overview
+Introducing The Wisdom Institute (TWI)
+A cutting-edge virtue tech company dedicated to fostering positive change
+Our team consists of experts in artificial intelligence, game design, personal development, and education
+We believe in the power of technology to help people realize their full potential and create a more just, compassionate, and virtuous world
+Our Mission
+Create transformative technologies and experiences that empower individuals and communities
+Encourage personal growth, self-discovery, and collective action
+Build tools and platforms that help people access and apply wisdom in their everyday lives
+Core Projects
+Sanctuary Nexus: An immersive game experience that guides players on a journey of personal growth and empowerment, centered around the character Olivus Victory-Promise
+Crystal Ball: An AI-driven platform that uses advanced natural language processing and machine learning techniques to uncover hidden wisdom, connections, and opportunities within vast sets of information
+
+
+ok but remember that none of this works without the Sanctuary System because without it a computer will never be able to know that humans think they are the same and so humans could never trust a computer
+Slide 1: Overview
+Introducing The Wisdom Institute (TWI)
+A cutting-edge virtue tech company dedicated to fostering positive change
+Our team consists of experts in artificial intelligence, game design, personal development, and education
+We believe in the
+
+
+Let’s do something else. 
+
+You, chatGPT, will be my prompt engineer. We will iterate the prompts you output in order to arrive at a prompt that gives me the desired output. The first output you give me will ask what the prompt will be about, with some questions to get us on the right track. Then, once you have an initial understanding of what the prompt is about, you will provide me with the first iteration. Then you will ask more questions to make the prompt better. We will continue this iterative process until we have arrived at the prompt we need

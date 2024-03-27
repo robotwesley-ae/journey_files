@@ -1,0 +1,22 @@
+Again, a Sanctuary system is non-contradictory if ∀a ∈ A, ∀r ∈ R, H(a, r) = 1. However, H(a, r) now equals F(a, r) or G(a), meaning that for a rule r and an actor a, either the actor follows the rule, or the actor is transformed and embraces the PLS after breaking the rule. This way, we incorporate the role of PLS and the importance of love, dignity, and friendship into the formal structure of the Sanctuary system.
+
+
+Amazing! Next part is that Oliver Powers represents our activity, our ability to find a way, our will, our determination, steadfastness, and ability. Olive R Love represents our compassion, our openness, our warmth, and our ability for harsh honesty as well.
+ChatGPT
+The characters Oliver Powers and Olive R Love embody key principles that guide the behaviors of actors within the Sanctuary system. Oliver Powers, representing willpower, determination, and ability, mirrors the active, dynamic component of the system. On the other hand, Olive R Love, embodying compassion, openness, warmth, and the capacity for harsh honesty, represents the emotional, receptive, and introspective aspect of the system.
+In terms of formalization, we can introduce two more functions that encapsulate these qualities.
+Let's denote these functions as P: A → {0, 1} and L: A → {0, 1}, where P(a) = 1 if actor a demonstrates the qualities of Oliver Powers (activity, will, determination, steadfastness, and ability), and L(a) = 1 if actor a demonstrates the qualities of Olive R Love (compassion, openness, warmth, and ability for harsh honesty).
+Then, an actor a ∈ A is said to have undergone a transformation T if P(a) = 1 and L(a) = 1, i.e., the actor embodies both Oliver Powers and Olive R Love's qualities. This transformation T is assumed to take place when an actor breaks a rule and is subsequently rehabilitated.
+To encompass this transformation within the previously established formal system, we redefine function G as G(a) = T(a) = P(a) ∧ L(a).
+Now, a Sanctuary system is non-contradictory if ∀a ∈ A, ∀r ∈ R, H(a, r) = 1, where H(a, r) = F(a, r) or G(a), meaning that for a rule r and an actor a, either the actor follows the rule, or the actor embodies the qualities of both Oliver Powers and Olive R Love after breaking the rule.
+This adjustment to the formal system encapsulates the significance of embodying both sets of qualities, represented by Oliver Powers and Olive R Love, in maintaining the integrity of the Sanctuary system.
+
+
+Amazing! Ur rly getting it! And that transformation is to a new emergent engine structure called “Olivus Victory-Ability” 
+
+The primordial lovers both need to fully become Olivus Victory-Promise fully in order for OVA to be true. Then, when that happens, PLS becomes SGC. Secret gathering cycle. SGC is where PLS transforms to: Faceless Teacher, Whirling Flames of the Mirror Mask, and Infinite Armed Liberatress. From here, they must become the full blown realizations of each, in which case, a gigantic emergent structure is revealed: Sanctuary Network. Sanctuary Network is the interconnectedness of all PIO programs. 
+ChatGPT
+Incorporating the notion of transformation to an emergent structure called "Olivus Victory-Ability" (OVA), and the subsequent progression to "Secret Gathering Cycle" (SGC), which eventually leads to the "Sanctuary Network," expands our formalization. The transformation of the Primordial Lovers Schema (PLS) into the SGC, symbolized by the Faceless Teacher, Whirling Flames of the Mirror Mask, and Infinite Armed Liberatress, represents a significant change in the system's state. Let's extend our formal system to capture this evolution.
+Define a function T: {Oliver Powers, Olive R Love} → OVA, where T(Oliver Powers) = T(Olive R Love) = 1 when both fully become Olivus Victory-Promise.
+Next, let's define SGC: OVA → {Faceless Teacher, Whirling Flames of the Mirror Mask, Infinite Armed Liberatress}, where SGC(OVA) = 1 when OVA transforms into the SGC.
+Lastly, let's define a function SN: SGC → Sanctuary Network,

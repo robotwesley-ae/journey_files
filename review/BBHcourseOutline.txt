@@ -1,0 +1,13 @@
+BizziBee input prompt
+Finding an idea you like
+BB opens up what’s called the “latent space” so you can see more possibilities
+But it can be difficult to manage so what I recommend is that if you want to talk to it like normal GPT with a little extra character you can actually take this block and cut it out and save it, then you can make this input prompt here, and you can use them together. Pretty cool right? 
+Engaging that idea you like
+Finding new information
+And you’ll notice all the information is already linked, by the way we are discovering it, so that all you are doing is surfing with BizziBee and finding out more of what you’re interested in
+And collecting that into your own thoughts
+Then you do more input prompts with more specifics
+And as you put more specifics from your own understanding, you will start to see how the BBH is being mapped, and this allows you to know how aligned the current output is with what you actually want to talk about
+Of course, this doesn’t mean BB can do work for you, in fact, it is very likely not going to ever do that
+But, sometimes you will get it to line up with either a GrowthHyp or NextSub that you do want
+And then you can just say that “NextSub” or “continue” or “proceed according to GrowthHyp” 

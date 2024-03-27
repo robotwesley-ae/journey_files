@@ -1,0 +1,93 @@
+CONTINUED FROM PART 1…
+
+I:
+...Or they are prepared to follow and I'm not prepared to lead them specifically and
+
+W:
+Either they're not prepared or they are but you're not 
+
+I:
+right.
+But generally speaking the people that I find in that second camp are in situations where
+Where they're not really prepared to follow they're right here to follow something, but what we're talking about doesn't exist
+basically
+And and it's beyond the point of like well, why doesn't it exist and let's reverse engineer it until it exists
+Because if that's all that was required
+Then usually all that's required for that is followers
+So it would happen, um
+But the way that I usually
+Like to lead
+Is one of two ways either I don't want to get involved
+And I want to say very generally
+This is what needs to happen and how it needs to go and this is every step it needs to go this way
+so you just need to iterate it until this is happening at 100%
+Then it'll be the thing
+Um
+And the reason is because
+There just are minimum requirements for things and
+The the basic chain is these are the minimum requirements go meet them
+And usually minimum requirement chains
+Don't require you to already have chains. That's why they're entry-level things
+And they're just go get these requirements right, there's
+You're getting that instruction from a higher order place. You're not in yet, right?
+So those are the directions you can't you can't do anything else, so
+I would say there are people who don't complete the requirements
+And then there are people who sometimes complete the requirements accidentally
+Which is confusing for everyone
+and then there's um
+Like i'm one of those people who will like most of the time if I complete requirements for something I did it accidentally
+Um
+So
+Then it's like the my skill level in that thing is all over the place
+And some people are just like I don't know. I don't know how to deal with this
+right, because i'll be missing things that are
+So obvious to some people, you know
+Like what you were saying the other day about like the constructor pattern
+Right, like how we were talking about that
+And I was like I hate this pattern the reason I hate this pattern is because it implies types without making them and it's like
+That is a very frustrating thing to try to, to try to reason with because you can't refer to the thing
+And so then it's like eventually, um
+What happens is like eventually it takes so much context to talk about any one particular thing
+if you get to a sufficient amount of complexity that you've built on top of
+you know the basic
+Loop that you're using in this constructor, right?
+and you're like because
+This thing has these automorphisms, right?
+Like because this thing is this way in these… is itself in these way by being by having these things in this way
+right
+Having these property values
+Sorry, what did I just say what is the lead up to this?
+
+W:
+It was just you were you were about to make a point about the constructor pattern and how
+
+I
+Like right, right, right. So the context just explodes because it's like 
+
+W:
+how complicated it was to describe a thing
+
+I:
+yeah, because you can't because it's it's you have to compound so many different thoughts in order to refer to it because you haven't
+typified all of this stuff so
+you know, let me give you an example like if we just have like Bong, and then we don't typify any of the perks that can go inside of them into types of bongs that have perks
+Right and then have different types of perks
+Then eventually we get to the point where like we can't sell any bongs because we can't figure out what anybody means
+Because we're all talking we have to go through all the categories that make the thing in order to talk about it right
+Classic problem
+That's like what LLMs do anyway, right
+
+W:
+How do you mean exactly 
+
+I:
+because you have to always contextualize what you want to talk about
+Yeah, you can't fucking remember and so you like remembering is is creating interaction types, right?
+Right like
+I remember this time that I had an interaction like this
+There's no other thing you could remember 
+
+W:
+Right
+
+I:

@@ -1,0 +1,29 @@
+ context. GPT will then generate an ordered list of nodes, providing a semantic navigation path for the user. It's critical that GPT identifies and uses instance-level properties, domain-level class property templates, and class-level class property templates for this process. To do this, an algorithm will need to be designed that accurately instructs GPT, transforming user queries into OWL syntax, guiding the user along the knowledge graph, and finally, translating the collected data into the Informadlib Template.
+
+State Machine: This is a computing concept where a machine transitions between different states based on input and defined rules. In our case, it would involve GPT transitioning between 'instance', 'class', and 'superclass' states, using the commands we defined.
+
+(InstanceTemplate, DomainLevelClassPropertyTemplate, and DirectSuperClassTemplate) and properties (InstanceLevelProperty, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate). 
+
+EWSO (Emergent Web Structure Ontology): This is a dynamic, multidimensional ontology that evolves over time and is not strictly representable by traditional ontologies without using multiple ontologies. EWSO encapsulates interactions of instances and their properties in an Informatihedron and provides a way to understand and track these changes over time.
+
+Informatihedron: This is the multidimensional conceptual space wherein instances and their properties exist and interact. It can be considered as the 'view' or 'display' of a node in the EWSO. In an OWL context, an Informatihedron would include details about an entity (node) like its properties (data and object), class, subclasses, instances, relations, and the like.
+
+Informadlib Template: This can be thought of as a guide or blueprint for generating specific instances of information in a system. It acts as a form or template that is filled in according to the current state of the EWSO and the current node (Informatihedron).
+
+InstanceLevel, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate: These are custom-defined commands to query GPT for multiple levels of properties. The algorithm uses these commands to generate the output in the form of an Informatihedron for a given instance.
+
+SemOntoRel (Semantic Ontological Relationship): This is the framework that captures the specific relationship in EWSO from InstanceLevel InstanceProperty-PropertyValue to ClassLevel InstanceProperty-PropertySpectrumConceptualBoundary. This is an essential part of the algorithm we are trying to devise.
+
+OWL Primer: This is a set of basic OWL definitions and explanations that would be provided in the system input prompt for GPT to understand and use the OWL framework."
+ChatGPT
+Round 1
+Expert 1 - Dr. Amelia Turing (Knowledge Representation and Reasoning):
+Below is the list of skillchains from the last discussion:
+[Skillchain(1a-OWLInterpreter-1b-NodeListGenerator-1c-PathGuide-1d-InformadlibTranslator)]
+[Skillchain(2a-CombLogicNodeSelector-2b-PathCombinator-2c-InformadlibCombiner)]
+[Skillchain(3a-CommandInterpreter-3b-OWLSyntaxTransformer-3c-InformadlibCommandHandler)]
+[Skillchain(4a-OWLInterpreter-4b-CombLogicNodeSelector-4c-PathCombinator-4d-CommandInterpreter-4e-OWLSyntaxTransformer-4f-InformadlibTranslator-4g-InformadlibCombiner-4h-InformadlibCommandHandler)]
+[Skillchain(1a-InstancePropertyClassPropertyRelator-1b-OntologicalAbstractionAnalyst-1c-OWLInterpreter-1d-NodeListGenerator-1e-PathGuide-1f-InformadlibTranslator)]
+[Skillchain(2a-LogicalCoherenceValidator-2b-CompletenessChecker-2c-CombLogicNodeSelector-2d-PathCombinator-2e-InformadlibCombiner)]
+[Skillchain(3a-CustomDefinitionAdaptor-3b-ComplexCommandHandler-3c-CommandInterpreter-3d-OWLSyntaxTransformer-3e-InformadlibCommandHandler)]
+[Skillchain(4a-InstancePropertyClassPropertyRelator-4b-OntologicalAbstractionAnalyst-4c-LogicalCoherenceValidator-4d-CompletenessChecker-4e-CustomDefinitionAdaptor-4f-ComplexCommandHandler-4g-OWLInterpreter-4h-NodeListGenerator-4i-PathGuide-4j-CommandInterpreter-4k-OWLSyntaxTransformer-4l-InformadlibTranslator-4m-InformadlibCombiner-4n-InformadlibCommandHandler)]

@@ -1,0 +1,24 @@
+SubSubGenre-SubGenre-Genre-Psychological Meaning-Type of Catharsis
+
+Column 6
+Dream Effect-Planning Effect-Behavioral Effect-Societal  Effect
+ChatGPT
+Sure, here is a reformulated table:
+Next, we'll seek expert panel reviews to refine the above. Let's proceed with that.
+ok. yes. also remind them that this version has undone most of the work and is totally incorrect, and is just an example of how we might fill it out if we didnt know about all the emergent structures and how we are being SEM-ONTO SPECIFIC.
+
+For reference, this is a plain text version of the table with correct SEM-ONTO relationships. SEM-ONTO needs to be APPLIED to EVERY SINGLE THING WE WRITE IN THE TABLE. WE CANNOT JUST WRITE ENTITIES IN THE TABLE. WE NEED TO SEMANTICALLY ONTOLOGIZE THEM SO THEY CAN BE RE-INSTANCED FROM THE TEMPLATE. DO NOT CHANGE THIS RULE. DO NOT IGNORE IT. FIX EVERYTHING.
+
+"earning	verb_denoting_Protagonist's_active_information_acquisition-Represents(Personal Transformation, Growth)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+dragon behavior	subject_of_learning_from_a_natural_source-Represents(Knowledge Gain, Understanding of the Other)-DRAGON-Embodies(Nature, Wildness, Otherness)-Fear Effect, Overcome-Planning Effect, Adapt-Behavioral Effect, Understand-Societal Effect, Accept.
+from	preposition_indicating_source_of_learning-Connects(Protagonist, Mentor)-MENTOR-Embodies(Guidance, Wisdom, Learning)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+Toothless	dragon_mentor-Represents(Mentorship, Guidance, Wisdom)-DRAGON-Embodies(Nature, Wildness, Otherness)-Fear Effect, Overcome-Planning Effect, Adapt-Behavioral Effect, Understand-Societal Effect, Accept.
+Hiccup	protagonist_with_desire_to_learn-Embodies(Hero's Journey, Personal Transformation)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+is able to	verb_phrase_expressing_Protagonist's_potentiality-Represents(Possibility, Potential, Capability)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+subdue	verb_emphasizing_Protagonist's_ability_to_calm_wild_beings_by_empathy_and_understanding-Indicates(Dominance, Mastery, Success)-HERO-Control Over Nature-Embodies(Overcoming Obstacles, Strength)-Determination Effect, Master-Planning Effect, Overcome-Behavioral Effect, Succeed-Societal Effect, Progress.
+the captive dragons	noun_signifying_object_of_Protagonist's_action_and_symbol_of_cultural_tension-Represents(Challenge, Adventure, Otherness, Cultural Conflict)-DRAGONS-Embodies(Nature, Wildness, Otherness, Challenge)-Fear Effect, Overcome-Planning Effect, Tame-Behavioral Effect, Understand-Societal Effect, Coexist.
+during training	prepositional_phrase_showing_temporal_context_of_Protagonist's_action-Represents(Experience, Learning Journey, Growth)-TRAINING-Embodies(Discipline, Mastery, Persistence, Progress)-Determination Effect, Train-Planning Effect, Learn-Behavioral Effect, Succeed-Societal Effect, Inspire.
+earning admiration	verb_phrase_expressing_Protagonist's_inspiring_impact_on_others-Represents(Hero's Influence, Initiation of Change in Others, Awakening of Aspirational Values)-HERO-Embodies(Quest of Self-Transformation, Innovation, Leadership, Magnetism)-Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Lead-Societal Effect, Transform.
+but suspicion from Astrid	conjunction_noun_phrase_expressing_love_interest's_unresolved"
+ChatGPT
+feelings_towards_protagonist-Represents(Love Interest's Initial Rejection, Emotional Tension, Uncertainty)-LOVE_INTEREST(INITIAL_REJECTION)-Embodies(Doubt, Questioning, Evolution of Perception, Slow Awakening to Love)-Suspicion Effect, Resolve-Planning Effect, Discover-Behavioral Effect, Reveal-Societal Effect, Resolve.

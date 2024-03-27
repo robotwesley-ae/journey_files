@@ -1,0 +1,88 @@
+SUMO upper ontology that invokes domain specific ontologies
+
+Remove domain specific non-computational language from descriptions so it is more obviously an engineering problem that engineers can get excited about.
+
+The whole point of Crystal Ball is that it is a computer that allows you to generate property bounded purposive combinatorial explosions of solutions according to your thoughts about possible-X.
+
+Boolean explosion 2^n
+Where N = # of Booleans
+
+In binary
+2^2
+2^2^dimension
+2^2^10
+
+When you have normal Boolean operators which are based in binary, you have to express what’s coded in the binary language in order to process it in the first place.
+
+By abstracting to real numbers the entire binary code for any X, we can greatly limit the number of processes needed to indicate the data that needs to be processed in the first place during the search by just representing the processing instead.
+
+Ex representation “1.120311938471297346921”
+
+In binary each one of these digits means 01010100101010100101010100010010101011001010100101010100101010101010100101010100101010101001010101001010101010010101010010100101011100101 x8000 pages or whatever
+
+= tons of processing 
+
+
+By simulating the display of the called binary data, we avoid having to process the calling of the binary data.
+
+So the idea is to do 2^2^10 in like 1000 steps instead.
+
+But this requires a scale-free controller. 
+
+So, we need to parse the blueprint into every system that it actually consists of.
+
+
+
+Underneath the CB search infrastructure is an AI:
+
+Clustering algorithm semantically construes an “identity”, sub-term nodes related naively (ie. this cluster might have a “nature” [sanskrit. Svabhava]) (subjective conceptualization)
+
+Classifying-ontological-aligner-algorithm schematically classifies clustered elements through ontology mapping and aligning [via graph embedding and transformations], beginning with emergent relationships and working them into a neighborhood of possible formations of conditions that cause imputation of “svabhava” (objective conceptualization)
+
+An informatihedron is formed and then placed automatically in the informatihedron neighborhood it belongs in, through domain specific absolute root multiplication
+
+New “identity” is actually “mined” when informatihedron “novelty” is checked. In a way, the informatihedron “home” is appraised according to whether or not it belongs in the neighborhood, and if it does, then Objectiveness is achieved.
+
+Emergent relationships allow informatihedrons to be placed in neighborhoods based on supposition (X and Y are related in an inexplicable way, explicable objectiveness PENDING the discovery of its intermediary layers). In this way, it simultaneously implies that you could have ignorance there (could be in IKI or the relationship could actually be “indestructibly emergent”).
+
+Emergence & CB
+Relationships:
+As long as you can designate the relationship between two things as being emergent, crystal ball can place the resulting informatihedron neighborhoods in escrow
+
+Whenever relationships between entities are apparent, but not normalized to an ontological hierarchy (is_a, part_of, instantiates, etc), they are defined as emergent, which means two nodes related by synergistic combination of their joining, in a regime that has not been schematized i.e. not an ontologically described relationship in which it is known WHAT is causing their synergy to result in the emergence) 
+
+Therefore, the default relationship type in CB should actually be “emergent.”
+
+X <- emergent - Y
+
+Activity Theory & Crystal Ball
+
+User has an idea, which is emergent from conditions with the degree of strength of its emergence skill-relative according to how much of the totality of correct intermediate layers (their entities and relationships) are known in the ontology of the User called “Worldview.”
+ 
+This idea is “unresolved” because it has a degree of emergence that is not too weak to matter regarding the object becoming objective through achieving various degrees of objectiveness in its properties (ie. this table is objectively a table because of its table-ness which is apparent due to its property spectrums’ values of x, y, z, etc.) (for example, the conditions of chemistry are not relevant when making the subjective idea of some content objective via the medium of painting, i.e. as a painting of that content, unless we are activating that specific multifunction application, in this case some kind of molecular-painting or whatever). 
+
+The process of making a subjective “idea” an object recognizable as the subjective thing that was thought of in the first place is called activity. Activity may be performed in reliance on internal and external tools. External tools for reconciling the emergence of the subjective idea with the possibilities of its objective-ness are called knowledge, which is organized meanings derived from data/information. The internal tool for generation is called free-play/imagination. The internal tool for reconciling these generated ideas is called logic. The root domain through which the subjective idea transforms into objective idea-ness is called the medium (?)
+
+The external tool that reconciles the imagination via a progressive application of logic through search is called Crystal Ball.
+
+The User can perform the activity of searching for and achieving objective idea-ness of something via Crystal Ball
+The User can perform the activity of searching for and achieving objective-ness of the objective idea-ness of something via Crystal Ball
+The subjective idea is a type of informatihedron
+The objective-idea-ness is a type of informatihedron
+The objective-ness of an object is a type of informatihedron and also a physical or digital realizable
+Crystal Ball is a brute-force search omnitool for finding how any informatihedron is what it is (epistemology and ontology). In other words, CB is for searching how an emergent informatihedron in the mind, an idea, could be legitimately morphed into a different informatihedron with a higher degree of objective-idea-ness until it can be morphed into an informatihedron with a higher degree of objective-ness) (how the subjective “before-legitimate-X'' came to possess the properties that cause its legitimate designation as X in shared objective reality ie. its objectiveness)
+
+Notes
+
+Activity Theory can be used to model the “purposive” dimension of Crystal Ball. It models the space of conditions which promote the transition of an idea from a nascent/internal/subjective/supposed form to a crystallized/external/objective/superposed form.
+
+Activity Theory ->
+Have idea internal, subjective
+Want to make it objective
+Activity does that to some degree
+= Object
+
+Object that proves objective-ness of subjective idea
+User resolves it with Crystal Ball
+The idea is now in a schematised state
+This can be further iterated

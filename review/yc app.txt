@@ -1,0 +1,120 @@
+Describe what your company does in 50 characters or less.
+We mine knowledge from data
+
+What is your company going to make? Please describe your product and what it does or will do.
+A knowledge mining machine. It’s essentially AR for ideas except it doesn’t rely on sensory input... 
+
+
+Please enter the url of a 1 minute unlisted (not private) YouTube or Youku video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
+How many founders are on the team?
+(Fill out this number of founder profiles)
+2
+
+CATEGORY
+Which category best applies to your company?
+ Adtech Aerospace Agriculture Analytics Augmented Reality Biotech Community Construction Continuing Education Crypto / Blockchain Developer Tools E-Sports K-12 Energy Entertainment Financial Services Fitness / Wellness Food/Beverage Freight Gaming Government Hard Tech Hardware Healthcare Insurance Language Learning Lending / Loan Management Marketplace Media Public Transportation Retail Recruiting/Talent Robotics Security Sourcing / Recruiting Transportation Travel/Tourism Virtual Reality Other
+PROGRESS
+How far along are you?
+
+Spoke with engineers, proved in theory. Developed finite state machine model of Crystal Ball. Need technical co-founder to develop software proof.
+
+How long have each of you been working on this? How much of that has been full-time? Please explain.
+
+I first wrote the process hypothesis in 2018. I was in product at a blockchain startup for music streaming at the time and I asked the engineering team if the process existed/could work etc. and we worked out that it could and was simple.
+I ended up not working further on the project after realizing it had some defense applications I was at the time uncomfortable with... but a few months ago I started thinking about it again and began discovering more and more beneficial applications, so I decided to start working on it again. I brought in Wesley at that time because he is currently the only other person who knows the extent of the applications.
+
+Are people using your product?
+ No Yes
+
+No
+
+When will you have a prototype or beta?
+
+Probably soon after we find a technical co-founder and/or engineer or engineers
+
+Do you have revenue?
+ No Yes
+
+No
+IDEA
+Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+
+I chose this idea because it is an overlooked area of technology. We currently mine intellectual reality for knowledge via questions we ask ourselves and search for the answers with our own minds. Our machine allows anyone to mine with an entire world's worth of human minds thinking searching for the answer to their question.
+
+
+What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+
+What's new is the way we think about the answer sets. But on a product level, what's new is that your mind can become a remote control for an innovation space without any prior knowledge of it.
+
+Currently, people substitute our machine for prior knowledge, so they do things like get good at different skills. For instance, some people get good at music and become pop stars. A fully functional version of Crystal Ball with a pop music library loaded into it would be able to print out something like blueprints for pop songs, democratically.
+
+
+Who are your competitors, and who might become competitors? Who do you fear most?
+
+The only competitor even in the same ballpark is Autodesk's Intuitive Generative Project Dreamcatcher, but there is a big difference between what we do and what they do. They generate one answer to a search in the form of a physical object that is one answer out of a million answers to that search, of which one of these answers may or may not be what you meant to search for, so you have to manually sift through the answer set.
+
+We generate every answer and display every answer as abstracted information within the form of a physical object, of which one of these answer sets is the exact object you meant to search for, and by moving in the space dynamically, you can find that answer.
+
+Two of our adjacent industries, AI and Quantum computing, are full of companies who are working on very similar problems in different ways.
+Artificial Intelligence research is primarily centered around developing software applications which deal with general problems and broad data sets, at a very high level of autonomy. Quantum Computing research is primarily centered around developing hardware tech which deals with very complex problems and massive data sets, at extremely fast processing speeds.
+With Crystal Ball, we aim to help our users deal with countless problems and networked data sets.
+
+
+What do you understand about your business that other companies in it just don't get?
+
+Productivity has plateaued due to a fundamental disconnect in our ability to convert our present resources and capabilities into the maximum value for people and their work. We cannot faithfully rely on computers to help us with the fundamental limitations of our current expertise in any given field. Some companies are trying to make AIs that fix this problem in certain applications, but are ignoring the root of the problem: computers are not actually helping us think about things we don’t know we can think about. That’s why we made Crystal Ball, a kind of “AR for ideas,” because in order to be most productive, we believe humanity should start with productive thought processes, access to expert knowledge, and streamlined creative design as an all-in-one experience.
+
+How do or will you make money? How much could you make?
+(We realize you can't know precisely, but give your best estimate.)
+In multiple ways: 
+By charging a monthly subscription to users
+By selling enterprise and government versions of our machine
+By selling professional grade design suite libraries
+By selling courses that help people learn different library categories
+By charging governments for defense applications of Crystal Ball
+
+We could probably make billions per month. 
+
+
+How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?
+
+Depending on how quickly we are able to harvest data and turn it into what our system considers “knowledge” that we could then mine, we are looking at developing the functionality and features *innately* and *automatically* as the accessible knowledge of our system grows. 
+
+
+EQUITY
+Have you incorporated, or formed any legal entity (like an LLC) yet?
+ No Yes
+Have you taken any investment yet?
+ No Yes
+If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder.
+(This question is as much for you as us.)
+Please provide any other relevant information about the structure or formation of the company.
+LEGAL
+
+Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
+Is there anything else we should know about your company?
+(Pending lawsuits, cofounders who have left, etc.)
+OTHERS
+If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+GLACIAL LAKE is a work culture wellness consulting firm that would make use of meditation and mindful body and speech practices to detoxify workplaces, increasing efficiency and value.
+
+Another project we really love is MANDALA: 
+an empathic, storytelling based social media platform that helps users share within a structure people can actually connect to. Too much of social media is presented as achievements without any context for struggles involved in getting there. This results in people feeling depressed and negative when viewing other people's success. A classical aspect of storytelling is a vulnerable main character, but most of the time people project invulnerability on social media. It’s no wonder we don’t feel more connected on social media. We should be able to rejoice in each others' successes, without feeling like we ourselves are failures. In order to launch this quickly, we would likely make extensive use of celebrity partnerships.
+
+These are both projects included in Crystal Ball but we could frame them as individual businesses.
+
+Another thing we could do is start with an applied product: we could make a streaming remote that uses Crystal Ball search to help you find something to watch across all the subscription services you have, or even recommend things on services you don’t (if you wanted).  
+
+
+
+Please tell us something surprising or amusing that one of you has discovered.
+(The answer need not be related to your project.)
+
+
+
+
+Please tell us something surprising or amusing that one of you has discovered.
+(The answer need not be related to your project.)
+CURIOUS
+What convinced you to apply to Y Combinator? Did someone encourage you to apply?
+How did you hear about Y Combinator?

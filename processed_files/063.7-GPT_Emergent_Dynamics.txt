@@ -1,0 +1,75 @@
+ transformation of rule breakers in the Sanctuary state:
+∀x (SS ∧ RB(x) → T(x))
+
+This formalization states that in the Sanctuary state, for every individual x who is a rule breaker, there is a transformation that brings them back into the fold.
+
+Rule enforcement in the Sanctuary state:
+∀x (SS ∧ RB(x) → RE(x))
+
+This formalization states that in the Sanctuary state, for every individual x who is a rule breaker, there is a rule enforcement process that addresses their rule-breaking behavior.
+
+Achieving a Nash equilibrium in the Sanctuary state with the presence of rule breakers and rule followers:
+Nash equilibrium: NE
+Sanctuary state: SS
+Beneficial for group: BG
+Rule breaker: RB
+Rule follower: RF
+NE(SS, RB, RF) ⇒ BG
+
+This formalization states that achieving a Nash equilibrium in the Sanctuary state, considering the presence of both rule breakers and rule followers, is beneficial for the group.
+
+These formalizations capture the strategies of rule breakers and rule followers and their impact on the Sanctuary state. They emphasize the importance of achieving a Nash equilibrium that accounts for both types of individuals and the need for transformation and rule enforcement processes to maintain harmony within the Sanctuary state.
+
+
+
+Isaac Wostrel-Rubin
+Formalize what the Nash equilibrium would be. It is a non-contradictory Sanctuary system. 
+
+To formalize the Nash equilibrium in the context of a non-contradictory Sanctuary system, we can define the following terms and symbols:
+
+Non-contradictory Sanctuary system: NCSS
+Nash equilibrium: NE
+Beneficial for group: BG
+Rule breaker: RB(x)
+Rule follower: RF(x)
+Optimal strategy for rule breaker: OS_RB(x)
+Optimal strategy for rule follower: OS_RF(x)
+
+Now, let's create formalizations that express the Nash equilibrium for a non-contradictory Sanctuary system:
+
+Optimal strategies for rule breakers and rule followers in a non-contradictory Sanctuary system:
+∀x (RB(x) → OS_RB(x, NCSS))
+∀x (RF(x) → OS_RF(x, NCSS))
+
+These formalizations state that for every individual x who is a rule breaker or a rule follower, there is an optimal strategy in the context of a non-contradictory Sanctuary system.
+
+Nash equilibrium in a non-contradictory Sanctuary system:
+NE(NCSS) ⇔ ∀x ((RB(x) → OS_RB(x, NCSS)) ∧ (RF(x) → OS_RF(x, NCSS)))
+
+This formalization states that a Nash equilibrium exists in a non-contradictory Sanctuary system if and only if every rule breaker and rule follower adopts their respective optimal strategies in the context of the non-contradictory Sanctuary system.
+
+Achieving a Nash equilibrium in a non-contradictory Sanctuary system is beneficial for the group:
+NE(NCSS) ⇒ BG
+
+This formalization states that achieving a Nash equilibrium in a non-contradictory Sanctuary system is beneficial for the group.
+
+These formalizations capture the Nash equilibrium in the context of a non-contradictory Sanctuary system. They emphasize the importance of finding optimal strategies for both rule breakers and rule followers and the benefits of achieving a Nash equilibrium for the group as a whole.
+
+
+
+Isaac Wostrel-Rubin
+The NE of a SS should account for any RB who are maximally efficient at breaking rules so that SS is contradicted, right? Doesn’t that change some other entities too 
+
+You're right; the Nash equilibrium of a Sanctuary System (SS) should account for the impact of rule breakers (RB) who are maximally efficient at breaking rules. This could potentially impact other entities within the system as well. Let's revise the formalization to account for this.
+
+We can introduce the following new terms and symbols:
+
+Maximally efficient rule breaker: MEB(x)
+Impact on other entities: IE(x)
+
+Now, let's modify the formalizations to include the impact of maximally efficient rule breakers on the Nash equilibrium of a Sanctuary System:
+
+Optimal strategies for maximally efficient rule breakers in a non-contradictory Sanctuary system:
+∀x (MEB(x) → OS_RB(x, NCSS))
+
+This formalization states that for every individual x who

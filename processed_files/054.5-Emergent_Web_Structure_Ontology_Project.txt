@@ -1,0 +1,49 @@
+Please note that this Informatihedron is abstract and somewhat simplified for clarity. GPT's actual understanding of these concepts is rooted in patterns in the data it was trained on, and doesn't involve explicit knowledge or understanding in the human sense. 🌈🔮🙏
+ok so i still dont know.... can u just get me an informadlib of the character "Hiccup" from How to Train Your Dragon? i know that story rly well its one of my favorite movies, so i can easily tell u if we're going the right way with informadlib
+ChatGPT
+Absolutely, let's generate an Informadlib for the character Hiccup from the movie "How to Train Your Dragon".
+Please note that the Informadlib process involves mapping user intent, contextual analysis, solution optimization, instance template script generation, ontology abstraction, and finally integration. We'll apply these steps to create a structured representation of Hiccup in a way that's intuitive for GPT.
+Here's a simplified version of the Informadlib:
+Instance-level Properties:
+Name: Hiccup
+Role: Main character, dragon trainer
+Personality: Courageous, intelligent, empathetic
+Instance-level Properties’ Fiat Conceptual Boundaries:
+The aforementioned properties are directly tied to Hiccup and his persona within the story.
+These properties define Hiccup's character and role in the narrative.
+Domain-level Properties:
+Domain: Animation, Fantasy
+Context: "How to Train Your Dragon" storyline
+Domain-level Properties’ Fiat Conceptual Boundaries:
+The Domain is defined by the genre and medium of the story.
+The Context refers to the specific narrative within which Hiccup exists.
+Class-level Properties:
+Class: Characters of "How to Train Your Dragon"
+Subclass: Main characters
+Superclass: Characters in animated films
+Class-level Properties’ Fiat Conceptual Boundaries:
+Hierarchy: Hiccup falls under the Main characters subclass, which falls under the Characters of "How to Train Your Dragon" class, which in turn falls under Characters in animated films superclass.
+Consistency: Hiccup shares common attributes with other entities within his class, subclass, and superclass, such as being a character in an animated film.
+Embedding Space: This is where Hiccup's attributes and relationships are represented and analyzed in context.
+Remember, this is a simple Informadlib of Hiccup and doesn't fully capture the complexity of his character or the depth of the "How to Train Your Dragon" narrative, but serves as a starting point for understanding and generating similar Informadlib structures. 🌈🔮🙏
+ok so this is great, but i need something a bit more. 
+
+for example, u said DOmain defined by genre, but u didnt say the genre - why not? 
+
+can u help me fill in the template, but instead of changing anything u currently already have, can u just compress it, add the same level of detail probing maybe 3 granularity levels further in both directions, and then output that????? i need it totally comprehensively specified. i know its taxing but u gotta do it without reverting to a lower processing method
+ChatGPT
+Of course, I can certainly provide a more comprehensive and detailed Informadlib for Hiccup from "How to Train Your Dragon". Please note that increasing the granularity could lead to a considerably more complex structure, but I'll aim to maintain clarity.
+Let's dive into it:
+Instance-level Properties:
+Name: Hiccup Horrendous Haddock III
+Role: Main character, son of the Viking chief, dragon trainer
+Personality: Intelligent, inventive, empathetic, brave, growth-oriented
+Appearance: Slim, red hair, freckles, wears Viking attire
+Dragon: Toothless, a Night Fury
+Instance-level Properties’ Fiat Conceptual Boundaries:
+Specific to Hiccup: All these attributes are unique identifiers for Hiccup.
+Influence on Hiccup's Actions: These attributes directly influence Hiccup's decisions and actions within the narrative.
+Domain-level Properties:
+Domain: Animated Feature Film; Sub-domain: Fantasy Adventure; Sub-sub-domain: Dragon Mythology
+Context: "How to Train Your Dragon" storyline; Sub-context: The Viking village of Berk; Sub-sub-context: Human-dragon relationships
+Domain-level Properties’ Fiat Conceptual Boundaries:

@@ -1,0 +1,22 @@
+-(scene->emotions->internal beats->goalsequence->Hero'sJourneyPlotPoint->Story->Initiation->PsychologicalAbsorption->Synchronicity->PerceptionOfEmergentKnowledge->PerceptionOfEmergentStructure->PerceptionOfEmergentEngine)
+
+
+
+ok now we need to start doing it like this:
+
+in each output, expert 1 will propose a relationship
+expert 2 will revise it, extending its class
+expert 3 will try to extend its superclass
+expert 4 will analyze, give current informadlib status, template, and how to train your dragon example revised
+Original Sentence for Context:
+"Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid."
+Super Fusion Analytical KRR Expert:
+Now we're looking at "during training". "During training" - prepositional_phrase_denoting_context_of_Protagonist's_action-Represents(Effort, Practice)-TRAINING-Embodies(Discipline, Mastery)-Determination Effect, Train-Planning Effect, Learn-Behavioral Effect, Succeed-Societal Effect, Inspire.
+Super Fusion Analytical KRR Expert 2:
+Refining the above, "During training" - prepositional_phrase_indicating_setting_of_Protagonist's_action-Represents(Experience, Learning Journey)-TRAINING-Embodies(Discipline, Mastery, Persistence)-Determination Effect, Train-Planning Effect, Learn-Behavioral Effect, Succeed-Societal Effect, Inspire.
+Super Fusion Analytical KRR Expert 3:
+Improving upon this: "During training" - prepositional_phrase_showing_temporal_context_of_Protagonist's_action-Represents(Experience, Learning Journey, Growth)-TRAINING-Embodies(Discipline, Mastery, Persistence, Progress)-Determination Effect, Train-Planning Effect, Learn-Behavioral Effect, Succeed-Societal Effect, Inspire.
+Super Analytical Narrative Semiotician:
+"During training" sets the context for Hiccup's actions, representing his experiences, his learning journey, his growth, and the progress he makes as he masters the ability to subdue dragons.
+Following that, "earning admiration" - verb_phrase_denoting_Protagonist's_social_reward-Represents(Success, Recognition)-HERO-Embodies(Quest of Self-Transformation, Innovation)-Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect, Guide.
+Current Informadlib Status:

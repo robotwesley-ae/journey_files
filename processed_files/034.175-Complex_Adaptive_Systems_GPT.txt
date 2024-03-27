@@ -1,0 +1,24 @@
+a. Prepare the Sanctuary System ontology as a textual representation, ensuring that it captures all the relevant concepts, relationships, and properties.
+Combine the Sanctuary System ontology with additional domain-specific knowledge:
+a. Gather scientific theoretical knowledge, such as research papers, textbooks, and other relevant materials.
+b. Preprocess this additional text by tokenizing, removing stop words, lowercasing, and applying stemming or lemmatization as necessary.
+c. Combine the Sanctuary System ontology text with the domain-specific knowledge to create a unified corpus.
+Train the modified Word2Vec model on the combined corpus:
+a. Feed the combined corpus to the modified Word2Vec model, ensuring that the special terms and ontological context from the Sanctuary System are appropriately incorporated during the training process.
+Obtain embeddings that capture the Sanctuary System ontology and domain-specific knowledge:
+a. After training, the input-hidden layer weights of the Word2Vec model will represent word embeddings that capture both the Sanctuary System ontology and the domain-specific knowledge.
+Visualize the embeddings as a graph space:
+a. Use a visualization library or tool to create a graph space representation of the embeddings, allowing users to explore and interact with the superposition of the probability distribution of answer sets.
+By following this simplified process, you will create a modified Word2Vec model that captures both the Sanctuary System ontology and the domain-specific knowledge, and visualize it as a graph space for users to interact with.
+
+
+When you say use the Sanctuary System ontology, do you mean like a JSON file of the actual protege ontology or a corpus of text that is the axioms of the Sanctuary System ontology?
+I apologize for any confusion. When I referred to using the Sanctuary System ontology, I meant using a textual representation of the ontology that captures its concepts, relationships, and properties. This could be generated from the actual Protege ontology file (e.g., an OWL or RDF file) by extracting and transforming the relevant information into a plain text format.
+For example, you could parse the ontology file, extract the concepts, relationships, and properties, and then represent them as sentences or phrases in a plain text format. This textual representation can then be used as part of the corpus for training the modified Word2Vec model, allowing the model to learn the structure and relationships present in the Sanctuary System ontology.
+To summarize, you would be transforming the Protege ontology file into a corpus of text that represents the axioms of the Sanctuary System ontology, which can then be used for training the modified Word2Vec model.
+
+
+whats the difference between word2vec, LLMs, and Crystal Ball?
+Word2Vec, language models (LMs), and Crystal Ball are related but distinct concepts. Let me briefly explain the differences:
+Word2Vec: Word2Vec is a shallow neural network model used to generate dense vector representations (embeddings) of words. These embeddings capture semantic and syntactic information about words based on their context in a large corpus of text. Word2Vec focuses primarily on word-level relationships, and its main purpose is to generate embeddings that can be used in other natural language processing tasks.
+Language Models (LMs): Language models, such as GPT, are more complex and powerful models trained to predict the likelihood of a sequence of words or the next word in a sequence. They can capture higher-level linguistic patterns and structures, such as sentence and paragraph-level semantics. LMs are typically based on deep learning architectures like RNNs, LSTMs, or Transformers. These models can perform a wide range of natural language understanding and generation tasks, such as text summarization, machine translation, and question-answering.

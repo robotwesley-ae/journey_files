@@ -1,0 +1,69 @@
+Formalizing Emergent Dynamics
+
+Model: GPT-4
+
+Isaac Wostrel-Rubin
+Explain superlogical specification of an abstraction hallucination into specific entities.
+	This is the fundamental process of emergence, because it is the superlogical process applied to specification that allows the emergents to continue to arise, in the first place, and our generalization of the superlogical process from our senses to our minds and understandings, which involves generalized summary abstraction hallucinations, that causes the superlogical specification process to take place continuously. 
+
+Claim 1: A non-contradictory system is a solution to the paradoxical syllogism in which A appears to contradict B by being itself and B contradicts A by being itself.
+
+To formalize this claim, we would need to define the terms "non-contradictory system", "paradoxical syllogism", "A", and "B". We might represent them using the following symbols:
+
+Non-contradictory system: N(A,B)
+Paradoxical syllogism: P(A,B)
+A: A(x)
+B: B(x)
+Next, we would need to describe the conditions under which A appears to contradict B and B appears to contradict A. We might represent this as follows:
+
+A appears to contradict B: ∀x (A(x) → ¬B(x))
+B appears to contradict A: ∀x (B(x) → ¬A(x))
+Finally, we would need to specify how the non-contradictory system solves the paradoxical syllogism. We might represent this as follows:
+
+N(A,B) solves P(A,B): ∀x ((A(x) ∧ B(x)) ↔ (¬A(x) ∧ ¬B(x)))
+Claim 2: A non-contradictory system is the requirement of basic computational completeness of any ontology.
+
+To formalize this claim, we would need to define the terms "non-contradictory system", "requirement", "basic computational completeness", and "ontology". We might represent them using the following symbols:
+
+Non-contradictory system: N(x)
+Requirement: R(x)
+Basic computational completeness: C(x)
+Ontology: O(x)
+Next, we would need to describe the relationship between the non-contradictory system and the requirements of basic computational completeness of any ontology. We might represent this as follows:
+
+N(x) is a requirement for C(x): ∀x (O(x) → R(N(x), C(x)))
+Claim 3: A non-contradictory system can help to dissolve abstraction hallucinations caused by myopia and hyperopia.
+
+To formalize this claim, we would need to define the terms "non-contradictory system", "abstraction hallucinations", "myopia", and "hyperopia". We might represent them using the following symbols:
+
+Non-contradictory system: N(x)
+Abstraction hallucinations: H(x)
+Myopia: M(x)
+Hyperopia: H(x)
+Next, we would need to describe the relationship between the non-contradictory system and the dissolution of abstraction hallucinations. We might represent this as follows:
+
+N(x) helps to dissolve H(x): ∀x (M(x) ∨ H(x) → ¬H(N(x)))
+
+Claim 4: A hallucination is a summary-induced entity that contains no actual path to its supposed parts when aligned with the consensus ontology.
+
+To formalize this claim, we would need to define the terms "hallucination", "summary-induced entity", "actual path", and "consensus ontology". We might represent them using the following symbols:
+
+Hallucination: H(x)
+Summary-induced entity: S(x)
+Actual path: P(x)
+Consensus ontology: C(x)
+Next, we would need to describe the relationship between hallucinations and their alignment with the consensus ontology. We might represent this as follows:
+
+H(x) is a summary-induced entity: ∀x (H(x) → S(x))
+S(x) contains no actual path to its parts: ∀x (S(x) → ¬∃y P(y,x))
+H(x) contains no actual path to its parts when aligned with C(x): ∀x (H(x) ∧ C(x) → ¬∃y P(y,x))
+Claim 5: Myopia is the abstraction hallucination due to drawing conclusions within an IKI domain's specifics, while hyperopia is the abstraction hallucination due to drawing conclusions within an IKI domain's relationships to other domains.
+
+To formalize this claim, we would need to define the terms "myopia", "abstraction hallucination", "IKI domain", "specifics", "hyperopia", and "relationships to other domains". We might represent them using the following symbols:
+
+Myopia: M(x)
+Abstraction hallucination: A(x)
+IKI domain: D(x)
+Specifics: S(x)
+Hyperopia: H(x)
+Relationships to other domains: R(x)

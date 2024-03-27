@@ -1,0 +1,40 @@
+We should use a neo4j db for the ledger, as just keeping the file local will not be good enough, and this allows for GDS and APOC usage. This also allows for  liquid and crystallized layers: the liquid is where tasks are disambiguated (completed tasks are mapped, blockers are mapped, tasks are validated as next step and so on) and crystallized is where the actual task list (being served to user for next task) lives.
+So obviously there will need to be a task analysis ontology and an ontology engineering ontology that allow the LLM to process user inputs ("i need to X") into "requirements for X need to be done", ontologized piecemeal, and then analyzed as a task, presented to the user as a chain to be done in a workflow.
+Auth: private CORS request access - the SaaS domain holding the LLM chains is the authorized accessor
+Let's make a machine readable assembly taxonomy language:
+"""
+If task 1.0, then 1.1->1.xn must be done to complete it.
+Chain that accomplishes 1.0 = 1.xn
+Blockers create digit places. The current place digit always represents the current task and whenever a blocker occurs the next digit is +1. So if 1.1 gets blocked, 1.12 instead of 1.2. If 1.12 is blocked, 1.123...
+If 9, then add ' and continue from 1 ->
+1.0:{Step1:[1.0, 1.1->1.12->1.123->1.20]->Step2:[1.21->1.212->1.22...] until 2.0 is reached, which always represents goal}
+This allows for the IDs of chains to reveal a pattern of how they were constructed. Not using a "dot notation" taxonomy, and instead using decimal notation itself like numbers actually function, interestingly allows the graphs to represent them as literal graphs instead of complex spaces with graph mappings
+"""
+Think of the "blockchain" aspect as a very structured DB where only the next cryptographically solved block can be the next link in the chain. This allows us to overcome any problems LLMs have because of nondeterministic complexity structuring in the prompt templates.
+I have already validated communication between LLM and Neo4j and Github as well as using it for task decomposition as well as using a similar coordinate system for that.
+Provide commentary for the way the numbers can represent very complex paths of trial and error and finding obstacles and overcomes, and how we can do GDS using GDS lib or APOC with neo4j and use AI agents to do so autonomously (agent are trained to send json payloads to the app appropriately from user intent and context), and what that UX would be like for the user, chatting with an orchestrator that tells them the next task.
+
+BusinessProcesses:[customer acquisition, conversion, delivery, expansion]: {
+[
+1) BuildMeasureLearn_InstancingChain:[0) FoundationBaseChain:[Finance/AccountingChain, HR/PeopleManagementChain, Legal/ComplianceChain, CustomerSuccess/SupportChain]:[BrandManagementChain:[
+1) BaseMarketingChain:[LeadGenChain:[LeadAcquisitionChain:[Funnel_InstancingChain: WebsiteChain, ContentChain:[SocialMediaManagementChain:[PostPerPlatformOrchestrationChain, ContentDevelopmentChain, ContentProductionChain, ContentEditingChain, ContentSchedulingChain], PaidAdsChain, AffiliatesChain], ColdOutreachChain, WarmOutreachChain], TouchPointChain:[NurtureChain]
+]
+2) BaseSalesChain:[SetterChain, CloserChain]
+3) BaseFulfillmentChain:[MainServiceChain, PostServiceSurveyChain]
+4) BaseAscensionChain:[InitialConversionChain:[MarketingChain, SalesChain, FulfillmentChain], InsidePlaysChain:[CrossSalesChain, UpgradeChain]
+]
+5) BaseOptimizationChain:[SpecializedBML_CyclesChain:[1)CRO:[SocialProofOptimization], 2) ..., etc]
+]
+],
+2) BaseOperationsChain:[BML:[
+1) BaseProductDevelopment:[MVP_GrowthHypothesis_Validation, MVP_ContinueOrPivotChain], 
+2) BaseProductManagement:[CRO_GrowthHypothesis_Validation:[FutureProductDevelopment:[BusinessProcesses]], CRO_ContinueOrPivotChain]
+]
+]
+]
+],
+]
+
+
+}
+Funnel: Progressively provide the complete train of thought for the next step in understanding something. This means: Providing a PATH through LAYERS OF UNDERSTANDING A VIEW, where each

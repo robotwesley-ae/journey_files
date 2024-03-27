@@ -1,0 +1,28 @@
+Let T = {t1, t2, t3} be the set of transitions between states in S, where each transition represents an improvement in understanding or refinement of the model.
+Define a function g: S × S → T that maps pairs of states to transitions, representing the change from one state to another in the process of understanding emergents.
+Let M = {m1, m2, ..., mq} be the set of Markov blankets and boundaries discovered within the text, representing contextual boundaries between different topics or concepts.
+Define a function h: S → M that maps each state in the process of understanding emergents to a Markov blanket or boundary.
+Let E = {e1, e2, ..., er} be the set of emergency engines identified from mining the Markov blankets and boundaries, such as insights, patterns, or high-level concepts.
+Define a function i: M → E that maps each Markov blanket or boundary to an emergency engine.
+In this context, an AI system can be designed to read and process the text, transitioning through the states of understanding as it encounters new information, refines its model, and discovers relationships between concepts. The AI can use natural language processing techniques, machine learning algorithms, and knowledge representation methods to move between states, identify Markov blankets and boundaries, and extract insights.
+
+For example, an AI system might start with a raw text input (p1), identify emergency hallucinations (s1) and attempt to correct or clarify them using a program (s2). It then builds a non-contradictory system (s3) to represent the relationships between words and concepts in the text, resulting in an ontology or knowledge graph (s4). The AI system can then mine this knowledge graph for insights (E), using Markov blankets and boundaries (M) to identify and explore contextual boundaries and high-level concepts.
+
+
+
+Isaac Wostrel-Rubin
+Explain this in terms of making GPT better
+
+In the context of improving GPT, the concepts and formalizations discussed can be applied to enhance GPT's understanding of language, context, and relationships between concepts. Here's how the process can be adapted to make GPT better:
+
+When GPT processes text input, it should be more aware of emergent phenomena (P), such as ambiguous language or misunderstandings due to improper language usage. This awareness can help GPT recognize when a concept is not fully understood or when it might need to refine its internal representations.
+As GPT encounters emergent phenomena, it can transition through the different states of understanding (S) to improve its comprehension. For example, GPT can develop programs (s2) to clarify ambiguous language, create non-contradictory systems (s3) to better represent relationships between words and concepts, and generate engines (s4) that encapsulate these improved representations.
+GPT can employ Markov blankets and boundaries (M) to better identify context and separate different topics or concepts within the text. By understanding the contextual boundaries, GPT can avoid conflating unrelated concepts and improve its ability to provide relevant and coherent responses.
+By mining the Markov blankets and boundaries, GPT can discover emergency engines (E), such as high-level insights, patterns, or relationships between concepts. These insights can help GPT generate more accurate, informative, and relevant responses to user inputs.
+Integrating these concepts and formalizations into GPT's architecture can involve updating the underlying machine learning algorithms, incorporating new knowledge representation techniques, and refining the natural language processing capabilities.
+By adapting these concepts and formalizations to GPT's design, the AI model can become more adept at understanding language, context, and the relationships between concepts. This improved understanding can lead to better performance, more coherent responses, and a more engaging and informative user experience.
+
+
+
+Isaac Wostrel-Rubin
+Write a prompt that instantly sets GPT

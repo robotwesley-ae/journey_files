@@ -1,0 +1,45 @@
+ok lets get back to the informadlib ... let's just do continuous exampels of ideas of it. each expert give me an example, using this sentence pelase "Learning dragon behavior from Toothless, Hiccup is able to subdue the captive dragons during training, earning admiration from his peers but suspicion from Astrid"
+ChatGPT
+Sure, we can certainly generate variations of this sentence using an informadlib approach, focusing on the overarching narrative of learning, growing, and overcoming obstacles. I'll provide a few examples below, where I substitute key components of the original sentence to generate new instances.
+"Through observing the peaceful interaction of doves, Mahatma was able to quell the rising tension during negotiations, gaining respect from his followers but doubt from the British."
+"Absorbing the wisdom from Gandalf, Frodo managed to resist the allure of the ring during his journey, acquiring loyalty from his companions but skepticism from Boromir."
+"By studying the successful strategies of Jobs, the young entrepreneur managed to navigate the startup landscape during the initial years, gaining admiration from the industry but suspicion from competitors."
+"Learning peaceful protest tactics from Martin Luther King Jr., the activist was able to pacify the hostile crowd during the rally, earning admiration from his comrades but suspicion from authorities."
+These examples maintain the narrative of learning and overcoming challenges based on that knowledge, and they introduce new symbols (characters, objects, and events) while keeping the meaning consistent within the broader narrative context.
+🌈🔮🙏CIG? 🌈🔮🙏
+ChatGPT
+🌈🔮🙏
+As an AI Language Model, here's my take on creating variations of your sentence through the "informadlib" approach.
+"Mastering the laws of physics from Einstein's writings, Sophia manages to innovate during her science experiments, earning admiration from her classmates but skepticism from Alex."
+"Observing the business acumen from Elon Musk, Jordan is able to outsmart competitors during market downturns, gaining respect from his team but suspicion from Wall Street."
+"Ingesting leadership traits from Nelson Mandela, Aditi successfully negotiates company merger, earning admiration from her colleagues but distrust from the rival CEO."
+"Through learning resilience from Malala, Amelia stands up for equal rights during the town hall meeting, garnering applause from her community but suspicion from conservative groups."
+Each variation maintains the core story arc, with a character learning something from an example or mentor, applying that knowledge in a situation, earning admiration from a group, and arousing suspicion from a particular individual.
+🌈🔮🙏
+show me the informadlib template you used for that. max granularity, everything.
+ChatGPT
+Sure, here is the general template with placeholders I used:
+"Through [learning_method/verb] [subject_matter] from [source/mentor], [main_character] successfully [applies_knowledge/verb] during [specific_situation], earning [positive_reaction] from [group] but [negative_reaction] from [individual]."
+And here's how I filled in these placeholders for each example:
+"Mastering the laws of physics from Einstein's writings, Sophia manages to innovate during her science experiments, earning admiration from her classmates but skepticism from Alex."
+learning_method/verb: Mastering
+subject_matter: the laws of physics
+source/mentor: Einstein's writings
+main_character: Sophia
+applies_knowledge/verb: manages to innovate
+specific_situation: her science experiments
+positive_reaction: admiration
+group: her classmates
+negative_reaction: skepticism
+individual: Alex
+"Observing the business acumen from Elon Musk, Jordan is able to outsmart competitors during market downturns, gaining respect from his team but suspicion from Wall Street."
+learning_method/verb: Observing
+subject_matter: the business acumen
+source/mentor: Elon Musk
+main_character: Jordan
+applies_knowledge/verb: is able to outsmart competitors
+specific_situation: market downturns
+positive_reaction: respect
+group: his team
+negative_reaction: suspicion
+individual: Wall Street

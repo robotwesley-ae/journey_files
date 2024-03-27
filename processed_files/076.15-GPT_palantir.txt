@@ -1,0 +1,51 @@
+Adjust this with the knowledge that it will all be done through GPT4 prompts, such that we will make a complete instruction set, and we will be training models that way, etc, using GPT-4 at every step of the way as much as possible 
+
+Using GPT-4 to assist in the project could help streamline some tasks and potentially reduce the time and cost involved. However, it's important to note that GPT-4 would mainly assist in generating insights, recommendations, and possibly automating some aspects, but it will not replace the need for human expertise and manual work in several areas. With this in mind, I will provide adjusted estimates for the components:
+
+XY Aligner: Aligning the notes-based ontology (X) with the book-based ontology (Y)
+Data extraction and ontology creation (with GPT-4 assistance): 20-40 hours
+Developer hourly rate: $50-$100
+Subtotal: $1,000-$4,000
+Alignment process and tools (with GPT-4 assistance): 30-60 hours
+Developer hourly rate: $50-$100
+Subtotal: $1,500-$6,000
+XYK Aligner: Aligning the combined XY ontology with the broader business ontology (K)
+Data retrieval, extraction, and ontology creation for K (with GPT-4 assistance): 40-80 hours
+Developer hourly rate: $50-$100
+Subtotal: $2,000-$8,000
+Meta-alignment and merging of ontologies (with GPT-4 assistance): 60-120 hours
+Developer hourly rate: $50-$100
+Subtotal: $3,000-$12,000
+Fine-tuning GPT model and integrating with ontologies (with GPT-4 assistance): 60-120 hours
+Developer hourly rate: $50-$100
+Subtotal: $3,000-$12,000
+Project management, testing, and validation (with GPT-4 assistance): 30-60 hours
+Project Manager hourly rate: $50-$100
+Subtotal: $1,500-$6,000
+Total adjusted estimated budget (with GPT-4 assistance): $9,000-$48,000
+
+These adjusted estimates take into account the potential time savings and efficiencies gained through the use of GPT-4. However, it's important to remember that these estimates are still rough and could vary depending on the specific requirements and the extent to which GPT-4 can effectively assist in the various tasks. Additionally, the cost of using GPT-4 (e.g., API usage fees) should be factored into the budget as well.
+
+
+
+
+Isaac Wostrel-Rubin
+That’s definitely not all the costs. That’s just human costs. What about processing and software? 
+
+You are correct that the previous estimates focused on the human costs involved in the project. To provide a more comprehensive budget estimate, let's also consider the software and processing costs.
+
+Software and tools:
+Ontology development tools (e.g., Protégé, WebVOWL): Open-source/free or commercial licenses ranging from $100 to $1,000 per year.
+Graph database (e.g., Neo4j): Open-source/community edition or commercial licenses ranging from $0 to $20,000+ per year, depending on the required features, support, and scalability.
+GPT-4 API usage: This will depend on the usage patterns and API pricing at the time of development. As an example, based on GPT-3 pricing tiers, you might expect costs between $100 and $1,000 per month, depending on the volume of API calls and level of access required.
+Processing and infrastructure:
+Cloud computing resources: Depending on the scale and complexity of the project, you might need cloud computing resources for hosting, processing, and storage. Costs for cloud platforms such as AWS, Google Cloud, or Azure can range from $100 to $1,000+ per month, depending on your requirements.
+Model training and fine-tuning: Training and fine-tuning GPT-4 models may require significant computational resources, particularly GPU-based instances. Depending on the scale of the project and the level of fine-tuning required, you might expect costs between $1,000 and $10,000+ for training and fine-tuning.
+With these additional costs in mind, a revised total estimated budget could range from $14,300 to $80,000+, considering both human and non-human costs. Please note that these estimates are still rough and could vary based on your specific project requirements, the choice of tools and platforms, and the extent of GPT-4 usage.
+
+
+
+
+Isaac Wostrel-Rubin
+Adjust considering the scale of computing XYK in the example 
+

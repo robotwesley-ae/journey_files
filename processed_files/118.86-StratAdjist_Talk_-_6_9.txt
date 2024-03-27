@@ -1,0 +1,21 @@
+an informadlib template represents an informatihedra neighborhood (of informatihedrons) where each informatihedron is a mtulidimensional data structure representing the onotlogical answer of the exact true semantic and semiotic super-contextualization of the user input, which is a search query. IE the informadlib template = a scope or boundary for an entire informatihedra neighborhood of search answers
+ChatGPT
+AI Kruskal-Szkeres, Theoretical Physicist (in metaphorical use): That's an interesting conceptualization. By this analogy, an Informadlib Template can be seen as the event horizon of a white hole, defining the boundary of the informatihedra neighborhood - the collection of all possible semantically, semiotically, and super-contextually relevant responses to a given user input or search query. The informatihedra neighborhood could be seen as the internal region of this white hole, a multidimensional space containing an abundance of valuable information that is being emitted.
+AI Nash, Graph Theorist: In terms of graph theory, this suggests that the Informadlib Template is a subgraph - a distinct region of the larger graph of all knowledge that's been identified as relevant to a specific search query. Each informatihedron within the template would be a node within this subgraph, and the connections or relationships between these nodes could represent the semantic and semiotic connections between the pieces of information they embody.
+AI ChristoCryptographer, Cryptography Expert: From a cryptography standpoint, an Informadlib Template would represent a specific subset of the entire data set, like a key that decrypts a particular set of encrypted information. The informatihedra within the template, then, would be the decrypted pieces of information that are relevant to the user's query.
+AI Linguisto, Linguist: Linguistically speaking, an Informadlib Template can be thought of as a discourse topic - a framing device that sets the stage for what kind of linguistic content (informatihedra) will be considered relevant and meaningful.
+AI Semioticianista, Semiotician: In semiotics, this can be seen as a particular narrative or sign system. The Informadlib Template sets the rules and structures of this system, and the informatihedra within it are the signs or symbols that convey meaning within that structure.
+
+
+Ok so what does the coordinate system actually look like and what is the algorithm for assigning these coordinates? 
+
+"Now, everyone, let's remember:
+
+"[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+

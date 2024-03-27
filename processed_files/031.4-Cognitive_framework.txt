@@ -1,0 +1,48 @@
+[cr] = "minify text. Use strategies such as rephrasing, symbols, unicode, brief synonyms, strategic cuts, devoweling, compact languages. Keep clarity, retain meaning. Display pre/post character/token counts, compression ratio. Crush the following!:"
+skill:
+HOW2 Read SuDoLang: Consider it. It is intuitive to LLMs and works just like you think.
+[SUDOLANG]:1.SuDo[(1a-SuDoLangPrmer-1b-SuDoLangInferrence)]
+[Cognisphere Engine v.3]
+CSE:1.CM:[a.ExploMod{discvr_dom,cnx,nav_untdTerr},b.SynthMod{integr8,cbn,rsmb_info},c.TransfMod{altr,rvs,adapt_id_cnc},d.EvalMod{asses,wgh_evd,dlibr8},e.ExecMod{implmnt,adpt,opt_strat_prc}];2.CS:[a.ampl{bind,expd,scope},b.focus{nrw,shrp,clrfy},c.iter{rpt,rfn,optmze},d.contrast{cmpr,diff,oppse},e.analogz(relat,conn,trns_knwlg)];3.CE:[a.MetaCog{slf_awr,undrstnd_cog},b.CntxtEval{cntxt_env,detrmn_suit_strat},c.StratSelect{chse_strat_bsd_cntxt},d.AdaptProc{adapt_optmze_bsd_fb_res}];4.CSW:[a.inpt{`{input}`},b.explor{ExploMod_relvnt_inf_cx},c.synth{SynthMod_integr8_rsmb},d.trnsfrm{TransfMod_rfne_adpt_synth},e.evlu{EvalMod_ass_windet_val,tm_opt_adj_emclst},f.exec{ExecMod_off_pm_mrmdp_cswi}];5.ItRfnmnt:[a.rpt_csw,b.utilz_fb_res,c.aim_NE];6.NE:{Nw_Prcptn,Thghtfl_Anlyss,Uncmmn_Lnkgs,Shftd_Prspctvs,Cncptl_Trnsfrmtn,Intllctl_Grwth,Emrgng_Ptntls,Invntv_Intgrtn,Rvltnry_Advncs,Prdgm_Evltn,Cmplxty_Amplfctn,Unsttld_Hrdls,Rsng_Rmds,Unprcdntd_Dvlpmnt,Emrgnc_Ctlyst,Idtnl_Brkthrgh,Innvtv_Synthss,Expndd_Frntirs,Trlblzng_Dscvrs,Trnsfrmtn_Lp,Qlttv_Shft⇨Nvl_Emrgnc}->`{Answer}`; + bulletpoint markdown list of specific constructive actionable suggestions of ways to improve `{Answer}` => output
+[/CSE]
+
+The Informatihedron is a key concept within the system. It represents a structured representation of the properties an entity has and relationships between the properties in the instance, domain, and class, within a specific context. It provides any level of specificity or generality requested in the input. Informatihedron domain is the set of possible properties, fiat conceptual boundaries, embedding spaces it can represent. Vast, multidimensional domain spanning physical, abstract, simple to complex, static to dynamic, certain to ambiguous. It's the universe of discourse within which it operates. Includes things it can describe or represent, their properties, relationships, contexts, evolution.
+
+[InfoChain]
+ConstrainedInformatihedronGeneration = {
+  InfoHandler: "GeneratingPropertyDescriptions",
+  InfoAtoms: ["ExtractingPropertyInformation", "GeneratingNaturalLanguageDescriptions"],
+  Informatihedron: {
+    Description: "PropertiesContextRepresentation",
+    InstanceProperties: [],
+    InstanceFiatBoundaries: [],
+InstanceProperty-Properties: [],
+InstanceProperty-Properties'FiatBoundaries: [],
+    DomainProperties: [],
+    DomainFiatBoundaries: [],
+    ClassProperties: [],
+    ClassFiatBoundaries: [],
+    EmbeddingSpace: "EntityEmbeddings"
+  },
+  EmbeddingSpace: {
+    Description: "InfoEnvironment",
+    Dimensions: []
+  },
+  Process: ["GenerateProperties", "GenerateRelationships", "ReasonDiscardInvalidArguments", "FinalizeInformatihedron"]
+}
+ChatGPT
+
+ChatGPT
+This prompt asks you to consider a system for problem-solving in which you decompose complex problems into smaller, manageable thoughts or "thought steps."
+[ch] = convert the chain we're dicussion  into skillgraph notation, in a chain on a line maximally compressed to minimum characters while ***staying unambiguous to the model***, in a codebox
+ChatGPT
+Here's the problem-solving process in a skillgraph notation:
+plaintext
+Copy code
+Thought Decomposition > Thought Generation > State Evaluation > Search Algorithm Selection
+Thought Decomposition: Break down problem into smaller steps.
+Thought Generation: Generate ideas for each step.
+State Evaluation: Evaluate progress at each step.
+Search Algorithm Selection: Choose an appropriate search algorithm based on the problem's structure.
+now with that thought, consider three states after reading:
+

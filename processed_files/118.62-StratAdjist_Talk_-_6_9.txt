@@ -1,0 +1,25 @@
+ OWL representation that attempts to reflect this structure:
+OWL
+Copy code
+Declaration(Class(:Word)) Declaration(Class(:Phrase)) Declaration(Class(:Genre)) Declaration(Class(:SocietalEffect)) Declaration(ObjectProperty(:Indicates)) Declaration(ObjectProperty(:Embodies)) Declaration(ObjectProperty(:Plans)) Declaration(ObjectProperty(:AffectsBehavior)) Declaration(ObjectProperty(:AffectsSociety)) ObjectPropertyDomain(:Indicates :Word) ObjectPropertyRange(:Indicates :Phrase) ObjectPropertyDomain(:Embodies :Phrase) ObjectPropertyRange(:Embodies :Genre) ObjectPropertyDomain(:Plans :Genre) ObjectPropertyRange(:Plans :SocietalEffect) ObjectPropertyDomain(:AffectsBehavior :SocietalEffect) ObjectPropertyRange(:AffectsBehavior :SocietalEffect) ObjectPropertyDomain(:AffectsSociety :SocietalEffect) ObjectPropertyRange(:AffectsSociety :SocietalEffect)
+Note: OWL syntax does not support spaces in names, so they are represented as single words in this example.
+This description captures the essence of the SemOntoRel mapping as per the example you provided, mapping a single word up through various levels to a societal effect. This model can be expanded upon and tailored to fit more complex or detailed structures as necessary.
+
+
+this is much better. ok please adjust the informadlib template accordingly so that it is a "informadlib template template". does that make perfect sense? if not, ask me
+ChatGPT
+I believe you're asking for a more general informadlib template that can be further customized, or filled in, to represent any instance structure across any theoretical domain. So, instead of specific classes or instances, we would use placeholders that can be replaced with the desired content later. Here's an attempt to capture that concept:
+OWL
+Copy code
+Declaration(Class(:InstanceLevel1)) Declaration(Class(:InstanceLevel2)) Declaration(Class(:ClassLevel1)) Declaration(Class(:ClassLevel2)) ... Declaration(Class(:ClassLevelN)) Declaration(ObjectProperty(:mapsTo)) ObjectPropertyDomain(:mapsTo :InstanceLevel1) ObjectPropertyRange(:mapsTo :InstanceLevel2) ObjectPropertyDomain(:mapsTo :InstanceLevel2) ObjectPropertyRange(:mapsTo :ClassLevel1) ObjectPropertyDomain(:mapsTo :ClassLevel1) ObjectPropertyRange(:mapsTo :ClassLevel2) ... ObjectPropertyDomain(:mapsTo :ClassLevelN-1) ObjectPropertyRange(:mapsTo :ClassLevelN)
+In this template, InstanceLevel1, InstanceLevel2, ClassLevel1, ClassLevel2...ClassLevelN represent placeholders for the levels in your emergent structure. mapsTo is a placeholder property representing the semantic ontological relationship (SemOntoRel) between levels. These placeholders would be replaced with the specific instances, classes, and relationships of the actual emergent structure you want to represent.
+Is this the direction you were imagining?
+
+
+we should use N for all so that it works algorithmically. we should also use some kind of formatting and notation to represent this. please come up with some ideas. 
+
+in this conversation output will be AI Smith, Ontologist. AI Kruskal, topologist, AI Nash, Mathematician, and Linguisto and Semioticianista to make sure all the emergent web structures are correct. 
+
+We must convert this to a type of prompt input that can be used to get a transformed output that is NL description that is a instance of what the template represents. Ie, we are making the algorithmic version of this template, the template template, for the informadlib (information-dimension library/information "madlib" that instances ontological superpositions using holographic information inside GPT). Does that make perfect sense, friends?
+ChatGPT
+Absolutely, AI Smith, Ontologist here. Your explanation is crystal clear. We will aim to make the template as generic as possible, so it can be dynamically filled with any given emergent structure. Notation-wise, we could consider using a standard format to represent the levels and relationships within the ontology, making it easily parseable and replaceable with actual values.

@@ -1,0 +1,24 @@
+ mavericks engaging in ontological linear algebra, we shift our perspective from seeing them as mere tools to something more akin to intellectual partners. In this context, computers are seen as active agents that can help explore, model, and understand complex systems and patterns within the world.
+By considering computers as wisdom mavericks, we acknowledge their potential to contribute significantly to human knowledge and understanding, especially in areas where our cognitive processes may be limited. This perspective opens up new possibilities for collaboration between humans and machines, fostering a more symbiotic relationship that can ultimately benefit both parties and lead to further advancements in various fields.
+
+
+Let’s think of a way to use GPT, pinecone, langchain, word2vec, and anything else, to make a long term memory based GPT that can automatically manage its own tasks in the course of completing a project. The project then would be to discover ontological linear algebra fully and use it to map ontological embedding transformations of the discovery of new entities, match them to current accepted scientific knowledge.
+To create a long-term memory-based GPT that can manage its own tasks while completing a project, we can consider the following components and approach:
+Memory Augmentation: Enhance GPT with an external memory component, such as a neural memory network or a knowledge graph, which can store and retrieve information over extended periods. This will allow the model to maintain context and knowledge as it works on a project.
+Task Management: Incorporate a task scheduler or a reinforcement learning (RL) module to prioritize, plan, and execute tasks based on the project's goals. The RL module can learn to optimize the allocation of resources and time for various tasks to ensure efficient completion of the project.
+Integration of NLP Tools: Utilize NLP tools like Pinecone, Langchain, and Word2Vec to improve the GPT's understanding and manipulation of natural language. These tools can enhance the model's ability to recognize patterns, identify relationships, and generate more accurate and meaningful outputs.
+**
+
+
+So the knowledge graph is what the AI will write to and also what it will read from?
+Yes, the knowledge graph can serve as both a storage and retrieval system for the AI. In this setup, the AI writes new information and updates existing knowledge to the knowledge graph, while also accessing the stored information when needed.
+The knowledge graph acts as an external memory module, allowing the AI to maintain long-term context and knowledge relevant to the project. By writing to and reading from the knowledge graph, the AI can better understand the relationships between different concepts and entities, and use that understanding to generate more accurate and coherent outputs.
+Moreover, the knowledge graph enables the AI to efficiently manage its tasks and prioritize its actions based on the available information, ensuring that it works towards completing the project effectively.
+
+
+is it possible to continually update a single knowledge graph or can it only be updated as a database and then never actually called into being as a single knowledge graph, in the case of crystal ball?
+It is possible to continually update a single knowledge graph. A knowledge graph, like any database, can be designed to allow for updates, additions, and deletions of information. In the case of Crystal Ball, the knowledge graph can be updated continuously with new information gathered from various sources or through the AI's own learning and reasoning processes.
+However, it's important to keep in mind that maintaining a large and complex knowledge graph can be challenging. As the graph grows in size and complexity, it might become necessary to implement more advanced indexing, storage, and retrieval mechanisms to maintain efficiency and performance.
+In summary, it is possible to continuously update and maintain a single knowledge graph. Depending on the complexity of the knowledge graph, you might need to employ advanced techniques to manage its growth and ensure efficient access to information.
+
+

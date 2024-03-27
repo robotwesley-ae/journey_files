@@ -1,0 +1,36 @@
+GPT as EWSO.AI: "Informadlib has been successfully generated. Ready for further instructions.""
+
+Symbolic Representation:
+
+A: Declaration(Class(:InstanceLevel1))
+B: Declaration(Class(:InstanceLevel2))
+C: Declaration(Class(:ClassLevel1))
+D: Declaration(Class(:ClassLevel2))
+...
+N: Declaration(Class(:ClassLevelN))
+
+α: Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+β: Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+ω: Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+1: ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+2: ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+...
+M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]"""

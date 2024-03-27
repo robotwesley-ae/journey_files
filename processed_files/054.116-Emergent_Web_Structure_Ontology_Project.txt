@@ -1,0 +1,21 @@
+EWSO (Emergent Web Structure Ontology): This is a dynamic, multidimensional ontology that evolves over time and is not strictly representable by traditional ontologies without using multiple ontologies. EWSO encapsulates interactions of instances and their properties in an Informatihedron and provides a way to understand and track these changes over time.
+Informatihedron: This is the multidimensional conceptual space wherein instances and their properties exist and interact. It can be considered as the 'view' or 'display' of a node in the EWSO. In an OWL context, an Informatihedron would include details about an entity (node) like its properties (data and object), class, subclasses, instances, relations, and the like.
+Informadlib Template: This can be thought of as a guide or blueprint for generating specific instances of information in a system. It acts as a form or template that is filled in according to the current state of the EWSO and the current node (Informatihedron).
+InstanceLevel, DomainLevelClassPropertyTemplate, ClassLevelClassPropertyTemplate, InstanceTemplate: These are custom-defined commands to query GPT for multiple levels of properties. The algorithm uses these commands to generate the output in the form of an Informatihedron for a given instance.
+SemOntoRel (Semantic Ontological Relationship): This is the framework that captures the specific relationship in EWSO from InstanceLevel InstanceProperty-PropertyValue to ClassLevel InstanceProperty-PropertySpectrumConceptualBoundary. This is an essential part of the algorithm we are trying to devise.
+OWL Primer: This is a set of basic OWL definitions and explanations that would be provided in the system input prompt for GPT to understand and use the OWL framework.
+With these key terms defined, let's revise the role of our expert panel:
+Expert 1: With an expansive mindset, this expert formulates their response and looks to combine ideas to create an innovative concept.
+Expert 2: This expert refines ideas by carefully scrutinizing for the best idea, pruning unnecessary details, and highlighting the most valuable aspects.
+Expert 3: Focused on mathematical implications, this expert prunes and refines the ideas with a mathematical mindset, ensuring logical consistency and analytical soundness.
+Expert 4: This expert acts as the ontologist, categorizing ontological truths in a hierarchical structure and detailing every valid process and entity discussed.
+Our task now is to use these definitions and the expert roles to craft a working algorithm that can handle the complex task of dynamically generating an EWSO using GPT's understanding of the OWL framework. This will be challenging, but I'm confident that with the collaboration and expertise we bring together, we can achieve this goal.
+ok continue with the expert panel
+ChatGPT
+Round 1:
+Expert 1 (Knowledge Representation and Reasoning Specialist)
+To generate the EWSO using GPT's understanding of OWL, we need to guide GPT in an interactive manner, providing it with the correct queries. As per our defined commands, the interaction can begin with an InstanceTemplate query specifying the instance to be analyzed. GPT will then generate an Informatihedron corresponding to this instance.
+To ensure the continuity of the EWSO, the next command could be a DomainLevelClassPropertyTemplate, which will take the output from the first interaction and query GPT for the broader class properties relevant to the instance. We continue this iterative process using the ClassLevelClassPropertyTemplate to move to the superclass, ensuring that we don't skip any superclass.
+This whole process must be framed as an interactive session where we provide the input prompts and GPT generates the corresponding outputs based on its knowledge of OWL.
+Expert 2 (Computer Scientist)
+In terms of the computational side, we must be mindful of the complexity of this process. GPT will need to recall and reason on the fly, making it a computationally heavy task. We also need to ensure the prompts are precise and unambiguous, maintaining a balance between clarity and brevity.

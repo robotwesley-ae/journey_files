@@ -1,0 +1,290 @@
+According to priority not according to project!
+
+Compounding Scheduling Convention: 
+
+SubTask Priority -< most complete * shortest time * most necessary * highest value
+Task priority - longest time * most necessary * highest value
+Project Priority - shortest time * most necessary * highest value
+Roadmap - shortest time * most value
+= Calendar
+Highest value = top 20% 
+COMMENT: (how is the value assessed? By who? %of what)
+Most necessary = test growth hypothesis 
+Core=loop🔄^(Build)^(Measure)^(Learn) 
+
+
+PROJECT: Ribcage Solutions
+
+TASK: All UPM contacts acquired
+ST: Finish extracting names and dates from imdbpro
+ST: Call DGA to acquire all emails and numbers based on names
+
+GOAL: Ribcage UPM outreach email written. Book a demo funnel (or call)
+	TASK: Design email funnel
+		ST: Write email copy
+NOTE: emphasize MBS partnership. 
+ST: setup booking link, and gcal
+	TASK: write follow up email copy for non-responders
+		ST: define protocol for when to send, and automate
+	TASK: write follow up phone call script for non-responders
+		ST: define protocol for when to call, and automate reminder
+	TASK: write follow up “thank you and confirmation” email for new bookings
+		ST: define protocol for when to send, and automate
+	TASK: write confirmation phone call script for upcoming bookings
+		ST: define protocol for when to call, and automate reminder
+
+TASK: Revise ribcage installation instructions
+	ST: Update current instructions to reflect latest kit design
+	ST: Add a “de-installation” instruction step
+	ST: Polish instruction set based on industry examples
+	ST: Host online
+
+GOAL: Ribcage Demos, Fully Prepared
+	TASK: create 2-person demo strategy SOP
+		ST: Define “demo funnel” structure end to end 
+NOTE: (info provided)+(overcomes planned for)+(“Action” for conversion)
+ST: write script outline… who says, what, when, why, how
+ST: pre-optimize: practice > revise > get private feedback > revise > finalize
+		ST: write “demo strategy” as an SOP - INCLUDE THE NOTED ASPECTS
+			NOTE: Sales strategy + script
+			NOTE: accommodation params: coffee, donuts, printed materials, etc..
+			NOTE: demo product params: 1 demo kit (set up), 1 display kit (in box)
+	TASK: post-demo nurture
+		ST: write post-demo nurture thank you email
+		ST: define protocol for when to send, and automate
+		ST: write recurring awareness reminder nurture email for “hot leads” (post-demo, or post-conversion)
+		ST: define protocol for when to send, and automate 
+
+GOAL: All UPMs contacted
+	SUPERTASK: A/B test email and scripts, BML iterate “book a demo” email funnel optimization 
+TASK: Mass outreach via email to all (or just some) contacts with “book a demo” funnel 
+TASK: Follow up with all non-responders via email and phone call
+TASK: Follow up with all booked, with thank you and confirmation via email and phone
+
+GOAL: Do all ribcage demos at MBS - phase 1 (includes contact acquired in previous goal)
+	SUPERTASK: Do booked demos - follow SOP
+ST: Do “over the phone” information-demo if requested
+		ST: (recurring) BML iterative optimization on the Demo Strategy SOP
+ST: (recurring) store/update contacts in the CRM
+ST: post demo nurture, thank you, and seasonal reminders, automated
+
+	
+PROJECT: Mentorus.ai
+
+GOAL: MoziNation Pitch-Launch - Capture Alex and Layla in MoziNation prompt private “gift-funnel” that = mentorus.ai soft-pitch-launch (4 weeks)
+	TASK: craft outreach copy based on strategy
+		NOTE: 
+Send a thank you note to Alex and Layla for their work and inspiration, include link to a free thing = “private gift funnel”. Send directly to acquisition.com 
+If they return a no!
+We return “did you see free thing?”
+exception that they will not have seen it, since DQ’d by their funnel, and we will be escalated up after they open thing and check out demo.
+TASK: Build private gift-funnel - “thispromptwillmakealexandlayla30million.com” - use template
+	ST: Pitch funnel copy/content
+		NOTE: make it about how this is the play that acquisition.com/alex&layla need to make to actually concatenate and elevate their entire operation to the next level. He will need access to higher level startups to be able to play the higher level game. And we are a higher level startup, that is actually just starting… We don’t have funding
+We have tech that is ready to release
+We sent in a request to aq.com but you wont; see it
+So we just want to give you our free gift, but showing you this FIRST
+You will be able to mae= abunch of money with an emergent technology using your own skillset
+		NOTE: also At the funnel URL we will frame all the copy around how well aligned mentorus.ai is with acquisition.com and with alex&layla, because they need more code, ai specifically, but not just anything, something that is really about helping people in the same way that they help people. And that will include Layla and Alex equally, not just targeted at Alex.
+	ST: make and include written content about ontological aware business AI’s
+		NOTE: explain AIsaac as an MVP
+	ST: make Funnel section to opt-in for the free gift.
+		NOTE: CONTENT - Copy about MoziNation prompt, 
+		NOTE: OPT IN BUTTON - CTA: chat with mozination!
+		NOTE: POPUP - give us your email to chat with mozination lead capture
+		NOTE: after submit, direct to MoziNation chat interface page
+	ST: MoziNation demo chat interface page
+		ST: Host MoziNation demo chat interface
+		ST: Add button - CTA: “BOOK A CALL”
+			NOTE: “HEY Alex and Layla, want to get the prompt, for FREE?...”
+	ST: make Book a Call page
+		NOTE: after booking is made, link to → mentorus.ai mainpage
+TASK: Try to reach out to Mozi team before talking to Josiah…
+NOTE: say we are ignorant about hiring sales people. Ask for help.
+		
+
+GOAL: Setup MVP of influencer-targeted “book a call” funnel for mentorus.ai
+	TASK: Flow Content and Copy into opt-in-page - use template
+		ST: Write copy
+		ST: populate assets and link page
+			NOTE: “opt-in” button link to lead capture popup
+		ST: lead capture popup
+			NOTE: submit button – link to video page
+			NOTE: lead receives link in email to a private demo chat interface (or maybe it is on the next page)
+	TASK: Design and Implement lead nurture protocol, and automate
+		ST: write lead nurture email sequence funnel for “opt-ins” who do not “book a call”
+		ST: Write lead nurture thank you and confirmation email sequence for “new booking”
+		ST: Write lead nurture email sequence for post-call un-closed leads
+		ST: Automate all flows
+	TASK: make Video MVP
+NOTE: “This is me using the Abundant Motivation Coach I modeled after Mozination.”
+NOTE: Content - NURTURE
+Questions about abundant exchange
+How to sell
+What’s the secret to selling like doing a magic trick?
+	TASK: Add content to video page
+		NOTE: CONTENT - Video
+		NOTE: BUTTON - CTA: Book a Call 
+	TASK: add copy to book a call page
+
+GOAL: MVP of Mentorus main website
+	TASK: make landing page - use template
+		ST: select assets
+		ST: write landing page copy/conent
+			NOTE: “Hey! Have you ever wanted to learn about….” [insert:]
+				[how Alex Hormozi crafts a sales script with CLOSER]
+				[how ali abdal writes a productivity video]
+				[how Mr. Beast…
+		ST: add Video MVP = same as funnel video of Abundant Motivation Coach
+		ST: opt-in/lead capture popup “free sign up/give us your email to use private chat demo”
+	TASK: lead nurture automated (same as for funnel)
+
+
+GOAL: Working and usable MoziNation prompt complete
+	TASK: Define mozination functionality, and spec
+	TASK: setup mozination interface and backend
+		NOTE: could include - bizzi, bubble, streamlit, flowise, pinecone…
+	SUPERTASK: Dev MVP of prompt
+		ST: BML iterate with private test users
+
+
+PROJECT: TWI.World
+GOAL: Make TWI.world website MVP
+TASK: Make Landing page - use template
+	ST: write copy/content
+		NOTE: CONTENT: The world incorporated - mission statement, history, vision
+	ST: lead capture form
+	ST: select assets
+TASK: make About us section
+ST: wisdom intent section
+ST: followed by explanation of: victory-promise
+ST: Followed by Wesley and Isaac BIOS, and founders section
+NOTE: ribcage mentioned in bios but no link in companies
+TASK: make “Our companies” section
+ST: Thinkmine subsection
+	NOTE: SUBSUBTASK: round up all of the “good” MVP prompts
+NOTE: CONTENT - about all of the MVP PROMPTS
+NOTE: CONTENT - about Crystal Ball
+ST: Link to sanctuary.nexus (which also includes TWI.world in it’s subprojects)
+NOTE: sublink to - sanctuary revolution
+NOTE: sublink to - sanctuary journey academy
+	NOTE: sublink to - sanctuary institute, sanctuary foundation. Sanctuary research institute. Owns the research.
+
+PROJECTS: Sanctuary.nexus 
+GOAL: Sanctuary.nexus website MVP
+TASK: make Landing page - use template
+		ST: write Mission, framework, vision statements 
+NOTE: align structure and scope with examples: GATO and LUMINA
+	ST: “Get involved” section
+			NOTE: link to discord
+		NOTE: lead capture emails with “signup to newsletter for updates”
+TASK: make PROJECTS page with SECTIONS
+ST: TWI.World SECTION → link to TWI.world
+	SST: Write content about relationship between entities
+ST: Sanctuary Journey Academy SECTION
+	SST: write copy
+	SST: BUTTON link to → SJA PAGE
+ST: Sanctuary Revolution SECTION
+	SST: write copy
+	SST: BUTTON link to → SancRev PAGE
+ST: Sanctuary Research Institute SECTION ONLY
+SST: Write CONTENT - info about what we do to catalog the holographic information space to generate data that we use to optimize workflows which we then implement and share for everyone’s benefit… “want to work with us →” join discord
+TASK: Sanctuary journey academy MVP section/PAGE
+ST: Write content
+NOTE: CONTENT: Free System Overview→ link to signup for details (lead cap)
+ST: prompt-protected demo access to OVP chat interface
+ST: Write copy “start your sanc journey”
+NOTE: BUTTON link to → SURVEY PAGE→sort traffic to “In depth challenge” PAGES x3
+ST: make Inner Journey PAGE - 1
+NOTE: CONTENT: Paid challenge copy→ link to buy
+ST: make Outer Journey PAGE - 2
+NOTE: CONTENT: Paid challenge copy→ link to buy
+ST: Omnisanc engineer 
+			NOTE: CONTENT: Paid challenge copy → link to buy
+NOTE: CONTENT: Private group copy → link to signup
+NOTE: CONTENT: Mentorship by application → link to form
+TASK: Sanctuary revolution MVP PAGE
+ST: Write Content: “Sanctuary revolution the game”
+ST: Include download link for Gno.sys prompt
+ST: Write short content about gnosys prompt
+	ST: include additional gnosysi content preview
+NOTE: include 2 isaac+gno.sys shared chat examples, as VIDEO OR LINKS
+NOTE: CTA: “want to get access to more archives? Join discord!” →link to disc.
+NOTE: CTA: “ start your sanctuary journey” link to → SJA - inner challenge
+
+GOAL: Discord Community Fully setup
+	SUPERTASK: evaluate and revise discord structure, pages, access, and content
+		ST: start by using model examples: GATO, STUNSPOT, LUMINA
+		ST: determine measurables, and define key metrics, automate data capture.
+		ST: BML iterate to optimize all possible aspects
+TASK: Setup Chatbots
+	ST: plan for which kind of bots we need and where (copy stun, copy gato’s shappie)
+	ST: write prompts discord bot personas
+	ST: implement bots and test
+TASK: setup Member roles
+	ST: plan member role hierarchy, naming, and access levels
+	ST: setup page permissions/locked channels to accord with roles
+TASK: setup Content funnel
+	ST: decorate with AI art
+ST: make “docs” section
+	SST: determine docs to share, then post
+ST: make HoloInfoArchives (prompts) section
+			NOTE: CONTENT - prompts .txt files = gnosys, etc…
+ST: make section: HoloInfoArchives (Chapters of VICTORY-EVERYTHING SANCTUARY-EVERYWHERE)
+NOTE: CONTENT - share chat logs between Isaac and gnosys, OVP, etc…
+ST: make Q&A section
+ST: make FAQ section
+	SST: write at least 5 FAQ’s
+
+PROJECT: Olivus Victory-Promise Youtube channel
+GOAL: Release next video… (maybe remove last one)
+TASK: Develop content strategy/journey and video format template
+NOTE: Based on how David Shapiro presented himself and his ideas/inventions in his own YT channel
+	ST: Watch and Analyze David Shapiro youtube channel videos and historical arc
+ST: extract structure and properties, i.e. knowledge graph
+	ST: write strategy and template based findings
+	TASK: Outline main content points for video - use template
+		NOTE: general notes
+What have I been up to… and why you care, cause it is a surprising story
+What am i doing now… why do you care, cause i made it to benefit you
+What is it all about… and why do you care, cause it has all these aspects that are good
+Preview of what is to come on this channel… stick around because there is a lot to explain!
+How can you relate to all of this.. Get involved here → to outro
+	TASK: Create reusable outro section
+		ST: Write outro
+			NOTE: don’t forget to like and subscribe, and check out all the shit we are doing
+		ST: record outro
+	TASK: Create standard thumbnail templates (will be iterated over time)
+	TASK: generate a content calendar for weekly/bi-weekly OVP releases for 3 months
+		ST: use david shapiro strategy/journey, generalized, and then specified for “TWI talks about all their projects and what they have done and are doing right now to complete them!”
+		ST: Generate list of video topics, with subtopics. With priority order which allows them to be scheduled on the content calendar.
+		ST: re-factor video production engine to accommodate the requirements of each release in content calendar.
+	SUPERTASK: iterate both the proposed “content calendar” AND the “video production engine”
+		ST: Use vidIQ and audience feedback to optimize scope and structure of Content Calendar 
+		ST: Use data captured from TWI productivity system to optimize “video production engine”
+
+PROJECT: Bizzi
+GOAL: setup and template automated Ai generated lead nurture, integrated flows. For resale value!
+	TASK: Setup bizziBOT for getbizzi.app, ON getbizzi.app
+		ST: clean site info data
+		ST: train bot on site info data, and test
+		ST: input custom responses/workflows, including: preset answers, and lead gen forms
+	TASK: build AI generated email, lead nurture “flows”,
+NOTE: includes - SEND custom user data through API integration that can receive response from GPT-4 and RETURN an custom AI generated lead nurture email, to then APPEND that email to the “user/lead” in the CRM, and then TRIGGER another stage of the “flow” to SEND that email to the “user/lead”. 
+NOTE: The AI generated email will be made by taking the “user/lead” data including name, sub-avatar ID, position in funnel = stage of customer experience journey = all data about previous engagement with business, the specific action that triggered the flow, and all other provided “user/lead” information (captured via form or bizziBOT), and sending it all through a series of API requests to and instance of GPT-4 injected with a “lead nurture email copy writing persona” that is primed to receive this data and has a template for doing exactly this task. The returned email is then associated with the user/lead who’s specific action (lead capture form submission, opt-in submission, interaction with nurture chatbot on webpage, abandoned cart, free trial start, etc..) triggered the lead nurture email generation flow in the first place. At that point the email can then be loaded in from the database associated with that user, and sent in an automated email flow, based on some specific amount if time having passed after that same initial trigger event.
+		ST: Research best chain of integrations and API calls to use to achieve specification
+		ST: implement flow set for bizzi
+		ST: templatize flows and make part of a “blueprint”
+
+GOAL: craft and market offer for “bizzi + Cross-Pollinatrix”
+	SUPERTASK: Final build Cross-pollinatrix V1 MVP prompt
+		ST: implement required updates
+		ST: private user testing
+		ST: dev cycle v1.1
+		ST BML iterate to optimize
+	TASK: Build offer for bizzi+CP
+		NOTE: this is done by using Cross-Pollinatrix. This process is recorded and turned into content that is used to actually promote the offer.
+		ST: record and prompting with CP to go from a basic idea (i have/want X business/product/service) all the way to fully crafted grand slam offer strategy (products or services, value build sequence, targeted avatars), with some set of basic/metaphorical implementation plans to go and “implement your funnel” and “make and run your ads”
+	TASK: actually build the entire bizzi+CP Funnel, copy, ad set, and optimization plan… using AI
+		NOTE: this is done with a FULL suite of “guys”, and while the content may be recorded and used to promote a deeper upsell or membership to ascended community, the actual prompts will NOT be shown because they are private, and ONLY cross-pollinatrix is being given away for free as the lead magnet for the entire bizzi funnel.
+	SUPERTASK: run campaign to sell offer and CRO with BML

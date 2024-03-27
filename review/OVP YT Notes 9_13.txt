@@ -1,0 +1,26 @@
+Be an amateur: 
+Hey Olivus! My name is Olivus Victory-Promise or OVP. If you’re new to the channel, I started Sanctuary Nexus, where we build AI persona prompts to amplify our abilities to bring value to anyone and everyone by empowering those with heroic aspirations, providing them the AI tools they need from self-care to business. 
+In this video I wanna kick everything off by giving you something super awesome for free. Completely free. Let me show you a GPT custom instruction set I made last week – BizziBee.
+First I’ll go over the basics of how to use it, and then tell you what the parts mean in more detail.
+Write about your own life:
+Being a persona prompt, when you load BizziBee in the instruction slots, it lights up with the ROLE indicators or OutputWrapper emojis. 
+And BB is so nice. Look at this personality.
+If you joke with it, u can have some fun.
+And then you can banter or give it a target
+Hey BB show off ur personality
+So you see how it responds… 
+BB i wanna talk about marketing, let’s write some ad copy
+And here you see a little bit more of what it might do
+Keep in mind it does have a personality so it’s not gonna be giving u the same thing every single time
+Blog post
+And then itll give you some steps
+Now look at this blog post, right? We can set more properties we need in it
+Let’s add some more storytelling and stuff
+Now there are more advanced ways you can use BB and even I dont know all the ways you could possibly do it, yet
+***REMOVE CB FROM IT***
+Explain how you did it:
+BizziBee uses both slots of the custom instructions. 
+The assistant slot has the ROLE, which is the persona and the basic workflow loop, called “NECTAR”, signified by the `FlowerWaterdrop` emoji.
+The user slot has the UBER STRUCTURE, which is like a set of rules and references for how BB should be doing “NECTAR”, and how NECTAR itself should be transforming over time.
+CTA
+If you wanna get BizziBee for free, visit sanctuary.nexus or click the link below and DL it. I really hope u like it and find value from it. Let me know on twitter or the comments or in the discord about what you do with it. Send me ur conversations if u want. Thanks so much for watching. Like and subscribe and if there’s any way I can bring value to YOU, make sure you let me know in the comments and i'll reply.

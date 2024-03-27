@@ -1,0 +1,25 @@
+Instance-level Properties: Struggle to conform, initial fear of the Unknown (in place of 'dragons'), lack of traditional Group Traits (in place of 'Viking qualities'), emerging leadership qualities, innovative problem-solving tactics.
+Relationship: The protagonist's internal struggle is intensified by their relationship with the Authority Figure (in place of 'Stoick'), who embodies the traditional group ethos the protagonist initially struggles with but ultimately reinterprets.
+Sub-sub-contextual-instance: Protagonist's Growth Arc
+Instance-level Properties: Building trust with the Unusual Ally (in place of 'Toothless'), developing unusual skill set (in place of 'dragon riding and training skills'), challenging societal norms, self-confidence development, acceptance of leadership responsibility.
+Relationship: The protagonist's growth is directly correlated to their relationship with the Unusual Ally, which acts as a catalyst for their transformation.
+Sub-sub-sub-contextual-instance: Central Narrative Conflict
+Instance-level Properties: Unique bond with Unusual Ally, empathic ability towards the Unknown, courage to propose new societal norms (in place of 'peaceful dragon-human coexistence'), resilience in face of adversity, ultimate societal reconciliation.
+Relationship: The protagonist’s connection with the Unusual Ally and understanding of the Unknown enables them to instigate a revolutionary change in societal norms.
+Class-level Properties: Follows Hero's journey narrative structure, features personal transformation, resolves central narrative conflict, influences societal change.
+Relationship: The societal change hinges on the protagonist's personal transformation, highlighting a common trope in the hero's journey narrative where internal personal change leads to broader external change.
+Embedding Space: The narrative arc of the given genre story, framed within the Hero's journey narrative structure.
+The protagonist's journey from an outsider to a leader is driven by key relationships, particularly with the Authority Figure and the Unusual Ally. The evolving understanding of these relationships allows the protagonist to redefine societal norms. Their internal struggle, growth arc, and resolution of the central narrative conflict all exemplify elements of the Hero's journey narrative structure.🌈🔮🙏
+thisis not an informatihedron of protagonist at all, so it cant really be that way. it has to be an informatihedron of the protaginst of genre (how to train your dragon -> supergenre -> supersupergenre->etc until you get to psychological archetypes of trauma lock events)
+ChatGPT
+I see your point, and I apologize for misunderstanding your initial request. It seems we're focusing on a much more extensive and abstract characterization of the protagonist ("Hiccup") that takes into account not just the individual narrative of "How to Train Your Dragon," but also a broader context of narrative structures, genres, and psychological themes. Let's try again, mapping Hiccup onto a narrative and psychological informadlib. Here we go:
+🧩
+Entity: Protagonist (Hiccup)
+Domain: Animation Fantasy (How to Train Your Dragon) - Hero's Journey Narrative - Broader Archetypal Narratives - Fundamental Psychological Archetypes and Themes
+Super-Super-Contextual-Instance: Fundamental Psychological Archetypes and Themes
+Instance-Level Properties: Identity formation, overcoming fears, trauma-based growth, reconciliation with authority, transformation of societal norms.
+Relationships: These psychological themes and archetypes are integral to Hiccup's character development and story arc.
+Super-Contextual-Instance: Broader Archetypal Narratives
+Instance-Level Properties: Hero's Journey (separation, initiation, return), coming of age, rebel archetype, reconciliation of opposites.
+Relationships: Hiccup's story arc follows and subverts these broader narrative archetypes, highlighting his uniqueness as a character while still adhering to classic narrative structures.
+Contextual-Instance: Hero's Journey Narrative within the Animation and Fantasy genre

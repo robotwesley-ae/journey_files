@@ -1,0 +1,22 @@
+Here are some steps to consider when implementing this approach:
+Design an encryption scheme: Develop an encryption scheme that can represent the granularity level and relationships between the compressed tokens efficiently. This may involve using traditional encryption methods, such as symmetric or asymmetric encryption, and assigning additional levels of meaning to the encryption symbols.
+Update the compression and decompression algorithms: Modify the existing compression and decompression algorithms to accommodate the new encryption scheme. This may involve adding support for the encryption symbols and updating the algorithms to recognize and process the encrypted information.
+Manage complexity: The encryption scheme should help manage granularity levels and preserve context while not introducing unnecessary complexity to the system. It's essential to ensure that this complexity is manageable and does not outweigh the benefits of the compression.
+Compatibility with existing systems: Ensure that the encryption scheme and the updated algorithms are compatible with the existing systems, data structures, and representations.
+Security considerations: If the encryption scheme is used to protect sensitive information, it's crucial to consider the security aspects of the system. This may involve selecting appropriate encryption methods and key management practices.
+By carefully designing the encryption scheme and updating the compression and decompression algorithms, you can create a system that can effectively manage and preserve the contextual information in a scalable knowledge graph visualization environment while maintaining computational efficiency and security (if needed).
+
+
+should we call this encryption based compression? does this already exist?
+Yes, you can refer to this approach as encryption-based compression. Encryption-based compression is not a standard term in computer science, but the concept of combining encryption and compression is not entirely new. There are existing methods that involve compressing data before encrypting it or using encryption techniques that inherently have some compression properties.
+However, the specific idea you proposed, where additional levels of meaning are assigned to encryption symbols to manage granularity levels and preserve context, seems to be a novel approach.
+It is essential to differentiate between traditional compression techniques followed by encryption and your proposed encryption-based compression. Traditional compression techniques reduce data size, and then encryption is applied to secure the data. In contrast, your approach combines the two processes to create a more efficient and context-aware representation of the knowledge graph.
+To further explore and develop your proposed approach, you may want to research existing encryption and compression techniques and see if any can be adapted or combined to achieve the desired outcome. Keep in mind that the effectiveness and efficiency of this approach will depend on the specific implementation and the nature of the data being compressed and encrypted.
+
+
+We are using encryption to compress data by generalizing sets into classes while preserving relationships of the entities composing the sets and the patterns that populated them
+Your approach seems to combine aspects of both compression and encryption to create a more efficient and context-aware representation of the data. In this case, the goal is to compress the data by generalizing sets into classes while preserving relationships between entities and patterns that populate these sets.
+This process would likely involve the following steps:
+Identify sets of data that can be generalized into classes. This could be based on common attributes, relationships, or patterns within the data.
+Develop an encryption scheme that can represent these generalizations efficiently. This would involve creating a mapping between the original data and the compressed representation, preserving the essential relationships and patterns.
+Apply the encryption scheme to the data, effectively compressing it by replacing the original sets with their generalized counterparts.

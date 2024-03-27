@@ -1,0 +1,20 @@
+In the context of computers, data is the raw input that a computer receives from various sources, such as sensors, user inputs, or external databases. Information theory is applied to understand how this data can be efficiently and reliably transmitted, stored, and processed within a computer system. It provides a mathematical basis for quantifying the amount of information in the data and analyzing the performance of communication channels, storage systems, and computational processes. As computers process and analyze the data, they derive knowledge from the information, which can then be used for various tasks, such as making predictions, optimizing processes, or supporting decision-making.
+
+
+But if the computer receives knowledge as “data” the way that we receive information, it seems like those terms must be mismatched in the domain of the computer’s version of the universe because in instances where the data is simply processed in hidden layers after being scraped from physical data the way humans do. That wouldn’t already be knowledge… do you understand what I’m saying?
+Yes, I understand your point. The terms "data" and "information" can sometimes be used interchangeably or with slightly different meanings, depending on the context. In the context of computers, "data" typically refers to the raw input, which may not yet have meaning or context. However, as the computer processes and analyzes this raw input, it can extract "information" that has meaning and context, similar to the way humans derive knowledge from the stimuli they perceive.
+In both cases, it's important to distinguish between the raw input (data for computers, stimuli for humans) and the meaningful information or knowledge derived from it. The process of converting raw input into meaningful information or knowledge involves various computational or cognitive steps, depending on whether it's happening within a computer or a human brain.
+
+
+So for a computer, data is like the constituents of the universe… so it is the same it’s just that their universe is made out of human data and our universe is made out of the universe’s data
+In a way, that's a valid analogy. For a computer, data can be considered the building blocks of its "universe," which is the digital environment it operates in. Data, in this context, represents the raw input that computers process and analyze to derive meaningful information. In contrast, for humans, the universe's data comprises the stimuli and experiences we perceive through our senses, which we then process to extract meaningful information and knowledge.
+Both computers and humans have unique ways of processing and making sense of the data they encounter, with computers using algorithms and computational methods, and humans relying on cognitive processes and neural networks within the brain. While the sources of data and the methods of processing differ, the overarching goal is similar: to extract meaningful information and knowledge from the raw input.
+
+
+That’s not really an analogy is it? It actually is more true than not, just that a computer doesn’t (to our knowledge) experience itself being in that universe
+You're right; it's not strictly an analogy but rather a comparison between the ways humans and computers process and make sense of the data they encounter in their respective environments. The distinction between the two lies mainly in the nature of the data and the processing methods.
+While a computer does not experience its digital environment in the same way humans experience the physical world, the underlying principles of processing data to extract meaningful information and knowledge are similar. The primary difference is that computers use algorithms and computational methods, whereas humans rely on cognitive processes and neural networks within the brain.
+
+
+But when we see them as wisdom mavericks doing ontological linear algebra I believe that significantly changes the implications
+When we view computers as wisdom

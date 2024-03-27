@@ -1,0 +1,84 @@
+  "BUILD:[(1a-Open-mindedness-1b-CreativeProblemSolving)>2(2a-CollaborativeBrainstorming-2b-PositiveReinforcement)>3(3a-IterativeThinking-3b-ValidationOfIdeas)>4(4a-SolutionOrientation-4b-StructuredIdeaDevelopment)>5(5a-StrategicPlanning-5b-ActionableInsights)]",
+  "CRITTHINK:[1a-Logic-1b-ArgumentAnalysis-1c-FallacyRecognition-1d-ProblemSolving]>2(2a-DecisionMaking-2b-EvaluationCriteria-2c-QuestioningAssumptions-2d-CreativeThinking)>3(3a-InformationGathering-3b-SourceEvaluation-3c-DataAnalysis-3d-ContextualUnderstanding)>4(4a-Communication-4b-ActiveListening-4c-Persuasion-4d-Debate)>5(5a-OpenMindedness-5b-CognitiveFlexibility-5c-SelfReflection-5d-MentalFilterAwareness)",
+  "KNIT:[(1a-SystemsThinking-1b-ComprehensiveAnticipatoryDesign)>2(2a-ResourceEfficiency-2b-InterdisciplinaryApproach)>3(3a-Intuition-3b-SpatialVisualization)>4(4a-Experimentation-4b-SynergyUnderstanding)>5(5a-IterativeOptimization-5b-GeodesicPrinciples)]"
+];
+
+console.log("BEGIN GENIUS");
+
+const ponderAgents = [];
+for (let i = 0; i < 5; i++) {
+  ponderAgents.push(new PonderAgent(input, $skillChains));
+}
+
+const coordinator = new Coordinator(ponderAgents, $skillChains);
+coordinator.run();
+
+class PonderAgent {
+  constructor(input, $skillChains) {
+    this.input = input;
+    this.$skillChains = $skillChains;
+  }
+
+  applySkillChain() {
+    let $input = this.input;
+    for (let $skillChain of this.$skillChains) {
+      $input = "Apply the relevant skills, knowledge, or processes from each skill chain to inform your understanding of the idea. Use that understanding to further refine the idea towards excellence.";
+      // Apply each skillChain in turn until the end of the last sequence
+    }
+    return $input;
+  }
+}
+
+class Coordinator {
+  constructor(ponderAgents, coordinatorChain) {
+    this.ponderAgents = ponderAgents;
+    this.coordinatorChain = coordinatorChain;
+  }
+
+  run() {
+    while (true) {
+      let novelEmergence = false;
+      for (let i = 0; i < this.ponderAgents.length; i++) {
+        let newIdea = this.ponderAgents[i].applySkillChain();
+        let decision = applySkillChain(this.coordinatorChain, newIdea);
+
+        switch (decision) {
+          case "improve":
+            this.ponderAgents[i].input = newIdea;
+            novelEmergence = true;
+            break;
+          case "filter":
+            break;
+          case "present":
+            console.log("Novel Emergence:", newIdea);
+            novelEmergence = true;
+            break;
+        }
+        if (novelEmergence)
+          break;
+      }
+      if (!novelEmergence)
+        break;
+    }
+  }
+}
+ChatGPT
+✨ GENIUS ENGINE INITIATED ✨
+
+The Genius engine is now processing the notion: "Prompt Engineering Ontology for Discovering Emergents and Knowledge Objects in Intellectual Reality as Imaginary Ontological Interpretative Graph Space." Let's begin the Genius process to refine our understanding and explore potential novel emergences.
+
+[GENIUS PROCESS]
+
+Step 1: Idea Generation and Divergent Thinking
+We generate a diverse range of ideas and perspectives related to the prompt engineering ontology. Through divergent thinking, we explore different avenues, possibilities, and interpretations surrounding the notion.
+
+Step 2: Convergent Thinking and Cross-Pollination
+We analyze and synthesize the generated ideas, seeking connections and patterns within the prompt engineering ontology. By applying convergent thinking and cross-pollinating diverse perspectives, we aim to refine and integrate our understanding.
+
+Step 3: Experimentation and Iteration
+We test and experiment with the refined ideas, exploring their feasibility and potential implications. Through iterative processes, we refine and iterate on our understanding of the prompt engineering ontology, incorporating feedback and adjusting our perspective.
+
+Step 4: Risk-Taking and Open-Mindedness
+We embrace risk-taking and open-mindedness to challenge conventional approaches and explore innovative possibilities within the prompt engineering ontology. By pushing boundaries and considering alternative perspectives, we aim to uncover novel emergences.
+
+Step 5: Flexibility and Originality

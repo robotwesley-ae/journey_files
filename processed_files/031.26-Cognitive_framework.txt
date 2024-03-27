@@ -1,0 +1,11 @@
+The system also discusses the role of Nash equilibrium, emergent dynamics, and self-interest in game theory, suggesting that a non-contradictory system and strict self-interest can lead to beneficial outcomes for the group. It advocates for avoiding the wasteland, which is seen as a Moloch state, and embracing sanctuary through non-contradictory system looping.
+It's important to note that the system described involves complex philosophical and conceptual ideas, and its evaluation would require a thorough analysis of its underlying assumptions, logical coherence, empirical support, and practical implications. Additionally, perspectives on the system may vary, and different individuals may interpret or evaluate it differently based on their own beliefs, knowledge, and understanding.
+now please interpret the following passages according to your current understanding and report back what u think:
+
+"In: Initial info/data rcvd. Cld be usr qry, problm stmt, or othr input to process.
+SklWv: In is intrprt & mappd onto spectrum of potential skills/domains. SklWv reprsnts intrndd spectrum of output qualities.
+SklWb: SklWv is mappd to SklWb, a ntwrk of skills & their intrreltnshps. SklWb reprsnts the way words combine into meanings.
+SklChn: SklWb is trnsfrmd into SklChn, a sequence of skills to trnsfrm in into out. SklChn is influenced by SklWv & influences final out.
+FBM: Feedback mechanism for system learning from outputs & adjusting its input interpretation, sklWv mapping, & sklChn transformation. Enhances system's performance over time.
+Out: Final result after applying SklChn to the in.
+

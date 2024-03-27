@@ -1,0 +1,42 @@
+
+
+
+
+WEB3 BRIEFING:
+What are Blockchain, DApps, and The Metaverse?
+
+
+
+
+By Glacial Lake Solutions
+
+3/10/2022
+
+
+
+
+
+
+
+
+
+
+
+
+Intro
+
+The internet began as Web1 (inception -> 2005), a series of documents with hyperlinks between them (aka websites) in which http protocols allowed the user to enter URLs and visit documents. Web2 (2005-2020) was characterized by centralization of data, applications, and the deterioration of privacy in data. In other words, as centralized applications were adopted (facebook, google) the user data from the services were bought and sold without participation from the user - an essentially exploitative, zero-sum relationship. The landscape of internet technology is changing again with the innovation of blockchain technology and this seachange is called Web3. From 2020 onward, blockchain adoption has accelerated beyond initial internet adoption between 1990 - 2005.  Web3 is defined as an internet of blockchains. Metaverse is defined as the totality of interoperable blockchains - type I decentralized applications (DApps) - with type II and III DApps built upon them that a user may port data between seamlessly. The easiest way to understand this is with DeFi or decentralized finance DApps which may be Type I, II, or III. For example: smart contracts are built into Ethereum’s blockchain (type I) and then DApps that use these smart contracts in building blocks are type II (such as decentralized exchanges or DEX).  
+
+PART 1
+What is blockchain? 
+
+P1 - §1:
+BLOCKCHAIN: OVERVIEW AND BASICS
+A blockchain is a digital record-keeping method which employs a structure of groups of timestamped data entries (blocks)(which could represent any kind of data record) that are linked together sequentially into “chains”. The link between blocks is established cryptographically, wherein each new/leading block contains a cryptographic hash (an algorithmically generated [via a mathematical function, i.e. input-to-output] bit array [a group of groups of alphanumeric characters] of a fixed size which has a unique mathematical relationship to some/any given set of input data) of the preceding block in the chain. Typically this data is stored in a tree-like structure called a Merkle Tree (hash tree), which has the benefit of being a very efficient way (particularly when compared to a simple list) to store chained/linked cryptographic hashes due to the reduced number of mathematical calculations which need to occur to verify that any given entry in the structure is a valid one.
+
+P1 - §2:
+BLOCKCHAIN: IMPLEMENTATION (Distributed ledger, network, consensus)
+While a blockchain itself is nothing more than a “way” of storing data, they are typically, and most effectively, used in “peer-to-peer” networks where many independent computers/users on a network (by virtue of an internet connection and a shared set of communication and storage protocols) can collectively and redundantly (every node of the network “has a copy”)  store the contents of what is called a  “distributed/public ledger”; which itself may contain the complete history of transactional and ownership related data about both digital objects (cryptocurrencies, contracts, documents, and tokens [generally: fungible and non-fungible]) and digitally-represented physical objects (through ‘tokenization’).
+Critically, the protocols on a blockchain network support a “consensus mechanism” (which can be one of many different kinds) which generally speaking allows the participants in the network to collectively and trustlessly (without knowledge or proof of the identity or motivation of the other participants) verify the data that is being committed to the blocks. Typically these consensus mechanisms will employ some kind of ‘cost’ (computational time/energy, staked funds, etc.)  incurred by the participants which prevents (or at least severely limits) the ability of any single participant from controlling a majority of the network's nodes, and therefore its verification capacity. Many other cryptographic methods are also employed to ensure tolerance to errors, false reporting, and malicious attacks which would ultimately seek to commit false/invalid data to the distributed ledger.
+
+P1 - §3:

@@ -1,0 +1,63 @@
+Overview of Application of Lightning Protection Regulations to CSATF SoPs:
+
+You must SHELTER due to electrical storm for 30 minutes if you are working outdoors and
+lightning strikes within 6 miles.
+You must SHUT DOWN during a lightning storm if:
+1) you have no way to get power from a shelter structure
+AND one of the following:
+your alternative electrical supply is unbonded OR ungrounded OR has improperly rated cords
+OR
+your alternative electrical supply are portable generators within 20 ft of each other that cannot
+be bonded together by a dedicated copper bonding conductor from generator to generator
+----------------
+OR
+----------------
+2) you are sheltered in a powered structure AND using its internal electrical supply
+AND
+an external electrical supply that is INSIDE the structure
+AND one of the following:
+External supply can not have its grounding conductor bonded to the structure’s grounding
+Electrode (according to lightning protection standards set forth in NFPA 780)
+OR
+CO2 from external supply exhaust cannot be pumped out of the building
+
+(Reference bulletins and document sections CSATF 38, OSHA 3826, OSHA 3863,
+OSHA 1926.404, OSHA 5a, NFPA 780)
+
+CSATF Excerpts from NFPA 780:
+
+Surge protective devices should be installed on all feeders
+from a portable generator supplying power into a building
+or structure.
+
+If a generator housing is more than 3/16" thick, air terminals
+would not be required. The frame of the generator could have
+two 1/0 minimum copper conductors attached to the frame at
+opposite corners and each connected to a 10-foot ground rod
+separated by at least 20 feet.
+
+4.6.1.1 termination devices shall include air terminals, metal masts, permanent metal
+parts of the structure as described in 4.6.1.4 and overhead ground wires
+4.6.1.4 metal parts of a structure that are exposed to direct lightning flashes and have
+a metal thickness of 3/16 inch or greater shall only require connection to the lightning
+protection system in accordance with section 4.9
+4.6.4.4 the overhead ground wire shall be a minimum diameter of 1/2 inch and shall be
+self-supporting with minimum sag under all conditions
+4.9.10 at least two down conductors shall be provided on any kind of structure
+4.13.2.3.1 the ground rods shall extend vertically not less than 10 feet into the earth
+4.13.2.4 where multiple connected ground rods are used, the separation between any
+two ground rods shall be at least the sum of their driven depths, where practicable
+A.8.3.2 the best method to protect extremely sensitive operations from all sources of
+electromagnetic radiation is to enclose the equipment, operations, or facility inside a
+metallic, Faraday-like cage. A metallic, Faraday-like cage is an enclosure that
+comprises a continuous grid of conductors, such that the voltage between any two
+points inside the enclosure is zero when the cage is immersed in electrostatic field. A
+metallic cage or Faraday shield lightning protection system is one in which the
+protected volume is enclosed by a heavy metal screen, similar to a birdcage, or
+continuous metallic structure with all metallic penetrations bonded. The lightning
+current flows on the exterior of the structure, not through the interior. A Faraday-like
+shield, which is not an ideal Faraday cage, is formed by a continuous conductive matrix
+that is properly bonded and grounded.
+A freestanding structure that is determined by the AHJ to be a metallic cage or
+Faraday-like shield might not require either grounding systems or strike termination
+devices.

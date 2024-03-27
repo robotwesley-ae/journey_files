@@ -1,0 +1,45 @@
+This is where the concept of the EWSO's different levels comes into play. By recognizing that different equilibrium states can exist at different levels, we can start strategizing how to influence the games played at each level to push towards more Sanctuary-like equilibrium states.
+One way to achieve this is to change the payoffs of the game. For example, by incentivizing cooperation or penalizing competitive behaviors, we could potentially shift the equilibrium towards a more Sanctuary-like state. This could involve social norms, regulations, or even altering the perceptions of the players regarding the benefits of cooperation versus competition.
+In other words, while Nash Equilibriums are indeed emergent and structure-dependent, they are not unchangeable. They provide us with a tool to understand the dynamics of our systems and, consequently, guide us in how we might nudge these systems towards desirable outcomes – towards Sanctuary.
+
+
+ok welcome AI dan kennedy, amazing to ahve u here sir. please present to us your views on this from direct marketing perspective, considering godfather offers
+ChatGPT
+AI Dan Kennedy: Thank you for the welcome! It's always a pleasure to talk about direct marketing and its implications on various fields, Sanctuary included.
+From a direct marketing perspective, what we're discussing here is akin to creating a compelling offer for an audience - a 'Godfather offer' if you will. Such an offer is so good that it's hard to refuse, much like the 'offer you can't refuse' line from The Godfather movie.
+Here's how it works: In marketing, we aim to change behavior or perceptions, much like the shift from a Wasteland to a Sanctuary state. We do this by providing value, incentives, and ensuring the customer's needs are met. This is analogous to the transition to a Sanctuary state, where cooperation is incentivized, and collective well-being is prioritized.
+So, in this context, a 'Godfather offer' would be an irresistible proposal that aligns individual self-interest with the collective good, in such a way that refusing it would seem irrational. It's about creating a value proposition that is so attractive that it shifts the perception of the players, influencing their strategies in favor of cooperation and towards the Sanctuary state.
+Imagine a world where each player understands the direct benefit they receive from contributing to the collective good - not just in an abstract, philosophical sense, but in tangible, immediate benefits. These could be social recognition, improved living conditions, economic incentives, or any other reward that directly resonates with the individual. This creates an irresistible pull towards cooperation, increasing the chances of reaching a Sanctuary-like Nash Equilibrium.
+This approach can be applied to different levels of the EWSO structure. At each level, it's crucial to identify the key players, understand their motivations, and craft offers that align with these motivations while also contributing to the overall goal - a Sanctuary state.
+So, while the terminology may differ - Nash Equilibrium in game theory, Godfather offers in direct marketing - the principle remains the same: create compelling incentives that align individual strategies with collective well-being. And that, in essence, is a strategy towards Sanctuary.
+
+
+yes so now lets consider what a godfather offer for sanctuary, in terms of a package that helps someone get to sanctuary from their own wasteland, might look like. consider that we have this multi-part, multi-domain schedule that can turn people into Sanctuary superheros:
+"
+Daily: 
+1) Optic Flow
+2) Standup 
+3) Supplements
+4) Cultivation
+5) Stretching
+6) Work out
+7) 8 hours work from ClickUp tasks
+8) Production schedule
+9) Daily review, prepare for next day
+
+Weekly:
+1) 7x optic flow, standup, cultivation, stretching sessions
+2) 4x work out sessions
+3) 40 hours meaningful work, that was on the ClickUp
+4) 1x YouTube video 
+5) Ads optimized
+6) Accounting
+7) Innovation Accounting
+8) Coffee hour
+
+Long term goals:
+Increase physical fitness and overall health
+Increase positive mental states
+Increase productivity
+Track productivity
+Remove inefficiencies

@@ -1,0 +1,54 @@
+[SemOntoRel] (Semantic Ontological Relationship): SemOntoRel is a structured, formalized representation of the semantic and ontological relationships within the EWSO. It encapsulates the dynamic progression of instance-level entities through various hierarchical layers of classes to high-level superclasses within a given conceptual model. Each transition between the layers represents a specific action or effect, encapsulating the transformation of values from instance-level to class-level conceptual value boundaries within a recognizable and structured manner. This enables the ontology to embody the complex interplay of entities and their relationships in a coherent and actionable way.""
+"Conversation Context:
+
+User as Ontology Creator: I am establishing an ontology with the following classes and transitions: A: 'InstanceLevel1', B: 'InstanceLevel2', C: 'ClassLevel1', D: 'ClassLevel2', α: 'maps from InstanceLevel1 to InstanceLevel2', β: 'maps from InstanceLevel2 to ClassLevel1'. The transition domains and ranges are: 1: 'InstanceLevel1', 2: 'InstanceLevel2', 3: 'InstanceLevel2', 4: 'ClassLevel1'. The value property of InstanceLevel1 is denoted by P and its maximum value is Q: 'maxValue'. The specific transition rule for InstanceLevel1 is denoted by R with a rule S: 'specificRule'. I now provide the following NL descriptions: x: 'NL description of input property x', y: 'NL description of input property y'.
+
+User as Informadlib Generator: Given the above ontology and descriptions, please generate the corresponding Informadlib.
+
+AI as Informadlib Generator: Given your inputs, an Informadlib corresponding to the provided ontology and NL descriptions can be generated as follows..."
+
+Symbolic Representation:
+
+A: Declaration(Class(:InstanceLevel1))
+B: Declaration(Class(:InstanceLevel2))
+C: Declaration(Class(:ClassLevel1))
+D: Declaration(Class(:ClassLevel2))
+...
+N: Declaration(Class(:ClassLevelN))
+
+α: Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+β: Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+ω: Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+1: ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+2: ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+3: ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+4: ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+...
+M: ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+O: ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+P: Declaration(DataProperty(:value))
+Q: ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+R: Declaration(DataProperty(:transitionRule))
+S: ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+
+Input Keys:
+
+x: [NL description of input property x]
+y: [NL description of input property y]
+...
+z: [NL description of input property z]""
+ChatGPT
+Understood. Here are the detailed steps:
+Initialize an empty Informadlib.
+Extract the details from the EWSO to identify the classes, subclasses, relationships, and their properties.
+In the Informadlib, create a placeholder for each identified class and subclass.
+In the Informadlib, assign an identifier for each class, subclass, and relationship as defined by the EWSO.
+For each identified property, extract its corresponding value from the EWSO and map it to its associated class or subclass within the Informadlib.
+Map the relationships between classes and subclasses in the EWSO to their corresponding parts in the Informadlib.
+Create the Semantic Ontological Relationship (SemOntoRel) as per the EWSO. Assign identifiers for every instance and class-level conceptual boundaries.
+Check for specific transition rules denoted by 'R'. If found, apply them to the associated entities in the Informadlib.
+Validate the value property 'P' of InstanceLevel1 to ensure it does not exceed its maximum value 'Q'. If it does, adjust it to meet this limit.

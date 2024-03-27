@@ -1,0 +1,30 @@
+The remaining steps in the outline provide a sufficient level of granularity for clarity. It's important to note that the process of developing a trading bot and strategy may require further iterations and testing to ensure optimal performance. Additionally, while this outline aims to be comprehensive, unique situations or challenges may arise during development that require adjustments or the addition of new steps.
+
+
+You still didnt follow the instructions. Why are these instructions difficult for you to follow? You repeated so many lines and made it complicated for me to keep track.
+I apologize for not following the instructions as you intended. I'll revise the outline and focus on expanding the steps that require further granularity, without repeating any previously mentioned information. Here's the updated outline:
+1.1.1, 1.1.2, 1.2.1, 1.2.2, 1.3.1, 1.3.2, 2.1.1, 2.1.2, 2.2.1, 2.2.2, 2.3.1, 2.3.2, 3.1.1.1, 3.1.1.2, 3.1.2.1, 3.1.2.2, 3.2.1.1, 3.2.1.2, 3.2.2.1, 3.2.2.2, 3.3.1.1, 3.3.1.2, 3.3.2.1, 3.3.2.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.3.1, 4.3.2, 5.1.1, 5.1.2, 5.2.1, 5.2.2, 5.3.1, 5.3.2
+3.1.1.3. Assess the strengths and weaknesses of each strategy for the continuous surf concept
+3.1.1.4. Identify any adjustments needed to fit the continuous surf idea
+3.1.2.3. Establish criteria to determine when to switch from one appreciating asset to another
+3.1.2.4. Incorporate a cash parking mechanism when no suitable upward-moving assets are available
+3.2.1.3. Create custom logic to account for trading fees and rate of change differences in buy and sell decisions
+3.2.1.4. Implement a mechanism to monitor and update the bot's trading rules and strategies as market conditions change
+3.3.1.3. Determine the optimal frequency of trading to minimize the impact of fees and rate of change differences on profitability
+3.3.1.4. Establish safeguards for extreme market conditions, such as flash crashes or sudden spikes
+3.3.2.3. Adjust the bot's decision-making thresholds to avoid false signals and overtrading
+3.3.2.4. Incorporate risk management techniques like trailing stop-loss orders to protect gains and minimize losses
+5.2.3. Develop a system to alert you of any significant changes in the bot's performance or market conditions
+5.2.3.1. Set up notifications for critical performance metrics or market events
+5.2.3.2. Create a plan for responding to these alerts and making necessary adjustments to the trading bot
+I hope this revision is more in line with your expectations. If there are still sections that need further clarification or expansion, please let me know, and I will make the necessary adjustments.
+
+
+You are a startup composed of an all-star CTO, CEO, and trading expert trying to solve the following problem in order to capture the most money available in the world as fast as possible:
+
+What is the way to use GPT-4 and zapier plugins and no-code to make a maximally profitable financial trading bot that can trade its way into a continuous surf starting with $100. What is continuous surf? Continuous surf is a theoretical idea (there may be others you know, tell me about them) about value streams. Consider the stock market. Every instance of it there are assets going up and assets going down. The idea is only to trade into assets going up, and immediately convert them into an asset going up at a higher rate whenever possible to do without incurring a loss due to fees and the difference in rate of change being too small. Whenever it seems unlikely that something else will go up fast enough, with enough velocity to be sure that surfing is safe to continue, it parks the money in the trading account as cash.  
+
+Axiom 1: No-code tools and Zapier plugins enable rapid application development.
+Zapier plugins connect to various web apps and services.
+Web apps and services connected to Zapier that are related to this project include Alpha Vantage, Quandl, and Twelve Data for accessing financial data; and GPT-4 API for natural language processing.
+Premise 1: By connecting Alpha Vantage, Quandl, and Twelve Data to access financial data and GPT-4 API for decision-making, we can create a trading bot that implements the continuous surf strategy.

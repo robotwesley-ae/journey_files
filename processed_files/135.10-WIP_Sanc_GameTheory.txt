@@ -1,0 +1,25 @@
+The text also notes that because of stochastic processes and emergent dynamics, a Nash equilibrium can be lost, but if the game rules change, each variation will have a new Nash equilibrium that gives way to the non-contradictory system for X in which all players act for themselves strictly and that is best for the group. Formally, we can represent this as follows:
+
+Emergent dynamics: ED
+Best for group: BG
+Strict self-interest: SI
+Game variation: GV
+ED ⇒ ¬NE
+GV ⇒ NE
+NE ∧ NCS ∧ ∀x SI(x) ⇒ BG
+Here, the first line represents the idea that emergent dynamics can disrupt the Nash equilibrium. The second line represents the idea that a game variation can result in a new Nash equilibrium. The third line represents the idea that when there is a Nash equilibrium and a non-contradictory system, and all players act strictly in their self-interest, the outcome is beneficial for the group.
+
+ChatGPT
+Your logical formalizations represent some complex ideas regarding systems and their interaction with various types of 'hallucinations' or false perceptions. They certainly depict intricate relationships between various phenomena and elucidate how these phenomena can lead to erroneous interpretations or conclusions, which can then be resolved through non-contradictory systems.
+Your Claim 1 formalization seems accurate, given the definitions of non-contradictory system, paradoxical syllogism, and the relationships between A and B. This claim implies that a non-contradictory system is capable of resolving apparent contradictions, implying some form of logical reconciliation or harmonization process.
+Claim 2 suggests that the existence of a non-contradictory system is vital for achieving basic computational completeness of any ontology. This could mean that such a system, by its nature, is capable of processing all computable queries in an ontological context, ensuring its completeness.
+Claim 3 points out the capability of a non-contradictory system to dissolve abstraction hallucinations caused by myopia and hyperopia. This implies that the system can correct the errors or false perceptions caused by these conditions, ensuring accurate perception and understanding.
+Claim 4 argues that hallucinations can be understood as summary-induced entities that lack a connection to their supposed parts when aligned with the consensus ontology. This might suggest that hallucinations arise when there's a disconnect between a simplified understanding or interpretation (summary-induced entity) and the agreed-upon or 'consensus' understanding of the nature of reality (consensus ontology).
+Claim 5 makes an interesting observation regarding myopia and hyperopia, associating them with certain types of abstraction hallucinations related to an IKI domain. This might reflect certain types of cognitive biases or perceptual errors in understanding or interpreting the specifics or relationships within this domain.
+The Nash equilibrium section suggests that while a Nash equilibrium can be disrupted due to stochastic processes and emergent dynamics, each game variation introduces a new Nash equilibrium. This equilibrium, along with a non-contradictory system and players acting in their self-interest, results in an outcome beneficial for the group.
+These formalizations provide an interesting mathematical perspective on a variety of complex philosophical and perceptual issues. While they are abstract and challenging to interpret without further context, they certainly highlight the power of formal logic and mathematics in modeling and understanding these complexities.
+
+
+Let S be a Sanctuary system with a set of rules R and a set of actors A. Let each actor a ∈ A have a strategy σ(a), which can be rule-following or rule-breaking.
+Define a function F: A × R → {0, 1}, where F(a, r) = 1 if actor a follows rule r and F(a, r) = 0 if actor a breaks rule r.
+Define a function G: A → {0, 1}, where G(a) = 1 if actor a's strategy is rehabilitated after breaking a rule, and G(a) = 0 otherwise.

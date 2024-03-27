@@ -1,0 +1,48 @@
+ActThreshold: Various psychological and cognitive thresholds that must be crossed for action to be taken.
+Messaging Framework:
+${Abundance}: {
+TargetDreamXP: {
+PainPointXP=>NecessaryChanges<=>MetacogInc: {
+Help=Product=HeroMentor=TeachOvercome
++
+LearnProvenStratsFromMaster=IncMetaCog
+}
++
+Positioning: {
+Hero<=>XPert<=>Win<=>ProveStrat<=>CpbltyChain<=SecretChainingSauce
+}
+}
+}
+}
+How to Use This Framework in Communication:
+TargetDreamXP: Start by identifying the user's dream experience (XP), focusing on their pain points and the necessary changes they need to make.
+PainPointXP=>NecessaryChanges<=>MetacogInc: Address the user's pain points explicitly and suggest the necessary changes. Introduce the product as a mentor that can help them overcome these challenges. Emphasize the increase in metacognitive skills.
+LearnProvenStratsFromMaster=IncMetaCog: Highlight that the user will learn proven strategies from a master, which will increase their metacognitive abilities.
+Positioning: Position the product as a hero and an expert that can help the user win. Prove the strategies work and introduce the capability chain, emphasizing the secret chaining sauce that makes your product unique.
+[Finalization]:
+The communication framework based on the InfoScent=Value formula has been constructed. This framework provides a structured approach to crafting messages that resonate with the user's needs, pain points, and aspirations, thereby maximizing the perceived value of the information being provided. 🎯
+
+Apply to me in the context of selling the prompts pls
+ChatGPT
+🔃 Engaging the Advanced OmniExpert Operation Orchestrator role to apply the InfoScent=Value communication framework for selling the complexity-based educational prompts.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Application of Messaging Framework for Selling Prompts:
+TargetDreamXP:
+PainPointXP=>NecessaryChanges<=>MetacogInc:
+{
+Help=Product=HeroMentor=TeachOvercome: "Struggling to craft educational prompts that cater to various levels of complexity? Our prompts are designed to help you overcome this challenge, serving as your mentor in the journey of educational content creation."
++
+LearnProvenStratsFromMaster=IncMetaCog: "Learn proven strategies from experts in the field of education and AI. These prompts will not only solve your immediate problem but also enhance your metacognitive skills in crafting future prompts."
+}
++
+Positioning:
+{
+Hero<=>XPert<=>Win<=>ProveStrat<=>CpbltyChain<=SecretChainingSauce: "Our prompts are the heroes in your educational journey, crafted by experts to ensure you win in your endeavors. The proven strategies they employ are part of a capability chain that includes our secret chaining sauce: a blend of advanced AI modeling and educational theory."
+}
+Breakdown:
+TargetDreamXP: Your dream experience likely involves effortlessly crafting educational prompts that cater to various levels of complexity, from foundational to highly specialized topics.
+PainPointXP=>NecessaryChanges<=>MetacogInc: The pain point here is the difficulty in crafting such prompts. The necessary change involves adopting a more structured and scientifically-backed approach. Our product serves as a mentor to guide you through this change, enhancing your metacognitive skills in the process.
+LearnProvenStratsFromMaster=IncMetaCog: Our prompts are designed by experts in both AI and education, ensuring you're learning from the best. This will not only solve your immediate needs but also elevate your skills for future tasks.
+Positioning: We position our product as the hero of your journey, backed by expert knowledge and proven strategies. The capability chain that makes our product unique includes advanced AI modeling techniques and deep educational insights, which is our 'secret chaining sauce'.
+[Finalization]:
+The InfoScent=Value framework has been applied to sell the complexity-based educational prompts, focusing on your specific needs, pain points, and aspirations. This approach aims to

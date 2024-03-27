@@ -1,0 +1,24 @@
+Scalability and computational efficiency: As the size and complexity of an ontology grow, the computational cost of reasoning, searching, and updating the ontology increases. At some point, it might become necessary to sacrifice some level of detail or accuracy to maintain efficient processing and querying of the ontology.
+Despite these challenges, the approach you described can still serve as an aspirational goal for ontology development. By iteratively refining the ontology and incorporating new knowledge and relationships, it is possible to improve its accuracy and representativeness of the domain knowledge over time. The process of disambiguating P into ABC of P, specifying it into a generalized X, and further refining it for each subdomain can lead to a more comprehensive ontology that better captures the underlying structure and complexity of the knowledge domain.
+
+
+
+
+Isaac Wostrel-Rubin
+I think it just needs to have bounded processing. We can only compute some number of layers deep at once, in each domain. We need a way to keep the properties superpositioned while we calculate the others as well, isn’t it? 
+
+You're correct that a practical approach to ontology development and reasoning should involve bounded processing. In complex knowledge domains, it's often not feasible to compute and represent all possible relationships and properties at once. To manage this complexity and computational cost, you can adopt several strategies:
+
+Layered or modular approach: Develop the ontology in layers or modules, focusing on specific subdomains or aspects of the knowledge domain. This allows you to process and reason about smaller, more manageable pieces of the ontology at once. You can then combine or link these modules when necessary to answer more complex queries or explore broader relationships.
+Superposition of properties: As you mentioned, you can maintain a level of abstraction by keeping some properties "superpositioned" while calculating others. This approach involves representing uncertain or ambiguous properties at a higher level of abstraction, which can be disambiguated or refined later when more specific information or context is available.
+Approximate reasoning: In some cases, you can apply approximate reasoning techniques to make inferences or answer queries with partial or incomplete information. This allows you to make progress in reasoning and processing the ontology even when not all properties or relationships are fully specified.
+Focused or goal-driven reasoning: Instead of attempting to compute all possible relationships and properties at once, focus on the specific goals or questions you want to answer with the ontology. This allows you to prioritize the computation and representation of the most relevant and important aspects of the knowledge domain.
+Adaptive reasoning: Develop mechanisms to dynamically adjust the level of detail or depth of reasoning based on available resources, such as computational power, time constraints, or the complexity of the query. This can help balance the trade-offs between accuracy, complexity, and computational efficiency.
+By adopting these strategies, you can effectively manage the complexity of ontology development and reasoning while keeping the properties superpositioned and maintaining bounded processing. This will enable you to work with large and complex knowledge domains without being overwhelmed by the computational costs or complexity.
+
+
+
+
+Isaac Wostrel-Rubin
+The best option is 2. It is also the most complex. This means creating “encrypted” ontologies where one set of keys is an instance based hash key and a domain based hash key. Then, decrypting it, knowing that it is *ontologically predicting* the classes of properties involved in XsubDsubK, since we already have part of the instance based hash key and presumably all of the domain based hash key, means aligning every symbol in the instance key X-like not-X to current ontological set of all X, and then using combinatorial functions to find XsubDsubK that satisfies original P. 
+

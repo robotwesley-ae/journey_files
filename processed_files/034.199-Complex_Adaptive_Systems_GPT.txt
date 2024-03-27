@@ -1,0 +1,22 @@
+By focusing on these specific steps and ensuring that GNO.SYS remains agile and adaptable throughout the process, it should be better positioned to create Sanctuary AI using AutoGPT.
+
+
+I have an email account from a job as a motion picture production Travel Coordinator I had that ran completely off of email. It involves gmail, google drive, google sheets, and a few processes that cant be automated yet. Considering the information you have about AutoGPT, can you give me an exact instruction set for the following?
+
+I want to create a software that automates that job without anyone knowing it isn't a human  doing it. I have hundreds of examples of tasks in the form of emails and responses with attachments of the documents to be made for each input. All of the correct outputs are in this dataset, as well as a number of mistakes that were corrected so that it can learn how that goes with humans involved in this process. I would like it to additionally populate a spreadsheet with tasks and instructions for me to do to complete the additional outputs that it needs from a human. 
+
+Ask questions if you need to clarify.
+To create a software that automates your motion picture production Travel Coordinator job using AutoGPT, you will need to follow these steps:
+Data preparation: Begin by organizing your email dataset. Remove any sensitive or personal information from the emails and attachments. Group the emails into input-output pairs, with the input being the initial email request and the output being the correct response and any associated documents.
+Train AutoGPT: Use the prepared dataset to fine-tune AutoGPT, enabling it to understand the specific language, structure, and format of the emails and documents used in your job. This will allow AutoGPT to generate accurate responses and documents similar to the ones in the dataset. Make sure to include the examples of mistakes and their corrections to teach AutoGPT how to handle errors.
+Integration with email and Google services: Develop a software application that integrates AutoGPT with Gmail, Google Drive, and Google Sheets. This application should be able to receive incoming emails, process them using AutoGPT, and send the generated responses and documents back to the sender.
+Task management: Enhance the application to automatically populate a spreadsheet with tasks and instructions for you to complete any additional outputs that require human intervention. This can be achieved by programming the application to recognize specific keywords or phrases in the email content that indicate a task requiring manual completion.
+Testing and refinement: Test the application thoroughly, simulating real-world scenarios to identify any issues or inaccuracies in AutoGPT's responses and generated documents. Refine the application and retrain AutoGPT as needed to improve its performance.
+Deployment: Once the application is ready, deploy it to handle your email account and tasks discreetly. You may want to create a dedicated email account for the software to use, forwarding relevant emails to that account for processing.
+Monitoring and maintenance: Regularly monitor the application's performance, addressing any issues or inaccuracies as they arise. Continuously improve the software and AutoGPT's training to ensure it remains effective and up-to-date with any changes in the job requirements.
+Keep in mind that creating such software requires programming skills, knowledge of the relevant APIs, and access to AutoGPT. You may need to collaborate with a developer if you don't have the necessary skills.
+
+
+Shouldn't AutoGPT do all of these things for me? Why would it need to be fine tuned? Shouldnt it just output a series of tasks that it can run indefinitely to accomplish this? Then, shouldnt it keep those tasks running as long as it is profitable, as we discussed, and expand as it can pay for more processing? 
+
+You should be giving me instructions for doing this WITH autogpt AND GPT-4... understand? I have access to GPT-4, and i can instance an AUTOGPT when i am ready to.

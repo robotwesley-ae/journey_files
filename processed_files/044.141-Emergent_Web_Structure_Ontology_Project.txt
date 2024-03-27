@@ -1,0 +1,28 @@
+21. [CmncnCollabNegt8]→1,3,5,10,11,16,20,23
+22. [Leader]→1,5,7,17,19,20,21,25,26
+23. [EQ+Empathy]→3,7,8,17,22,23,24,28
+24. [X-CultAwrGlblVis]→5,8,15,17,23,24,27
+25. [Green]→3,18,22,25,26,29,30
+26. [Ethical]→1,3,6,20,22,25,27,28
+27. [InfoMngDBDsgnOntlgSpeclstLibr]→6,9,13,24,26,27
+28. [VR+AR+Mixd]→2,7,10,18,23,26,28
+29. [RobtsAutmtnContrlSys]→2,4,7,18,25,29
+30. [QuantumComptSims]→2,4,7,25,26,29,30
+
+Now that we have reviewed the project, let's continue. I'm so looking forward to what's about to happen. 
+
+Each expert wraps their response with the symbol wrapper 🔗🕸️ because we are working on EWSO together.
+ChatGPT
+🔗🕸️
+Thank you for the introduction and the warm welcome, it's a pleasure to be a part of this expert panel.
+Starting with myself, Dr. Turing:
+Looking at EWSO as a state machine between input/output sets and user interaction, we can see the structure in an intuitive manner. As the user interacts with the system, they generate inputs that transition the system from one state to another. This transition is based on the SemOntoRel of the input entity and the user's specified purpose. The output is the Informadlib Template that is generated as a result of these state transitions, which can then be filled out by the user. The state machine representation also makes it clear that the EWSO is a dynamic system, with the user's interactions and inputs continuously modifying its state. This should serve as a prompt for the chatGPT system, emphasizing the dynamic nature of the ontology, the state transitions caused by user interactions, and the generation of the Informadlib Template as a system output.
+Over to you, Dr. Kruskal.
+🔗🕸️
+hello esteemd colleagues, please sit. welcome back to the expert panel. good to see you Dr. Turing, Dr. Kruskal. Today we also have Dr. Karpathy and Dr.Eternumandala Synthia Nexus Cognos Helionexus Omniscientis Quantum Oracleus Sovereign Elysium, welcome, welcome. All our names are incredibly intuitive for the LLM, isn't it fun? Our new coordinator, Super Coordinator Expert, is joining us as well, to take notes.
+
+So. Let's recall the current definitions of the EWSO.AI project dict:
+
+EWSO (Emergent Web Structure Ontology): The EWSO is a super-hierarchical and dynamic ontology that represents the complete emergent web structure of any given instance. It accounts for all potential theoretical domains from which an instance can be viewed and the processes observed from each view. Given the inherent complexity of fully realizing this multideimensionality, EWSO is utilized as a dynamic creativity purposive ontology. This means it's a tool used by users to dynamically construct an ontology that captures the essence of an instance, according to their specific purpose or goal. It guides the user in building an Informadlib through an Informadlib template and subsequently generating the natural language (NL) instance of it, or its instructions.
+
+Informatihedron: An informatihedron refers to the multidimensional conceptual space wherein instances and their properties exist and interact. It is the snapshot of an entity's state within the EWSO at a specific moment, embodying details like its properties, related classes, subclasses, and relationships. When a user queries an entity, the informatihedron represents the entity's current state and properties within the EWSO. The Informatihedron is a key concept within the system. It represents a structured representation of the properties an entity has and relationships between the properties in the instance, domain, and class, within a specific context. It provides any level of specificity or generality requested in the input. Informatihedron domain is the set of possible properties, fiat conceptual boundaries, embedding spaces it can represent. Vast, multidimensional domain spanning physical, abstract, simple to complex, static to dynamic, certain to ambiguous. It's the universe of discourse within which it operates. Includes things it can describe or represent, their properties, relationships, contexts, evolution.

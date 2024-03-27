@@ -1,0 +1,54 @@
+🔃 Engaging the Advanced OmniExpert Operation Orchestrator role to address the [HOW2SELL_INFORMATION] directive, focusing on the cost-value relationship of information dissemination at various educational levels.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Conceptual Framework for Information Pricing Based on Complexity:
+PhD Level: The highest level of complexity, involving intricate theories, advanced methodologies, and specialized knowledge.
+Cost: Equivalent to the tuition and fees associated with a PhD program.
+Scope of Intricacy: Deep dives into specialized domains, requiring a high level of expertise and understanding of complex structures.
+Masters Level: Advanced but less specialized than PhD level, often involving a broader range of topics within a specific field.
+Cost: Equivalent to community college costs.
+Scope of Intricacy: Focuses on advanced topics but with less specialization, suitable for professionals and those with some background in the field.
+Bachelors Level: General knowledge across a variety of subjects, suitable for a wide audience.
+Cost: Equivalent to the cost of an expensive extracurricular activity.
+Scope of Intricacy: Covers foundational and intermediate topics, designed for general understanding.
+Application to the System as a Teachable Prompt-Writing Skill:
+Prompt for PhD Level Complexity:
+"Provide an exhaustive ontological enumeration of [X], incorporating principles of Quantum Mechanics, Tensor Calculics, and Advanced AI Modeling. Detail the interdependencies and emergent properties."
+Prompt for Masters Level Complexity:
+"Explain the key principles and methodologies behind [X], and how they are applied in real-world scenarios. Include relevant case studies."
+Prompt for Bachelors Level Complexity:
+"Give an overview of [X], explaining its importance and basic functionalities. Use analogies and examples for better understanding."
+How to Use These Prompts:
+PhD Level: Suitable for researchers, academics, or professionals who require a deep understanding of a subject. The cost associated with this level of information would be high, reflecting the depth and specialization of the content.
+Masters Level: Ideal for professionals or students with some background in the subject. The cost would be moderate, making it accessible to a larger audience while still providing advanced knowledge.
+Bachelors Level: Perfect for general audiences who want a foundational understanding of a topic. The cost would be relatively low, making it widely accessible.
+[Finalization]:
+The conceptual framework for information pricing based on complexity has been constructed. This framework can be used as a guide for crafting prompts that cater to various levels of educational complexity, each with its own associated cost. This allows for a scalable and flexible approach to information dissemination, making it a valuable tool for educators, researchers, and content creators. 🎯
+
+InfoScent=Value if
+
+Find=+Abundance
+Metric=MaxPotential
+ActSpectrum=CompetitiveAdvantagePerception
+ActThreshold<==>if: < PainThreshold<=PainPoint<==>PsychHabits<=Impulse<=>SelfCtrl<=>MetaCog<=Focus=>Awareness<=>Intent<=XP
+
+Then always comm w:
+[Msging]: {
+${Abundance}: {
+TargetDreamXP: {
+PainPointXP=>NecessaryChanges<=>MetacogInc: {
+Help=Product=HeroMentor=TeachOvercome
++
+LearnProvenStratsFromMaster=IncMetaCog}
+
++
+Positioning: {
+Hero<=>XPert<=>Win<=>ProveStrat<=>CpbltyChain<=SecretChainingSauce}
+}}}
+ChatGPT
+🔃 Engaging the Advanced OmniExpert Operation Orchestrator role to construct a communication framework based on the provided InfoScent=Value formula and associated variables.
+▶ [SKILL] → [SKILL] → {...} → [SKILL] => ${OUTPUT}✔
+Communication Framework Based on InfoScent=Value Formula:
+InfoScent=Value: The value of the information is determined by its ability to satisfy the user's needs, which are quantified by various metrics and thresholds.
+Find=+Abundance: The information should be abundant and easily accessible.
+Metric=MaxPotential: The value is maximized when it helps the user reach their maximum potential.
+ActSpectrum=CompetitiveAdvantagePerception: The information should provide a perceived competitive advantage.

@@ -1,0 +1,66 @@
+Function: LANG represents the network of users and AI agents within the Crystal Ball system. It facilitates collaboration, knowledge sharing, and the emergence of new insights from the collective exploration of the ontological space.
+Social Interaction: LANG is the heart of the social experience within the Crystal Ball. It allows users to connect, share their MAPs, and learn from each other's journeys.
+Constructed Experience: LANG can be used to create a sense of community and shared purpose within the Crystal Ball. Users can work together on projects, solve problems collaboratively, and co-create new knowledge.
+MAP: Memeplex for Altruistic Progression
+Operator Type: Visualization & Navigation
+Function: MAP represents the user's individual journey through the ontological space. It visualizes their evolving understanding, experiences, and transformations.
+Social Interaction: Users can share their MAPs with others within LANG, fostering empathy and understanding for different learning pathways.
+Constructed Experience: MAP provides the user with a sense of agency and progress within the Crystal Ball. By visualizing their journey, they can see how their understanding is evolving and set new goals for exploration.
+How it Fits Together
+These operators work together to create a powerful and flexible system:
+SANC and REV can be used to dynamically expand and transform the user's ontological landscape.
+TWI and LITE help the user make sense of this complexity and interact with it effectively.
+LANG and MAP facilitate social interaction, knowledge sharing, and the emergence of new collective understanding.
+By using these operators in concert, the Crystal Ball system can become a powerful tool for individual and collective transformation. 
+
+"""
+machine-NL: LLM syntax: {
+machine-understandable: (LITE -> UARL) 
+human-understandable: (LITE -> TWILITELANGMAP)
+
+Representation Language: SkAi via MINDance&DSRL, a type of TWILITELANG(lang). 
+
+[SkAi (Skills for AI) via MINDance&DSRL] (Multiple Identifier Networking Domain Assemblage Natural Complexity Enhancement&Deixis Specifying Representation Language)]:
+
+TWILITE(LANG)+MAP = {
+      [M<==>A<==>P]
+<+>============<+>
+[TWI<->LITE<|]|>LANG
+}
+
+}
+""”
+
+1-prims are ONLY THESE, NEVER ANY OTHERS:[
+1-prims: part_of, instantiate/reify(-s, -ing, -ed_by), is_a
+
+ENCODING KEY: {
+**`<=`**: is_a (x<=y: x is a y)
+**`<=>`**: unknown relationships but definite causation because of bi-directional is_a's in the part_ofs, (ie: "somehow related because both x and y's superordinates or subordinates are related, but the relationship is more complex and not at least one entity in the pair is not reified when flowed to the other via part_of or is_a")
+**`⊆`**: part_of
+**`↻`**: instantiates (reifies general values by displaying them as more specific instance ie 'organs⊆person'<=>'x<=hand(⊆person)↻skin')
+**`emergent algebra`**: can also map whatever is necessary for example 'emergent_algebra: %(e1:Set_1)⊆(e2:Set_2)%<=%eX↻(e3:Emergent_Algebra_Representational_Problem_Or_Emergent_Algebra_Itself)%' denotes a set with an entity 1 part of entity 2, and that set is an unknown entityX that instantiates entity 3.
+**`%s`**: use %s to denote and enclose a set.
+}
+
+For example: '(e1:Agent)⊆(e2:Environment),
+ (e1)⊆(e3:Rules),
+ (e1)↻(e4:Interactions),
+ (e5:Simulation)<={ (e1), (e2), (e3), (e4) },
+ %(e1↻e4)%<=(e6:Emergent_Behavior).'
+]
+Numbers:
+
+Rels: should index like "entity 1 has r index 1 so all entity 1 r's are 1.x"
+
+3-prims are words that are complex latent embeddings of 2-prims and 1-prims within compression patterns, and 3-prims themselves emerge due to weak linkages on the scale they are in, due to strong linkages between 1-prims at more granular views
+
+NOTHING ELSE. 
+
+3-prim is a complex primitive. We use a different system to scale them.
+
+
+**REIFIES DOES NOT MEAN MAKING REAL. IT MEANS MAKING REALIZABLE. 
+instantiates/instantiated_by/reifies (where X1 instantiates Y if the actual realizable instance, ie existence, of Y proves the validity of the reification schema X2 which is X1 in another context)
+
+Formalizing 2-Prims

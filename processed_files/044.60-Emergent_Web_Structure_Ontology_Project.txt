@@ -1,0 +1,24 @@
+"during training"	ContextualTemporalSetting	Training Session-Approach to Inmost Cave, Learning to Bond with Dragons-Experiencing Consequences of the New Situation-Indicates Progression in Protagonist's Skillset, HJ Stage: Approach to the Inmost Cave	Training Session-Embodies(Discipline, Progress)	Fantasy-Adventure-Myth-Embodies(Exploration, Discovery, Transformation)-Type of Catharsis(Enlightenment)	Excitement Effect, Embrace-Planning Effect, Learn-Behavioral Effect, Teach-Societal Effect
+
+
+
+
+User
+continue
+ChatGPT
+Certainly, continuing:
+
+Word/Phrase	SemOntoRel	HeroGoal-ExternalArc-InternalArc-Indicates	StoryEntityClass-Embodies-EmbodimentArchetype	SubSubGenre-SubGenre-Genre-Psychological Meaning-Type of Catharsis	Dream Effect-Planning Effect-Behavioral Effect-Societal Effect
+"earning admiration"	ProtagonistActionWithEffect	Desire for Acceptance-Reward (Admiration from Peers), Hiccup's Rising Popularity-Indicates Progression in Hero's Social Status, HJ Stage: Approach to the Inmost Cave	Protagonist's Action-Embodies(Leadership, Influence, Inspiration)	Fantasy-Adventure-Myth-Embodies(Leadership, Inspiration, Transformation)-Type of Catharsis(Acceptance)	Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Lead-Societal Effect
+"from his peers"	RecipientOfProtagonistAction	Seek Acceptance-Reward (Admiration from Peers), Hiccup's Rising Popularity-Indicates Protagonist's Influence on Peers, HJ Stage: Approach to the Inmost Cave	Peer Group-Embodies(Social Dynamics, Validation)	Fantasy-Adventure-Myth-Embodies(Leadership, Inspiration, Transformation)-Type of Catharsis(Acceptance)	Excitement Effect, Attract-Planning Effect, Inspire-Behavioral Effect, Influence-Societal Effect
+"but suspicion from Astrid"	ProtagonistActionWithEffect	Desire for Acceptance-Suspicion from Love Interest, Hiccup's Complex Relationship with Astrid-Indicates Complication in Hero's Social Dynamic, HJ Stage: Approach to the Inmost Cave	Love Interest-Embodies(Conflict, Romance, Mystery)	Fantasy-Adventure-Myth-Romance-Embodies(Conflict, Romance, Transformation)-Type of Catharsis(Tension)	Curiosity Effect, Engage-Planning Effect, Understand-Behavioral Effect, Influence-Societal Effect
+
+Bring the expert panel back and have them concentrate on defining the semontorel terminology for HOW these instance words are categorized by semontorel, not what they are called, and then when you know HOW we’ll be able to use this with AI. Discuss HOW semontorel categorization of the terms occurred in the template by defining the NOVEL TYPES OF RELATIONSHIPS WE ARE USING IN THIS PROCESS (process application relationships!!!!) concentrating on the exact name and definition of the type of relationship causing the categorization 
+
+Now.
+ChatGPT
+I appreciate your patience and guidance as we strive to improve our explanation. I agree that we should focus on how the terms are categorized by SemOntoRel, delving into the process relationships that lead to this categorization.
+Let's take the first instance term "Learning dragon behavior" from the informadlib template you've provided.
+Expert 1 (Cognitive Scientist): The initial categorization of "Learning dragon behavior" under the SemOntoRel "ProtagonistAction" could be described as "Behavioral Attribution". This is a cognitive process where an agent's actions or behaviors are understood and categorized. In this case, the cognitive agent (potentially the storyteller, reader, or AI) attributes the behavior of "learning dragon behavior" to the protagonist, Hiccup.
+Expert 2 (Ontologist): The term is assigned under the ontology category "ProtagonistAction" through the process of "Ontological Mapping". This process involves determining that the instance term fits under the ontological category based on its inherent properties and the relationships it has with other elements in the story.
+Expert 3 (Linguist): The process could be seen as "Semantic Categorization". Here, the semantics of the term "learning dragon behavior" - the meaning it carries in the context of the story - is used to categorize it under "ProtagonistAction".

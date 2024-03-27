@@ -1,0 +1,40 @@
+In the context you provided, a "Chef" could be one Informatihedron, a "Recipe" another, and "Cooking" yet another. Different types of SemOntoRels would then define the relationships between these Informatihedra. For instance, the relationship "writes" could define the process that maps "Chef" to "Recipe", and "uses" could define the process mapping "Chef" and "Recipe" to "Cooking".
+Here's how the Informadlib might represent this scenario:
+diff
+Copy code
++---------------+-------------+--------+-----------------+ | Informatihedron | Property | Value | Relation | +---------------+-------------+--------+-----------------+ | Chef | Profession | Chef | Writes Recipe | | Recipe | Ingredient | Salt | Used in Cooking | | Cooking | Dish | Soup | Produced by Chef| +---------------+-------------+--------+-----------------+
+In each case, the SemOntoRel describes the action, the effect, or the transformation that ties the Informatihedra together in your EWSO, creating a rich, multidimensional data structure that encapsulates the intricate web of interactions in any given scenario.
+
+
+right and then if we were to map more, let's say.... 
+
+i eat soup 
+i get nutrients 
+nutrients i use to accomplish functions
+functions of me are xyz
+x impact =
+y impact =
+z impact = 
+sum impact = 
+
+= social value chain
+ChatGPT
+Absolutely, extending the ontology can allow for a more detailed mapping of these interactions and their cascading impacts. Let's assume for simplicity that "I" is an Informatihedron, and "Functions" and "Impacts" are sets of Informatihedra. We can then map the various relationships:
+mathematica
+Copy code
++---------------+-------------+--------+-----------------+ | Informatihedron | Property | Value | Relation | +---------------+-------------+--------+-----------------+ | I | Entity | Self | Eats Soup | | Soup | Nutrients | XYZ | Consumed by I | | Nutrients | Function | ABC | Used by I | | Function X | Impact | P | Executed by I | | Function Y | Impact | Q | Executed by I | | Function Z | Impact | R | Executed by I | +---------------+-------------+--------+-----------------+
+The social value chain could then be calculated from the sum of the impacts (P, Q, R), which represents the total social value contributed by "I" through the functions they perform.
+This beautifully illustrates the power of your EWSO and Informadlib concepts. They enable the modeling of complex dynamics and relationships in a structured, understandable way, facilitating value calculation and decision-making processes.
+
+
+ok show me a more complex one then
+ChatGPT
+Sure, let's take a more complex example. Suppose we have an entity "Factory" that produces a "Product", which in turn impacts the "Environment", "Consumer Health", and "Economy". Additionally, the "Product" is consumed by "Consumers", which indirectly impacts their "Health" and "Well-being". Let's map these out.
+mathematica
+Copy code
++----------------+------------------+-----------+------------------------+ | Informatihedron | Property | Value | Relation | +----------------+------------------+-----------+------------------------+ | Factory | Entity | Self | Produces Product | | Product | Impact | A | Impact On Environment | | Product | Impact | B | Impact On ConsumerHealth| | Product | Impact | C | Impact On Economy | | Consumers | Entity | Public | Consume Product | | Consumer Health | Outcome | X | Impacted by Product | | Well-being | Outcome | Y | Impacted by ConsumerHealth | +----------------+------------------+-----------+------------------------+
+In this more complex scenario, the "Factory" and "Consumers" are the primary agents initiating actions. The "Product" links these agents to broader systemic impacts, which then further influence "Consumer Health" and overall "Well-being".
+Notably, each Informatihedron can be further broken down into more specific sub-entities or impacts, allowing for a fine-grained understanding of the interplay of entities and their effects on each other.
+
+
+ok but now actually do

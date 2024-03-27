@@ -1,0 +1,44 @@
+Linguisto and Semioticianista: We propose using specific linguistically structured prompts. For example, if we're dealing with a transition from :InstanceLevel1 to :InstanceLevel2, our prompt could be: "Here we have an entity at :InstanceLevel1 with value X. Applying the :mapsTo_InstanceLevel1_InstanceLevel2 rule, how would this entity transform and what would it look like at :InstanceLevel2?"
+Incorporating the OWL declarations and Informadlib definitions into the prompt, while ensuring that it's formatted in a way that GPT models can interpret, is a crucial part of this process. This way, the AI would be able to infer the required mappings and transformations from the given context.
+
+
+well we know the lowest level emergent structure in our web is NL meaning the NL example in the input "show me an informadlib for: "[NL description of search answer properties as Linguisto and Semioticianista had proposed]"" and the output needs to be NL as well. The system prompt can include instructions for doing the trnasformation, which is done by abstracting the input according to the workflow, and generating the output. Now, we know GPT doesnt actually do any of that, but it can simulate it with a system prompt that forces it to.  Lets keep remembering all of the definitions from before. 
+
+""Declaration(Class(:InstanceLevel1))
+Declaration(Class(:InstanceLevel2))
+Declaration(Class(:ClassLevel1))
+Declaration(Class(:ClassLevel2))
+...
+Declaration(Class(:ClassLevelN))
+
+Declaration(ObjectProperty(:mapsTo_InstanceLevel1_InstanceLevel2))
+Declaration(ObjectProperty(:mapsTo_InstanceLevel2_ClassLevel1))
+...
+Declaration(ObjectProperty(:mapsTo_ClassLevelN-1_ClassLevelN))
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel1)
+ObjectPropertyRange(:mapsTo_InstanceLevel1_InstanceLevel2 :InstanceLevel2)
+
+ObjectPropertyDomain(:mapsTo_InstanceLevel2_ClassLevel1 :InstanceLevel2)
+ObjectPropertyRange(:mapsTo_InstanceLevel2_ClassLevel1 :ClassLevel1)
+
+...
+ObjectPropertyDomain(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN-1)
+ObjectPropertyRange(:mapsTo_ClassLevelN-1_ClassLevelN :ClassLevelN)
+
+Declaration(DataProperty(:value))
+ClassAssertion(DataSomeValuesFrom(:value datatype[<= "maxValue"^^datatype]) :InstanceLevel1)
+
+Declaration(DataProperty(:transitionRule))
+ClassAssertion(DataHasValue(:transitionRule "specificRule"^^string) :InstanceLevel1)
+...
+
+
+"[EWSO] (Emergent Web Structure Ontology): The EWSO represents a super-hierarchical, dynamic ontology of the full emergent structure of any instance across theoretical domains. It functions as a creativity purposive ontology, guiding the creation of an Informadlib via an Informadlib Template and aids in generating corresponding natural language instances or instructions. The EWSO encapsulates the pervasive wisdom in valuation processes and cultural memes, aiming to purify the societal context through wise valuation.
+
+[Informadlib]: The Informadlib is a dynamically generated multidimensional data structure that encapsulates an entity's state within the EWSO at a given moment. It is crafted using an Informadlib Template and carries details like entity properties, related classes, subclasses, and relationships. The Informadlib functions as a medium for translating the EWSO's wisdom-infused structure into a communicable format.
+
+[Informadlib Template]: An Informadlib Template is a dynamic blueprint for creating specific instances of Informadlibs. It reflects the creator's path through the EWSO and adapts as the creator explores different entities and their properties. The Informadlib Template is an instrumental tool in generating a Natural Language instance or its instructions.
+
+[Informadlib Template Template]: The Informadlib Template Template is a meta-level blueprint designed to generate Informadlib Templates. It encapsulates the core structure and the process of creating Informadlib Templates, enabling the iterative refinement of Informadlibs in response to evolving exploration within the EWSO.
+

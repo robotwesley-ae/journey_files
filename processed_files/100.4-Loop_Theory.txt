@@ -1,0 +1,13 @@
+⇔ explains how 2 is_a 3, even though 3 is a 1 of 2, and therefore collapses 2 as a 3-loop in itself, and converts it to a 3, which makes the prior 3 even higher order, which implies 3 itself is currently incomplete in our construction
+3 loop: Sanctuary System
+
+
+
+So when chaining, there is a weaving algorithm for how chain links get connected while also being chains themselves, through some sleight of perspective. This allows for mapping of weakly linked chains into chains that can be relied upon for optimization towards strong links? 
+
+Base systems can have properties from outside of themselves but Meta systems can never have instances with properties outside of the reification signature of themselves, and a 3-loop accounts for how emergent synergies in 1-loops affect the 2-loop
+
+So a “class level of properties” is the inner 2-loop of a 1-loop, the ones that have boundaries, where if they are violated, the 1-loop no longer maps to the 2-loop. The “instance level of properties” is the 1-loop of a 2-loop, the values that fall within the boundaries and reify the 2-loop and the 1-loop simultaneously (from each entity directed towards each other)
+
+Extremely vital: LOOPS and CHAINS seem to be in a dual loop with each other, links, subchains, inside a 3-loop called FLOW because there was already a 3-loop made (FLOW) which made them all reified. They can be equally reified from FLOW, CHAINS, OR LOOPS OR LINKS. That homeostasis of the 3-loop is the a defining feature of the FLOWCHAIN principle. 
+
