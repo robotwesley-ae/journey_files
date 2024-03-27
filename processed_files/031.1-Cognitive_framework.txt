@@ -26,8 +26,6 @@ Function H: Combines the outcomes of functions F and G, representing the system'
 By defining these functions, the formalization establishes the conditions necessary for a non-contradictory Sanctuary system, in which all actors either follow the rules or are rehabilitated after breaking them. This ensures the system's stability and integrity while allowing for the possibility of rule-breaking behaviors and their consequences.
 
 
-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
-
 
 Cognitive framework
 
